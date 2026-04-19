@@ -58,3 +58,27 @@
 ## Andre formater (Intervjuer/Podcasts)
 
 - Joe Rogan Experience #1309 – Naval Ravikant (YouTube)
+
+## Videotranskripsjoner og foredrag (Kommunikasjon, ledelse og teknologi)
+
+- «How Great Leaders Inspire Action» – Simon Sinek (TED)
+- «How to Communicate Clearly and Concisely (Free Mini-Training)» – Alexander Lyon
+- «How to Speak So That People Want to Listen» – Julian Treasure (TED)
+- «Smart Disruption – How AI Is Transforming Proptech» – REI TV
+- «TED's secret to great public speaking» – Chris Anderson (TED)
+- «TEDxEast – Nancy Duarte uncovers common structure of greatest communicators» – Nancy Duarte
+- «The Best (AND Worst) Public Speaking Advice RANKED!» – Vinh Giang
+- «The Trick to Powerful Public Speaking» – Lawrence Bernstein (TED)
+- «Think Fast, Talk Smart: Communication Techniques» – Matt Abrahams (Stanford Graduate School of Business)
+- «Your Body Language May Shape Who You Are» – Amy Cuddy (TED)
+
+## YouTube-kanaler inkludert som referansemateriale
+
+- Charisma on Command
+- Communication Coach Alexander Lyon
+- Practical Psychology
+- Public Speaking
+- TED
+- Toastmasters International
+- Vanessa Van Edwards
+- Vinh Giang
