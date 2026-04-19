@@ -7,6 +7,9 @@ Konkret brief for dette bryllupet. Generelle prinsipper ligger i
 
 ## 1. Hovedrammen
 
+- **Dato**: fredag 26. juni 2026.
+- **Vielse**: Vinger kirke, kl. 14:00.
+- **Festlokale**: Maarud Gård. Buss settes opp til og fra.
 - **Format**: norsk bryllup, klassisk oppsett med taler og innslag.
 - **Tone**: humor + varme + tradisjon.
 - **Stil**: personlig, lett ertende, men respektfull og inkluderende.
@@ -16,6 +19,38 @@ Konkret brief for dette bryllupet. Generelle prinsipper ligger i
   avklares med lokalet.
 - **Min rolle**: binde kvelden sammen som rytmesetter, stemningsjusterer og
   brobygger – sammen med co-toastmaster.
+
+### 1.1 Tidsmessige implikasjoner
+
+| Hendelse | Estimert tid |
+|----------|--------------|
+| Vielse Vinger kirke | 14:00 |
+| Kirkekaffe / gratulasjoner utenfor kirken | 14:30–15:00 |
+| Buss/kjøring Vinger kirke → Maarud Gård (~30–40 min) | 15:00–15:45 |
+| Mingling, fotografering, velkomstdrink på Maarud | 15:45–17:00 |
+| Gjestene inn til middag | 17:00 |
+| Middag starter (Stikk 1) | ~17:15 |
+| Middag ferdig (inkl. 9 taler, 2 pauser) | ~21:45–22:00 |
+| Fest / dans | 22:00 → |
+
+**Konsekvenser**:
+- **Buss = gjester blir hele kvelden**. Ingen hastverk – programmet kan vare
+  til ca 01:00–02:00 uten at folk forsvinner.
+- **Fredagsbryllup**: enkelte langtveisfarende gjester kan reise dagen før
+  eller bruke helgen – ikke planlegg fredagsprogram som krever at alle er
+  oppladet etter en full arbeidsuke.
+- **Lokasjon Kongsvinger/Sør-Odal**: Kongsvinger-referanser (fra `notatbank.md`
+  §3) har lokal forankring – men husk at ikke alle gjester er lokale.
+- **Maarud Gård**: tidligere potetgård/chipsfabrikk. Potensielt materiale:
+  «fra potet til pilsner», «chips og champagne». Avklar med brudeparet om
+  Maarud-historikken skal trekkes inn.
+
+**Avklar med lokalet på Maarud**:
+- [ ] Bordplassering – kan toastmasterne snakke fra bordene sine?
+- [ ] Mikrofon/mygg – trådløs?
+- [ ] Projektor/lerret (for F1-intro, video, fellessang-ark)?
+- [ ] Hvor langt er kjøkkenet fra spisesal – signaler mellom retter?
+- [ ] Siste bussavgang tilbake – setter ytre ramme for programmet.
 
 ---
 
