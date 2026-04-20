@@ -218,12 +218,24 @@ før noen her begynner å hviske om det til sidemannen.
 
 ---
 
-*[Personlig anekdote om Anders – 2–3 min. Konkrete detaljer fra
-telefonrunden: hvor dere ble kjent, en historie som sier noe om hvem han
-er – før bruden kom inn i bildet. Dette er HJERTET. Varmt, presist,
-lander i følelse, ikke humor.]*
+*[Personlig anekdote om Anders – 2–3 min. Se telefonrunden i
+`telefonliste.md`. Eksempel på struktur:]*
 
-*[Plassholder – fylles etter telefonrunden.]*
+**Mal A – «Før Michelle kom»-historien**:
+Start med en konkret scene før Michelle var i bildet. Hvor Anders var. Hva
+han gjorde. En detalj som maler ham som han var da. Så et punkt hvor
+Michelle dukker opp. Og hvordan Anders endret seg etter.
+
+**Mal B – «Én vane»-historien**:
+Ta én konkret vane Anders har (optimeringsgrep, dykkerrutine,
+jaktforberedelse) og følg den gjennom et helt år. Vis hvordan den vanen
+også beskriver hvordan han elsker.
+
+**Mal C – «Første gang jeg så dem sammen»-historien**:
+Første gang du så Anders og Michelle sammen. Hva du så. Hva du ikke
+forsto den gangen. Og hva du forstår nå.
+
+*[Velg én. Skriv 300–400 ord. Les høyt. Les igjen. Kutt til 250 ord.]*
 
 ---
 
