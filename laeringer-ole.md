@@ -70,9 +70,10 @@ ikke på rå-forarbeidet.
 
 ## 5. Handlinger som følger
 
-- [ ] Avklar co-toastmaster med Anders innen 1. mai.
-- [ ] Sjekk trådløs mikrofon / mygg med lokalet.
+- [x] Avklar co-toastmaster med Anders innen 1. mai. → **Solo bekreftet.**
+- [ ] Sjekk trådløs mikrofon / mygg med lokalet. (Se `utstyr.md`.)
 - [ ] Planlegg telefonrunden – liste med navn, numre og tidspunkt.
 - [ ] Skriv første utkast av eget «Manus» (tilsvarende §8 i
   `referanse-lars-julie.md`) med stikk 1–3 som skjelett.
-- [ ] Bok to felles øvelser med co-toastmaster.
+- [x] ~~Bok to felles øvelser med co-toastmaster.~~ → **Utgår, solo.**
+  Erstattet med: 5+ høytlesninger alene + 1 generalprøve med DJ/klikker.

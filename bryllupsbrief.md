@@ -56,7 +56,7 @@ Konkret brief for dette bryllupet. Generelle prinsipper ligger i
 ## 2. Brudeparet
 
 ### Bruden – Michelle
-- **Far**: Werner.
+- **Far**: Werner Seigerud.
 - **Interesser**: baking, interiør/oppussing.
 - **Stil**: feminin, elegant.
 - **Humorvinkler som lander**:
@@ -192,3 +192,30 @@ Hvis servering forsinkes eller energien faller:
 2. **Fellessang** avtalt med DJ på forhånd (kort, kjent).
 3. **«To sannheter og en løgn»** om brudeparet – du leser opp, bordene
    stemmer.
+
+---
+
+## 10. Ansvarsfordeling – Fredrik solo, men ikke alene
+
+Solo betyr at **én person eier flowen**, ikke at én person gjør alt. Disse
+oppgavene delegeres til navngitte hjelpere:
+
+| Oppgave | Hvem | Signal fra Fredrik |
+|---------|------|--------------------|
+| Trykk play på musikksnutter | DJ / AV-ansvarlig | Nikk + håndtegn (avtalt forhånd) |
+| Klikk PowerPoint-slides | Dedikert «klikker» (venn med laptop) | Øyekontakt + nikk |
+| Fireball-shots per bord | Forlovere + 2 utvalgte | Slide «Fireball-runde» = signal |
+| Servietter ut før Stikk 1 | 1 venn, gjøres mens gjestene tar plass | Avtalt 17:00 |
+| Backup hvis Fredrik mister stemmen | Forlover brudgom (kort melding) | Nødavtale, brifes dagen før |
+| Tidsvakt | Forlover brud (sitter nær, varsler ved 5 min over) | Hånd på skulder |
+
+**Avklar 1 uke før**:
+- [ ] Hvem er klikker? (laptop + PowerPoint kjent på forhånd)
+- [ ] DJ får full musikkliste + cues 7 dager før
+- [ ] Forlovere instrueres om Fireball-rolle
+- [ ] Backup-taler vet om backup-rollen
+
+Detaljer per oppgave:
+- PowerPoint-strategi → `powerpoint-plan.md`
+- Innslag/drikkeviser/Fireball → `innslag.md`
+- Utstyr (mygg, klikker, kabler) → `utstyr.md`

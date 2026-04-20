@@ -139,7 +139,7 @@ kan matche avkastningen han får se gå ned kirkegulvet.
 Han er også mannen som sørget for at alt dette – Maarud, maten, vinen,
 dere – ble til virkelighet.
 
-Ordet er ditt, Werner.
+Ordet er ditt, Werner Seigerud.
 
 *[Tale 1, 5 min]*
 
