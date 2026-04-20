@@ -55,7 +55,8 @@ Konkret brief for dette bryllupet. Generelle prinsipper ligger i
 
 ## 2. Brudeparet
 
-### Bruden
+### Bruden – Michelle
+- **Far**: Werner.
 - **Interesser**: baking, interiør/oppussing.
 - **Stil**: feminin, elegant.
 - **Humorvinkler som lander**:

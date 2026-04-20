@@ -114,7 +114,7 @@ Klare?
 
 *[DJ: Let's Get Ready to Rumble! – full volum]*
 
-Ta imot – kveldens brudepar – *[bruden]* og Anders!
+Ta imot – kveldens brudepar – Michelle og Anders!
 
 *[Brudeparet kommer inn mens gjestene svinger servietter. 30–45 sek.]*
 
@@ -139,7 +139,7 @@ kan matche avkastningen han får se gå ned kirkegulvet.
 Han er også mannen som sørget for at alt dette – Maarud, maten, vinen,
 dere – ble til virkelighet.
 
-Ordet er ditt, *[brudens fars navn]*.
+Ordet er ditt, Werner.
 
 *[Tale 1, 5 min]*
 
@@ -305,7 +305,7 @@ Vi nærmer oss kveldens siste talerunde. Forloverne.
 Men først – jeg har ringt rundt.
 
 Familie. Venner. Kolleger. Jeg spurte alle samme spørsmål: hva er deres
-beste råd til Anders og *[bruden]*?
+beste råd til Anders og Michelle?
 
 Svaret som gikk igjen: **fortsett som dere er.**
 
@@ -397,14 +397,14 @@ Påstandene er blant annet:
 
 - Jobber i Equinor
 - Har dykket med Anders
-- Har bakt kake til *[bruden]*
+- Har bakt kake til Michelle
 - Har vært med på en oppussing hos dem
 - Er fra Kongsvinger
 - Er fra Oslo
 - Har sett Anders miste tråden en gang
 - Er i familie med brudeparet
 - Har giftet seg i dag
-- Er glad i *[bruden]* og Anders
+- Er glad i Michelle og Anders
 - *[flere – fylles inn]*
 
 *[Take on Me spilles. Ark synges med. 3 min]*
@@ -428,7 +428,7 @@ Takk for maten! En applaus til kjøkkenet.
 Baren er åpen. Dansegulvet er åpent. Siste bussavgang er *[kl XX]* – ta
 godt vare på hverandre, og på brudeparet.
 
-Ta imot – Anders og *[bruden]*, inn på dansegulvet!
+Ta imot – Anders og Michelle, inn på dansegulvet!
 
 *[Musikk: åpningsdans / Jenka ut til dans]*
 
@@ -436,8 +436,8 @@ Ta imot – Anders og *[bruden]*, inn på dansegulvet!
 
 ## Plassholdere som må fylles inn
 
-- [ ] Brudens navn (brukes gjennom hele manus)
-- [ ] Brudens fars navn
+- [x] Brudens navn: **Michelle**
+- [x] Brudens fars navn: **Werner**
 - [ ] Kokkens navn
 - [ ] Vin-distrikt (hvit + rød)
 - [ ] Anekdote til Stikk 2 (2–3 min personlig historie)
