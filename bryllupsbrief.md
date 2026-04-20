@@ -169,7 +169,7 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 ## 8. Huskeliste spesifikt for dette bryllupet
 
 - [ ] Dobbeltsjekk Erik Nilsens rolle – CEO av hva? (Bruk i intro.)
-- [ ] Brudens fars fornavn og riktig uttale.
+- [x] Brudens fars fornavn og riktig uttale. → **Werner Seigerud.**
 - [ ] Forlovernes navn og uttale (både brud- og brudgomsside).
 - [ ] Olas alder og forhold til Anders (eldre/yngre bror?).
 - [ ] Bekreft med bruden at baking/DIY-vitser er OK – hun skal smile, ikke
@@ -180,6 +180,9 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
   klisjéaktige.
 - [ ] Avtale signal med brudepar: når er det nok humor, når vil de ha rolig
   overgang.
+- [ ] Se «Må-se før 26. juni»-videoliste i `resources.md` – én video i uka.
+- [ ] Les `standup-teknikk.md` og merk opp rule-of-three og callbacks i
+  eget manus.
 
 ---
 

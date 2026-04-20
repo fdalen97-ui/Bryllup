@@ -174,3 +174,199 @@ Hvis jeg måtte velge 7 ting fra lista over:
    aldri får spist.
 6. **Pizza ved midnatt** – reder natten.
 7. **«Brev til seg selv»-flaske** – gave brudeparet kommer til å bruke.
+
+---
+
+## 11. Ekstra løft – avanserte grep
+
+Åtte grep utover §1–§10. Dette er for bryllupet som skal bli snakket om
+lenge etterpå. Hver idé: **hva, hvorfor, når, hvem gjør hva.**
+
+### 11.1 Pre-recorded videohilsen fra fraværende familie
+
+**Hva**: 1–3 videoklipp à 30–60 sek fra familie som ikke kan være der
+(besteforeldre, langtveisfarende slektninger, syke venner).
+
+**Hvorfor**: gir brudeparet en emosjonell pay-off som ingen forventet.
+Graver ut menneskelig dybde på en kveld som ellers kan drukne i humor.
+
+**Når**: under Stikk 2, rett etter Fredriks personlige historie – eller
+som overraskelse rett før takketalen fra brudeparet.
+
+**Hvem gjør hva**:
+- Fredrik identifiserer 2–3 personer (samtale med Anders' foreldre og
+  Werner Seigerud)
+- Videoer samles inn senest 2 uker før (enkel Whatsapp/Signal-opptak holder)
+- Klikker-person laster opp på laptopen + tester avspilling
+- PowerPoint: dedikert slide som spiller videoen auto eller på klikk
+
+**Risiko**: hvis teknikken svikter, dropper du bare innslaget.
+
+---
+
+### 11.2 «Forventede spørsmål»-kort fra brudeparet
+
+**Hva**: Michelle og Anders svarer på 5 spørsmål de ofte får, 15 sek per
+svar. Klippes sammen til 75 sekunders video.
+
+**Eksempel-spørsmål**:
+- Hvem gjør opp regningene?
+- Hvem glemmer bursdager?
+- Hvem tar initiativet?
+- Hvem kranger mest?
+- Hvem elsker mest?
+
+**Hvorfor**: gir gjestene et lite inn-kikk på paret i kveldssekvens der
+de selv ikke trenger å snakke. Inntektskilde for nye callbacks for
+Fredrik.
+
+**Når**: under dessert (ca 19:30), mens folk spiser.
+
+**Hvem gjør hva**: brudeparet filmer seg selv 3 uker før, sender klipp.
+Fredrik eller klikker redigerer sammen (iMovie/CapCut – 30 min jobb).
+
+---
+
+### 11.3 Physical prop på toastmaster-bordet
+
+**Hva**: 3 små objekter Fredrik har på bordet, tas opp ved spesifikke
+intro som visuelt anker.
+
+**Forslag**:
+- **Dykkermaske** – tas opp ved intro til forlover brudgom / Anders-tale
+- **Mini-stavmikser eller tresleiv** – tas opp ved intro til bruden eller
+  brudens far
+- **Byggekloss (Lego-hus)** – tas opp ved «bygge et liv sammen»-setningene
+
+**Hvorfor**: visuelt grep. Publikum husker bilder lenger enn ord. Gir også
+Fredrik noe å gjøre med hendene – reduserer nerver.
+
+**Når**: Stikk 1, 2 og 3 – én prop per stikk.
+
+**Hvem gjør hva**: Fredrik pakker med seg dagen før. Propsene legges
+skjult ved hans plass fra start – tas frem på cue.
+
+---
+
+### 11.4 Sparkler-øyeblikk
+
+**Hva**: hver gjest får et stjerneskudd ved plassen sin. Tennes på signal
+når brudeparet går inn på dansegulvet.
+
+**Hvorfor**: gir en visuell topp som ingen middagsbryllup har levert før.
+Fotograf vil elske deg.
+
+**Når**: rett før første dans (ca 20:30).
+
+**Hvem gjør hva**:
+- Kjøp 100 sparklers på Clas Ohlson eller Rema 1000 (ca 500–1000 kr)
+- Fredrik + 2 hjelpere deler ut 5 min før dansen
+- **Sjekk brannregler med Maarud først** – noen lokaler tillater ikke
+  dette innendørs. Alternativ: ut på tunet.
+- Ha tente lightere/tennstikker klare – én tent sparkler antenner hele
+  bordet
+
+**Risiko**: brann, barn med åpen ild. Hvis usikker – kutt.
+
+---
+
+### 11.5 Chekhov's startflagg – forsterket plant
+
+**Hva**: forsterk serviett-som-startflagg-grepet ved å **plante den
+tidligere** i kvelden.
+
+**Slik**: Fredrik nevner servietten i åpningssetningen (før velkomst):
+
+> «Før jeg sier ett ord – se på servietten foran dere. Dere kommer til å
+> trenge den om fem minutter.»
+
+Deretter vanlig velkomst. Spenningen bygges opp. Når brudeparet skal
+entre, **vet alle allerede hva som kommer** – men ikke nøyaktig hva.
+
+**Hvorfor**: forsterker startflagg-øyeblikket fra «overraskelse» til
+«levering av løfte». Publikum føler seg inkludert.
+
+**Når**: første 10 sek av Stikk 1.
+
+**Hvem gjør hva**: ren manuskriftsendring – legg til én setning i
+åpningen av `manus.md`.
+
+---
+
+### 11.6 Anker-gjester for øyekontakt
+
+**Hva**: Fredrik identifiserer 5 gjester strategisk spredt i rommet
+**før middagen starter**. Bruker dem som øyekontakt-kompass under hele
+kvelden.
+
+**Forslag på ankre**:
+- 1 foran ved brudeparets bord (ofte Werner Seigerud eller moren)
+- 1 bak til venstre (fjernt bord)
+- 1 bak til høyre (fjernt bord)
+- 1 side-venstre (midt i rommet)
+- 1 side-høyre (midt i rommet)
+
+**Hvorfor**: reduserer «plate-effekten» – toastmasters stirrer ofte på
+kun ett bord. Ankre gir en fysisk plan for øyekontakt og sikrer at alle
+føler seg sett.
+
+**Når**: velges 30 min før middagen starter, under mingling.
+
+**Hvem gjør hva**: Fredrik alene. Noter navnene på baksiden av
+stikkordkortet.
+
+---
+
+### 11.7 Mental buy-time-fraser
+
+**Hva**: 3 ferdigøvde setninger Fredrik bruker **når han mister tråden**.
+Kjøper 3–5 sek å finne neste punkt uten at noen merker det.
+
+**Tre kandidater**:
+
+1. *«La meg si det på en bedre måte...»* – og så kommer det ikke noe
+   bedre, men du har 3 sek å tenke.
+2. *«Det var en sidevei. Tilbake til hovedveien.»* – erkjenner det, gir
+   varme.
+3. *«Hvor var jeg? Jo – ...»* – serverer publikum rollen som
+   påminner.
+
+**Hvorfor**: panikk er den eneste katastrofen. Med disse fraseene har du
+aldri panikk, fordi du har et skript for å miste skriptet.
+
+**Når**: kan komme hvor som helst. Kjør dem hver gang du øver.
+
+**Hvem gjør hva**: kun Fredrik. Memoriseres som refleks.
+
+---
+
+### 11.8 Skjult timer-widget i PowerPoint
+
+**Hva**: én dedikert slide som bare Fredrik ser (via «Presenter View»)
+som viser gjenstående tid for gjeldende bolk.
+
+**Hvorfor**: Fredrik slipper å kikke ned i manuset eller klokka. Holder
+øyekontakten og stemmen sterk mens han vet eksakt hvor han ligger i
+tidsplanen.
+
+**Når**: gjennom hele middagen, permanent i Presenter View.
+
+**Hvem gjør hva**:
+- Klikker-person setter PowerPoint i Presenter Mode på laptopen
+- Fredrik kan se talerens bilde på skjerm + sine notater og timer
+- Timer settes manuelt mellom stikk (ikke automatisk) – mer kontroll
+- Alternativt: bruk Apple Watch / armbåndsur med timer – enklere enn PPT
+
+**Sekundær gevinst**: hvis Fredrik ligger bak tidsplanen, ser klikker det
+og kan signalisere til DJ om å forkorte neste intro-låt.
+
+---
+
+**Oppsummert – hvilke av §11 jeg ville prioritert**:
+1. **§11.6 Anker-gjester** – gratis, umiddelbar effekt på leveransen
+2. **§11.7 Buy-time-fraser** – gratis, forsikring mot katastrofe
+3. **§11.5 Chekhov's startflagg** – én setning, forsterker eksisterende grep
+4. **§11.1 Videohilsen** – høy emosjonell utbytte hvis noen er fraværende
+5. **§11.3 Physical prop** – hvis du har tid, klart løft
+
+§11.2, §11.4, §11.8 er bonus – ta med kun hvis tid tillater.
