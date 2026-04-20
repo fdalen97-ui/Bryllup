@@ -206,8 +206,10 @@ Brudeparet håper det ikke er hverken deres første eller siste forsøk.
 
 ---
 
-Jeg har kjent Anders lenge. Og når jeg ble spurt om å være toastmaster
-var den første tanken min: hvorfor meg?
+Jeg har kjent Anders hele livet. Jeg er nemlig fetteren hans.
+
+Det betyr at jeg har kjent ham lenger enn han har kjent seg selv. Og når
+jeg ble spurt om å være toastmaster, var første tanken: hvorfor meg?
 
 Andre tanke: fordi alle andre hadde sagt nei.
 

@@ -59,16 +59,16 @@ Trigges med klikker. Dedikert musikkansvarlig kan overstyre hvis nødvendig.
 - Vises 10 sek før taleren reiser seg
 - Én slide per taler, totalt 9 stk
 
-Eksempler:
-- **Werner** – brudens far
+Slides (9 stk):
+- **Werner Seigerud** – brudens far
 - **Anders** – brudgom
-- **Åse & Ole Gjermund** – brudgommens foreldre *(dummy navn – oppdater)*
-- **Erik Nilsen** – CEO / togkompis
-- **Katrine** – brudens søster
+- **Kjersti & Erik** – brudgommens foreldre
+- **Cathrine** – Michelles storesøster 1
+- **Anette** – Michelles storesøster 2
 - **Ola** – brudgommens bror
-- **[Forlover Michelle]** – forlover brud
-- **[Forlover Anders]** – forlover brudgom
-- **Takketale** – brudeparet
+- **[Forlover brud]** – Helene/Even (avklar)
+- **[Forlover brudgom]** – Helene/Even (avklar)
+- **Takketale** – Michelle & Anders
 
 ---
 

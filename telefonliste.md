@@ -10,18 +10,22 @@ løpende.
 
 | # | Navn | Relasjon | Telefon | Ringt | Notert |
 |---|------|----------|---------|-------|--------|
-| 1 | Werner | Brudens far | | ☐ | ☐ |
+| 1 | Werner Seigerud | Brudens far | | ☐ | ☐ |
 | 2 | [Brudens mor] | Brudens mor | | ☐ | ☐ |
-| 3 | Katrine | Brudens søster (40) | | ☐ | ☐ |
-| 4 | [Anders' mor] | Brudgommens mor | | ☐ | ☐ |
-| 5 | [Anders' far] | Brudgommens far | | ☐ | ☐ |
-| 6 | Ola | Anders' bror | | ☐ | ☐ |
-| 7 | [Forlover Michelle] | Forlover brud (landskapsarkitekt, Tromsø) | | ☐ | ☐ |
-| 8 | [Forlover Anders] | Forlover brudgom (26, Equinor, gym) | | ☐ | ☐ |
-| 9 | Erik Nilsen | CEO / logistikk / togreparasjon | | ☐ | ☐ |
+| 3 | Cathrine | Michelles storesøster 1 | | ☐ | ☐ |
+| 4 | Anette | Michelles storesøster 2 | | ☐ | ☐ |
+| 5 | Kjersti | Anders' mor | | ☐ | ☐ |
+| 6 | Erik | Anders' far | | ☐ | ☐ |
+| 7 | Ola | Anders' bror | | ☐ | ☐ |
+| 8 | [Helene/Even] | Forlover brud (landskapsarkitekt, Tromsø) | | ☐ | ☐ |
+| 9 | [Helene/Even] | Forlover brudgom (Equinor, gym) | | ☐ | ☐ |
 | 10 | [Equinor-kollega] | Jobbkompis av Anders | | ☐ | ☐ |
 | 11 | [Dykkerkompis] | Fra Anders' dykkermiljø | | ☐ | ☐ |
 | 12 | [Start-up-kompis] | Fra start-up-miljøet | | ☐ | ☐ |
+
+**OBS**: Fredrik er **fetter** av Anders (#34 på gjesteliste). Det
+betyr at tante og onkel (Anders' foreldre) er hans egen familie – samtalene
+med Kjersti og Erik blir varme og uformelle. Utnytt det i Stikk 2.
 
 **Minimum**: 8 personer. **Mål**: 12.
 
