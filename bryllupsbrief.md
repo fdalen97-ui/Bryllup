@@ -80,14 +80,26 @@ Konkret brief for dette bryllupet. Generelle prinsipper ligger i
 
 ## 3. Nøkkelpersoner – intro-strategi
 
+Full gjesteliste: se `gjesteliste.md`. Denne tabellen dekker kun talere
+som trenger spesifikk intro-strategi.
+
 | Person | Rolle | Humorvinkel | Tone i intro |
 |--------|-------|-------------|--------------|
-| **Erik Nilsen** | CEO / logistikk / togreparasjon | Togmetaforer: «på rett spor», «forsinkelser i kjærlighetslivet». Business-språk. | Selvsikker, lett ironisk respekt. |
-| **Brudens far** | Businessman | «ROI på oppdragelse». Pappa-linjer som lander varmt. | Respektfull, la emosjonell tyngde komme frem. |
-| **Forlover (brudgom)** | 26, Equinor, treningsfyr | Gym/prestasjon. «Anders i toppform vs. Anders i forhold». | Rask, punchy, litt «bro»-tone. |
-| **Forlover (brud)** | Landskapsarkitekt, Tromsø | Vill natur vs. kontrollert bryllup. Nordnorsk ro. | Poetisk, myk, elegant. |
-| **Ola** | Brudgommens bror, biler/sport | «Anders som familiebil vs. sportsbil». Brødre-rivalisering. | Raskt, litt røft. |
-| **Katrine** | Brudens søster, 40 | Oppveksthistorier. «Jeg visste dette kom til å skje». | Varm + lett ertende. |
+| **Werner Seigerud** | Brudens far | «ROI på oppdragelse». Pappa-linjer som lander varmt. | Respektfull, la emosjonell tyngde komme frem. |
+| **Kjersti + Erik** | Brudgommens foreldre (#21 + #22) | «Arv eller miljø» – hvor kommer Anders' kombinasjon av start-up og dykking fra? | Varm, familiær. |
+| **Cathrine** | **Michelles storesøster (#9)** | «Den eldste vet alt først» – oppveksthistorier, big-sister-autoritet. | Varm + lett ertende. |
+| **Anette** | **Michelles storesøster (#15)** | Den andre storesøsteren – komplement til Cathrine. «To mot én – ingen sjanse for Michelle å rømme». | Varm + søster-solidaritet. |
+| **Ola** | Brudgommens bror (#23), biler/sport | «Anders som familiebil vs. sportsbil». Brødre-rivalisering. | Raskt, litt røft. |
+| **Forlover (brudgom)** | Equinor, treningsfyr (Helene el. Even) | Gym/prestasjon. «Anders i toppform vs. Anders i forhold». | Rask, punchy. |
+| **Forlover (brud)** | Landskapsarkitekt, Tromsø (Helene el. Even) | Vill natur vs. kontrollert bryllup. Nordnorsk ro. | Poetisk, myk, elegant. |
+| ~~**Erik Nilsen**~~ | ~~CEO / logistikk / togreparasjon~~ | **Må avklares**: er dette en separat taler, eller forveksling med Erik (#22, Anders' far)? Står ikke på gjestelisten. | – |
+
+**Viktig endring**: Michelle har **to storesøstre** (Cathrine #9 og
+Anette #15), ikke én som tidligere antatt. Begge skal tale.
+
+**Fredrik = Anders' fetter** (#34 på gjestelisten). Den personlige
+historien i Stikk 2 må reflektere fetter-relasjonen, ikke kun
+vennskapsrelasjon.
 
 ---
 
@@ -123,15 +135,20 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 
 > Disse er startpunkt. Finpuss i siste uke når du kjenner rommet.
 
-**Erik Nilsen**
-> «Neste mann har bygget en karriere på å holde ting på rett spor – bokstavelig
-> talt. Hvis noen kan si hvordan Anders endelig kom frem i rute, så er det
-> ham. Gi en stor applaus til Erik Nilsen.»
-
-**Brudens far**
+**Brudens far – Werner Seigerud**
 > «Noen investeringer måles i kroner. Andre i år, tårer og stolthet. Neste
 > taler har gjort den viktigste investeringen i sitt liv – og i kveld får vi
-> se avkastningen gå opp kirkegulvet. Ordet er ditt.»
+> se avkastningen gå opp kirkegulvet. Ordet er ditt, Werner.»
+
+**Cathrine (storesøster 1)**
+> «Noen søsken vet ting før deg selv. Noen sier det også – høyt, ofte, og
+> med autoritet. Cathrine er av typen som har visst at denne dagen kom,
+> siden Michelle var 7. Applaus til Cathrine.»
+
+**Anette (storesøster 2)**
+> «To storesøstre er dobbelt så mye kjærlighet – og dobbelt så mye
+> oppdragelse. Mens Cathrine jobbet med de store linjene, har Anette
+> finpusset detaljene. Ta imot – Anette.»
 
 **Forlover (brudgom)**
 > «Neste mann kjenner Anders på godt og vondt – og på benkpress. Han vet hva
@@ -147,9 +164,7 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 > «Det finnes to typer brødre: de som rivaliserer, og de som lyver om at de
 > ikke gjør det. Anders har heldigvis en som ikke lyver. Ola – scenen er din.»
 
-**Katrine**
-> «Noen søsken vet ting før deg selv. Noen sier det også. Neste taler er
-> begge deler – på den gode måten. Varm applaus til Katrine.»
+*(Cathrine og Anette flyttet til eget avsnitt over.)*
 
 ---
 
@@ -168,8 +183,8 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 
 ## 8. Huskeliste spesifikt for dette bryllupet
 
-- [ ] Dobbeltsjekk Erik Nilsens rolle – CEO av hva? (Bruk i intro.)
-- [ ] Brudens fars fornavn og riktig uttale.
+- [ ] Erik Nilsen – eksisterer taleren, eller er det forveksling med Erik (#22)? Avklar med brudeparet.
+- [x] Brudens fars fornavn og riktig uttale. → **Werner Seigerud.**
 - [ ] Forlovernes navn og uttale (både brud- og brudgomsside).
 - [ ] Olas alder og forhold til Anders (eldre/yngre bror?).
 - [ ] Bekreft med bruden at baking/DIY-vitser er OK – hun skal smile, ikke
@@ -180,6 +195,9 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
   klisjéaktige.
 - [ ] Avtale signal med brudepar: når er det nok humor, når vil de ha rolig
   overgang.
+- [ ] Se «Må-se før 26. juni»-videoliste i `resources.md` – én video i uka.
+- [ ] Les `standup-teknikk.md` og merk opp rule-of-three og callbacks i
+  eget manus.
 
 ---
 
