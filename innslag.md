@@ -204,7 +204,7 @@ Stikk 1     Servietter + Rumble + skål
 17:57       → 🔥 FIREBALL RUNDE 1
 18:05       Pause 1
 18:45       Stikk 2 (mulig Vi e fra Norge her)
-            Erik Nilsen → Katrine → Ola
+            Cathrine → Anette → Ola
 19:02       Pause 2 → 🔥 FIREBALL RUNDE 2 (midt i pausen)
 19:55       Stikk 3
             Forlover brud

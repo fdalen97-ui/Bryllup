@@ -30,10 +30,10 @@ kjøkken og lokalet.
 | **18:05** | **Pause 10 min** | – | | Felles pissepause |
 | **18:15** | **Hovedrett serveres + vin** | – | | |
 | 18:45 | **STIKK 2 – personlig historie** | Fredrik | 5 min | Setter opp talerunde 2 |
-| 18:50 | Intro taler 4 | Fredrik | 30 sek | *Macgyver Theme* 15 sek |
-| 18:51 | **Tale 4 – Erik Nilsen** | | 3 min | |
-| 18:54 | Intro taler 5 | Fredrik | 30 sek | *Walking On Sunshine* 20 sek |
-| 18:55 | **Tale 5 – Katrine (brudens søster)** | | 3 min | |
+| 18:50 | Intro taler 4 | Fredrik | 30 sek | *Walking On Sunshine* 20 sek |
+| 18:51 | **Tale 4 – Cathrine (søster 1)** | | 3 min | Storesøster 1 |
+| 18:54 | Intro taler 5 | Fredrik | 30 sek | *Sarà perché ti amo* 20 sek |
+| 18:55 | **Tale 5 – Anette (søster 2)** | | 3 min | Storesøster 2 |
 | 18:58 | Intro taler 6 | Fredrik | 30 sek | *Crazy Train* 15 sek |
 | 18:59 | **Tale 6 – Ola (Anders' bror)** | | 3 min | |
 | **19:02** | **Pause 20 min** | – | | Kaffe, røyk, Fireball-bar |
@@ -43,7 +43,7 @@ kjøkken og lokalet.
 | 19:59 | **Tale 7 – forlover brud** | | 3 min | |
 | 20:02 | Intro taler 8 | Fredrik | 30 sek | *Let's Get Ready to Rumble!* 30 sek |
 | 20:03 | **Tale 8 – forlover brudgom** | | 3 min | |
-| 20:06 | **Tale 9 – takketale brudeparet** | | 3 min | Brudens navn + Anders |
+| 20:06 | **Tale 9 – takketale brudeparet** | | 3 min | Michelle + Anders |
 | 20:09 | **Buffer** | – | 10 min | For uanmeldte innslag |
 | **20:19** | **STIKK 4 – avrunding + fellessang** | Fredrik | 10 min | *Take on Me* + påstander |
 | 20:29 | Takk for maten | Fredrik | 1 min | |
@@ -106,3 +106,9 @@ talen.
 - [ ] Kokkens navn og mat-presentasjon – avklart?
 - [ ] Musikkansvarlig – hvem trykker play?
 - [ ] Mikrofon fra bordene – mulig?
+- [x] Brudens søster(-e) – **Cathrine og Anette, begge holder tale.**
+- [ ] Vil Cathrine og Anette ha separate intro og egne taler, eller felles
+  tale? Planen er bygd for separate.
+- [ ] Erik Nilsen – eksisterer denne taleren, eller var det forveksling
+  med Anders' far Erik (#22)? **Må avklares.** Foreløpig fjernet fra
+  tidsplanen.

@@ -29,7 +29,8 @@ reiser seg.
 |---|-----|-----------|-------|
 | 7 | Fanga av ein stormvind | **Forlover (brud)** | Nordnorsk, poetisk, natur |
 | 29 | The Power Of Love | **Brudens far** | Farsvisdom, tyngde |
-| 12 | Walking On Sunshine | **Katrine (søster)** | Varmt, oppveksthistorier |
+| 12 | Walking On Sunshine | **Cathrine (søster 1)** | Varmt, oppveksthistorier |
+| 9 | Sarà perché ti amo | **Anette (søster 2)** | Italiensk sjarm, komplement til Cathrine |
 | 9 | Sarà perché ti amo | Overgang / romantisk | Italiensk sjarm |
 | 28 | Take on Me | Intro som løfter blidt | Klassiker, 80-tall |
 
@@ -100,7 +101,8 @@ middagsbakgrunn** – hold disse til dansen.
 | **Forlover (brudgom)** | Let's Get Ready To Rumble! (#6) | Thunderstruck (#20/35) | 10–15 sek |
 | **Forlover (brud)** | Fanga av ein stormvind (#7) | Take on Me (#28) | 20–25 sek |
 | **Ola** | Crazy Train (#32) | T.N.T. (#23) | 10–15 sek |
-| **Katrine** | Walking On Sunshine (#12) | Sarà perché ti amo (#9) | 20 sek |
+| **Cathrine** (søster 1) | Walking On Sunshine (#12) | Mamma Mia (#19) | 20 sek |
+| **Anette** (søster 2) | Sarà perché ti amo (#9) | We Didn't Start the Fire (#30) alt. | 20 sek |
 | **Anders (til bruden)** | Burning Love (#26) | The Power Of Love (#29) | 20 sek |
 | **Bruden (hvis taler)** | Mamma Mia (#19) | Waterloo (#16) | 20 sek |
 
@@ -118,9 +120,10 @@ Anders til brud  ███       Burning Love – løft
 — servering —
 Forlover brud    ██        Fanga av ein stormvind – ro
 Forlover brudgom ████      Let's Get Ready / Thunderstruck – topp
-Erik Nilsen      ███       Macgyver Theme – humor
+(Erik Nilsen)    –         (avklares – står ikke på gjestelisten)
 — servering —
-Katrine          ██        Walking On Sunshine – varme
+Cathrine         ██        Walking On Sunshine – varme
+Anette           ██        Sarà perché ti amo – søster-duo
 Ola              ████      Crazy Train / T.N.T. – energi
 Takketale        ███       Signed, Sealed, Delivered – avslutning
 — kake / dans —

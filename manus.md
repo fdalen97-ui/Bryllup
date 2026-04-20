@@ -238,33 +238,33 @@ Anders bringer begge. Samtidig.
 
 ## Hovedrett – talerunde 2 (18:50–19:02)
 
-### Intro tale 4 — Erik Nilsen
+### Intro tale 4 — Cathrine (Michelles storesøster 1)
 
-*[Intro-sang: Macgyver Theme, 15 sek]*
+*[Intro-sang: Walking On Sunshine, 20 sek]*
 
-Neste taler har bygget en karriere på å holde ting på rett spor.
-Bokstavelig talt.
+Michelle har ikke én storesøster. Hun har to.
 
-Hvis noen kan si hvordan Anders endelig kom frem i rute, er det ham.
+Det betyr at hun aldri har kommet unna med noenting.
 
-Stor applaus – Erik Nilsen.
+Først ut – storesøster nummer én, hun som så alt komme før Michelle
+selv skjønte det. Cathrine, ordet er ditt.
 
 *[Tale 4, 3 min]*
 
 ---
 
-### Intro tale 5 — Katrine (brudens søster)
+### Intro tale 5 — Anette (Michelles storesøster 2)
 
-*[Intro-sang: Walking On Sunshine, 20 sek]*
+*[Intro-sang: Sarà perché ti amo, 20 sek]*
 
-Noen søsken vet ting før deg selv.
+*[Kort callback til Cathrines tale hvis noe landet særlig godt]*
 
-Noen sier det også.
+To søstre = dobbel kjærlighet og dobbel oppdragelse.
 
-Neste taler er begge deler – på den gode måten. Hun så det komme før noen
-andre.
+Mens Cathrine jobbet med de store linjene, har Anette finpusset
+detaljene.
 
-Varm applaus til Katrine.
+Ta imot – Anette.
 
 *[Tale 5, 3 min]*
 
@@ -276,6 +276,10 @@ Varm applaus til Katrine.
 
 *[Går sakte mot Olas bord mens jeg snakker – publikum skjønner hvem det
 er før navnet nevnes]*
+
+Michelle har to storesøstre. Anders har én storebror.
+
+Ballansen er tilbake.
 
 To brødre. Én familiebil. Én sportsbil. Spørsmålet er hvem som er hvem.
 

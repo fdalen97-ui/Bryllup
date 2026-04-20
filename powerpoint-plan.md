@@ -64,8 +64,8 @@ de er max 10 sek og testet flere ganger.
 | 12 | Tale 3 – Anders' foreldre | Bilde + navn | Før de reiser seg | Klikk |
 | 13 | Pause 1 | «10 min – strekk beina» + nedteller | Pausen | Klikk |
 | 14 | Stikk 2 åpner | Sort slide | Når Fredrik begynner | Klikk |
-| 15 | Tale 4 – Erik Nilsen | Bilde + tittel | Før han reiser seg | Klikk |
-| 16 | Tale 5 – Katrine | Bilde + «Katrine, brudens søster» | Før hun reiser seg | Klikk |
+| 15 | Tale 4 – Cathrine | Bilde + «Cathrine, Michelles storesøster» | Før hun reiser seg | Klikk |
+| 16 | Tale 5 – Anette | Bilde + «Anette, Michelles storesøster» | Før hun reiser seg | Klikk |
 | 17 | Tale 6 – Ola | Bilde + «Ola, brudgommens bror» | Før han reiser seg | Klikk |
 | 18 | Pause 2 | «20 min – kaffe + Fireball» | Pausen | Klikk |
 | 19 | 🔥 FIREBALL RUNDE 2 | Brann-grafikk | Midt i pausen | Klikk |
