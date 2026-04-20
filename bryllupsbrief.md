@@ -13,12 +13,11 @@ Konkret brief for dette bryllupet. Generelle prinsipper ligger i
 - **Format**: norsk bryllup, klassisk oppsett med taler og innslag.
 - **Tone**: humor + varme + tradisjon.
 - **Stil**: personlig, lett ertende, men respektfull og inkluderende.
-- **Bemanning**: **to toastmastere** (besluttet nov. 2025 etter råd fra Ole,
-  se `laeringer-ole.md`). Gir trygghet, veksling og mer autentiske taler.
+- **Bemanning**: **én toastmaster** (Fredrik, solo).
 - **Plassering**: vurderer å snakke fra bordene (ikke scene) – krever mygg,
   avklares med lokalet.
 - **Min rolle**: binde kvelden sammen som rytmesetter, stemningsjusterer og
-  brobygger – sammen med co-toastmaster.
+  brobygger.
 
 ### 1.1 Tidsmessige implikasjoner
 

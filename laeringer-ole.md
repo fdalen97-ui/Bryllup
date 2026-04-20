@@ -5,27 +5,22 @@ opplegg settes opp.
 
 ---
 
-## 1. To toastmastere – valgt
+## 1. To toastmastere – vurdert og forkastet
 
-**Beslutning**: Fredrik blir ikke alene. To toastmastere gir:
+**Beslutning**: Fredrik kjører solo. Vurdering av 2 toastmastere ble
+droppet.
 
-- Mulighet til å lene seg på hverandre – mindre stress.
-- Mer autentiske taler (vekslingen skaper dialog og personlighet).
-- Naturlig «jeg/vi»-perspektiv som gir plass til lengre anekdoter uten
-  monolog-preg.
-- Backup hvis én blir nervøs, mister tråden eller må hjelpe en taler.
+Fordelene ved 2 toastmastere (lene seg, veksle, backup) veies opp av:
+- Solo gir sterkere personlig signatur.
+- Manuset blir mer sammenhengende.
+- Ingen koordineringskost – mindre prøvetid.
+- Råere humor fungerer bedre monolog enn duett.
 
-**Neste steg**:
-- [ ] Velg co-toastmaster (sjekk med Anders hvem som passer).
-- [ ] Avklar rollefordeling: hvem leder hvilke stikk?
-- [ ] Felles øvelser – minimum 2 ganger før bryllupet.
-
-**Rollefordeling-forslag** (basert på Lars/Julie-malen):
-- **Stikk 1** (åpning, info): veksler linje for linje – gir rytme.
-- **Stikk 2** (personlig historie): én tar ordet hovedsakelig, den andre
-  legger til detaljer.
-- **Stikk 3** (avrunding, sang): begge står frem sammen.
-- **Intro per taler**: fordel talerne mellom dere (halvparten hver).
+**Kompensasjon for å være alene**:
+- Dedikert musikkansvarlig (ikke toastmaster selv).
+- Grundig øving – minst 5 høytlesninger.
+- Stikkordkort i hånden.
+- Avklart backup hvis stemme svikter: neste taler går rett på.
 
 ---
 
