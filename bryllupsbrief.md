@@ -53,7 +53,7 @@ Konkret brief for dette bryllupet. Generelle prinsipper ligger i
 | **Forlover (brud)** | Landskapsarkitekt, Tromsø | Vill natur vs. kontrollert bryllup. Nordnorsk ro. | Poetisk, myk, elegant. |
 | **Ola** | Brudgommens bror, biler/sport | «Anders som familiebil vs. sportsbil». Brødre-rivalisering. | Raskt, litt røft. |
 | **Katrine** | Brudens søster, 40 | Oppveksthistorier. «Jeg visste dette kom til å skje». | Varm + lett ertende. |
-| **Tom Christian** | Venn av Anders | Vennegjeng-historier, langvarig vennskap. Plasseres mot slutten av talerekken. | Personlig, varm, litt ertende. |
+| **Tom Christian** | Venn av Anders | Vennegjeng-historier, langvarig vennskap. Plasseres blant de **siste** talerne (etter familie og forlovere). | Personlig, varm, litt ertende. |
 
 ---
 
@@ -117,7 +117,7 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 > «Noen søsken vet ting før deg selv. Noen sier det også. Neste taler er
 > begge deler – på den gode måten. Varm applaus til Katrine.»
 
-**Tom Christian** (mot slutten av kvelden)
+**Tom Christian** (blant de siste talerne – venn, ikke familie/forlover)
 > «Når man har holdt det gående til denne timen i et bryllup, er det fordi
 > det er noe man ikke vil gå glipp av. Neste taler er en god venn av Anders –
 > og det å ha venner som blir værende lenge, både i livet og i bryllupet,
@@ -152,9 +152,10 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
   klisjéaktige.
 - [ ] Avtale signal med brudepar: når er det nok humor, når vil de ha rolig
   overgang.
-- [ ] **Tom Christian**: bekreft lengde og tekniske behov, plasseres mot
-  slutten av talerekken (etter forlovere, før brudens tale / takketale).
-  Sjekk uttale av navn og hvordan han kjenner Anders (skole, jobb,
+- [ ] **Tom Christian** (venn av Anders, ikke familie/forlover): plasseres
+  blant de **siste** talerne – etter familie og forlovere, før brudens
+  eventuelle tale og brudeparets takketale. Bekreft lengde og tekniske
+  behov, sjekk uttale av navn og hvordan han kjenner Anders (skole, jobb,
   vennegjeng?).
 
 ---
