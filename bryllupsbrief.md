@@ -205,11 +205,12 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 - [ ] Se «Må-se før 26. juni»-videoliste i `resources.md` – én video i uka.
 - [ ] Les `standup-teknikk.md` og merk opp rule-of-three og callbacks i
   eget manus.
-- [ ] **Tom Christian** (venn av Anders, ikke familie/forlover): plasseres
-  blant de **siste** talerne – etter familie og forlovere, før brudens
-  eventuelle tale og brudeparets takketale. Bekreft lengde og tekniske
-  behov, sjekk uttale av navn og hvordan han kjenner Anders (skole, jobb,
-  vennegjeng?).
+- [x] **Tom Christian** (venn av Anders): **bekreftet 4–5 min**, plassert
+  som **Tale 9** i `tidsplan.md` (20:07, etter forlover brudgom, før
+  takketalen).
+- [ ] Velg intro-sang for Tom Christian (Tale 9, 20:06).
+- [ ] Sjekk uttale av Tom Christians navn og hvordan han kjenner Anders
+  (skole, jobb, vennegjeng?) – brukes i intro.
 
 ---
 

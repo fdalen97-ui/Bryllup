@@ -43,8 +43,10 @@ kjøkken og lokalet.
 | 19:59 | **Tale 7 – forlover brud** | | 3 min | |
 | 20:02 | Intro taler 8 | Fredrik | 30 sek | *Let's Get Ready to Rumble!* 30 sek |
 | 20:03 | **Tale 8 – forlover brudgom** | | 3 min | |
-| 20:06 | **Tale 9 – takketale brudeparet** | | 3 min | Michelle + Anders |
-| 20:09 | **Buffer** | – | 10 min | For uanmeldte innslag |
+| 20:06 | Intro taler 9 | Fredrik | 30 sek | *Intro-sang TBD* |
+| 20:07 | **Tale 9 – Tom Christian (venn av Anders)** | | 4–5 min | Siste taler før takketalen |
+| 20:12 | **Tale 10 – takketale brudeparet** | | 3 min | Michelle + Anders |
+| 20:15 | **Buffer** | – | 4 min | Krympet fra 10 → 4 min for å gi plass til Tom |
 | **20:19** | **STIKK 4 – avrunding + fellessang** | Fredrik | 10 min | *Take on Me* + påstander |
 | 20:29 | Takk for maten | Fredrik | 1 min | |
 | **20:30** | **Fest åpner – dansegulvet åpnes** | DJ | | |
@@ -65,8 +67,8 @@ kjøkken og lokalet.
 | Pause 1 | 10 min |
 | Hovedrett + Stikk 2 + 3 taler | 45 min |
 | Pause 2 | 20 min |
-| Dessert + Stikk 3 + 3 taler + takketale | 47 min |
-| Buffer | 10 min |
+| Dessert + Stikk 3 + 4 taler + takketale | 53 min |
+| Buffer | 4 min |
 | Stikk 4 + fellessang + takk | 11 min |
 | **Totalt middag** | **~3t 15 min** |
 
@@ -88,7 +90,9 @@ kjøkken og lokalet.
 
 - **10 min pause etter forrett** – kan strekkes til 15 min uten problem.
 - **20 min pause etter hovedrett** – kan strekkes til 25 min.
-- **10 min buffer** før Stikk 4 – for uanmeldte innslag eller forsinkelser.
+- **4 min buffer** før Stikk 4 – krympet fra 10 etter at Tom Christian (4–5
+  min) ble lagt inn. Ved overskridelse: kutt buffer først, deretter en
+  intro-sang.
 - **Intro-sanger** er 15–45 sek – kan fades kortere hvis tiden er stram.
 
 **Tommelfingerregel**: ligger du 10 min bak skjema etter hovedrett, kutt
@@ -112,3 +116,5 @@ talen.
 - [ ] Erik Nilsen – eksisterer denne taleren, eller var det forveksling
   med Anders' far Erik (#22)? **Må avklares.** Foreløpig fjernet fra
   tidsplanen.
+- [x] Tom Christian – **bekreftet 4–5 min, plassert som Tale 9 (siste taler
+  før takketalen).** Intro-sang må velges.
