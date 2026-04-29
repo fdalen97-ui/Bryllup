@@ -92,6 +92,7 @@ som trenger spesifikk intro-strategi.
 | **Ola** | Brudgommens bror (#23), biler/sport | «Anders som familiebil vs. sportsbil». Brødre-rivalisering. | Raskt, litt røft. |
 | **Forlover (brudgom)** | Equinor, treningsfyr (Helene el. Even) | Gym/prestasjon. «Anders i toppform vs. Anders i forhold». | Rask, punchy. |
 | **Forlover (brud)** | Landskapsarkitekt, Tromsø (Helene el. Even) | Vill natur vs. kontrollert bryllup. Nordnorsk ro. | Poetisk, myk, elegant. |
+| **Tom Christian** | Venn av Anders | Vennegjeng-historier, langvarig vennskap. Plasseres blant de **siste** talerne (etter familie og forlovere). | Personlig, varm, litt ertende. |
 | ~~**Erik Nilsen**~~ | ~~CEO / logistikk / togreparasjon~~ | **Må avklares**: er dette en separat taler, eller forveksling med Erik (#22, Anders' far)? Står ikke på gjestelisten. | – |
 
 **Viktig endring**: Michelle har **to storesøstre** (Cathrine #9 og
@@ -166,6 +167,12 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 
 *(Cathrine og Anette flyttet til eget avsnitt over.)*
 
+**Tom Christian** (blant de siste talerne – venn, ikke familie/forlover)
+> «Når man har holdt det gående til denne timen i et bryllup, er det fordi
+> det er noe man ikke vil gå glipp av. Neste taler er en god venn av Anders –
+> og det å ha venner som blir værende lenge, både i livet og i bryllupet,
+> sier sitt. Tom Christian – ordet er ditt.»
+
 ---
 
 ## 7. Toastmaster-grep jeg skal holde meg til
@@ -198,6 +205,11 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 - [ ] Se «Må-se før 26. juni»-videoliste i `resources.md` – én video i uka.
 - [ ] Les `standup-teknikk.md` og merk opp rule-of-three og callbacks i
   eget manus.
+- [ ] **Tom Christian** (venn av Anders, ikke familie/forlover): plasseres
+  blant de **siste** talerne – etter familie og forlovere, før brudens
+  eventuelle tale og brudeparets takketale. Bekreft lengde og tekniske
+  behov, sjekk uttale av navn og hvordan han kjenner Anders (skole, jobb,
+  vennegjeng?).
 
 ---
 
