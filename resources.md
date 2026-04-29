@@ -82,3 +82,107 @@
 - Toastmasters International
 - Vanessa Van Edwards
 - Vinh Giang
+
+---
+
+## Norsk toastmaster-praksis
+
+Praktisk-rettet materiale på norsk, brukt som kilde til `toastmaster.md`,
+`bryllupsbrief.md` og `tidsplan.md`.
+
+- [Toastmasterens rolle](https://www.weddinginspo.no/festen/toastmaster-bryllup) – WeddingInspo
+- [Bryllupstaler: Rekkefølge, tips og taletid](https://toastmasteren.no/artikler/toastmaster-tale-tips) – Toastmasteren.no
+- [Tips for å være toastmaster i et bryllup](https://mywedding.no/bryllup/19453/tips_for_aa_vaere_toastmaster_i_et_bryllup) – My Wedding
+- [Toastmaster i bryllup? Her får du gode tips](https://www.vg.no/forbruker/i/8qBKP1/toastmaster-tips-bryllup) – VG Forbruker
+- [Toastmasterens 10 tips til kjøreplanen](https://www.lonibp.com/post/ti-tips-til-kj%C3%B8replanen) – Loni BP
+- [Tips til Toastmasteren](https://www.cg.no/blogs/bryllupsinspirasjon/tips-til-toastmasteren) – CG.no
+- [Hvordan velge toastmaster i bryllupet](https://bryllupshjelperen.no/hvem-bor-dere-velge-som-toastmaster/) – Bryllupshjelperen
+- [Taler i et bryllup](https://bryllupshjelperen.no/taler-i-et-bryllup/) – Bryllupshjelperen
+
+---
+
+## Bryllupstale-eksempler (YouTube – virale best man speeches)
+
+Studer struktur, åpning og tempo. Skriv ned 2–3 grep fra hver før du
+leser `standup-teknikk.md`.
+
+- [The PERFECT Best Man Speech – Standing Ovation](https://www.youtube.com/watch?v=ACA1_3yB1xc) – ca 5 min
+- [The FUNNIEST Best Man Speech You'll Ever Hear](https://www.youtube.com/watch?v=nHb93UkarNo) – ca 5 min
+- [Funny & Short Best Man Speech – Brief and Brilliant](https://www.youtube.com/watch?v=GbhtUJDTa9o) – ca 4 min
+- [Greatest and Funniest Best Man Speech at a Wedding](https://www.youtube.com/watch?v=QRxcc_7didA) – ca 6 min
+- [Toastmasters Wedding Toast Tips](https://www.youtube.com/watch?v=27aYjd6YfdI) – ca 8 min
+
+**Tekstuelle dypdykk**:
+- [Best Man Speech Opening Lines](https://www.speechy.com/blog/best-man-speech-opening-lines/) – Speechy
+- [25 Best Man Speech Examples](https://bridesmaidforhire.com/ultimate-guide-best-man-speech-examples/) – Bridesmaid For Hire
+- [Creating A Compelling Opening Line](https://www.thebestmanspeech.com/Advice8.cfm) – TheBestManSpeech
+
+---
+
+## Stand-up comedy – teknikk
+
+Crowd work og timing overføres direkte til 20–40 sek intro. Ikke for å
+bli komiker – for at hver intro skal lande latter før taleren reiser seg.
+
+- [Gianmarco Soresi – Crowd Work Masterclass](https://www.youtube.com/watch?v=31Fp8Wz8Dcg) – YouTube
+- [Greg Dean – Mastering Crowd Work](https://www.youtube.com/watch?v=tdtKK92o0b4) – YouTube
+- [Greg Dean – How to do Crowd Work](https://www.youtube.com/shorts/9G-vw1sSP5o) – YouTube Shorts
+- [Engage your audience with crowd work](https://www.youtube.com/watch?v=4y8X-GSNkc8) – YouTube
+- [How to Engage Any Audience (stand-up-grep)](https://www.youtube.com/watch?v=-7CqVRVZWKg) – YouTube
+- [Crowd Work – spilleliste](https://www.youtube.com/playlist?list=PLnL5gsvSzeEqhiNhqbsZPebXq73otjZ6E) – YouTube
+- [Performing Stand-Up Comedy](https://www.masterclass.com/classes/judd-apatow-teaches-comedy/chapters/performing-stand-up-comedy) – Judd Apatow, MasterClass
+- [Ten Ways to Upgrade Your Crowd Work](https://funnymuscle.com/upgrade-your-crowd-work/) – Funny Muscle
+- [How to Win Over a Tiny Crowd](https://funnymuscle.com/win-over-small-standup-crowd/) – Funny Muscle
+- [Interacting With Your Audience During a Stand-Up](https://jeffzaret.com/interacting-with-your-audience-during-a-stand-up/) – Comedian Jeff Zaret
+
+---
+
+## Komedieskriving – struktur og teknikk
+
+Rule of three, setup/punchline, callbacks. Disse teknikkene brukes
+systematisk i `standup-teknikk.md` og i hver intro i `manus.md`.
+
+- [Rule of three (writing)](https://en.wikipedia.org/wiki/Rule_of_three_(writing)) – Wikipedia
+- [Comedy Writing Secrets: Triple the Funny](https://www.writersdigest.com/there-are-no-rules/comedy-writing-secrets-triples) – Writer's Digest
+- [The Comedy «Rule of 3's»](http://kenlevine.blogspot.com/2017/07/the-comedy-rule-of-3s.html) – Ken Levine (sitcom-forfatter, Cheers/Frasier/M*A*S*H)
+- [How to Write Funnier Copy with the Rule of 3](https://punchlinecopy.com/funnier-copy-rule-of-3/) – Punchline Copy
+- [Setup & Punchline – two parts of jokes](https://englishcomedyfrankfurt.com/setup-punchline-understanding-how-to-separate-the-two-parts-of-jokes/) – English Comedy Frankfurt
+- [The Rule of Three](https://comedywriter.info/the-rule-of-three/) – Comedy Writer
+- [Rule of Three multiplies effect of speech, humor](https://www.bookofthrees.com/rule-of-three-multiplies-effect-of-speech-humor/) – Book of Threes
+- [The Rule Of Three In Creative Writing](https://whatwewriting.com/what-is-the-rule-of-three-in-writing/) – What We Writing
+
+---
+
+## Toastmasters International – offisielle ressurser
+
+Toastmasters er den største internasjonale foreningen for talere. Disse
+artiklene er kuratert til bryllupssammenheng.
+
+- [Want to Add Humor to Your Speech? Follow this MAP](https://www.toastmasters.org/magazine/magazine-issues/2021/dec/humor-map) – 2021
+- [How to Create a Winning Humorous Speech](https://ozarkorators.com/your-path-to-growth/how-to-create-a-winning-humorous-speech-for-the-toastmasters-contest/) – Ozark Orators
+- [Exploring 5 Types of Speeches](https://www.toastmasters.org/magazine/magazine-issues/2024/nov/exploring-5-types-of-speeches) – 2024
+- [It's Your Turn to Toast](https://www.toastmasters.org/magazine/magazine-issues/2023/june/time-to-toast) – 2023
+- [Comedy Connection](https://www.toastmasters.org/magazine/magazine-issues/2016/june2016/comedy) – 2016
+- [Using Humor in Speeches (video)](https://www.toastmasters.org/Resources/Video-Library/using-humor-in-speeches) – Toastmasters video-bibliotek
+- [Humorous Speech Contest – forstå formatet](https://d101tm.org/humorous-speech-contest-lets-understand-it/) – District 101 Toastmasters
+- [Crafting Humorous Toastmaster Speeches (PDF)](https://www.scribd.com/document/159317833/Toastmasters-HumorousSpeeches) – Scribd
+
+---
+
+## Prioritert «Må-se før 26. juni»
+
+Totalt ca 2,5 timer fordelt på 7 uker = én video i uka fram til bryllupet.
+Rangert etter konkret nytte for Fredriks rolle.
+
+| Uke | Video | Varighet | Fokus |
+|-----|-------|----------|-------|
+| 7 uker før | [Julian Treasure – How to Speak So That People Want to Listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen) | 10 min | Stemme-verktøy: tempo, tonehøyde, timbre |
+| 6 uker før | [The PERFECT Best Man Speech](https://www.youtube.com/watch?v=ACA1_3yB1xc) | 5 min | Åpning og struktur |
+| 5 uker før | [Vinh Giang – Best AND Worst Public Speaking Advice](https://www.youtube.com/results?search_query=vinh+giang+best+public+speaking+advice) | 12 min | Ranking av råd, filter på hva som faktisk funker |
+| 4 uker før | [Gianmarco Soresi – Crowd Work Masterclass](https://www.youtube.com/watch?v=31Fp8Wz8Dcg) | 30 min (highlights) | Navngi, lytte, bygge på svar |
+| 3 uker før | [The FUNNIEST Best Man Speech You'll Ever Hear](https://www.youtube.com/watch?v=nHb93UkarNo) | 5 min | Timing og levering |
+| 2 uker før | [Chris Anderson – TED's Secret to Great Public Speaking](https://www.ted.com/talks/chris_anderson_teds_secret_to_great_public_speaking) | 10 min | Bygg én kjerne-idé |
+| 1 uke før | [Matt Abrahams – Think Fast, Talk Smart](https://www.youtube.com/results?search_query=think+fast+talk+smart+matt+abrahams+stanford) | 60 min | Improvisasjon under press |
+
+**Regel**: se hver video én gang, noter tre konkrete grep, legg til i
+`notatbank.md` §4. Ikke se flere videoer samme uke – marginalnytten faller.

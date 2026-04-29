@@ -141,6 +141,9 @@ løper):
   kan støte.
 - Aldri: ekser, uhell, familiekonflikter, pinlige historier uten samtykke.
 
+Konkrete stand-up-teknikker (rule of three, callbacks, bomb-håndtering,
+20-sek-regel, tight 2) er samlet i egen fil: `standup-teknikk.md`.
+
 ---
 
 ## 5. Kroppsspråk og tilstedeværelse (Amy Cuddy)

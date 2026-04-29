@@ -7,21 +7,56 @@ Konkret brief for dette bryllupet. Generelle prinsipper ligger i
 
 ## 1. Hovedrammen
 
+- **Dato**: fredag 26. juni 2026.
+- **Vielse**: Vinger kirke, kl. 14:00.
+- **Festlokale**: Maarud Gård. Buss settes opp til og fra.
 - **Format**: norsk bryllup, klassisk oppsett med taler og innslag.
 - **Tone**: humor + varme + tradisjon.
 - **Stil**: personlig, lett ertende, men respektfull og inkluderende.
-- **Bemanning**: **to toastmastere** (besluttet nov. 2025 etter råd fra Ole,
-  se `laeringer-ole.md`). Gir trygghet, veksling og mer autentiske taler.
+- **Bemanning**: **én toastmaster** (Fredrik, solo).
 - **Plassering**: vurderer å snakke fra bordene (ikke scene) – krever mygg,
   avklares med lokalet.
 - **Min rolle**: binde kvelden sammen som rytmesetter, stemningsjusterer og
-  brobygger – sammen med co-toastmaster.
+  brobygger.
+
+### 1.1 Tidsmessige implikasjoner
+
+| Hendelse | Estimert tid |
+|----------|--------------|
+| Vielse Vinger kirke | 14:00 |
+| Kirkekaffe / gratulasjoner utenfor kirken | 14:30–15:00 |
+| Buss/kjøring Vinger kirke → Maarud Gård (~30–40 min) | 15:00–15:45 |
+| Mingling, fotografering, velkomstdrink på Maarud | 15:45–17:00 |
+| Gjestene inn til middag | 17:00 |
+| Middag starter (Stikk 1) | ~17:15 |
+| Middag ferdig (inkl. 9 taler, 2 pauser) | ~21:45–22:00 |
+| Fest / dans | 22:00 → |
+
+**Konsekvenser**:
+- **Buss = gjester blir hele kvelden**. Ingen hastverk – programmet kan vare
+  til ca 01:00–02:00 uten at folk forsvinner.
+- **Fredagsbryllup**: enkelte langtveisfarende gjester kan reise dagen før
+  eller bruke helgen – ikke planlegg fredagsprogram som krever at alle er
+  oppladet etter en full arbeidsuke.
+- **Lokasjon Kongsvinger/Sør-Odal**: Kongsvinger-referanser (fra `notatbank.md`
+  §3) har lokal forankring – men husk at ikke alle gjester er lokale.
+- **Maarud Gård**: tidligere potetgård/chipsfabrikk. Potensielt materiale:
+  «fra potet til pilsner», «chips og champagne». Avklar med brudeparet om
+  Maarud-historikken skal trekkes inn.
+
+**Avklar med lokalet på Maarud**:
+- [ ] Bordplassering – kan toastmasterne snakke fra bordene sine?
+- [ ] Mikrofon/mygg – trådløs?
+- [ ] Projektor/lerret (for F1-intro, video, fellessang-ark)?
+- [ ] Hvor langt er kjøkkenet fra spisesal – signaler mellom retter?
+- [ ] Siste bussavgang tilbake – setter ytre ramme for programmet.
 
 ---
 
 ## 2. Brudeparet
 
-### Bruden
+### Bruden – Michelle
+- **Far**: Werner Seigerud.
 - **Interesser**: baking, interiør/oppussing.
 - **Stil**: feminin, elegant.
 - **Humorvinkler som lander**:
@@ -45,15 +80,27 @@ Konkret brief for dette bryllupet. Generelle prinsipper ligger i
 
 ## 3. Nøkkelpersoner – intro-strategi
 
+Full gjesteliste: se `gjesteliste.md`. Denne tabellen dekker kun talere
+som trenger spesifikk intro-strategi.
+
 | Person | Rolle | Humorvinkel | Tone i intro |
 |--------|-------|-------------|--------------|
-| **Erik Nilsen** | CEO / logistikk / togreparasjon | Togmetaforer: «på rett spor», «forsinkelser i kjærlighetslivet». Business-språk. | Selvsikker, lett ironisk respekt. |
-| **Brudens far** | Businessman | «ROI på oppdragelse». Pappa-linjer som lander varmt. | Respektfull, la emosjonell tyngde komme frem. |
-| **Forlover (brudgom)** | 26, Equinor, treningsfyr | Gym/prestasjon. «Anders i toppform vs. Anders i forhold». | Rask, punchy, litt «bro»-tone. |
-| **Forlover (brud)** | Landskapsarkitekt, Tromsø | Vill natur vs. kontrollert bryllup. Nordnorsk ro. | Poetisk, myk, elegant. |
-| **Ola** | Brudgommens bror, biler/sport | «Anders som familiebil vs. sportsbil». Brødre-rivalisering. | Raskt, litt røft. |
-| **Katrine** | Brudens søster, 40 | Oppveksthistorier. «Jeg visste dette kom til å skje». | Varm + lett ertende. |
-| **Tom Christian** | Venn av Anders | Vennegjeng-historier, langvarig vennskap. Plasseres mot slutten av talerekken. | Personlig, varm, litt ertende. |
+| **Werner Seigerud** | Brudens far | «ROI på oppdragelse». Pappa-linjer som lander varmt. | Respektfull, la emosjonell tyngde komme frem. |
+| **Kjersti + Erik** | Brudgommens foreldre (#21 + #22) | «Arv eller miljø» – hvor kommer Anders' kombinasjon av start-up og dykking fra? | Varm, familiær. |
+| **Cathrine** | **Michelles storesøster (#9)** | «Den eldste vet alt først» – oppveksthistorier, big-sister-autoritet. | Varm + lett ertende. |
+| **Anette** | **Michelles storesøster (#15)** | Den andre storesøsteren – komplement til Cathrine. «To mot én – ingen sjanse for Michelle å rømme». | Varm + søster-solidaritet. |
+| **Ola** | Brudgommens bror (#23), biler/sport | «Anders som familiebil vs. sportsbil». Brødre-rivalisering. | Raskt, litt røft. |
+| **Forlover (brudgom)** | Equinor, treningsfyr (Helene el. Even) | Gym/prestasjon. «Anders i toppform vs. Anders i forhold». | Rask, punchy. |
+| **Forlover (brud)** | Landskapsarkitekt, Tromsø (Helene el. Even) | Vill natur vs. kontrollert bryllup. Nordnorsk ro. | Poetisk, myk, elegant. |
+| **Tom Christian** | Venn av Anders | Vennegjeng-historier, langvarig vennskap. Plasseres blant de **siste** talerne (etter familie og forlovere). | Personlig, varm, litt ertende. |
+| ~~**Erik Nilsen**~~ | ~~CEO / logistikk / togreparasjon~~ | **Må avklares**: er dette en separat taler, eller forveksling med Erik (#22, Anders' far)? Står ikke på gjestelisten. | – |
+
+**Viktig endring**: Michelle har **to storesøstre** (Cathrine #9 og
+Anette #15), ikke én som tidligere antatt. Begge skal tale.
+
+**Fredrik = Anders' fetter** (#34 på gjestelisten). Den personlige
+historien i Stikk 2 må reflektere fetter-relasjonen, ikke kun
+vennskapsrelasjon.
 
 ---
 
@@ -89,15 +136,20 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 
 > Disse er startpunkt. Finpuss i siste uke når du kjenner rommet.
 
-**Erik Nilsen**
-> «Neste mann har bygget en karriere på å holde ting på rett spor – bokstavelig
-> talt. Hvis noen kan si hvordan Anders endelig kom frem i rute, så er det
-> ham. Gi en stor applaus til Erik Nilsen.»
-
-**Brudens far**
+**Brudens far – Werner Seigerud**
 > «Noen investeringer måles i kroner. Andre i år, tårer og stolthet. Neste
 > taler har gjort den viktigste investeringen i sitt liv – og i kveld får vi
-> se avkastningen gå opp kirkegulvet. Ordet er ditt.»
+> se avkastningen gå opp kirkegulvet. Ordet er ditt, Werner.»
+
+**Cathrine (storesøster 1)**
+> «Noen søsken vet ting før deg selv. Noen sier det også – høyt, ofte, og
+> med autoritet. Cathrine er av typen som har visst at denne dagen kom,
+> siden Michelle var 7. Applaus til Cathrine.»
+
+**Anette (storesøster 2)**
+> «To storesøstre er dobbelt så mye kjærlighet – og dobbelt så mye
+> oppdragelse. Mens Cathrine jobbet med de store linjene, har Anette
+> finpusset detaljene. Ta imot – Anette.»
 
 **Forlover (brudgom)**
 > «Neste mann kjenner Anders på godt og vondt – og på benkpress. Han vet hva
@@ -113,11 +165,9 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 > «Det finnes to typer brødre: de som rivaliserer, og de som lyver om at de
 > ikke gjør det. Anders har heldigvis en som ikke lyver. Ola – scenen er din.»
 
-**Katrine**
-> «Noen søsken vet ting før deg selv. Noen sier det også. Neste taler er
-> begge deler – på den gode måten. Varm applaus til Katrine.»
+*(Cathrine og Anette flyttet til eget avsnitt over.)*
 
-**Tom Christian** (mot slutten av kvelden)
+**Tom Christian** (blant de siste talerne – venn, ikke familie/forlover)
 > «Når man har holdt det gående til denne timen i et bryllup, er det fordi
 > det er noe man ikke vil gå glipp av. Neste taler er en god venn av Anders –
 > og det å ha venner som blir værende lenge, både i livet og i bryllupet,
@@ -140,8 +190,8 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 
 ## 8. Huskeliste spesifikt for dette bryllupet
 
-- [ ] Dobbeltsjekk Erik Nilsens rolle – CEO av hva? (Bruk i intro.)
-- [ ] Brudens fars fornavn og riktig uttale.
+- [ ] Erik Nilsen – eksisterer taleren, eller er det forveksling med Erik (#22)? Avklar med brudeparet.
+- [x] Brudens fars fornavn og riktig uttale. → **Werner Seigerud.**
 - [ ] Forlovernes navn og uttale (både brud- og brudgomsside).
 - [ ] Olas alder og forhold til Anders (eldre/yngre bror?).
 - [ ] Bekreft med bruden at baking/DIY-vitser er OK – hun skal smile, ikke
@@ -152,9 +202,13 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
   klisjéaktige.
 - [ ] Avtale signal med brudepar: når er det nok humor, når vil de ha rolig
   overgang.
-- [ ] **Tom Christian**: bekreft lengde og tekniske behov, plasseres mot
-  slutten av talerekken (etter forlovere, før brudens tale / takketale).
-  Sjekk uttale av navn og hvordan han kjenner Anders (skole, jobb,
+- [ ] Se «Må-se før 26. juni»-videoliste i `resources.md` – én video i uka.
+- [ ] Les `standup-teknikk.md` og merk opp rule-of-three og callbacks i
+  eget manus.
+- [ ] **Tom Christian** (venn av Anders, ikke familie/forlover): plasseres
+  blant de **siste** talerne – etter familie og forlovere, før brudens
+  eventuelle tale og brudeparets takketale. Bekreft lengde og tekniske
+  behov, sjekk uttale av navn og hvordan han kjenner Anders (skole, jobb,
   vennegjeng?).
 
 ---
@@ -168,3 +222,30 @@ Hvis servering forsinkes eller energien faller:
 2. **Fellessang** avtalt med DJ på forhånd (kort, kjent).
 3. **«To sannheter og en løgn»** om brudeparet – du leser opp, bordene
    stemmer.
+
+---
+
+## 10. Ansvarsfordeling – Fredrik solo, men ikke alene
+
+Solo betyr at **én person eier flowen**, ikke at én person gjør alt. Disse
+oppgavene delegeres til navngitte hjelpere:
+
+| Oppgave | Hvem | Signal fra Fredrik |
+|---------|------|--------------------|
+| Trykk play på musikksnutter | DJ / AV-ansvarlig | Nikk + håndtegn (avtalt forhånd) |
+| Klikk PowerPoint-slides | Dedikert «klikker» (venn med laptop) | Øyekontakt + nikk |
+| Fireball-shots per bord | Forlovere + 2 utvalgte | Slide «Fireball-runde» = signal |
+| Servietter ut før Stikk 1 | 1 venn, gjøres mens gjestene tar plass | Avtalt 17:00 |
+| Backup hvis Fredrik mister stemmen | Forlover brudgom (kort melding) | Nødavtale, brifes dagen før |
+| Tidsvakt | Forlover brud (sitter nær, varsler ved 5 min over) | Hånd på skulder |
+
+**Avklar 1 uke før**:
+- [ ] Hvem er klikker? (laptop + PowerPoint kjent på forhånd)
+- [ ] DJ får full musikkliste + cues 7 dager før
+- [ ] Forlovere instrueres om Fireball-rolle
+- [ ] Backup-taler vet om backup-rollen
+
+Detaljer per oppgave:
+- PowerPoint-strategi → `powerpoint-plan.md`
+- Innslag/drikkeviser/Fireball → `innslag.md`
+- Utstyr (mygg, klikker, kabler) → `utstyr.md`
