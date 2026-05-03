@@ -55,7 +55,8 @@ de er max 10 sek og testet flere ganger.
 | 3 | Kveldens program | Liste: 9 taler, 3 retter, 2 pauser | Under «Her er kveldens plan...» | Klikk |
 | 4 | Spilleregler | Tramping, klirring, nødutgang | Når Fredrik nevner det | Klikk |
 | 5 | Trigger-shot | «Equinor» / «pitch deck» = drikk | Når regelen annonseres | Klikk |
-| 6 | F1 / Rumble-slide | Startflagg-bilde | Rett før brudeparet entrer | Klikk |
+| 6 | Hovmester Oda Rogstad | Bilde + «Kveldens hovmester» | Når Oda kommer frem | Klikk |
+| 6b | F1 / Rumble-slide | Startflagg-bilde | Rett før brudeparet entrer | Klikk |
 | 7 | Brudeparet entrer | Bilde av Michelle & Anders | Mens de går inn | Klikk |
 | 8 | Tale 1 – Werner | Bilde + «Werner Seigerud, brudens far» | 5 sek før Werner reiser seg | Klikk |
 | 9 | Helan går – tekst | Hele første vers, stor font | Etter Werners tale | Klikk |

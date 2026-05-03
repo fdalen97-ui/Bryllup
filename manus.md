@@ -54,7 +54,7 @@ Takk for en strålende dag så langt. Dette har jeg gleda meg lenge til.
 Wow for et lokale. Wow for en dag.
 
 Maarud Gård – hjemmet til norske chips. Jeg skal være ærlig: jeg
-forventet Crispo til forrett. Men kokken har fått andre instrukser.
+forventet Crispo til forrett. Men kjøkkenet har fått andre instrukser.
 
 *(Pause. Smil. Første latter skal lande her – innen 25 sek inn.)*
 
@@ -173,13 +173,23 @@ Talerne er advart. Anders er advart mest.
 
 ---
 
-### F — Kokken, vinen, skål
+### F — Hovmesteren, vinen, skål
 
-Til å presentere kveldens mat – ta vel imot kokken, *[kokkens navn]*.
+Til å presentere kveldens mat har vi en kveldens vert utenom det vanlige.
 
-*(Kokken kommer frem, 1–2 min menypresentasjon. Grep fra Oda/Sivert §3.1.)*
+Hun har en ro i blikket, en sikker hånd på serviettbretten – og en
+kunnskap om denne kveldens meny som overgår min egen kunnskap om
+toastmaster-rollen.
 
-Tusen takk.
+Det er én ting å lage maten. Det er en helt annen ting å bære den frem
+med stil.
+
+Ta vel imot kveldens hovmester – **Oda Rogstad**.
+
+*(Oda Rogstad kommer frem, 1–2 min menypresentasjon. Feminin og fornem
+levering. Grep fra Oda/Sivert §3.1, men hovmester i stedet for kokk.)*
+
+Tusen takk, Oda.
 
 Vinen: hvit fra *[distrikt]*, rød fra *[distrikt]*. For dere som er
 fineschmeckere – plukk den dere liker. For oss andre – ta den som står
@@ -646,7 +656,7 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 - [x] Anders' søsken (felles tale): **Ingrid og Ola**
 - [x] Forlover brud: **Helene** (#39)
 - [x] Forlover brudgom: **Even** (#40)
-- [ ] Kokkens navn
+- [x] Hovmester (presenterer maten): **Oda Rogstad**
 - [ ] Vin-distrikt (hvit + rød)
 - [ ] **Anekdote til Stikk 2** (A1 + B + A2 + landing, 4 deler)
 - [ ] Sitat fra telefonrunden til Stikk 3 (3 «svar som gikk igjen»)

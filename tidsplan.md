@@ -20,7 +20,7 @@ Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
 | 15:50 | Mingling utenfor + pizzasnurrer + velkomstdrink + foto | – | 95 min | Lett mat utendørs hvis vær |
 | 17:25 | Dørene til middagssal åpnes | Toastmaster | 5 min | Gjester finner plassen |
 | **17:30** | **STIKK 1 – åpning + brudeparet inn** | Fredrik | 5 min | A-F-struktur (Oda/Sivert) |
-| 17:35 | Kokken presenterer maten | Kokk | 2 min | Fra Oda/Sivert §3.1 |
+| 17:35 | Hovmester Oda Rogstad presenterer maten | Oda Rogstad | 2 min | Feminin og fornem levering |
 | 17:37 | Vin-presentasjon + skål for brudeparet | Fredrik | 1 min | |
 | 17:38 | Intro tale 1 | Fredrik | 30 sek | *Optimist – Jahn Teigen* 20 sek |
 | 17:39 | **Tale 1 – Werner Seigerud (brudens far) – velkomsttale FØR mat** | | 5 min | Klassisk åpningstale |
@@ -68,7 +68,7 @@ Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
 | Bolk | Tid |
 |------|-----|
 | Kirke + buss + mingling utendørs (pizzasnurrer) | 14:00 → 17:25 |
-| Stikk 1 + kokken + skål | 8 min |
+| Stikk 1 + Oda Rogstad + skål | 8 min |
 | Buffet 1 + forrett + 3 taler + Helan går + Fireball 1 | 42 min |
 | Pissepause | 10 min |
 | Buffet 2 + hovedrett + Stikk 2 + 2 fellestaler | 47 min |
@@ -176,7 +176,7 @@ begge behov.
 - [ ] Siste bussavgang tilbake → forslag 01:00 (avklar).
 - [ ] Når starter kakekutt / midnattsmat? (forslag: 23:00).
 - [ ] Talernes rekkefølge godkjent av brudeparet?
-- [ ] Kokkens navn og mat-presentasjon – avklart? (Oda/Sivert-grep).
+- [x] **Hovmester Oda Rogstad** presenterer maten (feminin og fornem stil).
 - [ ] Vin-distrikt for kort presentasjon – navn og uttale.
 - [ ] Musikkansvarlig – hvem trykker play?
 - [ ] Mikrofon fra bordene – mulig?
