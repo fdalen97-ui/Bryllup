@@ -117,8 +117,8 @@ Unngå å følge rask låt med rask låt. Behold Duartes prinsipp om
 Brudens far      ██        Power Of Love – senke skuldre
 Anders til brud  ███       Burning Love – løft
 — servering —
-Forlover brud    ██        Fanga av ein stormvind – ro
-Forlover brudgom ████      Let's Get Ready / Thunderstruck – topp
+Helene (f. brud) ██        Fanga av ein stormvind – ro
+Even  (f. brudg) ████      Let's Get Ready / Thunderstruck – topp
 (Erik Nilsen)    –         (avklares – står ikke på gjestelisten)
 — servering —
 Cathrine+Anette  ██        Walking On Sunshine – søster-duo

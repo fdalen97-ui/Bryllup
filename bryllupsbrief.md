@@ -89,9 +89,9 @@ som trenger spesifikk intro-strategi.
 | **Kjersti + Erik** | Brudgommens foreldre (#21 + #22) | «Arv eller miljø» – hvor kommer Anders' kombinasjon av start-up og dykking fra? (Lars/Julie §3.3) | Varm, familiær. |
 | **Cathrine + Anette** | **Michelles to storesøstre (#9 + #15)** – **felles tale** | «To storesøstre = dobbel kjærlighet, dobbel oppdragelse. Michelle har aldri kommet unna med noenting.» | Varm + ertende, søster-duo. |
 | **Ingrid + Ola** | **Anders' søsken (#23 + #25)** – **felles tale** | Søsken-rivalisering: Ola = sportsbilen, Ingrid = den som husker hva som skjedde. «To mot én Anders.» | Raskt, røft + varmt. |
-| **Forlover (brudgom)** | Equinor, treningsfyr (Helene el. Even) | Gym/prestasjon. «Anders i toppform vs. Anders i forhold». | Rask, punchy. |
-| **Forlover (brud)** | Landskapsarkitekt, Tromsø (Helene el. Even) | Vill natur vs. kontrollert bryllup. Nordnorsk ro. | Poetisk, myk, elegant. |
-| ~~**Erik Nilsen**~~ | ~~CEO / logistikk / togreparasjon~~ | **Må avklares**: separat taler, eller forveksling med Erik (#22)? Står ikke på gjestelisten. Foreløpig utelatt. | – |
+| **Even** | **Forlover brudgom (#40)** – Equinor, treningsfyr | Gym/prestasjon. «Anders i toppform vs. Anders i forhold». | Rask, punchy. |
+| **Helene** | **Forlover brud (#39)** – Landskapsarkitekt, Tromsø | Vill natur vs. kontrollert bryllup. Nordnorsk ro. | Poetisk, myk, elegant. |
+| **Erik Nilsen** | **Anders' far (#22)** – CEO / logistikk / togreparasjon | Togmetaforer: «på rett spor», «forsinkelser i kjærlighetslivet». Flettes inn i foreldre-intro (Tale 3 sammen med Kjersti). | Selvsikker, lett ironisk respekt. |
 
 **Viktig endring**: Michelle har **to storesøstre** (Cathrine #9 og
 Anette #15), ikke én som tidligere antatt. Begge skal tale.
@@ -110,8 +110,8 @@ gå igjen.
 - 🔧 **«Bygge et liv sammen»** – bruden.
 - 🚀 **«Start-up ekteskap»** – brudgommen.
 - 🚂 **«På rett spor»** – Erik / logistikk.
-- 🏋️ **«Relasjonsfitness»** – forlover brudgom.
-- 🌲 **«Natur vs. struktur»** – forlover brud.
+- 🏋️ **«Relasjonsfitness»** – Even (forlover brudgom).
+- 🌲 **«Natur vs. struktur»** – Helene (forlover brud).
 - 🚗 **«Familiebil vs. sportsbil»** – Ola / brødre.
 
 ---
@@ -179,7 +179,8 @@ intro-maler.)*
 
 ## 8. Huskeliste spesifikt for dette bryllupet
 
-- [ ] Erik Nilsen – eksisterer taleren, eller er det forveksling med Erik (#22)? Avklar med brudeparet.
+- [x] Erik Nilsen = **Anders' far (#22)**. Tog-metaforer flettes inn i Tale 3 (Kjersti + Erik Nilsen).
+- [x] Helene = forlover brud, Even = forlover brudgom.
 - [x] Brudens fars fornavn og riktig uttale. → **Werner Seigerud.**
 - [ ] Forlovernes navn og uttale (både brud- og brudgomsside).
 - [ ] Olas alder og forhold til Anders (eldre/yngre bror?).
@@ -187,7 +188,7 @@ intro-maler.)*
   rødme.
 - [ ] Klarér at Equinor/start-up-vitser ikke er for inside for de fleste
   gjestene.
-- [ ] Nordnorsk-referanser om forlover brud: sjekk at de er varme, ikke
+- [ ] Nordnorsk-referanser om Helene (forlover brud): sjekk at de er varme, ikke
   klisjéaktige.
 - [ ] Avtale signal med brudepar: når er det nok humor, når vil de ha rolig
   overgang.
@@ -220,8 +221,8 @@ oppgavene delegeres til navngitte hjelpere:
 | Klikk PowerPoint-slides | Dedikert «klikker» (venn med laptop) | Øyekontakt + nikk |
 | Fireball-shots per bord | Forlovere + 2 utvalgte | Slide «Fireball-runde» = signal |
 | Servietter ut før Stikk 1 | 1 venn, gjøres mens gjestene tar plass | Avtalt 17:00 |
-| Backup hvis Fredrik mister stemmen | Forlover brudgom (kort melding) | Nødavtale, brifes dagen før |
-| Tidsvakt | Forlover brud (sitter nær, varsler ved 5 min over) | Hånd på skulder |
+| Backup hvis Fredrik mister stemmen | Even (forlover brudgom) | Nødavtale, brifes dagen før |
+| Tidsvakt | Helene (forlover brud, sitter nær, varsler ved 5 min over) | Hånd på skulder |
 
 **Avklar 1 uke før**:
 - [ ] Hvem er klikker? (laptop + PowerPoint kjent på forhånd)

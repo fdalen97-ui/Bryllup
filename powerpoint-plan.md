@@ -69,9 +69,9 @@ de er max 10 sek og testet flere ganger.
 | 18 | Pause 2 | «20 min – kaffe + Fireball» | Pausen | Klikk |
 | 19 | 🔥 FIREBALL RUNDE 2 | Brann-grafikk | Midt i pausen | Klikk |
 | 20 | Stikk 3 åpner | Sort slide | Når Fredrik begynner | Klikk |
-| 21 | Tale 7 – forlover brud | Bilde + navn | Før hun reiser seg | Klikk |
-| 22 | ⚡ THUNDERSTRUCK | AC/DC-stilig grafikk + «Hver "thunder" = drikk» | Før forlover brudgom-intro | Klikk |
-| 23 | Tale 8 – forlover brudgom | Bilde + navn | Etter Thunderstruck-flaska | Klikk |
+| 21 | Tale 6 – Helene | Bilde + «Helene, Michelles forlover» | Før hun reiser seg | Klikk |
+| 22 | ⚡ THUNDERSTRUCK | AC/DC-stilig grafikk + «Hver "thunder" = drikk» | Før Even-intro | Klikk |
+| 23 | Tale 7 – Even | Bilde + «Even, Anders' forlover» | Etter Thunderstruck-flaska | Klikk |
 | 24 | Takketale brudeparet | Bilde av Michelle & Anders | Når de reiser seg | Klikk |
 | 25 | Stikk 4 åpner | Sort slide | Når Fredrik begynner | Klikk |
 | 26–35 | Take on Me-påstander | Én påstand per slide, stor font | Sangen rulles, klikk hvert 15 sek | Klikk |

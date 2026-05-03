@@ -22,19 +22,19 @@ Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
 | **17:30** | **STIKK 1 – åpning + brudeparet inn** | Fredrik | 5 min | A-F-struktur (Oda/Sivert) |
 | 17:35 | Kokken presenterer maten | Kokk | 2 min | Fra Oda/Sivert §3.1 |
 | 17:37 | Vin-presentasjon + skål for brudeparet | Fredrik | 1 min | |
-| **17:38** | **Buffet 1 åpner – forrett** | – | 17 min | Folk reiser seg, henter mat |
-| 17:55 | Alle har satt seg, forrett pågår | – | – | |
-| 18:00 | Intro tale 1 | Fredrik | 30 sek | *Optimist – Jahn Teigen* 20 sek |
-| 18:01 | **Tale 1 – Werner Seigerud (brudens far)** | | 5 min | |
-| 18:06 | **Helan går** – obligatorisk skål | Fredrik + alle | 1 min | Tekst på PowerPoint |
-| 18:07 | Intro tale 2 | Fredrik | 30 sek | *Burning Love* 20 sek |
-| 18:08 | **Tale 2 – Anders til Michelle** | | 5 min | |
-| 18:13 | 🔥 **Fireball-runde 1** | Forlovere | 1 min | Etter Anders' tale |
-| 18:14 | Intro tale 3 | Fredrik | 30 sek | *Power of Love* 20 sek |
-| 18:15 | **Tale 3 – Kjersti + Erik (Anders' foreldre)** | | 5 min | «Arv eller miljø»-intro |
-| **18:20** | **Felles pissepause 10 min** | – | | Annonsert (Oda/Sivert §3.3) |
-| **18:30** | **Buffet 2 åpner – hovedrett** | – | 20 min | Andre forskyvning |
-| 18:50 | Alle har satt seg, hovedrett pågår | – | – | |
+| 17:38 | Intro tale 1 | Fredrik | 30 sek | *Optimist – Jahn Teigen* 20 sek |
+| 17:39 | **Tale 1 – Werner Seigerud (brudens far) – velkomsttale FØR mat** | | 5 min | Klassisk åpningstale |
+| 17:44 | **Helan går** – obligatorisk skål | Fredrik + alle | 1 min | Tekst på PowerPoint |
+| 17:45 | 🔥 **Fireball-runde 1 – velkomstshot** | Forlovere | 1 min | Sparkstart, før mat |
+| **17:46** | **Buffet 1 åpner – forrett** | – | 17 min | Folk reiser seg, henter mat |
+| 18:03 | Alle har satt seg, forrett pågår | – | – | |
+| 18:10 | Intro tale 2 | Fredrik | 30 sek | *Burning Love* 20 sek |
+| 18:11 | **Tale 2 – Anders til Michelle** | | 5 min | |
+| 18:16 | Intro tale 3 | Fredrik | 30 sek | *Power of Love* 20 sek |
+| 18:17 | **Tale 3 – Kjersti + Erik Nilsen (Anders' foreldre)** | | 5 min | «Arv eller miljø» + tog-metafor |
+| **18:22** | **Felles pissepause 10 min** | – | | Annonsert (Oda/Sivert §3.3) |
+| **18:32** | **Buffet 2 åpner – hovedrett** | – | 20 min | Andre forskyvning |
+| 18:52 | Alle har satt seg, hovedrett pågår | – | – | |
 | **19:00** | **STIKK 2 – personlig historie (Fredrik som fetter)** | Fredrik | 5 min | Lars/Julie kisten-stil |
 | 19:05 | Intro tale 4 | Fredrik | 30 sek | *Walking On Sunshine* 20 sek |
 | 19:06 | **Tale 4 – Cathrine + Anette (felles, Michelles storesøstre)** | | 5 min | Søster-duo |
@@ -46,10 +46,10 @@ Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
 | 19:55 | Dessert pågår | – | – | |
 | 20:00 | **STIKK 3 – før forlovertaler («Jeg ringte rundt»)** | Fredrik | 3 min | Lars/Julie §3.1 |
 | 20:03 | Intro tale 6 | Fredrik | 45 sek | *Fanga av ein stormvind* 45 sek |
-| 20:04 | **Tale 6 – forlover brud (Helene el. Even)** | | 3 min | |
-| 20:07 | ⚡ **Thunderstruck-flaske ruller** | DJ + bord | 45 sek | Før forlover brudgom |
+| 20:04 | **Tale 6 – Helene (forlover brud)** | | 3 min | Michelles forlover |
+| 20:07 | ⚡ **Thunderstruck-flaske ruller** | DJ + bord | 45 sek | Før Even |
 | 20:08 | Intro tale 7 | Fredrik | 30 sek | *Let's Get Ready to Rumble!* 30 sek |
-| 20:09 | **Tale 7 – forlover brudgom** | | 3 min | |
+| 20:09 | **Tale 7 – Even (forlover brudgom)** | | 3 min | Anders' forlover |
 | 20:12 | **Tale 8 – takketale brudeparet** | | 3 min | Michelle + Anders |
 | 20:15 | **Buffer 10 min** | – | | Uanmeldte innslag |
 | **20:25** | **STIKK 4 – avrunding + fellessang Take on Me** | Fredrik | 10 min | Med påstander |

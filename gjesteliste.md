@@ -28,19 +28,16 @@ plassering avklares med brudeparet.
 |---|-------|----------|-----------------|
 | 1 | Werner Seigerud | Brudens far | Tale 1 (forrett) |
 | 2 | Anders | Brudgom, til bruden | Tale 2 (forrett) |
-| 3 | Kjersti + Erik | Brudgommens foreldre | Tale 3 (forrett) |
+| 3 | Kjersti + Erik Nilsen | Brudgommens foreldre | Tale 3 (forrett) |
 | 4 | **Cathrine + Anette** | **Michelles storesøstre – felles tale** | Tale 4 (hovedrett) |
 | 5 | **Ingrid + Ola** | **Anders' søsken – felles tale** | Tale 5 (hovedrett) |
-| 6 | Forlover brud (Helene el. Even) | – | Tale 6 (dessert) |
-| 7 | Forlover brudgom (Helene el. Even) | – | Tale 7 (dessert) |
+| 6 | **Helene** | **Forlover brud (Michelles forlover)** | Tale 6 (dessert) |
+| 7 | **Even** | **Forlover brudgom (Anders' forlover)** | Tale 7 (dessert) |
 | 8 | Michelle + Anders | Takketale | Tale 8 (dessert) |
 
-**Avklaringsbehov**:
-- [ ] Hvem er forlover for bruden og hvem for brudgommen? Helene (#39) og
-  Even (#40) er oppført som forlovere – hvem er på hvilken side?
-- [ ] Skal «Erik Nilsen» (CEO/tog-metaforer fra `bryllupsbrief.md` §3)
-  tale? Han står ikke på gjestelisten – er dette samme person som Erik
-  (#22, Anders' far), eller en annen? **Må avklares.**
+**Avklart**:
+- [x] Helene (#39) = Michelles forlover, Even (#40) = Anders' forlover
+- [x] Erik Nilsen = Anders' far (#22) – samme person som «Erik» på gjestelisten
 
 ---
 
@@ -81,7 +78,7 @@ plassering avklares med brudeparet.
 | # | Navn | Relasjon | Taler? |
 |---|------|----------|--------|
 | 21 | **Kjersti** | **Mor** | ✅ Tale 3 (sammen med Erik) |
-| 22 | **Erik** | **Far** | ✅ Tale 3 (sammen med Kjersti) |
+| 22 | **Erik Nilsen** | **Far** | ✅ Tale 3 (sammen med Kjersti) |
 | 23 | **Ola** | **Bror** | ✅ Tale 6 |
 | 24 | Anna | Bror + 1 (Olas partner) | – |
 | 25 | **Ingrid** | **Søster** | ✅ Tale 5 (felles med Ola) |
@@ -103,8 +100,8 @@ plassering avklares med brudeparet.
 
 | # | Navn | Relasjon | Taler? |
 |---|------|----------|--------|
-| 39 | Helene | Forlover | ✅ (brud eller brudgom – avklares) |
-| 40 | Even | Forlover | ✅ (brud eller brudgom – avklares) |
+| 39 | **Helene** | **Forlover for Michelle (brud)** | ✅ Tale 6 |
+| 40 | **Even** | **Forlover for Anders (brudgom)** | ✅ Tale 7 |
 | 42 | Emilie | Brudepike | – |
 | 43 | William | Brudesvenn/bridebro | – |
 | 51 | Sara | Brudepike | – |
@@ -244,8 +241,8 @@ Niese/nevø på brud-side: Celina, Mathias, Nicoline, Eldgeir, Anna, Jacob
 5. **Ingrid + Ola** – Anders' søsken, felles tale
 
 **Dessert** (3 taler):
-6. Forlover brud
-7. Forlover brudgom
+6. **Helene** – forlover brud (Michelles forlover)
+7. **Even** – forlover brudgom (Anders' forlover)
 8. Takketale brudeparet
 
 **Totalt**: 8 talesekvenser, 10 talere (8 individer + 2 søsken-duoer).
@@ -257,8 +254,7 @@ Tidsplan i `tidsplan.md`.
 
 - [x] Cathrine og Anette – **felles tale** bekreftet.
 - [x] Ingrid og Ola – **felles tale** bekreftet.
-- [ ] Eksisterer Erik Nilsen som separat taler? Eller var det
-  forvekslet med Erik (#22, Anders' far)?
-- [ ] Helene (#39) og Even (#40) – hvem er forlover for hvem?
+- [x] Erik Nilsen = **Anders' far (#22)**, samme person.
+- [x] Helene (#39) = **Michelles forlover**. Even (#40) = **Anders' forlover**.
 - [ ] Alder på barna – for barnesittings og ørepropper.
 - [ ] Mormors og bestemødres mobilitet – tilgang/plassering.

@@ -187,25 +187,24 @@ nærmest.
 
 *(Vin-presentasjon med distrikt – grep fra Oda/Sivert §3.2.)*
 
-Da håper jeg at alle har fått påfyll i glassene, og vi gjør oss klare
-for buffet 1.
+Da håper jeg at alle har fått påfyll i glassene.
 
 **Vel bekomme. Og skål for brudeparet!**
 
-*(Buffet 1 åpnes. Folk reiser seg, henter forrett. Kjøkkenet styrer
-bord-rotasjon.)*
-
 ---
 
-## Forrett — talerunde 1 (18:00–18:20)
+## Velkomstbolk FØR forrett (17:38–17:46)
 
-*Når alle har satt seg igjen og fått tatt en gaffel.*
+*Klassisk åpningstale fra brudens far + Helan går + velkomstshot. Setter
+energien før folk reiser seg til buffet.*
 
 ---
 
 ### Intro tale 1 — Werner Seigerud (brudens far)
 
 *[Intro-sang: Optimist – Jahn Teigen, 20 sek]*
+
+Og før vi går til buffet – det er én mann som skal ha ordet først.
 
 Neste mann har gjort livets viktigste investering.
 
@@ -233,6 +232,29 @@ Werner – det fortjener en ekte skål.
 
 ---
 
+### 🔥 Fireball-runde 1 — velkomstshot
+
+*[PowerPoint: 🔥 FIREBALL slide. Forlovere har shotbrett klare.]*
+
+Og før vi slipper løs på buffet – én ekstra runde.
+
+Glassene opp – Fireball til bruden og brudgommen!
+
+*[Felles skål, ned i ett. 30 sek.]*
+
+Og med det – buffet 1 er åpen. Vel bekomme!
+
+*(Buffet 1 åpnes. Folk reiser seg, henter forrett. Kjøkkenet styrer
+bord-rotasjon.)*
+
+---
+
+## Forrett — talerunde 1 (18:10–18:22)
+
+*Når alle har satt seg igjen og fått tatt en gaffel.*
+
+---
+
 ### Intro tale 2 — Anders til Michelle
 
 *[Intro-sang: Burning Love, 20 sek]*
@@ -250,29 +272,25 @@ Anders – scenen er din.
 
 ---
 
-### Fireball-runde 1
-
-*[PowerPoint: 🔥 FIREBALL slide. Forlovere deler ut.]*
-
-Glassene opp – Fireball til bruden og brudgommen!
-
-*[Felles skål, ned i ett. 30 sek.]*
-
----
-
-### Intro tale 3 — Kjersti + Erik (Anders' foreldre)
+### Intro tale 3 — Kjersti + Erik Nilsen (Anders' foreldre)
 
 *[Intro-sang: Power of Love, 20 sek. «Arv eller miljø»-grep fra
-Lars/Julie §3.3.]*
+Lars/Julie §3.3, flettet med Erik Nilsens tog-profil.]*
 
 Mye av det vi ser i Anders i dag stammer fra hjemmet.
 
 Viljen til å optimalisere. Kjærligheten til naturen. Og det rotet vi ikke
 skal snakke om.
 
+Faren – Erik Nilsen – har bygget en karriere på å holde ting på rett
+spor. Bokstavelig talt. Hvis noen kan forklare hvordan Anders endelig
+kom frem i rute, er det ham.
+
+Og kjærligheten til naturen – den er kanskje fra moren?
+
 Er det arv eller miljø? Det skal vi få høre mer om nå.
 
-Ta imot Anders' mor og far – Kjersti og Erik.
+Ta imot Anders' mor og far – Kjersti og Erik Nilsen.
 
 *[Tale 3, 5 min]*
 
@@ -475,7 +493,7 @@ La oss høre fra de som står brudeparet aller nærmest.
 
 ---
 
-### Intro tale 6 — Forlover brud
+### Intro tale 6 — Helene (forlover brud)
 
 *[Intro-sang: Fanga av ein stormvind – Kjartan Lauritzen, 45 sek]*
 
@@ -486,7 +504,7 @@ Hun jobber til daglig med å skape ro i landskap.
 
 I kveld gir hun oss et landskap av ord.
 
-Applaus.
+Applaus til Michelles forlover – Helene.
 
 *[Tale 6, 3 min]*
 
@@ -494,8 +512,8 @@ Applaus.
 
 ### Thunderstruck-flaske ruller
 
-*[Etter forlover-brud-talen, før forlover-brudgom. Forlover-brudgom-bordet
-får utdelt en flaske øl/cider. DJ starter Thunderstruck på lav volum.]*
+*[Etter Helenes tale, før Even. Even-bordet får utdelt en flaske
+øl/cider. DJ starter Thunderstruck på lav volum.]*
 
 Før neste taler – en liten regel.
 
@@ -506,7 +524,7 @@ Jeg sender denne flasken rundt forlover-bordet. Hver gang AC/DC sier
 
 ---
 
-### Intro tale 7 — Forlover brudgom
+### Intro tale 7 — Even (forlover brudgom)
 
 *[Intro-sang: Let's Get Ready to Rumble!, 30 sek]*
 
@@ -517,7 +535,7 @@ Og på benkpress.
 Han vet hva Anders klarer i toppform. Spørsmålet er hva han klarer å
 avsløre på tre minutter.
 
-Vær så god.
+Vær så god – Anders' forlover, Even.
 
 *[Tale 7, 3 min]*
 
@@ -623,12 +641,13 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 
 - [x] Brudens navn: **Michelle**
 - [x] Brudens fars navn: **Werner Seigerud**
-- [x] Brudgommens foreldre: **Kjersti og Erik**
+- [x] Brudgommens foreldre: **Kjersti og Erik Nilsen**
 - [x] Michelles søstre (felles tale): **Cathrine og Anette**
 - [x] Anders' søsken (felles tale): **Ingrid og Ola**
+- [x] Forlover brud: **Helene** (#39)
+- [x] Forlover brudgom: **Even** (#40)
 - [ ] Kokkens navn
 - [ ] Vin-distrikt (hvit + rød)
-- [ ] Forlovere – Helene/Even fordeling brud/brudgom
 - [ ] **Anekdote til Stikk 2** (A1 + B + A2 + landing, 4 deler)
 - [ ] Sitat fra telefonrunden til Stikk 3 (3 «svar som gikk igjen»)
 - [ ] Siste bussavgang – forslag 01:00
@@ -657,18 +676,21 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 
 ```
 Stikk 1            ████      Varm + selvironi + brudeparet inn
-Werner Seigerud    ██        Tyngde, Helan går
-Anders til brud    ███       Burning Love, Fireball 1
-Anders' foreldre   ██        Arv eller miljø
-— buffet 2 —
+Werner Seigerud    ██        Tyngde
+Helan går          ██        Skål
+Fireball 1         ███       Velkomstshot
+— buffet 1 —
+Anders til brud    ███       Burning Love
+Kjersti + Erik N.  ██        Arv eller miljø + tog-metafor
+— pissepause + buffet 2 —
 Stikk 2            ███       Personlig fetter-historie (HJERTET)
 Cathrine + Anette  ██        Walking On Sunshine, søster-duo
 Ingrid + Ola       ████      Crazy Train, søsken-duo
 — pause + Fireball 2 —
 — dessert —
 Stikk 3            ██        Jeg ringte rundt + Altinn-callback
-Forlover brud      ███       Fanga av stormvind
-Forlover brudgom   ████      Thunderstruck-flaske + Rumble
+Helene             ███       Fanga av stormvind
+Even               ████      Thunderstruck-flaske + Rumble
 Takketale          ██        Brudeparet
 Stikk 4            ███       Take on Me + Fireball 3 + landing
 — DANS —
