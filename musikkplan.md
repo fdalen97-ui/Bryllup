@@ -103,6 +103,7 @@ middagsbakgrunn** – hold disse til dansen.
 | **Cathrine + Anette** (felles) | Walking On Sunshine (#12) | Mamma Mia (#19) | 20 sek |
 | **Ingrid + Ola** (felles) | Crazy Train (#32) | T.N.T. (#23) | 15 sek |
 | **Anders (til bruden)** | Burning Love (#26) | The Power Of Love (#29) | 20 sek |
+| **Tom Christian** (venn av Anders) | Hold the Line (#24) | We Didn't Start the Fire (#30) | 15 sek |
 | **Bruden (hvis taler)** | Mamma Mia (#19) | Waterloo (#16) | 20 sek |
 
 ---
@@ -114,16 +115,22 @@ Unngå å følge rask låt med rask låt. Behold Duartes prinsipp om
 
 ```
 Åpning           ██        Optimist / Forza Vinger – varm start
-Brudens far      ██        Power Of Love – senke skuldre
+Werner Seigerud  ██        Power Of Love – senke skuldre
+Helan går        ██        Skål
+Fireball 1       ███       Velkomstshot
+— buffet 1 —
 Anders til brud  ███       Burning Love – løft
-— servering —
-Helene (f. brud) ██        Fanga av ein stormvind – ro
-Even  (f. brudg) ████      Let's Get Ready / Thunderstruck – topp
-(Erik Nilsen)    –         (avklares – står ikke på gjestelisten)
-— servering —
+Kjersti+Erik N.  ██        Power Of Love – arv eller miljø
+— buffet 2 —
 Cathrine+Anette  ██        Walking On Sunshine – søster-duo
 Ingrid+Ola       ████      Crazy Train – søsken-duo
-Takketale        ███       Signed, Sealed, Delivered – avslutning
+— pause + Fireball 2 —
+— dessert —
+Helene (f. brud) ██        Fanga av ein stormvind – ro
+Even  (f. brudg) ████      Let's Get Ready / Thunderstruck – topp
+Tom Christian    ███       Hold the Line – vennegjeng
+Takketale        ██        Brudeparet
+Stikk 4          ███       Take on Me + Fireball 3
 — kake / dans —
                  █████     Samba / Cotton Eye Joe / Y.M.C.A.
 ```

@@ -50,11 +50,13 @@ Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
 | 20:07 | ⚡ **Thunderstruck-flaske ruller** | DJ + bord | 45 sek | Før Even |
 | 20:08 | Intro tale 7 | Fredrik | 30 sek | *Let's Get Ready to Rumble!* 30 sek |
 | 20:09 | **Tale 7 – Even (forlover brudgom)** | | 3 min | Anders' forlover |
-| 20:12 | **Tale 8 – takketale brudeparet** | | 3 min | Michelle + Anders |
-| 20:15 | **Buffer 10 min** | – | | Uanmeldte innslag |
-| **20:25** | **STIKK 4 – avrunding + fellessang Take on Me** | Fredrik | 10 min | Med påstander |
-| 20:35 | Takk for maten + 🔥 **Fireball-runde 3** | Fredrik + alle | 2 min | Sparkstart til dans |
-| **20:37** | **Fest åpner – første dans** | DJ | | Brudeparet entrer dansegulvet |
+| 20:12 | Intro tale 8 | Fredrik | 30 sek | *Hold the Line* 15 sek |
+| 20:13 | **Tale 8 – Tom Christian (venn av Anders)** | | 3 min | Mot slutten av talerekken |
+| 20:16 | **Tale 9 – takketale brudeparet** | | 3 min | Michelle + Anders |
+| 20:19 | **Buffer 10 min** | – | | Uanmeldte innslag |
+| **20:29** | **STIKK 4 – avrunding + fellessang Take on Me** | Fredrik | 10 min | Med påstander |
+| 20:39 | Takk for maten + 🔥 **Fireball-runde 3** | Fredrik + alle | 2 min | Sparkstart til dans |
+| **20:41** | **Fest åpner – første dans** | DJ | | Brudeparet entrer dansegulvet |
 | 23:00 | Kake / midnattsmat (avklar) | – | | |
 | **01:00** | **Siste bussavgang (forslag – avklar)** | – | | Kongsvinger / Oslo |
 

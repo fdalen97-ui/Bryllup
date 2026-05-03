@@ -33,7 +33,8 @@ plassering avklares med brudeparet.
 | 5 | **Ingrid + Ola** | **Anders' søsken – felles tale** | Tale 5 (hovedrett) |
 | 6 | **Helene** | **Forlover brud (Michelles forlover)** | Tale 6 (dessert) |
 | 7 | **Even** | **Forlover brudgom (Anders' forlover)** | Tale 7 (dessert) |
-| 8 | Michelle + Anders | Takketale | Tale 8 (dessert) |
+| 8 | **Tom Christian** | **Brudesvenn / venn av Anders (#56)** | Tale 8 (dessert, mot slutten) |
+| 9 | Michelle + Anders | Takketale | Tale 9 (dessert) |
 
 **Avklart**:
 - [x] Helene (#39) = Michelles forlover, Even (#40) = Anders' forlover
@@ -106,7 +107,7 @@ plassering avklares med brudeparet.
 | 43 | William | Brudesvenn/bridebro | – |
 | 51 | Sara | Brudepike | – |
 | 55 | Tuva | Brudepike | – |
-| 56 | Tom Christian | Brudesvenn/bridebro | – |
+| 56 | **Tom Christian** | **Brudesvenn/bridebro – venn av Anders** | ✅ Tale 8 (mot slutten) |
 | 57 | Simen | Brudesvenn/bridebro | – |
 
 ### 3.5 Venner (resterende)
@@ -240,12 +241,13 @@ Niese/nevø på brud-side: Celina, Mathias, Nicoline, Eldgeir, Anna, Jacob
 4. **Cathrine + Anette** – Michelles storesøstre, felles tale
 5. **Ingrid + Ola** – Anders' søsken, felles tale
 
-**Dessert** (3 taler):
+**Dessert** (4 taler):
 6. **Helene** – forlover brud (Michelles forlover)
 7. **Even** – forlover brudgom (Anders' forlover)
-8. Takketale brudeparet
+8. **Tom Christian** – venn av Anders (mot slutten)
+9. Takketale brudeparet
 
-**Totalt**: 8 talesekvenser, 10 talere (8 individer + 2 søsken-duoer).
+**Totalt**: 9 talesekvenser, 11 talere (9 individer + 2 søsken-duoer).
 Tidsplan i `tidsplan.md`.
 
 ---

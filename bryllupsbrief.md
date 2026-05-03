@@ -92,6 +92,7 @@ som trenger spesifikk intro-strategi.
 | **Even** | **Forlover brudgom (#40)** – Equinor, treningsfyr | Gym/prestasjon. «Anders i toppform vs. Anders i forhold». | Rask, punchy. |
 | **Helene** | **Forlover brud (#39)** – Landskapsarkitekt, Tromsø | Vill natur vs. kontrollert bryllup. Nordnorsk ro. | Poetisk, myk, elegant. |
 | **Erik Nilsen** | **Anders' far (#22)** – CEO / logistikk / togreparasjon | Togmetaforer: «på rett spor», «forsinkelser i kjærlighetslivet». Flettes inn i foreldre-intro (Tale 3 sammen med Kjersti). | Selvsikker, lett ironisk respekt. |
+| **Tom Christian** | **Brudesvenn / venn av Anders (#56)** | Vennegjeng-historier, langvarig vennskap. Plasseres mot slutten av talerekken (etter forlovere, før takketalen). | Personlig, varm, litt ertende. |
 
 **Viktig endring**: Michelle har **to storesøstre** (Cathrine #9 og
 Anette #15), ikke én som tidligere antatt. Begge skal tale.
@@ -162,6 +163,12 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 *(Ingrid + Ola og Cathrine + Anette ligger i avsnittet over – felles
 intro-maler.)*
 
+**Tom Christian (mot slutten av kvelden)**
+> «Når man har holdt det gående til denne timen i et bryllup, er det fordi
+> det er noe man ikke vil gå glipp av. Neste taler er en god venn av Anders –
+> og det å ha venner som blir værende lenge, både i livet og i bryllupet,
+> sier sitt. Tom Christian – ordet er ditt.»
+
 ---
 
 ## 7. Toastmaster-grep jeg skal holde meg til
@@ -190,6 +197,9 @@ intro-maler.)*
   gjestene.
 - [ ] Nordnorsk-referanser om Helene (forlover brud): sjekk at de er varme, ikke
   klisjéaktige.
+- [ ] **Tom Christian**: bekreft lengde og tekniske behov, plasseres mot
+  slutten av talerekken (etter forlovere, før takketalen). Sjekk uttale av
+  navn og hvordan han kjenner Anders (skole, jobb, vennegjeng?).
 - [ ] Avtale signal med brudepar: når er det nok humor, når vil de ha rolig
   overgang.
 - [ ] Se «Må-se før 26. juni»-videoliste i `resources.md` – én video i uka.

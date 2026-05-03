@@ -551,9 +551,25 @@ Vær så god – Anders' forlover, Even.
 
 ---
 
-### Tale 8 — Takketale brudeparet
+### Intro tale 8 — Tom Christian (venn av Anders)
 
-*[Ingen intro – brudeparet reiser seg når forloveren har satt seg]*
+*[Intro-sang: kort snutt – Hold the Line (#24) eller en kjent vennegjeng-låt, 15 sek]*
+
+Når man har holdt det gående til denne timen i et bryllup, er det fordi
+det er noe man ikke vil gå glipp av.
+
+Neste taler er en god venn av Anders – og det å ha venner som blir
+værende lenge, både i livet og i bryllupet, sier sitt.
+
+Tom Christian – ordet er ditt.
+
+*[Tale 8, 3 min]*
+
+---
+
+### Tale 9 — Takketale brudeparet
+
+*[Ingen intro – brudeparet reiser seg når Tom Christian har satt seg]*
 
 Og nå – kveldens viktigste taler.
 
@@ -563,18 +579,18 @@ Ordet er deres, Michelle og Anders.
 
 ---
 
-## Buffer 10 min (20:15–20:25)
+## Buffer 10 min (20:18–20:28)
 
 For uanmeldte innslag, sanger, videoer, eller om noen har plutselig fått
 mot. Hvis ingenting kommer – gå rett til Stikk 4.
 
 ---
 
-## STIKK 4 — Avrunding + fellessang (20:25, ca 10 min)
+## STIKK 4 — Avrunding + fellessang (20:28, ca 10 min)
 
 Det har vært et tett program.
 
-Åtte taler. Tre retter. Tre Fireball-runder. Ett brudepar.
+Ni taler. Tre retter. Tre Fireball-runder. Ett brudepar.
 
 *(Rule of three med twist.)*
 
@@ -701,6 +717,7 @@ Ingrid + Ola       ████      Crazy Train, søsken-duo
 Stikk 3            ██        Jeg ringte rundt + Altinn-callback
 Helene             ███       Fanga av stormvind
 Even               ████      Thunderstruck-flaske + Rumble
+Tom Christian      ███       Vennegjeng-tale, mot slutten
 Takketale          ██        Brudeparet
 Stikk 4            ███       Take on Me + Fireball 3 + landing
 — DANS —
