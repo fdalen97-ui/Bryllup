@@ -29,17 +29,15 @@ plassering avklares med brudeparet.
 | 1 | Werner Seigerud | Brudens far | Tale 1 (forrett) |
 | 2 | Anders | Brudgom, til bruden | Tale 2 (forrett) |
 | 3 | Kjersti + Erik | Brudgommens foreldre | Tale 3 (forrett) |
-| 4 | Cathrine | **Storesøster til Michelle** | Tale 5a (hovedrett) |
-| 5 | Anette | **Storesøster til Michelle** | Tale 5b (hovedrett) |
-| 6 | Ola | Brudgommens bror | Tale 6 (hovedrett) |
-| 7 | Helene el. Even | Forlover brudgom | Tale 7 (dessert) |
-| 8 | Forlover brud | (må avklares hvem – Helene eller Even er oppført som forlover) | Tale 8 (dessert) |
-| 9 | Michelle + Anders | Takketale | Tale 9 (dessert) |
+| 4 | **Cathrine + Anette** | **Michelles storesøstre – felles tale** | Tale 4 (hovedrett) |
+| 5 | **Ingrid + Ola** | **Anders' søsken – felles tale** | Tale 5 (hovedrett) |
+| 6 | Forlover brud (Helene el. Even) | – | Tale 6 (dessert) |
+| 7 | Forlover brudgom (Helene el. Even) | – | Tale 7 (dessert) |
+| 8 | Michelle + Anders | Takketale | Tale 8 (dessert) |
 
 **Avklaringsbehov**:
 - [ ] Hvem er forlover for bruden og hvem for brudgommen? Helene (#39) og
   Even (#40) er oppført som forlovere – hvem er på hvilken side?
-- [ ] Skal Anders' søster Ingrid (#25) tale? Hun er ikke meldt inn enda.
 - [ ] Skal «Erik Nilsen» (CEO/tog-metaforer fra `bryllupsbrief.md` §3)
   tale? Han står ikke på gjestelisten – er dette samme person som Erik
   (#22, Anders' far), eller en annen? **Må avklares.**
@@ -86,7 +84,7 @@ plassering avklares med brudeparet.
 | 22 | **Erik** | **Far** | ✅ Tale 3 (sammen med Kjersti) |
 | 23 | **Ola** | **Bror** | ✅ Tale 6 |
 | 24 | Anna | Bror + 1 (Olas partner) | – |
-| 25 | Ingrid | Søster | (avklares – skal hun tale?) |
+| 25 | **Ingrid** | **Søster** | ✅ Tale 5 (felles med Ola) |
 | 26 | Markus | Søster + 1 (Ingrids partner) | – |
 | 27 | Anne Eva | Bestemor | – |
 | 28 | Torill | Bestemor | – |
@@ -241,29 +239,26 @@ Niese/nevø på brud-side: Celina, Mathias, Nicoline, Eldgeir, Anna, Jacob
 2. Anders – til bruden
 3. Kjersti + Erik – brudgommens foreldre
 
-**Hovedrett** (4 taler – NY, én til enn tidligere):
-4. ~~Erik Nilsen~~ – **avklares om denne taleren eksisterer**
-5a. Cathrine – Michelles storesøster
-5b. Anette – Michelles storesøster
-6. Ola – brudgommens bror
+**Hovedrett** (2 felles-taler):
+4. **Cathrine + Anette** – Michelles storesøstre, felles tale
+5. **Ingrid + Ola** – Anders' søsken, felles tale
 
 **Dessert** (3 taler):
-7. Forlover brud
-8. Forlover brudgom
-9. Takketale brudeparet
+6. Forlover brud
+7. Forlover brudgom
+8. Takketale brudeparet
 
-**Totalt**: 9 talere hvis Erik Nilsen kuttes, 10 hvis han beholdes.
-Tidsplanen i `tidsplan.md` må oppdateres.
+**Totalt**: 8 talesekvenser, 10 talere (8 individer + 2 søsken-duoer).
+Tidsplan i `tidsplan.md`.
 
 ---
 
 ## 7. Åpne spørsmål (prioritert)
 
+- [x] Cathrine og Anette – **felles tale** bekreftet.
+- [x] Ingrid og Ola – **felles tale** bekreftet.
 - [ ] Eksisterer Erik Nilsen som separat taler? Eller var det
   forvekslet med Erik (#22, Anders' far)?
-- [ ] Ingrid (#25, Anders' søster) – skal hun tale?
 - [ ] Helene (#39) og Even (#40) – hvem er forlover for hvem?
-- [ ] Vil Cathrine og Anette ha **separate intro og egen taler** eller
-  **felles tale**? Begge alternativer fungerer – påvirker tidsplanen.
 - [ ] Alder på barna – for barnesittings og ørepropper.
 - [ ] Mormors og bestemødres mobilitet – tilgang/plassering.

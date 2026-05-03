@@ -195,24 +195,28 @@ PowerPoint-slide for hver påstand. Klikker bytter slide hvert 15. sekund.
 
 ---
 
-## 7. Dramaturgisk plassering – sjekk mot tidsplan
+## 7. Dramaturgisk plassering – sjekk mot tidsplan (oppdatert til buffet 17:30)
 
 ```
-Stikk 1     Servietter + Rumble + skål
-17:46       Werner Seigerud → 🍺 Helan går (obligatorisk skål)
-17:52       Anders til bruden
-17:57       → 🔥 FIREBALL RUNDE 1
-18:05       Pause 1
-18:45       Stikk 2 (mulig Vi e fra Norge her)
-            Cathrine → Anette → Ola
-19:02       Pause 2 → 🔥 FIREBALL RUNDE 2 (midt i pausen)
-19:55       Stikk 3
+17:30       Stikk 1 – servietter + Rumble + brudeparet inn
+17:38       Buffet 1 åpner – forrett
+18:01       Werner Seigerud → 🍺 Helan går (obligatorisk skål)
+18:08       Anders til Michelle → 🔥 FIREBALL RUNDE 1
+18:15       Anders' foreldre (Kjersti + Erik)
+18:20       Pissepause 10 min
+18:30       Buffet 2 åpner – hovedrett
+19:00       Stikk 2 (Fredrik som fetter)
+            Cathrine + Anette (felles) → Ingrid + Ola (felles)
+19:17       Pause 23 min → 🔥 FIREBALL RUNDE 2 (midt i pausen)
+19:40       Buffet 3 / dessert
+20:00       Stikk 3 (Jeg ringte rundt)
             Forlover brud
-20:02       → ⚡ THUNDERSTRUCK-flaske + forlover brudgom
-20:06       Takketale
-20:19       Stikk 4: Take on Me + ev. We Didn't Start the Fire
-20:29       → 🔥 FIREBALL RUNDE 3 (sparkstart dans)
-20:30       DANS
+20:07       → ⚡ THUNDERSTRUCK-flaske + forlover brudgom
+20:12       Takketale
+20:25       Stikk 4: Take on Me
+20:35       → 🔥 FIREBALL RUNDE 3 (sparkstart dans)
+20:37       DANS
+01:00       Siste buss (forslag)
 ```
 
 ---
