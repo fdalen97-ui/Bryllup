@@ -384,17 +384,103 @@ før noen her begynner å hviske om det til sidemannen.
 
 ---
 
-*[A-story – B-story – A-callback (fra `standup-teknikk.md` §8). Konkret
-anekdote om Anders som fetter. Fylles inn etter telefonrunden – 2-3 min:]*
+*[A-story – B-story – A-callback (fra `standup-teknikk.md` §8). Bygd på
+brudeparets egne notater fra møtet – råmateriale i `notatbank.md` §7.2.]*
 
-- **A1** (60 sek): første minne om Anders fra barndommen / familieselskap
-- **B** (90 sek): én karakteristisk Anders-historie som lander hvem han er
-  (pitch deck-obsesjon, dykking, optimering)
-- **A2** (60 sek): tilbake til åpningsscenen, nå med ny mening
-- **Landing** (30 sek): hva alt dette sier om Anders som menneske – og
-  hvorfor Michelle er den rette
+---
 
-*(Plassholder – fylles etter telefonrunden.)*
+### A1 — Tre tilfeldigheter (60 sek)
+
+Det er en fortelling som starter lenge før noen av oss var i nærheten av
+et bryllup.
+
+Anders og Michelle ble født på samme sykehus.
+
+De ble døpt samme dag.
+
+De ble konfirmert samme dag.
+
+*(Pause. La det synke inn.)*
+
+Det er ikke kjærlighet. Det er logistikk så presis at den kunne vært
+levert av Erik Nilsen personlig.
+
+*(Liten Erik Nilsen-callback til Tale 4.)*
+
+---
+
+### B — Skoleballet i 6. klasse, og en sommer som nesten avgjorde det (90 sek)
+
+Det første ekte tegnet kom i 6. klasse.
+
+Skoleballet. Anders – tolv år gammel, allerede god på fest. Michelle –
+tolv år gammel, og hun visste nøyaktig hva hun gjorde.
+
+Det er en av Cathrine og Anettes favoritthistorier. Sitatet fra de to
+storesøstrene har gått igjen i alle familieselskaper siden:
+
+> «Hu player deg rundt lillefingern, Anders.»
+
+*(Pause. Smil.)*
+
+Og det gjorde hun. I årevis.
+
+Helt til sommeren 2015.
+
+*(Endre rytme. Senke stemmen.)*
+
+Sommeren 2015 «gadd ikke Anders mer». Det var hans formulering, ikke min.
+Tre–fire uker uten dialog. Stille. Slutt.
+
+Familien lurte. Vennegjengen lurte. Werner lurte sannsynligvis også,
+men sa ingenting – Werner sier sjelden noe.
+
+Også – og dette er hjertet av historien – så Anders et bilde på
+Instagram. Even, forloveren hans, sto med noen jenter. Anders så på
+bildet. Og spurte seg selv:
+
+> «Hvem faen er denne jenta?»
+
+Det var ikke Even som var problemet. Det var én jente på bildet, som
+ikke var Michelle.
+
+*(Pause.)*
+
+I det øyeblikket forstod Anders – som han senere har innrømmet – at det
+var én han ville se på Even-bilder i fremtiden. Og det var Michelle.
+
+---
+
+### A2 — Tacoen, oktober, og julaften (60 sek)
+
+Tre uker senere lagde de taco sammen.
+
+I oktober var de basically sammen.
+
+På julaften ble det offisielt.
+
+*(Pause.)*
+
+Tre tilfeldigheter ved fødsel, dåp og konfirmasjon. Én sommer med
+stillhet. Ett Insta-bilde. Én tacomiddag. Én julaften.
+
+Det er sjelden et forhold har så tydelige kapittelinndelinger.
+
+---
+
+### Landing (30 sek)
+
+Det vi kan lære av denne historien er ikke at kjærlighet er enkel. Det
+er at den noen ganger trenger en pause – og noen ganger trenger den et
+bilde av en feil jente før vi forstår hvem som er den rette.
+
+Anders forstod det i 2015.
+
+Michelle forstod det rundt julaften.
+
+Og resten av oss forstod det da vi så dem komme inn her i kveld.
+
+*(Pause.)*
 
 ---
 
@@ -402,8 +488,8 @@ Som i alle gode prosjekter: noen sørger for struktur, andre bringer kaos.
 
 Anders bringer begge. Samtidig.
 
-Og Michelle – hun har funnet ut hvordan vi alle har lurt på: hvordan
-få Anders til å sitte stille i fem minutter.
+Og Michelle – hun er den som har funnet ut det vi alle har lurt på:
+hvordan få Anders til å sitte stille i fem minutter.
 
 *(Rød tråd 2/4)*
 
