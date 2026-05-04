@@ -85,8 +85,9 @@ som trenger spesifikk intro-strategi.
 
 | Person | Rolle | Humorvinkel | Tone i intro |
 |--------|-------|-------------|--------------|
-| **Werner Seigerud** | Brudens far (#7) | «ROI på oppdragelse». Pappa-linjer som lander varmt. | Respektfull, la emosjonell tyngde komme frem. |
-| **Kjersti + Erik** | Brudgommens foreldre (#21 + #22) | «Arv eller miljø» – hvor kommer Anders' kombinasjon av start-up og dykking fra? (Lars/Julie §3.3) | Varm, familiær. |
+| **Werner Seigerud** | Brudens far (#7) – staut, snill, rolig, chill, **ordknapp** | «ROI på oppdragelse». Pappa-linjer som lander varmt. Speil hans rytme – korte setninger, ingen oppjaging. | Rolig, respektfull, lavmælt. Han er trygg – ikke jag ham. |
+| **Mai-Britt** (kontekst, ikke taler) | Michelles mor (#3) – **prattsom** (mer enn Sissel), artig | Brukes som kontrast til Werner i hans intro: «én prater hele tiden, én er ordknapp». | – |
+| **Kjersti + Erik Nilsen** | Brudgommens foreldre (#21 + #22) – Erik: pengebevisst, snill, sta, arbeidsom | «Arv eller miljø» (Lars/Julie §3.3) flettet med tog-metafor. | Varm, familiær. |
 | **Cathrine + Anette** | **Michelles to storesøstre (#9 + #15)** – **felles tale** | «To storesøstre = dobbel kjærlighet, dobbel oppdragelse. Michelle har aldri kommet unna med noenting.» | Varm + ertende, søster-duo. |
 | **Ingrid + Ola** | **Anders' søsken (#23 + #25)** – **felles tale** | Søsken-rivalisering: Ola = sportsbilen, Ingrid = den som husker hva som skjedde. «To mot én Anders.» | Raskt, røft + varmt. |
 | **Even** | **Forlover brudgom (#40)** – Equinor, treningsfyr | Gym/prestasjon. «Anders i toppform vs. Anders i forhold». | Rask, punchy. |
@@ -140,19 +141,24 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 > Disse er startpunkt. Finpuss i siste uke når du kjenner rommet.
 
 **Brudens far – Werner Seigerud**
-> «Noen investeringer måles i kroner. Andre i år, tårer og stolthet. Neste
-> taler har gjort den viktigste investeringen i sitt liv – og i kveld får vi
-> se avkastningen gå opp kirkegulvet. Ordet er ditt, Werner.»
+> «Noen menn snakker mye. Werner er ikke en av dem. Når han først sier
+> noe, er det fordi det er verdt å høre. Brudens far – Werner.»
+
+*(Speil hans rytme. Korte setninger. Lite energi i intro-en, mye varme.
+Ikke jag ham frem.)*
 
 **Cathrine + Anette (felles tale – Michelles storesøstre)**
-> «Michelle har ikke én storesøster. Hun har to. Det betyr at hun aldri
-> har kommet unna med noenting. Først ut – Cathrine og Anette i felles
-> regi.»
+> «Michelle har ikke én storesøster. Hun har to. Det er som å vokse opp
+> med tre mammaer – det er ingenting man kommer unna med. Mens andre lærte
+> å sykle, lærte Michelle å holde takten med to arbeidsjern som kjente
+> henne bedre enn hun kjente seg selv. Og som har kalt Anders nerd siden
+> første dag. Først ut – Cathrine og Anette.»
 
 **Ingrid + Ola (felles tale – Anders' søsken)**
 > «Michelle har to storesøstre. Anders har én bror og én søster. Balansen
-> er tilbake. Sportsbil og familieminne, kommer i samlet pakke. Ta imot
-> – Ingrid og Ola.»
+> er tilbake. Ola er tøffingen som lever i hardtarbeidende festmodus.
+> Ingrid er den gamle sjelen som har holdt øye med oss alle. Sammen får
+> de fem minutter til å avsløre hvem broren deres egentlig er. Ta imot.»
 
 **Forlover (brudgom)**
 > «Neste mann kjenner Anders på godt og vondt – og på benkpress. Han vet hva

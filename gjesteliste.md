@@ -26,10 +26,9 @@ plassering avklares med brudeparet.
 
 | # | Taler | Relasjon | Plass i manuset |
 |---|-------|----------|-----------------|
-| 1 | Werner Seigerud | Brudens far | Tale 1 (forrett) |
+| 1 | Werner Seigerud | Brudens far | Tale 1 (forrett, FØR mat) |
 | 2 | Anders | Brudgom, til bruden | Tale 2 (forrett) |
-| 3 | Kjersti + Erik Nilsen | Brudgommens foreldre | Tale 3 (forrett) |
-| 3 | **Michelle** | **Brudens tale – feminin og fornem, paret-utveksling** | Tale 3 (forrett, etter Anders) |
+| 3 | **Michelle** | **Brudens tale – paret-utveksling, etter Anders** | Tale 3 (forrett) |
 | 4 | Kjersti + Erik Nilsen | Brudgommens foreldre | Tale 4 (forrett) |
 | 5 | **Cathrine + Anette** | **Michelles storesøstre – felles tale** | Tale 5 (hovedrett) |
 | 6 | **Ingrid + Ola** | **Anders' søsken – felles tale** | Tale 6 (hovedrett) |
