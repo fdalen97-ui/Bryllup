@@ -29,12 +29,19 @@ plassering avklares med brudeparet.
 | 1 | Werner Seigerud | Brudens far | Tale 1 (forrett) |
 | 2 | Anders | Brudgom, til bruden | Tale 2 (forrett) |
 | 3 | Kjersti + Erik Nilsen | Brudgommens foreldre | Tale 3 (forrett) |
-| 4 | **Cathrine + Anette** | **Michelles storesøstre – felles tale** | Tale 4 (hovedrett) |
-| 5 | **Ingrid + Ola** | **Anders' søsken – felles tale** | Tale 5 (hovedrett) |
-| 6 | **Helene** | **Forlover brud (Michelles forlover)** | Tale 6 (dessert) |
-| 7 | **Even** | **Forlover brudgom (Anders' forlover)** | Tale 7 (dessert) |
-| 8 | **Tom Christian** | **Brudesvenn / venn av Anders (#56)** | Tale 8 (dessert, mot slutten) |
-| 9 | Michelle + Anders | Takketale | Tale 9 (dessert) |
+| 3 | **Michelle** | **Brudens tale – feminin og fornem, paret-utveksling** | Tale 3 (forrett, etter Anders) |
+| 4 | Kjersti + Erik Nilsen | Brudgommens foreldre | Tale 4 (forrett) |
+| 5 | **Cathrine + Anette** | **Michelles storesøstre – felles tale** | Tale 5 (hovedrett) |
+| 6 | **Ingrid + Ola** | **Anders' søsken – felles tale** | Tale 6 (hovedrett) |
+| 7 | **Kongsvinger-vennene** | **Michelles barndomsvenner – gruppe-tale** | Tale 7 (hovedrett) |
+| 8 | **«Feminin og fornem»** | **Michelles Ås-gjeng (NMBU studievenninner) – gruppe-tale** | Tale 8 (hovedrett) |
+| 9 | **Helene** | **Forlover brud (Michelles forlover)** | Tale 9 (dessert) |
+| 10 | **Even** | **Forlover brudgom (Anders' forlover)** | Tale 10 (dessert) |
+| – | **Broderskapet Unity** | **Anders' Ås-vennegjeng – INNSLAG (sang/sketsj/tale)** | Innslag (dessert) |
+| 11 | **Tom Christian** | **Brudesvenn / venn av Anders – KVELDENS SISTE TALE** | Tale 11 (dessert) |
+
+**MERK**: Felles takketale fra brudeparet er **droppet**. Tom Christian
+lukker talerekken. Broderskapet Unity er et innslag (ikke nummerert tale).
 
 **Avklart**:
 - [x] Helene (#39) = Michelles forlover, Even (#40) = Anders' forlover
@@ -237,17 +244,26 @@ Niese/nevø på brud-side: Celina, Mathias, Nicoline, Eldgeir, Anna, Jacob
 2. Anders – til bruden
 3. Kjersti + Erik – brudgommens foreldre
 
-**Hovedrett** (2 felles-taler):
-4. **Cathrine + Anette** – Michelles storesøstre, felles tale
-5. **Ingrid + Ola** – Anders' søsken, felles tale
+**Forrett** (4 taler):
+1. Werner Seigerud – brudens far (FØR mat)
+2. Anders til Michelle
+3. **Michelle til Anders – brudens tale (NY POSISJON, tidlig)**
+4. Kjersti + Erik Nilsen – Anders' foreldre
 
-**Dessert** (4 taler):
-6. **Helene** – forlover brud (Michelles forlover)
-7. **Even** – forlover brudgom (Anders' forlover)
-8. **Tom Christian** – venn av Anders (mot slutten)
-9. Takketale brudeparet
+**Hovedrett** (4 taler):
+5. **Cathrine + Anette** – Michelles storesøstre, felles tale
+6. **Ingrid + Ola** – Anders' søsken, felles tale
+7. **Kongsvinger-vennene** – Michelles barndomsvenner, gruppe-tale
+8. **«Feminin og fornem»** – Michelles Ås-gjeng (NMBU), gruppe-tale
 
-**Totalt**: 9 talesekvenser, 11 talere (9 individer + 2 søsken-duoer).
+**Dessert** (3 taler + 1 innslag):
+9. **Helene** – forlover brud (Michelles forlover)
+10. **Even** – forlover brudgom (Anders' forlover)
+–. **Broderskapet Unity** – Anders' Ås-vennegjeng, INNSLAG (sang/sketsj)
+11. **Tom Christian** – venn av Anders, **KVELDENS SISTE TALE**
+
+**Totalt**: 11 talesekvenser + 1 innslag. Felles takketale droppet.
+Michelle holder sin tale tidlig som paret-utveksling med Anders.
 Tidsplan i `tidsplan.md`.
 
 ---
@@ -258,5 +274,10 @@ Tidsplan i `tidsplan.md`.
 - [x] Ingrid og Ola – **felles tale** bekreftet.
 - [x] Erik Nilsen = **Anders' far (#22)**, samme person.
 - [x] Helene (#39) = **Michelles forlover**. Even (#40) = **Anders' forlover**.
+- [x] **Michelle (bruden) holder tale** – kveldens avslutning, erstatter takketale.
+- [x] **Kongsvinger-vennene** holder gruppe-tale (Tale 7).
+- [x] **«Feminin og fornem»** = Ås-gjengen (Michelles NMBU-venninner) holder gruppe-tale (Tale 8).
+- [x] **Broderskapet Unity** = Anders' Ås-vennegjeng holder innslag (sang/sketsj) i dessert-bolken.
+- [ ] **Hvilke gjester utgjør Kongsvinger-vennene, Ås-gjengen, Broderskapet Unity?** Avklar talspersoner og format for hvert.
 - [ ] Alder på barna – for barnesittings og ørepropper.
 - [ ] Mormors og bestemødres mobilitet – tilgang/plassering.

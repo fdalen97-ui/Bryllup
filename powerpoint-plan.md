@@ -65,14 +65,20 @@ de er max 10 sek og testet flere ganger.
 | 12 | Tale 3 – Anders' foreldre | Bilde + navn | Før de reiser seg | Klikk |
 | 13 | Pause 1 | «10 min – strekk beina» + nedteller | Pausen | Klikk |
 | 14 | Stikk 2 åpner | Sort slide | Når Fredrik begynner | Klikk |
-| 15 | Tale 4 – Cathrine + Anette | Bilde av begge + «Michelles storesøstre» | Før de reiser seg | Klikk |
-| 16 | Tale 5 – Ingrid + Ola | Bilde av begge + «Anders' søsken» | Før de reiser seg | Klikk |
+| 14a | Tale 3 – Michelle (brudens tale) | Bilde + «Michelle, bruden» | Etter Anders' tale | Klikk |
+| 14b | Tale 4 – Kjersti + Erik Nilsen | Bilde + «Anders' foreldre» | Etter Michelles tale | Klikk |
+| 15 | Tale 5 – Cathrine + Anette | Bilde av begge + «Michelles storesøstre» | Før de reiser seg | Klikk |
+| 15b | Tale 6 – Ingrid + Ola | Bilde av begge + «Anders' søsken» | Før de reiser seg | Klikk |
+| 15c | Tale 7 – Kongsvinger-vennene | Bilde av gruppe + «Michelles barndomsvenner» | Før de reiser seg | Klikk |
+| 15d | Tale 8 – «Feminin og fornem» | Bilde av gruppe + «Michelles Ås-gjeng (NMBU)» | Før de reiser seg | Klikk |
 | 18 | Pause 2 | «20 min – kaffe + Fireball» | Pausen | Klikk |
 | 19 | 🔥 FIREBALL RUNDE 2 | Brann-grafikk | Midt i pausen | Klikk |
 | 20 | Stikk 3 åpner | Sort slide | Når Fredrik begynner | Klikk |
-| 21 | Tale 6 – Helene | Bilde + «Helene, Michelles forlover» | Før hun reiser seg | Klikk |
+| 21 | Tale 9 – Helene | Bilde + «Helene, Michelles forlover» | Før hun reiser seg | Klikk |
 | 22 | ⚡ THUNDERSTRUCK | AC/DC-stilig grafikk + «Hver "thunder" = drikk» | Før Even-intro | Klikk |
-| 23 | Tale 7 – Even | Bilde + «Even, Anders' forlover» | Etter Thunderstruck-flaska | Klikk |
+| 23 | Tale 10 – Even | Bilde + «Even, Anders' forlover» | Etter Thunderstruck-flaska | Klikk |
+| 23a | Innslag – Broderskapet Unity | Bilde av gruppe + «Anders' Ås-vennegjeng» | Før de starter | Klikk |
+| 23b | Tale 11 – Tom Christian | Bilde + «Tom Christian, venn av Anders – kveldens siste tale» | Før han reiser seg | Klikk |
 | 24 | Takketale brudeparet | Bilde av Michelle & Anders | Når de reiser seg | Klikk |
 | 25 | Stikk 4 åpner | Sort slide | Når Fredrik begynner | Klikk |
 | 26–35 | Take on Me-påstander | Én påstand per slide, stor font | Sangen rulles, klikk hvert 15 sek | Klikk |

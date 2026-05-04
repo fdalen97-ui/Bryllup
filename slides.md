@@ -59,16 +59,21 @@ Trigges med klikker. Dedikert musikkansvarlig kan overstyre hvis nødvendig.
 - Vises 10 sek før taleren reiser seg
 - Én slide per talesekvens, totalt 9 stk
 
-Slides (9 talesekvenser):
+Slides (11 talesekvenser + 1 innslag):
 - **Werner Seigerud** – brudens far (Tale 1, FØR mat)
 - **Anders** – brudgom, til Michelle (Tale 2)
-- **Kjersti & Erik Nilsen** – Anders' foreldre (Tale 3, tog-metafor)
-- **Cathrine + Anette** – Michelles storesøstre, felles tale (Tale 4)
-- **Ingrid + Ola** – Anders' søsken, felles tale (Tale 5)
-- **Helene** – Michelles forlover (Tale 6)
-- **Even** – Anders' forlover (Tale 7)
-- **Tom Christian** – venn av Anders (Tale 8, mot slutten)
-- **Takketale** – Michelle & Anders (Tale 9)
+- **Michelle** – brudens tale (Tale 3, paret-utveksling)
+- **Kjersti & Erik Nilsen** – Anders' foreldre (Tale 4, tog-metafor)
+- **Cathrine + Anette** – Michelles storesøstre, felles tale (Tale 5)
+- **Ingrid + Ola** – Anders' søsken, felles tale (Tale 6)
+- **Kongsvinger-vennene** – Michelles barndomsvenner, gruppe-tale (Tale 7)
+- **«Feminin og fornem»** – Michelles Ås-gjeng (NMBU), gruppe-tale (Tale 8)
+- **Helene** – Michelles forlover (Tale 9)
+- **Even** – Anders' forlover (Tale 10)
+- **Broderskapet Unity** – Anders' Ås-vennegjeng (INNSLAG, sang/sketsj)
+- **Tom Christian** – venn av Anders (Tale 11, KVELDENS SISTE TALE)
+
+**MERK**: Felles takketale fra brudeparet er droppet.
 
 ---
 

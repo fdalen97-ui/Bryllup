@@ -119,6 +119,24 @@ leser `standup-teknikk.md`.
 
 ---
 
+## Norske komikere – for tone og rytme-skole
+
+For norsk bryllup matcher norske komikeres rytme bedre enn amerikansk
+klubbhumor. Bruk dem som **stilforbilde**, ikke material-bank
+(`standup-teknikk.md` §12 forklarer konverteringsprosessen).
+
+- **Sigrid Bonde Tusvik** – sjekk NRK Latter-spesialer, podcast *Tusvik & Tønne*
+- **Henrik Thodesen** – YouTube-klipp og Latter-arkivet
+- **Else Kåss Furuseth** – NRK, podcast *Kåss til kvelds*
+- **Dagfinn Lyngbø** – NRK-spesialer, dialekt-varme
+- **Anne-Kat Hærland** – YouTube, NRK
+- **Atle Antonsen** – NRK, podcast (absurd humor)
+- **Rune Andersen** – NRK Latter (tørr punchline-mester)
+- **Espen Eckbo** – sketsj-arkivet på NRK
+- [NRK TV – Latter](https://tv.nrk.no/serie/latter) – arkiv av norsk standup
+
+---
+
 ## Stand-up comedy – teknikk
 
 Crowd work og timing overføres direkte til 20–40 sek intro. Ikke for å
