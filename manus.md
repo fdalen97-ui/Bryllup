@@ -24,6 +24,51 @@ Henvisninger:
 
 ---
 
+## Leveringsnøkkel – tone, trykk, pauser
+
+Alle regi-merknader i manuset følger dette systemet. Lær det utenat før
+første høytlesning. Notasjonen er der for å hjelpe deg styre rytmen –
+**ikke** for å lese opp.
+
+### Pauser
+- *(beat)* – kort stopp, ca 1 sek. Brukes for å la en setning sette seg.
+- *(2 sek)* – tydelig pause, gir publikum tid til å tenke.
+- *(3 sek)* – tung pause, brukes før eller etter punchline.
+- *(LAND)* – lang pause (4–6 sek). Brukes når et øyeblikk skal lande
+  emosjonelt. Hold blikket. Ikke fyll stillheten.
+
+### Tempo og volum
+- *—tempo ned—* / *—tempo opp—* – juster talehastighet
+- *—volum ned—* / *—volum opp—* – juster styrke
+- *—register ned—* – senke tonehøyden, brukes ved alvor
+- *—register opp—* – heve tonehøyden, brukes ved energi
+
+### Stemme og levering
+- *(varm)* / *(tørr)* / *(ironisk)* / *(dempet)* / *(myk)* – tonefall
+- *(beat – la latter komme)* – stopp og la rommet le ferdig
+- *(smil)* – fysisk smil før setning, kalibrerer stemmen
+- *(løft øyenbryn)* / *(rolig blikk)* – mikrouttrykk
+
+### Blikk og kropp
+- *[blikk: NAVN]* – direkte øyekontakt med navngitt person
+- *[blikk: bord X]* – søk ut et spesifikt bord
+- *[blikk: rom]* – la blikket sveipe over hele rommet
+- *[hender: åpne]* / *[hender: ned]* – gestikk
+- *[skritt mot NAVN]* – beveg deg fysisk mot personen
+
+### Strukturmarkører
+- *[A1] / [B] / [A2] / [LANDING]* – story-arkitektur (fra §8 standup-teknikk)
+- *[RØD TRÅD x/4]* – plant av kveldens røde tråd
+- *[CHEKHOV PLANT]* / *[CHEKHOV PAY OFF]* – kveldens narrative kroker
+
+### Generelle regler
+1. **Pauser er ikke tomme** – de er en del av leveringen.
+2. **Aldri jag fra punchline til neste linje** – la latteren puste ut.
+3. **Pust mellom hver markert pause** – inn 2 sek, ut 4 sek.
+4. **Hvis du glemmer regi: pause, smil, fortsett.** Ingen merker det.
+
+---
+
 ## FØR STIKK 1 — Hvite servietter på bordene
 
 **Regi**: Alle bord er dekket med **hvite stoffservietter**, foldet som
@@ -47,153 +92,336 @@ eget bord, mygg på. Brudeparet venter utenfor.*
 
 ### A — Varm velkomst + wow-moment
 
-Velkommen alle sammen!
+*[blikk: rom, sveipe sakte. Hender åpne. Smil før første ord.]*
+
+*—tempo ned—* *—volum middels—*
+
+Velkommen alle sammen.
+
+*(2 sek)*
 
 Takk for en strålende dag så langt. Dette har jeg gleda meg lenge til.
 
+*(beat)*
+
 Wow for et lokale. Wow for en dag.
 
-Maarud Gård – hjemmet til norske chips. Jeg skal være ærlig: jeg
-forventet Crispo til forrett. Men kjøkkenet har fått andre instrukser.
+*(beat)*
 
-*(Pause. Smil. Første latter skal lande her – innen 25 sek inn.)*
+Maarud Gård. Hjemmet til norske chips.
+
+*(beat – la setningen sette seg)*
+
+*(tørr)* Jeg skal være ærlig: jeg forventet Crispo til forrett.
+
+*(2 sek – la latteren komme)*
+
+Men kjøkkenet har fått andre instrukser.
+
+*(beat – la latter dempes)* *[REGEL: første latter skal lande før 25 sek.]*
 
 ---
 
 ### B — Egen troverdighet (hvem er jeg + hvordan kjenner jeg brudeparet)
 
-Mitt navn er Fredrik, og jeg er kveldens toastmaster.
+*—tempo middels—*
 
-Jeg er også Anders' fetter – så jeg har full tilgang til materialet.
-Mer om det senere.
+Mitt navn er Fredrik. Jeg er kveldens toastmaster.
 
-*(Pause)*
+*(beat)*
 
-Før noen lurer – ja, jeg ble valgt. Men ikke som førstevalg. Eller andre.
+Jeg er også Anders' fetter.
+
+*(2 sek)* *(tørr)* Så jeg har full tilgang til materialet.
+
+*(2 sek)*
+
+Det skal vi komme tilbake til.
+
+*(LAND – 4 sek. La det henge.)*
+
+*(varm, dempet)* For ordens skyld:
+
+*(beat)*
+
+Jeg var faktisk imot at de ble sammen.
+
+*(LAND – 4 sek. Pause er hele jobben her. Ikke fyll den.)*
+
+*[CHEKHOV PLANT 1: «jeg var imot». Pay off i Stikk 2 mellom B og A2.]*
+
+*(rolig)* Jeg kommer tilbake til det.
+
+*(2 sek)*
+
+---
+
+*—tempo opp—*
+
+*[blikk: Werner. Smil.]*
+
+Men før jeg gjør det – la meg innrømme noe annet.
+
+Jeg ble valgt som toastmaster.
+
+Men ikke som førstevalg.
+
+*(beat)*
+
+Eller andre.
+
+*(beat)*
+
 Jeg ble valgt gjennom det som best kan beskrives som en offentlig
 anbudskonkurranse.
 
-Billigst og tilgjengelig vant.
+*(2 sek)*
 
-Brudens far – Werner – ville egentlig ha en profesjonell konferansier.
-Men så sjekket han prisen, og da ble det meg.
+*(tørr)* Billigst og tilgjengelig vant.
 
-Gratulerer. Dere får altså taler på budsjett.
+*(beat – la latter komme)*
 
-*(Pause)*
+Werner ville egentlig ha en profesjonell konferansier.
 
-Jeg jobber i det offentlige, så ting tar jævlig lang tid. Men dere skal
-få talene – de ligger på Altinn til godkjenning.
+*(beat)* Men så sjekket han prisen.
 
-*(Plant for callback i Stikk 3.)*
+*(2 sek)*
 
-Sannheten er at jeg aldri har vært toastmaster før. Så jeg brukte flere
-timer på internett. Etter hvert var jeg tom for toalettpapir, og hadde
-fremdeles ingen aning om hvordan jeg skulle være toastmaster.
+*(varm)* Gratulerer. Dere får altså taler på budsjett.
 
-Men nå står jeg her.
+*(beat – la latter dempes)*
+
+---
+
+*—tempo ned—* *—register ned—*
+
+Jeg jobber i det offentlige, så ting tar jævlig lang tid.
+
+*(beat)*
+
+Men dere skal få talene.
+
+*(2 sek)*
+
+*(tørr)* De ligger på Altinn til godkjenning.
+
+*(beat – la latter komme)*
+
+*[CHEKHOV PLANT 2: «Altinn». Pay off i Stikk 3 «svarene kom inn på Altinn».]*
+
+---
+
+*(varm, mer dempet)*
+
+Sannheten er at jeg aldri har vært toastmaster før.
+
+*(beat)*
+
+Så jeg brukte flere timer på internett.
+
+*(beat)*
+
+Etter hvert var jeg tom for toalettpapir, og hadde fremdeles ingen
+aning om hvordan jeg skulle være toastmaster.
+
+*(2 sek)*
+
+*(myk)* Men nå står jeg her.
+
+*(LAND – 3 sek)*
 
 ---
 
 ### C — Setter tonen
 
+*—tempo opp—* *—volum opp—*
+
 Dette blir en innmari kul fest.
+
+*(beat)*
 
 Vi skal kose oss til de sene nattestimer. Det er vårt ansvar her i
 kveld å hoie opp brudeparet, talerne og de som trenger det mest.
 
-*(Pause)*
+*(2 sek)*
+
+*—tempo ned—* *(varm)*
 
 Alle gode prosjekter trenger en plan.
 
-*(Rød tråd 1/4 – ikke annonser den, la den ligge.)*
+*[RØD TRÅD 1/4 – ikke annonser den. La den ligge.]*
 
-Her er kveldens: 8 talesekvenser, 3 retter (forrett – hovedrett –
-dessert) og 2 pauser.
+*(2 sek)*
+
+*—tempo middels—*
+
+Her er kveldens: 11 talesekvenser, 1 innslag, 3 retter, 2 pauser, 3
+runder Fireball.
+
+*(beat)*
+
+*(tørr)* Vi skal være effektive, men ikke korte.
 
 ---
 
 ### D — Brudeparet inn (servietter som startflagg)
 
+*—volum opp—* *—tempo opp—*
+
+*[CHEKHOV PLANT 3: servietten – pay off rett etter, og igjen i Stikk 4.]*
+
 Og nå – det viktigste i hele kvelden.
 
-*(Rytmeskifte. Mer volum.)*
+*(2 sek – bytt rytme markant)*
 
-Jeg ber dere reise dere. Og ta serviettene deres – hvit, foldet, på bordet
-foran dere.
+Jeg ber dere reise dere.
 
-*(Vent til alle er oppe og har servietten.)*
+*(vent til folk reiser seg)*
 
-Dette er startflagget. Når musikken begynner, svinger vi dem. Høyt. Og
-jubler.
+Og ta serviettene deres – hvit, foldet, på bordet foran dere.
 
-Klare?
+*(vent til alle har servietten)*
+
+*(varm, høyere energi)*
+
+Dette er startflagget.
+
+Når musikken begynner, svinger vi dem. Høyt.
+
+*(beat)*
+
+Og jubler.
+
+*(beat)* *(løft øyenbryn)* Klare?
 
 *[DJ: Let's Get Ready to Rumble! – full volum]*
+
+*—volum: full—*
 
 Og med det ber jeg alle juble inn kveldens enestående brudepar – ta dem
 imot:
 
 **Michelle og Anders!**
 
-*(Brudeparet kommer inn mens gjestene svinger servietter. 30–45 sek.)*
+*[brudeparet inn 30–45 sek. Stå på siden, klapp med, ikke snakk.]*
 
 ---
 
 ### E — Regi-info etter at brudeparet sitter
 
+*[vent til de sitter. 3 sek stillhet. Smil mot dem.]*
+
+*—volum ned—* *—tempo middels—*
+
 Og med det – jada, det blir et sånt bryllup.
 
-Det er bare å spenne fast setebeltet. Tre timer mat, taler og stemning.
+*(2 sek – la rommet le)*
 
-*(Pause. Hold tempoet ned.)*
+*(varm)* Det er bare å spenne fast setebeltet. Tre timer mat, taler og
+stemning.
 
-Et par praktiske ting:
+*(2 sek)*
+
+---
+
+*—tempo ned—* *(rolig)*
+
+Et par praktiske ting.
+
+*(beat)*
 
 Det blir tradisjoner i kveld – tramping i gulvet og klirring i glasset.
-Hvis sidemannen din er ny i bryllupsgamet, forklar i forkant, ikke
+
+Hvis sidemannen din er ny i bryllupsgamet: forklar i forkant. Ikke
 midtveis.
+
+*(beat – la den lande, det er en regel)*
 
 Felles pissepause kommer etter første talerunde. Da slipper folk å gå
 under talene.
 
-Nødutgang er *[peker]*. Hvis det brenner, går vi ut der – og hjelper
-hverandre.
+Nødutgang er *[peker mot retning]*. Hvis det brenner, går vi ut der – og
+hjelper hverandre.
 
-*(Selvironi om Kongsvinger-historien fra notatbank §3 er kuttet pga
-mormor + 3 besteforeldre i rommet.)*
+*(beat)*
 
-To bonusregler i kveld:
+*[NB: Kongsvinger-spesifikk humor fra notatbank §3 er kuttet pga
+mormor + 3 besteforeldre i rommet.]*
+
+---
+
+*—tempo opp—* *(ironisk)*
+
+To bonusregler i kveld.
+
+*(beat)*
 
 Hver gang en taler sier **«Equinor»** – ta en slurk.
 
+*(beat)*
+
 Hver gang en taler sier **«pitch deck»** – ta en slurk.
 
-Talerne er advart. Anders er advart mest.
+*(2 sek – la rommet le)*
+
+*(tørr)* Talerne er advart.
+
+*(beat)*
+
+Anders er advart mest.
+
+*(beat – la latter dempes)*
 
 ---
 
 ### F — Hovmesteren, vinen, skål
 
+*—tempo ned—* *—register opp—* *(varm, presentere)*
+
 Til å presentere kveldens mat har vi en kveldens vert utenom det vanlige.
+
+*(beat)*
 
 Hun har en ro i blikket, en sikker hånd på serviettbretten – og en
 kunnskap om denne kveldens meny som overgår min egen kunnskap om
 toastmaster-rollen.
 
-Det er én ting å lage maten. Det er en helt annen ting å bære den frem
-med stil.
+*(beat)*
+
+Det er én ting å lage maten.
+
+*(beat)*
+
+Det er en helt annen ting å bære den frem med stil.
+
+*(2 sek)*
+
+*[hender: åpne mot Oda. Smil.]*
 
 Ta vel imot kveldens hovmester – **Oda Rogstad**.
 
-*(Oda Rogstad kommer frem, 1–2 min menypresentasjon. Feminin og fornem
-levering. Grep fra Oda/Sivert §3.1, men hovmester i stedet for kokk.)*
+*[Oda Rogstad kommer frem, 1–2 min menypresentasjon. Feminin og fornem
+levering. Grep fra Oda/Sivert §3.1, men hovmester i stedet for kokk.]*
+
+*[vent til hun er ferdig. Smil. Nikk.]*
 
 Tusen takk, Oda.
 
-Vinen: hvit fra *[distrikt]*, rød fra *[distrikt]*. For dere som er
-fineschmeckere – plukk den dere liker. For oss andre – ta den som står
-nærmest.
+*(2 sek)*
+
+---
+
+*—tempo middels—*
+
+Vinen: hvit fra *[distrikt]*, rød fra *[distrikt]*.
+
+*(beat)*
+
+*(tørr)* For dere som er fineschmeckere – plukk den dere liker.
+
+*(beat)*
+
+For oss andre – ta den som står nærmest.
 
 *(Vin-presentasjon med distrikt – grep fra Oda/Sivert §3.2.)*
 
@@ -340,158 +568,389 @@ Hovedretten kommer rett over.
 
 ---
 
-## STIKK 2 — Hvordan jeg kjenner Anders (19:00, ca 5 min)
+## STIKK 2 — Hvordan jeg kjenner Anders (19:05, ca 5 min)
 
 *Lars/Julie §2 «hjertelig bro mellom hovedrett og taler». Personlig
 anekdote, fetter-perspektiv. Den varmeste bolken i kvelden – HJERTET.*
 
+*[REGEL: dette er kveldens hjerte. Ingen jaging. Pauser er gull.
+Hold blikket. La rommet føle med deg.]*
+
 ---
+
+### Åpning – first-or-last (30 sek)
+
+*[blikk: rom, sveipe sakte. Hender stille. Et halvt smil.]*
+
+*—tempo ned—* *—volum middels—*
 
 Før neste talerunde – jeg skylder dere en liten historie.
 
-*(Pause)*
+*(2 sek)*
+
+*(varm, dempet)*
 
 For noen er dette deres første bryllup.
 
+*(beat)*
+
 For andre – er det kanskje deres tiende.
 
-Brudeparet håper det ikke er hverken deres første eller siste forsøk.
+*(beat – la den lande)*
 
-*(Pause, smil. First-or-last grep fra notatbank §2.1, mykere
-formulering.)*
+*(tørr)* Brudeparet håper det ikke er hverken deres første eller siste
+forsøk.
+
+*(2 sek – la latteren komme)*
 
 ---
 
-Jeg har kjent Anders lenge. Lenger enn de fleste i rommet.
+### Hvem jeg er (45 sek)
 
-Vi er fettere. Det betyr at hvis denne talen går dårlig, kan jeg ikke
-slippe unna ved neste familieselskap.
+*—tempo middels—*
+
+Jeg har kjent Anders lenge.
+
+*(beat)*
+
+Lenger enn de fleste i rommet.
+
+*(beat)*
+
+Vi er fettere.
+
+*(2 sek)*
+
+*(tørr)* Det betyr at hvis denne talen går dårlig, kan jeg ikke slippe
+unna ved neste familieselskap.
+
+*(beat)*
 
 Det er ekstra motivasjon.
 
-*(Pause)*
-
-Andre tanke da jeg ble spurt: hvorfor meg?
-
-Tredje tanke: fordi alle andre hadde sagt nei.
-
-Fjerde tanke: jeg ligner på Marius Høiby.
-
-*(Pause for latter.)*
-
-Dette har ingenting med noen ting å gjøre. Men jeg ville bare nevne det
-før noen her begynner å hviske om det til sidemannen.
+*(2 sek – la latter komme)*
 
 ---
 
-*[A-story – B-story – A-callback (fra `standup-teknikk.md` §8). Bygd på
-brudeparets egne notater fra møtet – råmateriale i `notatbank.md` §7.2.]*
+*(varm)*
+
+Andre tanke da jeg ble spurt om å være toastmaster: hvorfor meg?
+
+*(beat)*
+
+Tredje tanke: fordi alle andre hadde sagt nei.
+
+*(beat)*
+
+*(tørr)* Fjerde tanke: jeg ligner på Marius Høiby.
+
+*(LAND – 4 sek. La det henge. Smil ikke. Vent.)*
+
+*(myk)* Dette har ingenting med noen ting å gjøre.
+
+*(beat)*
+
+Men jeg ville bare nevne det før noen her begynner å hviske om det til
+sidemannen.
+
+*(2 sek – la latter dempes)*
+
+---
+
+### Kjernehistorie – setup (30 sek)
+
+*[CHEKHOV PAY OFF 1: «jeg var imot» – plant fra Stikk 1 B.]*
+
+*[blikk: brudeparet. Hold blikket på dem mens du sier neste linje.]*
+
+*—tempo ned—* *—register ned—*
+
+I begynnelsen av denne talen sa jeg at jeg var imot at de ble sammen.
+
+*(LAND – 4 sek. Ikke fyll stillheten.)*
+
+*(dempet)* Det stemmer.
+
+*(beat)*
+
+La meg fortelle hvorfor.
+
+*(2 sek)*
 
 ---
 
 ### A1 — Tre tilfeldigheter (60 sek)
 
-Det er en fortelling som starter lenge før noen av oss var i nærheten av
-et bryllup.
+*—tempo middels—* *(varm)*
+
+Historien starter lenge før noen av oss var i nærheten av et bryllup.
+
+*(beat)*
 
 Anders og Michelle ble født på samme sykehus.
 
+*(beat)*
+
 De ble døpt samme dag.
+
+*(beat)*
 
 De ble konfirmert samme dag.
 
-*(Pause. La det synke inn.)*
+*(LAND – 3 sek. La det synke inn.)*
 
-Det er ikke kjærlighet. Det er logistikk så presis at den kunne vært
-levert av Erik Nilsen personlig.
+*(tørr)* Det er ikke kjærlighet. Det er logistikk så presis at den kunne
+vært levert av Erik Nilsen personlig.
 
-*(Liten Erik Nilsen-callback til Tale 4.)*
+*(2 sek – la latter komme)*
+
+*[CHEKHOV CALLBACK: Erik Nilsens tog-metafor fra Tale 4.]*
 
 ---
 
-### B — Skoleballet i 6. klasse, og en sommer som nesten avgjorde det (90 sek)
+### B — Skoleballet og en sommer som nesten avgjorde det (90 sek)
+
+*—tempo opp—*
 
 Det første ekte tegnet kom i 6. klasse.
 
-Skoleballet. Anders – tolv år gammel, allerede god på fest. Michelle –
-tolv år gammel, og hun visste nøyaktig hva hun gjorde.
+*(beat)*
 
-Det er en av Cathrine og Anettes favoritthistorier. Sitatet fra de to
-storesøstrene har gått igjen i alle familieselskaper siden:
+Skoleballet.
+
+*(beat)*
+
+Anders – tolv år gammel, allerede god på fest.
+
+Michelle – tolv år gammel, og hun visste nøyaktig hva hun gjorde.
+
+*(2 sek)*
+
+Det er en av Cathrine og Anettes favoritthistorier.
+
+*(beat)*
+
+Sitatet fra storesøstrene har gått igjen i alle familieselskaper siden:
+
+*(2 sek – la pausen bygge forventning)*
+
+*[blikk: Cathrine og Anette. Smil.]*
 
 > «Hu player deg rundt lillefingern, Anders.»
 
-*(Pause. Smil.)*
+*(beat – la latter komme)*
 
-Og det gjorde hun. I årevis.
+*(varm)*
+
+Og det gjorde hun.
+
+I årevis.
+
+*(2 sek)*
+
+---
+
+*—tempo ned—* *—register ned—* *(dempet, alvorlig)*
 
 Helt til sommeren 2015.
 
-*(Endre rytme. Senke stemmen.)*
+*(LAND – 4 sek. La rytmen bryte.)*
 
-Sommeren 2015 «gadd ikke Anders mer». Det var hans formulering, ikke min.
-Tre–fire uker uten dialog. Stille. Slutt.
+*(myk, fortrolig)*
 
-Familien lurte. Vennegjengen lurte. Werner lurte sannsynligvis også,
-men sa ingenting – Werner sier sjelden noe.
+Sommeren 2015 «gadd ikke Anders mer». Det var hans formulering.
 
-Også – og dette er hjertet av historien – så Anders et bilde på
-Instagram. Even, forloveren hans, sto med noen jenter. Anders så på
-bildet. Og spurte seg selv:
+*(beat)*
+
+Tre, fire uker uten dialog.
+
+*(beat)*
+
+Stille.
+
+*(beat)*
+
+*(dempet)* Slutt.
+
+*(2 sek)*
+
+Familien lurte.
+
+Vennegjengen lurte.
+
+Werner lurte sannsynligvis også – men sa ingenting.
+
+*(beat)*
+
+*(tørr)* Werner sier sjelden noe.
+
+*(beat – la latter komme. Det er din tørreste linje. Vent på den.)*
+
+*[blikk: Werner. Lite nikk.]*
+
+---
+
+### Pay off for «jeg var imot» (60 sek)
+
+*—register ned—* *(personlig, lavmælt)*
+
+Det var her jeg ble imot.
+
+*(beat)*
+
+*(fortrolig)* Jeg er fetteren hans. Jeg så det fra utsiden. Jeg så at
+han trakk seg unna. Og jeg trodde at det betydde at det var slutt.
+
+*(beat)*
+
+I familien begynte vi å snakke om det. Hvis Anders ikke gadd – så
+fortjente kanskje ikke Anders henne.
+
+*(2 sek)*
+
+*(varm, men tydelig)*
+
+Jeg sa det høyt.
+
+*(LAND – 3 sek)*
+
+*(dempet)* Det var første gang jeg har tatt feil i et familieselskap.
+
+*(2 sek – la latter komme. Det er en mild, varm latter, ikke en stor.)*
+
+*(varm)*
+
+For så skjedde noe.
+
+*(beat)*
+
+Anders så et bilde på Instagram.
+
+*(beat)*
+
+Even – forloveren hans – sto med noen jenter.
+
+Anders så på bildet.
+
+*(beat)*
+
+Og spurte seg selv:
+
+*(2 sek)*
 
 > «Hvem faen er denne jenta?»
 
-Det var ikke Even som var problemet. Det var én jente på bildet, som
-ikke var Michelle.
+*(beat – la latter komme)*
 
-*(Pause.)*
+*(varm)* Det var ikke Even som var problemet.
 
-I det øyeblikket forstod Anders – som han senere har innrømmet – at det
-var én han ville se på Even-bilder i fremtiden. Og det var Michelle.
+Det var én jente på bildet som ikke var Michelle.
+
+*(2 sek)*
+
+*(myk)*
+
+I det øyeblikket forstod Anders at det var én han ville se på
+Even-bilder i fremtiden.
+
+*(beat)*
+
+Og det var Michelle.
+
+*(LAND – 4 sek)*
 
 ---
 
 ### A2 — Tacoen, oktober, og julaften (60 sek)
 
+*—tempo middels—* *(varm)*
+
 Tre uker senere lagde de taco sammen.
+
+*(beat)*
 
 I oktober var de basically sammen.
 
+*(beat)*
+
 På julaften ble det offisielt.
 
-*(Pause.)*
+*(LAND – 3 sek)*
 
-Tre tilfeldigheter ved fødsel, dåp og konfirmasjon. Én sommer med
-stillhet. Ett Insta-bilde. Én tacomiddag. Én julaften.
+*—tempo ned—*
 
-Det er sjelden et forhold har så tydelige kapittelinndelinger.
+Tre tilfeldigheter ved fødsel, dåp og konfirmasjon.
+
+Én sommer med stillhet.
+
+Ett Insta-bilde.
+
+Én tacomiddag.
+
+Én julaften.
+
+*(2 sek)*
+
+*(tørr)* Det er sjelden et forhold har så tydelige kapittelinndelinger.
+
+*(beat – la latter komme)*
 
 ---
 
 ### Landing (30 sek)
 
-Det vi kan lære av denne historien er ikke at kjærlighet er enkel. Det
-er at den noen ganger trenger en pause – og noen ganger trenger den et
-bilde av en feil jente før vi forstår hvem som er den rette.
+*—register ned—* *(personlig, varm)*
+
+*[blikk: brudeparet]*
+
+Det vi kan lære av denne historien er ikke at kjærlighet er enkel.
+
+*(beat)*
+
+Det er at den noen ganger trenger en pause.
+
+*(beat)*
+
+Og noen ganger trenger den et bilde av en feil jente før vi forstår
+hvem som er den rette.
+
+*(2 sek)*
 
 Anders forstod det i 2015.
 
+*(beat)*
+
 Michelle forstod det rundt julaften.
 
-Og resten av oss forstod det da vi så dem komme inn her i kveld.
+*(beat)*
 
-*(Pause.)*
+*(varm)* Og resten av oss – inkludert fetteren som var imot – forstod
+det da vi så dem komme inn her i kveld.
+
+*(LAND – 5 sek. Hold blikket på brudeparet.)*
 
 ---
 
+*—tempo middels—* *(varm)*
+
 Som i alle gode prosjekter: noen sørger for struktur, andre bringer kaos.
+
+*(beat)*
 
 Anders bringer begge. Samtidig.
 
-Og Michelle – hun er den som har funnet ut det vi alle har lurt på:
-hvordan få Anders til å sitte stille i fem minutter.
+*(beat)*
 
-*(Rød tråd 2/4)*
+*(tørr, hvile)* Og Michelle – hun er den som har funnet ut det vi alle
+har lurt på:
+
+*(beat)*
+
+Hvordan få Anders til å sitte stille i fem minutter.
+
+*(2 sek – la latter komme)*
+
+*[RØD TRÅD 2/4]*
 
 ---
 
