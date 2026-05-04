@@ -94,7 +94,9 @@ som trenger spesifikk intro-strategi.
 | **Erik Nilsen** | **Anders' far (#22)** – CEO / logistikk / togreparasjon | Togmetaforer: «på rett spor», «forsinkelser i kjærlighetslivet». Flettes inn i foreldre-intro (Tale 3 sammen med Kjersti). | Selvsikker, lett ironisk respekt. |
 | **Tom Christian** | **Brudesvenn / venn av Anders (#56)** | Vennegjeng-historier, langvarig vennskap. Plasseres rett etter forlovere. | Personlig, varm, litt ertende. |
 | **Kongsvinger-vennene** | **Michelles barndomsvenner – gruppe-tale** | Lokal forankring (Vinger kirke, Kongsvinger). «Vennegjengen som har sett Michelle vokse». Talsperson kan tale på vegne av flere. | Lokal, varm, litt nostalgisk. |
-| **Michelle** | **Brudens tale – tidlig (Tale 3, etter Anders)** | Feminin og fornem. Paret-utveksling. Hun svarer på Anders' tale med sin egen. Ingen felles takketale senere. | Elegant, takknemlig, personlig. |
+| **Michelle** | **Brudens tale – tidlig (Tale 3, etter Anders)** | Paret-utveksling. Hun svarer på Anders' tale med sin egen. Ingen felles takketale senere. | Elegant, takknemlig, personlig. |
+| **«Feminin og fornem»** | **Michelles Ås-gjeng (NMBU studievenninner) – gruppe-tale (Tale 8)** | Studietids-historier, NMBU-referanser. Gjengnavnet er ironisk-elegant – spill på det. | Varm, sjarmerende, selvironisk. |
+| **Broderskapet Unity** | **Anders' Ås-vennegjeng – INNSLAG (dessert)** | Sang / sketsj / tale, fleksibelt format. Studietids-broderskap. NB: notatbank §3 har risikabel humor om dem – sjekk hva som er internt godkjent. | Tung, ertende, mannsdominert. |
 
 **Viktig endring**: Michelle har **to storesøstre** (Cathrine #9 og
 Anette #15), ikke én som tidligere antatt. Begge skal tale.
@@ -180,6 +182,16 @@ intro-maler.)*
 > «Anders har akkurat fortalt oss hvem Michelle er for ham. Nå er det
 > hennes tur. Det er sjelden i et bryllup at vi får høre brudens egne
 > ord så tidlig. Vi får. Bruden – Michelle.»
+
+**«Feminin og fornem» (Michelles Ås-gjeng)**
+> «Det finnes vennegjenger med beskjedne navn. Og det finnes vennegjenger
+> som har bestemt seg for å være feminine og fornemme – og holdt på det
+> siden NMBU. Michelle har bestemt seg en slik. Ta vel imot.»
+
+**Broderskapet Unity (Anders' Ås-vennegjeng – innslag)**
+> «Hver gang en mann gifter seg, mister han noen rettigheter. Heldigvis
+> er det noen som har samlet seg i et broderskap for å passe på at de
+> ikke mister minnene. Broderskapet Unity – scenen er deres.»
 
 ---
 

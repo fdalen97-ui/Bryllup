@@ -44,22 +44,26 @@ Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
 | 19:17 | **Tale 6 – Ingrid + Ola (felles, Anders' søsken)** | | 5 min | Søsken-duo, «gå sakte mot»-intro |
 | 19:22 | Intro tale 7 | Fredrik | 30 sek | *Forza Vinger – Blodrødt* 20 sek |
 | 19:23 | **Tale 7 – Kongsvinger-vennene** (Michelles barndomsvenner) | | 5 min | Gruppe-tale, lokal forankring |
-| **19:28** | **Pause 22 min** | – | | Kaffe, røyk, Fireball-bar |
-| 19:40 | 🔥 **Fireball-runde 2** | Forlovere | 1 min | Midt i pausen |
-| **19:50** | **Buffet 3 / dessert** | – | 15 min | Dessert ved bordet eller buffet |
-| 20:05 | Dessert pågår | – | – | |
-| 20:10 | **STIKK 3 – før forlovertaler («Jeg ringte rundt»)** | Fredrik | 3 min | Lars/Julie §3.1 |
-| 20:13 | Intro tale 8 | Fredrik | 45 sek | *Fanga av ein stormvind* 45 sek |
-| 20:14 | **Tale 8 – Helene (forlover brud)** | | 3 min | Michelles forlover |
-| 20:17 | ⚡ **Thunderstruck-flaske ruller** | DJ + bord | 45 sek | Før Even |
-| 20:18 | Intro tale 9 | Fredrik | 30 sek | *Let's Get Ready to Rumble!* 30 sek |
-| 20:19 | **Tale 9 – Even (forlover brudgom)** | | 3 min | Anders' forlover |
-| 20:22 | Intro tale 10 | Fredrik | 30 sek | *Hold the Line* 15 sek |
-| 20:23 | **Tale 10 – Tom Christian (venn av Anders)** | | 3 min | KVELDENS SISTE TALE |
-| 20:26 | **Buffer 10 min** | – | | Uanmeldte innslag |
-| **20:36** | **STIKK 4 – avrunding + fellessang Take on Me** | Fredrik | 10 min | Med påstander |
-| 20:46 | Takk for maten + 🔥 **Fireball-runde 3** | Fredrik + alle | 2 min | Sparkstart til dans |
-| **20:48** | **Fest åpner – første dans** | DJ | | Brudeparet entrer dansegulvet |
+| 19:28 | Intro tale 8 | Fredrik | 30 sek | *Voulez-Vous* 20 sek |
+| 19:29 | **Tale 8 – «Feminin og fornem»** (Ås-gjengen, Michelles studievenninner) | | 5 min | Gruppe-tale, NMBU/Ås |
+| **19:34** | **Pause 22 min** | – | | Kaffe, røyk, Fireball-bar |
+| 19:46 | 🔥 **Fireball-runde 2** | Forlovere | 1 min | Midt i pausen |
+| **19:56** | **Buffet 3 / dessert** | – | 15 min | Dessert ved bordet eller buffet |
+| 20:11 | Dessert pågår | – | – | |
+| 20:16 | **STIKK 3 – før forlovertaler («Jeg ringte rundt»)** | Fredrik | 3 min | Lars/Julie §3.1 |
+| 20:19 | Intro tale 9 | Fredrik | 45 sek | *Fanga av ein stormvind* 45 sek |
+| 20:20 | **Tale 9 – Helene (forlover brud)** | | 3 min | Michelles forlover |
+| 20:23 | ⚡ **Thunderstruck-flaske ruller** | DJ + bord | 45 sek | Før Even |
+| 20:24 | Intro tale 10 | Fredrik | 30 sek | *Let's Get Ready to Rumble!* 30 sek |
+| 20:25 | **Tale 10 – Even (forlover brudgom)** | | 3 min | Anders' forlover |
+| 20:28 | Intro innslag – **Broderskapet Unity** | Fredrik | 30 sek | *Enter Sandman* 15 sek |
+| 20:29 | **INNSLAG – Broderskapet Unity** (Anders' Ås-venner) | | 5 min | Sang / sketsj / tale – flex |
+| 20:34 | Intro tale 11 | Fredrik | 30 sek | *Hold the Line* 15 sek |
+| 20:35 | **Tale 11 – Tom Christian (venn av Anders)** | | 3 min | KVELDENS SISTE TALE |
+| 20:38 | **Buffer 10 min** | – | | Uanmeldte innslag |
+| **20:48** | **STIKK 4 – avrunding + fellessang Take on Me** | Fredrik | 10 min | Med påstander |
+| 20:58 | Takk for maten + 🔥 **Fireball-runde 3** | Fredrik + alle | 2 min | Sparkstart til dans |
+| **21:00** | **Fest åpner – første dans** | DJ | | Brudeparet entrer dansegulvet |
 | 23:00 | Kake / midnattsmat (avklar) | – | | |
 | **02:30** | **Siste bussavgang** | – | | Kongsvinger / Oslo – bekreftet |
 
@@ -75,14 +79,14 @@ Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
 | Kirke + buss + mingling utendørs (pizzasnurrer) | 14:00 → 17:25 |
 | Stikk 1 + Oda Rogstad + skål | 8 min |
 | Werner + Helan går + Fireball 1 (FØR mat) | 8 min |
-| Buffet 1 + forrett + 2 taler | 36 min |
+| Buffet 1 + forrett + 3 taler (Anders, Michelle, foreldre) | 42 min |
 | Pissepause | 10 min |
-| Buffet 2 + hovedrett + Stikk 2 + 3 taler (incl. Kongsvinger) | 51 min |
+| Buffet 2 + hovedrett + Stikk 2 + 4 taler (søsken x2, Kongsvinger, Ås-Michelle) | 56 min |
 | Pause 2 + Fireball 2 | 22 min |
-| Dessert + Stikk 3 + 4 taler (Helene, Even, Tom Christian, Michelle) | 42 min |
+| Dessert + Stikk 3 + forlovere + Broderskapet + Tom Christian | 42 min |
 | Buffer | 10 min |
 | Stikk 4 + fellessang + Fireball 3 + takk | 12 min |
-| **Totalt middag** | **~3t 19 min** |
+| **Totalt middag** | **~3t 30 min** |
 
 ---
 
@@ -174,9 +178,11 @@ ingen blir overrasket.
 
 - [x] Brudens søster(-e) – **Cathrine og Anette holder felles tale.**
 - [x] Anders' søster – **Ingrid holder felles tale med Ola.**
-- [x] **Michelle (bruden) holder tale** som kveldens avslutning – feminin og fornem.
-- [x] **Kongsvinger-vennene** (Michelles barndomsvenner) holder gruppe-tale.
-- [x] **Takketale brudeparet droppes** – Michelles tale lukker kvelden.
+- [x] **Michelle (bruden) holder tale TIDLIG** (Tale 3, etter Anders) – paret-utveksling.
+- [x] **Kongsvinger-vennene** (Michelles barndomsvenner) holder gruppe-tale (Tale 7).
+- [x] **«Feminin og fornem»** – Ås-gjengen / Michelles studievenninner fra NMBU – holder tale (Tale 8).
+- [x] **Broderskapet Unity** – Anders' Ås-vennegjeng – holder innslag (sang/sketsj/tale, fleksibelt format).
+- [x] **Takketale brudeparet droppes** – Tom Christian lukker talerekken.
 - [x] Servering – **buffet med 2 forskyvninger**.
 - [ ] Siste bussavgang tilbake → forslag 01:00 (avklar).
 - [ ] Når starter kakekutt / midnattsmat? (forslag: 23:00).

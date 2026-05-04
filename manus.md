@@ -471,24 +471,44 @@ Ta vel imot – Kongsvinger-vennene.
 
 ---
 
-## Pause 22 min (19:23–19:45)
+### Intro tale 8 — «Feminin og fornem» (Michelles Ås-gjeng)
 
-Takk for tre flotte taler.
+*[Intro-sang: Voulez-Vous, 20 sek. Tonen skal matche gjengnavnet –
+elegant, sjarmerende, lett ironisk.]*
+
+Det finnes vennegjenger med beskjedne navn.
+
+«Gutta». «Tirsdagsklubben». «Vinkjellergjengen».
+
+Og så finnes det vennegjenger som har bestemt seg for å være – og jeg
+siterer – **feminine og fornemme**. Og holdt på det siden NMBU.
+
+Michelle har én slik gjeng.
+
+Ta vel imot – «Feminin og fornem».
+
+*[Tale 8, 5 min – Ås-gjengen, gruppe eller talsperson]*
+
+---
+
+## Pause 22 min (19:34–19:56)
+
+Takk for fire flotte taler.
 
 Tjueto minutter pause. Fireball-baren åpner, kaffen er klar, dessert
 kommer rett over.
 
-*(Midt i pausen, ca 19:35: Fireball-runde 2, annonsert kort fra mygg.)*
+*(Midt i pausen, ca 19:46: Fireball-runde 2, annonsert kort fra mygg.)*
 
 ---
 
-## Buffet 3 / dessert (19:45–20:00)
+## Buffet 3 / dessert (19:56–20:11)
 
 *[Dessert serveres. Folk setter seg.]*
 
 ---
 
-## STIKK 3 — Før forloverne (20:05, ca 3 min)
+## STIKK 3 — Før forloverne (20:16, ca 3 min)
 
 *Lars/Julie §3.1 «Jeg ringte rundt»-grep. Setter opp siste talerunde.*
 
@@ -539,7 +559,7 @@ La oss høre fra de som står brudeparet aller nærmest.
 
 ---
 
-### Intro tale 8 — Helene (forlover brud)
+### Intro tale 9 — Helene (forlover brud)
 
 *[Intro-sang: Fanga av ein stormvind – Kjartan Lauritzen, 45 sek]*
 
@@ -552,7 +572,7 @@ I kveld gir hun oss et landskap av ord.
 
 Applaus til Michelles forlover – Helene.
 
-*[Tale 8, 3 min]*
+*[Tale 9, 3 min]*
 
 ---
 
@@ -570,7 +590,7 @@ Jeg sender denne flasken rundt forlover-bordet. Hver gang AC/DC sier
 
 ---
 
-### Intro tale 9 — Even (forlover brudgom)
+### Intro tale 10 — Even (forlover brudgom)
 
 *[Intro-sang: Let's Get Ready to Rumble!, 30 sek]*
 
@@ -583,11 +603,28 @@ avsløre på tre minutter.
 
 Vær så god – Anders' forlover, Even.
 
-*[Tale 9, 3 min]*
+*[Tale 10, 3 min]*
 
 ---
 
-### Intro tale 10 — Tom Christian (venn av Anders, kveldens siste tale)
+### Innslag — Broderskapet Unity (Anders' Ås-vennegjeng)
+
+*[Intro-sang: Enter Sandman, 15 sek. Tung, dramatisk – matcher
+broderskap-energien.]*
+
+Hver gang en mann gifter seg, mister han noen rettigheter.
+
+Heldigvis er det noen som har samlet seg i et broderskap for å passe på
+at han ikke mister minnene.
+
+Broderskapet Unity – scenen er deres.
+
+*[Innslag, 5 min – sang / sketsj / tale, fleksibelt format. Avklart med
+gjengen på forhånd: hva, varighet, tekniske behov.]*
+
+---
+
+### Intro tale 11 — Tom Christian (venn av Anders, kveldens siste tale)
 
 *[Intro-sang: Hold the Line (#24), 15 sek]*
 
@@ -599,22 +636,22 @@ blir værende lenge, både i livet og i bryllupet, sier sitt.
 
 Tom Christian – ordet er ditt.
 
-*[Tale 10, 3 min – kveldens siste tale.]*
+*[Tale 11, 3 min – kveldens siste tale.]*
 
 ---
 
-## Buffer 10 min (20:26–20:36)
+## Buffer 10 min (20:38–20:48)
 
 For uanmeldte innslag, sanger, videoer, eller om noen har plutselig fått
 mot. Hvis ingenting kommer – gå rett til Stikk 4.
 
 ---
 
-## STIKK 4 — Avrunding + fellessang (20:36, ca 10 min)
+## STIKK 4 — Avrunding + fellessang (20:48, ca 10 min)
 
 Det har vært et tett program.
 
-Ti taler. Tre retter. Tre Fireball-runder. Ett brudepar.
+Elleve taler. Ett innslag. Tre retter. Tre Fireball-runder. Ett brudepar.
 
 *(Rule of three med twist.)*
 
@@ -698,8 +735,10 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 - [x] Forlover brud: **Helene** (#39)
 - [x] Forlover brudgom: **Even** (#40)
 - [x] **Michelle (brudens tale) som Tale 3** – tidlig, etter Anders, paret-utveksling
-- [x] **Kongsvinger-vennene** som Tale 7 (gruppe-tale, slutt av hovedrett-bolken)
-- [x] **Tom Christian som Tale 10** – kveldens siste tale
+- [x] **Kongsvinger-vennene** som Tale 7 (gruppe-tale, hovedrett)
+- [x] **«Feminin og fornem»** (Ås-gjeng Michelle) som Tale 8 (gruppe-tale, hovedrett)
+- [x] **Broderskapet Unity** (Anders' Ås-vennegjeng) som INNSLAG i dessert-bolken
+- [x] **Tom Christian som Tale 11** – kveldens siste tale
 - [x] Felles takketale fra brudeparet er **droppet**
 - [x] Hovmester (presenterer maten): **Oda Rogstad**
 - [x] Siste buss: **02:30**, kun én avgang
@@ -745,11 +784,13 @@ Stikk 2            ███       Personlig fetter-historie (HJERTET)
 Cathrine + Anette  ██        Walking On Sunshine, søster-duo
 Ingrid + Ola       ████      Crazy Train, søsken-duo
 Kongsvinger        ██        Forza Vinger, lokal forankring
+Feminin og fornem  ██        Voulez-Vous, Ås-gjeng Michelle
 — pause + Fireball 2 —
 — dessert —
 Stikk 3            ██        Jeg ringte rundt + Altinn-callback
 Helene             ███       Fanga av stormvind
 Even               ████      Thunderstruck-flaske + Rumble
+Broderskapet Unity ████      Enter Sandman, INNSLAG
 Tom Christian      ███       Vennegjeng-tale (KVELDENS SISTE)
 Stikk 4            ███       Take on Me + Fireball 3 + landing
 — DANS — (siste buss 02:30, kun én avgang)
