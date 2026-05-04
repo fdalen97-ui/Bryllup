@@ -12,7 +12,7 @@ dette» – alt skal være avklart med brudeparet på forhånd.
 
 ## 1. Thunderstruck-flaske
 
-**Når**: Mellom Helene (forlover brud) og Even (forlover brudgom), ca 20:07.
+**Når**: Mellom Helene (forlover brud) og Even (forlover brudgom), ca 20:17.
 
 **Slik gjør du**:
 1. Forlovere får utdelt én flaske øl/cider per bord før talerunden starter.
@@ -39,8 +39,8 @@ dette» – alt skal være avklart med brudeparet på forhånd.
 | Runde | Tidspunkt | Funksjon |
 |-------|-----------|----------|
 | 1 | Rett etter Helan går, FØR buffet 1 (~17:45) | Velkomstshot, sparkstart |
-| 2 | Midt i pause 2 (~19:30) | Energi-injeksjon før dessertrunden |
-| 3 | Rett før dansegulvet åpnes (~20:35) | Sparkstart til festen |
+| 2 | Midt i pause 2 (~19:40) | Energi-injeksjon før dessertrunden |
+| 3 | Rett før dansegulvet åpnes (~20:46) | Sparkstart til festen |
 
 **Slik gjør du**:
 1. PowerPoint-slide tennes: «🔥 FIREBALL 🔥» med kort jingle (5–10 sek
@@ -203,21 +203,23 @@ PowerPoint-slide for hver påstand. Klikker bytter slide hvert 15. sekund.
 17:45       → 🔥 FIREBALL RUNDE 1 (velkomstshot, FØR mat)
 17:46       Buffet 1 åpner – forrett
 18:11       Anders til Michelle
-18:17       Kjersti + Erik Nilsen (foreldre + tog-metafor)
-18:22       Pissepause 10 min
-18:32       Buffet 2 åpner – hovedrett
-19:00       Stikk 2 (Fredrik som fetter)
+18:17       Michelle til Anders (brudens tale, feminin og fornem)
+18:23       Kjersti + Erik Nilsen (foreldre + tog-metafor)
+18:28       Pissepause 10 min
+18:38       Buffet 2 åpner – hovedrett
+19:05       Stikk 2 (Fredrik som fetter)
             Cathrine + Anette (felles) → Ingrid + Ola (felles)
-19:17       Pause 23 min → 🔥 FIREBALL RUNDE 2 (midt i pausen)
-19:40       Buffet 3 / dessert
-20:00       Stikk 3 (Jeg ringte rundt)
+19:23       Kongsvinger-vennene (gruppe-tale)
+19:28       Pause 22 min → 🔥 FIREBALL RUNDE 2 (midt i pausen)
+19:50       Buffet 3 / dessert
+20:10       Stikk 3 (Jeg ringte rundt)
             Helene (forlover brud)
-20:07       → ⚡ THUNDERSTRUCK-flaske + Even (forlover brudgom)
-20:12       Takketale
-20:25       Stikk 4: Take on Me
-20:35       → 🔥 FIREBALL RUNDE 3 (sparkstart dans)
-20:37       DANS
-01:00       Siste buss (forslag)
+20:17       → ⚡ THUNDERSTRUCK-flaske + Even (forlover brudgom)
+20:23       Tom Christian (KVELDENS SISTE TALE)
+20:36       Stikk 4: Take on Me
+20:46       → 🔥 FIREBALL RUNDE 3 (sparkstart dans)
+20:48       DANS
+02:30       Siste buss (kun én avgang)
 ```
 
 ---

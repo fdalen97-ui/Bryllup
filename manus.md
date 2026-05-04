@@ -282,7 +282,25 @@ Anders – scenen er din.
 
 ---
 
-### Intro tale 3 — Kjersti + Erik Nilsen (Anders' foreldre)
+### Intro tale 3 — Michelle (brudens tale, paret-utveksling)
+
+*[Intro-sang: Mamma Mia, 20 sek. Tonen senkes – feminin og fornem.]*
+
+*(Pause. Bytt rytme. Senke skuldrene.)*
+
+Anders har akkurat fortalt oss hvem Michelle er for ham.
+
+Det er sjelden vi får høre brudens egne ord så tidlig i et bryllup.
+
+I kveld får vi.
+
+Bruden – **Michelle**.
+
+*[Tale 3, 5 min – Michelles egne ord, feminin og fornem levering.]*
+
+---
+
+### Intro tale 4 — Kjersti + Erik Nilsen (Anders' foreldre)
 
 *[Intro-sang: Power of Love, 20 sek. «Arv eller miljø»-grep fra
 Lars/Julie §3.3, flettet med Erik Nilsens tog-profil.]*
@@ -302,7 +320,7 @@ Er det arv eller miljø? Det skal vi få høre mer om nå.
 
 Ta imot Anders' mor og far – Kjersti og Erik Nilsen.
 
-*[Tale 3, 5 min]*
+*[Tale 4, 5 min]*
 
 ---
 
@@ -395,7 +413,7 @@ få Anders til å sitte stille i fem minutter.
 
 ---
 
-### Intro tale 4 — Cathrine + Anette (Michelles storesøstre, felles tale)
+### Intro tale 5 — Cathrine + Anette (Michelles storesøstre, felles tale)
 
 *[Intro-sang: Walking On Sunshine, 20 sek]*
 
@@ -409,11 +427,11 @@ To storesøstre = dobbel kjærlighet og dobbel oppdragelse.
 
 Først ut – i felles regi – Cathrine og Anette.
 
-*[Tale 4 felles, 5 min]*
+*[Tale 5 felles, 5 min]*
 
 ---
 
-### Intro tale 5 — Ingrid + Ola (Anders' søsken, felles tale)
+### Intro tale 6 — Ingrid + Ola (Anders' søsken, felles tale)
 
 *[Intro-sang: Crazy Train, 15 sek. «Gå sakte mot personen»-grep fra
 Lars/Julie §3.2 – Fredrik beveger seg sakte mot Olas bord.]*
@@ -431,28 +449,46 @@ Svaret er ikke det du tror.
 I kveld kommer det i samlet pakke – ta imot Anders' søsken, Ingrid og
 Ola.
 
-*[Tale 5 felles, 5 min]*
+*[Tale 6 felles, 5 min]*
 
 ---
 
-## Pause 23 min (19:17–19:40)
+### Intro tale 7 — Kongsvinger-vennene (Michelles barndomsvenner)
 
-Takk for to flotte fellestaler.
+*[Intro-sang: Forza Vinger – Blodrødt, 20 sek. Lokal forankring – sangen
+kjenner publikum fra Vinger.]*
 
-Tjuetre minutter pause. Fireball-baren åpner, kaffen er klar, dessert
+Det finnes folk som har vært der hele veien.
+
+Som vet hvor Michelle bodde, hvilken skole hun gikk på, hvilken
+fotballbane hun løp rundt.
+
+Vennegjengen som har sett Michelle vokse fra Kongsvinger til Maarud.
+
+Ta vel imot – Kongsvinger-vennene.
+
+*[Tale 7, 5 min – gruppe eller talsperson]*
+
+---
+
+## Pause 22 min (19:23–19:45)
+
+Takk for tre flotte taler.
+
+Tjueto minutter pause. Fireball-baren åpner, kaffen er klar, dessert
 kommer rett over.
 
-*(Midt i pausen, ca 19:30: Fireball-runde 2, annonsert kort fra mygg.)*
+*(Midt i pausen, ca 19:35: Fireball-runde 2, annonsert kort fra mygg.)*
 
 ---
 
-## Buffet 3 / dessert (19:40–19:55)
+## Buffet 3 / dessert (19:45–20:00)
 
 *[Dessert serveres. Folk setter seg.]*
 
 ---
 
-## STIKK 3 — Før forloverne (20:00, ca 3 min)
+## STIKK 3 — Før forloverne (20:05, ca 3 min)
 
 *Lars/Julie §3.1 «Jeg ringte rundt»-grep. Setter opp siste talerunde.*
 
@@ -503,7 +539,7 @@ La oss høre fra de som står brudeparet aller nærmest.
 
 ---
 
-### Intro tale 6 — Helene (forlover brud)
+### Intro tale 8 — Helene (forlover brud)
 
 *[Intro-sang: Fanga av ein stormvind – Kjartan Lauritzen, 45 sek]*
 
@@ -516,7 +552,7 @@ I kveld gir hun oss et landskap av ord.
 
 Applaus til Michelles forlover – Helene.
 
-*[Tale 6, 3 min]*
+*[Tale 8, 3 min]*
 
 ---
 
@@ -534,7 +570,7 @@ Jeg sender denne flasken rundt forlover-bordet. Hver gang AC/DC sier
 
 ---
 
-### Intro tale 7 — Even (forlover brudgom)
+### Intro tale 9 — Even (forlover brudgom)
 
 *[Intro-sang: Let's Get Ready to Rumble!, 30 sek]*
 
@@ -547,50 +583,38 @@ avsløre på tre minutter.
 
 Vær så god – Anders' forlover, Even.
 
-*[Tale 7, 3 min]*
+*[Tale 9, 3 min]*
 
 ---
 
-### Intro tale 8 — Tom Christian (venn av Anders)
+### Intro tale 10 — Tom Christian (venn av Anders, kveldens siste tale)
 
-*[Intro-sang: kort snutt – Hold the Line (#24) eller en kjent vennegjeng-låt, 15 sek]*
+*[Intro-sang: Hold the Line (#24), 15 sek]*
 
 Når man har holdt det gående til denne timen i et bryllup, er det fordi
 det er noe man ikke vil gå glipp av.
 
-Neste taler er en god venn av Anders – og det å ha venner som blir
-værende lenge, både i livet og i bryllupet, sier sitt.
+Kveldens siste taler er en god venn av Anders – og det å ha venner som
+blir værende lenge, både i livet og i bryllupet, sier sitt.
 
 Tom Christian – ordet er ditt.
 
-*[Tale 8, 3 min]*
+*[Tale 10, 3 min – kveldens siste tale.]*
 
 ---
 
-### Tale 9 — Takketale brudeparet
-
-*[Ingen intro – brudeparet reiser seg når Tom Christian har satt seg]*
-
-Og nå – kveldens viktigste taler.
-
-Ordet er deres, Michelle og Anders.
-
-*[Takketale, 3 min]*
-
----
-
-## Buffer 10 min (20:18–20:28)
+## Buffer 10 min (20:26–20:36)
 
 For uanmeldte innslag, sanger, videoer, eller om noen har plutselig fått
 mot. Hvis ingenting kommer – gå rett til Stikk 4.
 
 ---
 
-## STIKK 4 — Avrunding + fellessang (20:28, ca 10 min)
+## STIKK 4 — Avrunding + fellessang (20:36, ca 10 min)
 
 Det har vært et tett program.
 
-Ni taler. Tre retter. Tre Fireball-runder. Ett brudepar.
+Ti taler. Tre retter. Tre Fireball-runder. Ett brudepar.
 
 *(Rule of three med twist.)*
 
@@ -654,8 +678,9 @@ Og før vi slipper dem løs – siste runde Fireball. Glassene opp!
 
 *[Felles skål, ned i ett.]*
 
-Baren er åpen. Dansegulvet er åpent. Siste bussavgang er *[01:00 –
-forslag, avklares]* – ta godt vare på hverandre, og på brudeparet.
+Baren er åpen. Dansegulvet er åpent. Siste bussavgang er **02:30** – og
+det er kveldens eneste buss. Ta godt vare på hverandre, og på
+brudeparet.
 
 Ta imot – Anders og Michelle, inn på dansegulvet!
 
@@ -672,8 +697,14 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 - [x] Anders' søsken (felles tale): **Ingrid og Ola**
 - [x] Forlover brud: **Helene** (#39)
 - [x] Forlover brudgom: **Even** (#40)
+- [x] **Michelle (brudens tale) som Tale 3** – tidlig, etter Anders, paret-utveksling
+- [x] **Kongsvinger-vennene** som Tale 7 (gruppe-tale, slutt av hovedrett-bolken)
+- [x] **Tom Christian som Tale 10** – kveldens siste tale
+- [x] Felles takketale fra brudeparet er **droppet**
 - [x] Hovmester (presenterer maten): **Oda Rogstad**
+- [x] Siste buss: **02:30**, kun én avgang
 - [ ] Vin-distrikt (hvit + rød)
+- [ ] Talsperson for Kongsvinger-vennene + hvilke gjester
 - [ ] **Anekdote til Stikk 2** (A1 + B + A2 + landing, 4 deler)
 - [ ] Sitat fra telefonrunden til Stikk 3 (3 «svar som gikk igjen»)
 - [ ] Siste bussavgang – forslag 01:00
@@ -707,20 +738,21 @@ Helan går          ██        Skål
 Fireball 1         ███       Velkomstshot
 — buffet 1 —
 Anders til brud    ███       Burning Love
+Michelle til Anders███       Mamma Mia, feminin og fornem (paret-utveksling)
 Kjersti + Erik N.  ██        Arv eller miljø + tog-metafor
 — pissepause + buffet 2 —
 Stikk 2            ███       Personlig fetter-historie (HJERTET)
 Cathrine + Anette  ██        Walking On Sunshine, søster-duo
 Ingrid + Ola       ████      Crazy Train, søsken-duo
+Kongsvinger        ██        Forza Vinger, lokal forankring
 — pause + Fireball 2 —
 — dessert —
 Stikk 3            ██        Jeg ringte rundt + Altinn-callback
 Helene             ███       Fanga av stormvind
 Even               ████      Thunderstruck-flaske + Rumble
-Tom Christian      ███       Vennegjeng-tale, mot slutten
-Takketale          ██        Brudeparet
+Tom Christian      ███       Vennegjeng-tale (KVELDENS SISTE)
 Stikk 4            ███       Take on Me + Fireball 3 + landing
-— DANS —
+— DANS — (siste buss 02:30, kun én avgang)
 ```
 
 Maks to «firere» på rad. Brekk alltid med en «toer» eller pause.

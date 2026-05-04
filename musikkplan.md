@@ -96,15 +96,16 @@ middagsbakgrunn** – hold disse til dansen.
 
 | Taler | Primær | Reserve | Lengde på intro |
 |-------|--------|---------|-----------------|
-| **Erik Nilsen** | Macgyver Theme (#3) | Hold the Line (#24) | 15–20 sek |
-| **Brudens far** | The Power Of Love (#29) | Optimist – Jahn Teigen (#14) | 20–25 sek |
-| **Forlover (brudgom)** | Let's Get Ready To Rumble! (#6) | Thunderstruck (#20/35) | 10–15 sek |
-| **Forlover (brud)** | Fanga av ein stormvind (#7) | Take on Me (#28) | 20–25 sek |
-| **Cathrine + Anette** (felles) | Walking On Sunshine (#12) | Mamma Mia (#19) | 20 sek |
-| **Ingrid + Ola** (felles) | Crazy Train (#32) | T.N.T. (#23) | 15 sek |
-| **Anders (til bruden)** | Burning Love (#26) | The Power Of Love (#29) | 20 sek |
-| **Tom Christian** (venn av Anders) | Hold the Line (#24) | We Didn't Start the Fire (#30) | 15 sek |
-| **Bruden (hvis taler)** | Mamma Mia (#19) | Waterloo (#16) | 20 sek |
+| **Tale 1 – Werner Seigerud** (brudens far, FØR mat) | Optimist – Jahn Teigen (#14) | The Power Of Love (#29) | 20–25 sek |
+| **Tale 2 – Anders til Michelle** | Burning Love (#26) | The Power Of Love (#29) | 20 sek |
+| **Tale 3 – Michelle til Anders** (brudens tale, feminin og fornem) | Mamma Mia (#19) | Voulez-Vous (#22) | 20 sek |
+| **Tale 4 – Kjersti & Erik Nilsen** (Anders' foreldre) | Power of Love (#29) | Signed, Sealed, Delivered (#11) | 20 sek |
+| **Tale 5 – Cathrine + Anette** (felles, Michelles søstre) | Walking On Sunshine (#12) | Mamma Mia (#19) | 20 sek |
+| **Tale 6 – Ingrid + Ola** (felles, Anders' søsken) | Crazy Train (#32) | T.N.T. (#23) | 15 sek |
+| **Tale 7 – Kongsvinger-vennene** (gruppe-tale) | Forza Vinger – Blodrødt (#1) | Shock 2017 (#2) | 20 sek |
+| **Tale 8 – Helene** (forlover brud) | Fanga av ein stormvind (#7) | Take on Me (#28) | 20–25 sek |
+| **Tale 9 – Even** (forlover brudgom) | Let's Get Ready To Rumble! (#6) | Thunderstruck (#20/35) | 10–15 sek |
+| **Tale 10 – Tom Christian** (kveldens siste) | Hold the Line (#24) | We Didn't Start the Fire (#30) | 15 sek |
 
 ---
 
@@ -120,16 +121,17 @@ Helan går        ██        Skål
 Fireball 1       ███       Velkomstshot
 — buffet 1 —
 Anders til brud  ███       Burning Love – løft
+Michelle         ███       Mamma Mia – feminin og fornem (paret-utveksling)
 Kjersti+Erik N.  ██        Power Of Love – arv eller miljø
 — buffet 2 —
 Cathrine+Anette  ██        Walking On Sunshine – søster-duo
 Ingrid+Ola       ████      Crazy Train – søsken-duo
+Kongsvinger      ██        Forza Vinger – lokal forankring
 — pause + Fireball 2 —
 — dessert —
 Helene (f. brud) ██        Fanga av ein stormvind – ro
 Even  (f. brudg) ████      Let's Get Ready / Thunderstruck – topp
-Tom Christian    ███       Hold the Line – vennegjeng
-Takketale        ██        Brudeparet
+Tom Christian    ███       Hold the Line – KVELDENS SISTE TALE
 Stikk 4          ███       Take on Me + Fireball 3
 — kake / dans —
                  █████     Samba / Cotton Eye Joe / Y.M.C.A.

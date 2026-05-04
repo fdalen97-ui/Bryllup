@@ -92,7 +92,9 @@ som trenger spesifikk intro-strategi.
 | **Even** | **Forlover brudgom (#40)** – Equinor, treningsfyr | Gym/prestasjon. «Anders i toppform vs. Anders i forhold». | Rask, punchy. |
 | **Helene** | **Forlover brud (#39)** – Landskapsarkitekt, Tromsø | Vill natur vs. kontrollert bryllup. Nordnorsk ro. | Poetisk, myk, elegant. |
 | **Erik Nilsen** | **Anders' far (#22)** – CEO / logistikk / togreparasjon | Togmetaforer: «på rett spor», «forsinkelser i kjærlighetslivet». Flettes inn i foreldre-intro (Tale 3 sammen med Kjersti). | Selvsikker, lett ironisk respekt. |
-| **Tom Christian** | **Brudesvenn / venn av Anders (#56)** | Vennegjeng-historier, langvarig vennskap. Plasseres mot slutten av talerekken (etter forlovere, før takketalen). | Personlig, varm, litt ertende. |
+| **Tom Christian** | **Brudesvenn / venn av Anders (#56)** | Vennegjeng-historier, langvarig vennskap. Plasseres rett etter forlovere. | Personlig, varm, litt ertende. |
+| **Kongsvinger-vennene** | **Michelles barndomsvenner – gruppe-tale** | Lokal forankring (Vinger kirke, Kongsvinger). «Vennegjengen som har sett Michelle vokse». Talsperson kan tale på vegne av flere. | Lokal, varm, litt nostalgisk. |
+| **Michelle** | **Brudens tale – tidlig (Tale 3, etter Anders)** | Feminin og fornem. Paret-utveksling. Hun svarer på Anders' tale med sin egen. Ingen felles takketale senere. | Elegant, takknemlig, personlig. |
 
 **Viktig endring**: Michelle har **to storesøstre** (Cathrine #9 og
 Anette #15), ikke én som tidligere antatt. Begge skal tale.
@@ -168,6 +170,16 @@ intro-maler.)*
 > det er noe man ikke vil gå glipp av. Neste taler er en god venn av Anders –
 > og det å ha venner som blir værende lenge, både i livet og i bryllupet,
 > sier sitt. Tom Christian – ordet er ditt.»
+
+**Kongsvinger-vennene (Michelles barndomsvenner – gruppe-tale)**
+> «Det finnes folk som har vært der hele veien. Som vet hvor Michelle
+> bodde, hvor hun gikk på skole, hvilken benk hun satt på. Vi snakker om
+> Kongsvinger-vennene. Ta vel imot.»
+
+**Michelle (brudens tale – tidlig, etter Anders)**
+> «Anders har akkurat fortalt oss hvem Michelle er for ham. Nå er det
+> hennes tur. Det er sjelden i et bryllup at vi får høre brudens egne
+> ord så tidlig. Vi får. Bruden – Michelle.»
 
 ---
 

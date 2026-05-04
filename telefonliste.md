@@ -20,9 +20,14 @@ løpende.
 | 8 | Ingrid | Anders' søster (felles tale med Ola) | | ☐ | ☐ |
 | 9 | Helene | Forlover brud (landskapsarkitekt, Tromsø) | | ☐ | ☐ |
 | 10 | Even | Forlover brudgom (Equinor, gym) | | ☐ | ☐ |
-| 11 | Tom Christian | Brudesvenn / venn av Anders | | ☐ | ☐ |
-| 12 | [Equinor-kollega] | Jobbkompis av Anders | | ☐ | ☐ |
-| 13 | [Dykkerkompis] | Fra Anders' dykkermiljø | | ☐ | ☐ |
+| 11 | Tom Christian | Brudesvenn / venn av Anders (Tale 10, kveldens siste) | | ☐ | ☐ |
+| 12 | [Talsperson Kongsvinger-vennene] | Michelles barndomsvenner (Tale 7, gruppe) | | ☐ | ☐ |
+| 13 | [Equinor-kollega] | Jobbkompis av Anders | | ☐ | ☐ |
+| 14 | [Dykkerkompis] | Fra Anders' dykkermiljø | | ☐ | ☐ |
+
+**MERK**: Michelle holder selv tale (Tale 3, etter Anders) – ingen
+forarbeid nødvendig fra Fredriks side, men avtal kort sjekk-in om hun
+trenger backup-stikkord.
 
 **OBS**: Fredrik er **fetter** av Anders (#34 på gjesteliste). Det
 betyr at tante og onkel (Anders' foreldre = Kjersti og Erik Nilsen) er

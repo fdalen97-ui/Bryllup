@@ -30,35 +30,38 @@ Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
 | 18:03 | Alle har satt seg, forrett pågår | – | – | |
 | 18:10 | Intro tale 2 | Fredrik | 30 sek | *Burning Love* 20 sek |
 | 18:11 | **Tale 2 – Anders til Michelle** | | 5 min | |
-| 18:16 | Intro tale 3 | Fredrik | 30 sek | *Power of Love* 20 sek |
-| 18:17 | **Tale 3 – Kjersti + Erik Nilsen (Anders' foreldre)** | | 5 min | «Arv eller miljø» + tog-metafor |
-| **18:22** | **Felles pissepause 10 min** | – | | Annonsert (Oda/Sivert §3.3) |
-| **18:32** | **Buffet 2 åpner – hovedrett** | – | 20 min | Andre forskyvning |
-| 18:52 | Alle har satt seg, hovedrett pågår | – | – | |
-| **19:00** | **STIKK 2 – personlig historie (Fredrik som fetter)** | Fredrik | 5 min | Lars/Julie kisten-stil |
-| 19:05 | Intro tale 4 | Fredrik | 30 sek | *Walking On Sunshine* 20 sek |
-| 19:06 | **Tale 4 – Cathrine + Anette (felles, Michelles storesøstre)** | | 5 min | Søster-duo |
-| 19:11 | Intro tale 5 | Fredrik | 30 sek | *Crazy Train* 15 sek |
-| 19:12 | **Tale 5 – Ingrid + Ola (felles, Anders' søsken)** | | 5 min | Søsken-duo, «gå sakte mot»-intro |
-| **19:17** | **Pause 23 min** | – | | Kaffe, røyk, Fireball-bar |
-| 19:30 | 🔥 **Fireball-runde 2** | Forlovere | 1 min | Midt i pausen |
-| **19:40** | **Buffet 3 / dessert** | – | 15 min | Dessert ved bordet eller buffet |
-| 19:55 | Dessert pågår | – | – | |
-| 20:00 | **STIKK 3 – før forlovertaler («Jeg ringte rundt»)** | Fredrik | 3 min | Lars/Julie §3.1 |
-| 20:03 | Intro tale 6 | Fredrik | 45 sek | *Fanga av ein stormvind* 45 sek |
-| 20:04 | **Tale 6 – Helene (forlover brud)** | | 3 min | Michelles forlover |
-| 20:07 | ⚡ **Thunderstruck-flaske ruller** | DJ + bord | 45 sek | Før Even |
-| 20:08 | Intro tale 7 | Fredrik | 30 sek | *Let's Get Ready to Rumble!* 30 sek |
-| 20:09 | **Tale 7 – Even (forlover brudgom)** | | 3 min | Anders' forlover |
-| 20:12 | Intro tale 8 | Fredrik | 30 sek | *Hold the Line* 15 sek |
-| 20:13 | **Tale 8 – Tom Christian (venn av Anders)** | | 3 min | Mot slutten av talerekken |
-| 20:16 | **Tale 9 – takketale brudeparet** | | 3 min | Michelle + Anders |
-| 20:19 | **Buffer 10 min** | – | | Uanmeldte innslag |
-| **20:29** | **STIKK 4 – avrunding + fellessang Take on Me** | Fredrik | 10 min | Med påstander |
-| 20:39 | Takk for maten + 🔥 **Fireball-runde 3** | Fredrik + alle | 2 min | Sparkstart til dans |
-| **20:41** | **Fest åpner – første dans** | DJ | | Brudeparet entrer dansegulvet |
+| 18:16 | Intro tale 3 | Fredrik | 30 sek | *Mamma Mia* 20 sek |
+| 18:17 | **Tale 3 – Michelle til Anders (brudens tale)** | | 5 min | Feminin og fornem, paret-utveksling |
+| 18:22 | Intro tale 4 | Fredrik | 30 sek | *Power of Love* 20 sek |
+| 18:23 | **Tale 4 – Kjersti + Erik Nilsen (Anders' foreldre)** | | 5 min | «Arv eller miljø» + tog-metafor |
+| **18:28** | **Felles pissepause 10 min** | – | | Annonsert (Oda/Sivert §3.3) |
+| **18:38** | **Buffet 2 åpner – hovedrett** | – | 20 min | Andre forskyvning |
+| 18:58 | Alle har satt seg, hovedrett pågår | – | – | |
+| **19:05** | **STIKK 2 – personlig historie (Fredrik som fetter)** | Fredrik | 5 min | Lars/Julie kisten-stil |
+| 19:10 | Intro tale 5 | Fredrik | 30 sek | *Walking On Sunshine* 20 sek |
+| 19:11 | **Tale 5 – Cathrine + Anette (felles, Michelles storesøstre)** | | 5 min | Søster-duo |
+| 19:16 | Intro tale 6 | Fredrik | 30 sek | *Crazy Train* 15 sek |
+| 19:17 | **Tale 6 – Ingrid + Ola (felles, Anders' søsken)** | | 5 min | Søsken-duo, «gå sakte mot»-intro |
+| 19:22 | Intro tale 7 | Fredrik | 30 sek | *Forza Vinger – Blodrødt* 20 sek |
+| 19:23 | **Tale 7 – Kongsvinger-vennene** (Michelles barndomsvenner) | | 5 min | Gruppe-tale, lokal forankring |
+| **19:28** | **Pause 22 min** | – | | Kaffe, røyk, Fireball-bar |
+| 19:40 | 🔥 **Fireball-runde 2** | Forlovere | 1 min | Midt i pausen |
+| **19:50** | **Buffet 3 / dessert** | – | 15 min | Dessert ved bordet eller buffet |
+| 20:05 | Dessert pågår | – | – | |
+| 20:10 | **STIKK 3 – før forlovertaler («Jeg ringte rundt»)** | Fredrik | 3 min | Lars/Julie §3.1 |
+| 20:13 | Intro tale 8 | Fredrik | 45 sek | *Fanga av ein stormvind* 45 sek |
+| 20:14 | **Tale 8 – Helene (forlover brud)** | | 3 min | Michelles forlover |
+| 20:17 | ⚡ **Thunderstruck-flaske ruller** | DJ + bord | 45 sek | Før Even |
+| 20:18 | Intro tale 9 | Fredrik | 30 sek | *Let's Get Ready to Rumble!* 30 sek |
+| 20:19 | **Tale 9 – Even (forlover brudgom)** | | 3 min | Anders' forlover |
+| 20:22 | Intro tale 10 | Fredrik | 30 sek | *Hold the Line* 15 sek |
+| 20:23 | **Tale 10 – Tom Christian (venn av Anders)** | | 3 min | KVELDENS SISTE TALE |
+| 20:26 | **Buffer 10 min** | – | | Uanmeldte innslag |
+| **20:36** | **STIKK 4 – avrunding + fellessang Take on Me** | Fredrik | 10 min | Med påstander |
+| 20:46 | Takk for maten + 🔥 **Fireball-runde 3** | Fredrik + alle | 2 min | Sparkstart til dans |
+| **20:48** | **Fest åpner – første dans** | DJ | | Brudeparet entrer dansegulvet |
 | 23:00 | Kake / midnattsmat (avklar) | – | | |
-| **01:00** | **Siste bussavgang (forslag – avklar)** | – | | Kongsvinger / Oslo |
+| **02:30** | **Siste bussavgang** | – | | Kongsvinger / Oslo – bekreftet |
 
 **Totalt middagstid**: 17:30 → 20:37 = ca 3 timer 7 min.
 **Totalt fest**: 20:37 → 01:00 = ca 4 timer 23 min dansegulv.
@@ -71,14 +74,15 @@ Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
 |------|-----|
 | Kirke + buss + mingling utendørs (pizzasnurrer) | 14:00 → 17:25 |
 | Stikk 1 + Oda Rogstad + skål | 8 min |
-| Buffet 1 + forrett + 3 taler + Helan går + Fireball 1 | 42 min |
+| Werner + Helan går + Fireball 1 (FØR mat) | 8 min |
+| Buffet 1 + forrett + 2 taler | 36 min |
 | Pissepause | 10 min |
-| Buffet 2 + hovedrett + Stikk 2 + 2 fellestaler | 47 min |
-| Pause 2 + Fireball 2 | 23 min |
-| Dessert + Stikk 3 + 3 taler + takketale | 35 min |
+| Buffet 2 + hovedrett + Stikk 2 + 3 taler (incl. Kongsvinger) | 51 min |
+| Pause 2 + Fireball 2 | 22 min |
+| Dessert + Stikk 3 + 4 taler (Helene, Even, Tom Christian, Michelle) | 42 min |
 | Buffer | 10 min |
 | Stikk 4 + fellessang + Fireball 3 + takk | 12 min |
-| **Totalt middag** | **~3t 7 min** |
+| **Totalt middag** | **~3t 19 min** |
 
 ---
 
@@ -147,26 +151,22 @@ talen.
 
 ---
 
-## 6. Forslag til siste bussavgang og fest-slutt
+## 6. Bussavgang
 
-| Scenario | Buss-slutt | Hvorfor |
-|----------|-----------|---------|
-| Kort versjon | 23:30 | For barnefamilier som vil hjem tidlig |
-| Standard | 01:00 | Lar de fleste danse 4 timer |
-| Sen versjon | 02:00 | For natteranglerne, men bus-sjåfør har grenser |
+**Siste buss går 02:30** – kun én avgang.
 
-**Anbefaling**: **siste buss 01:00**. Det gir ca 4 timer dansegulv
-(20:37 → 01:00), nok til at festen finner sin form og folk får møttes
-ute på dansegulvet uten at det føles kort.
+Det gir ca 5 timer 40 min dansegulv (20:48 → 02:30), nok til at festen
+finner sin form og folk får møttes ute på dansegulvet.
 
-Hvis tidlig buss 23:00 ønskes for noen (foreldre, barn, eldre): legg
-opp **én tidlig retur 23:00** + én **siste 01:00**. To busser dekker
-begge behov.
+**Konsekvens**: gjester som trenger tidlig retur (eldre, barnefamilier)
+må ordne egen transport. Toastmaster kan minne om dette mot midnatt så
+ingen blir overrasket.
 
 **Avklar**:
-- [ ] Hvor mange busser kan settes opp?
-- [ ] Hvor mange gjester trenger transport tilbake?
-- [ ] Tidlig buss 23:00 – aktuelt eller ikke?
+- [x] Antall busser: 1 stk
+- [x] Avgang: 02:30
+- [ ] Rute (hvor stopper bussen – Kongsvinger sentrum / Oslo / annet?)
+- [ ] Pålass-frist (siste tid for å sikre plass)
 
 ---
 
@@ -174,6 +174,9 @@ begge behov.
 
 - [x] Brudens søster(-e) – **Cathrine og Anette holder felles tale.**
 - [x] Anders' søster – **Ingrid holder felles tale med Ola.**
+- [x] **Michelle (bruden) holder tale** som kveldens avslutning – feminin og fornem.
+- [x] **Kongsvinger-vennene** (Michelles barndomsvenner) holder gruppe-tale.
+- [x] **Takketale brudeparet droppes** – Michelles tale lukker kvelden.
 - [x] Servering – **buffet med 2 forskyvninger**.
 - [ ] Siste bussavgang tilbake → forslag 01:00 (avklar).
 - [ ] Når starter kakekutt / midnattsmat? (forslag: 23:00).
