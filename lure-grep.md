@@ -233,7 +233,7 @@ Fredrik eller klikker redigerer sammen (iMovie/CapCut – 30 min jobb).
 intro som visuelt anker.
 
 **Forslag**:
-- **Dykkermaske** – tas opp ved intro til forlover brudgom / Anders-tale
+- **Dykkermaske** – tas opp ved intro til Even (forlover brudgom) / Anders-tale
 - **Mini-stavmikser eller tresleiv** – tas opp ved intro til bruden eller
   brudens far
 - **Byggekloss (Lego-hus)** – tas opp ved «bygge et liv sammen»-setningene

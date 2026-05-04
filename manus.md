@@ -1,17 +1,26 @@
-# Manus – toastmaster Anders' bryllup
+# Manus – toastmaster Anders & Michelles bryllup
 
-**Utkast v2.** Solo toastmaster (Fredrik). Råere humor hentet tilbake fra
-`notatbank.md`.
+**Utkast v3.** Solo toastmaster (Fredrik = Anders' fetter). Buffet-format
+med 2 forskyvninger. Strukturert eksplisitt etter:
+
+- **Oda/Sivert §2** for Stikk 1 sin A-F-mønster (varm velkomst → egen
+  troverdighet → setter tonen → brudeparet inn → regi-info → skål)
+- **Lars/Julie §2** for 4-stikk-strukturen gjennom kvelden (åpning →
+  hjertelig bro → før forlovere → avrunding)
+- **`notatbank.md`** for rå humor (offentlig anbudskonkurranse, Altinn,
+  Marius Høiby, første-eller-siste bryllup)
 
 Manus skal leveres med **pauser**, **øyekontakt**, og **stemme fra magen**.
 Les det høyt – hvis det føles klønete, skriv om.
 
 Henvisninger:
-- `tidsplan.md` for timing
-- `bryllupsbrief.md` for talerprofiler
+- `tidsplan.md` for klokkeslett
+- `bryllupsbrief.md` §3 for talerprofiler
 - `musikkplan.md` for intro-sanger
 - `notatbank.md` for originalt råmateriale
-- `referanse-oda-siver.md` §2 for forbilde
+- `standup-teknikk.md` for komediestruktur
+- `referanse-oda-siver.md` §2 for åpningsmønsteret A-F
+- `referanse-lars-julie.md` §3 for intro-teknikker
 
 ---
 
@@ -29,128 +38,242 @@ blir et visuelt bilde ingen glemmer.
 
 ---
 
-## STIKK 1 — Åpning (17:15, ca 4 min)
+## STIKK 1 — Åpning (17:30, ca 5 min)
 
-*[Fredrik ved eget bord, mygg på. Brudeparet venter utenfor.]*
-
-Velkommen alle sammen.
-
-For en dag dette har vært – og kvelden har så vidt begynt.
-
-Og for et lokale. Maarud Gård. Hjemmet til norske chips. Jeg skal være
-ærlig – jeg forventet Crispo til forrett, men kokken har fått andre
-instrukser.
+*Følger A-F-mønsteret fra `referanse-oda-siver.md` §2. Fredrik står ved
+eget bord, mygg på. Brudeparet venter utenfor.*
 
 ---
 
-Jeg er Fredrik, og jeg er kveldens toastmaster.
+### A — Varm velkomst + wow-moment
 
-Før noen lurer – ja, jeg ble valgt. Men ikke som førstevalg. Og ikke som
-andre. Jeg ble valgt gjennom det som best kan beskrives som en offentlig
-anbudskonkurranse. Billigst og tilgjengelig vant.
+Velkommen alle sammen!
 
-Brudens far ville egentlig ha en profesjonell konferansier. Men så sjekket
-han prisen, og da ble det meg.
+Takk for en strålende dag så langt. Dette har jeg gleda meg lenge til.
 
-Gratulerer – dere får altså taler på budsjett.
+Wow for et lokale. Wow for en dag.
 
-Jeg jobber i det offentlige, så ting tar jævlig lang tid. Men dere skal få
-talene – de ligger på Altinn til godkjenning.
+Maarud Gård – hjemmet til norske chips. Jeg skal være ærlig: jeg
+forventet Crispo til forrett. Men kjøkkenet har fått andre instrukser.
+
+*(Pause. Smil. Første latter skal lande her – innen 25 sek inn.)*
 
 ---
+
+### B — Egen troverdighet (hvem er jeg + hvordan kjenner jeg brudeparet)
+
+Mitt navn er Fredrik, og jeg er kveldens toastmaster.
+
+Jeg er også Anders' fetter – så jeg har full tilgang til materialet.
+Mer om det senere.
+
+*(Pause)*
+
+Før noen lurer – ja, jeg ble valgt. Men ikke som førstevalg. Eller andre.
+Jeg ble valgt gjennom det som best kan beskrives som en offentlig
+anbudskonkurranse.
+
+Billigst og tilgjengelig vant.
+
+Brudens far – Werner – ville egentlig ha en profesjonell konferansier.
+Men så sjekket han prisen, og da ble det meg.
+
+Gratulerer. Dere får altså taler på budsjett.
+
+*(Pause)*
+
+Jeg jobber i det offentlige, så ting tar jævlig lang tid. Men dere skal
+få talene – de ligger på Altinn til godkjenning.
+
+*(Plant for callback i Stikk 3.)*
 
 Sannheten er at jeg aldri har vært toastmaster før. Så jeg brukte flere
-timer på internett. Etter hvert var jeg tom for toalettpapir, sår
-underarm, og hadde fremdeles ingen aning om hvordan jeg skulle være
-toastmaster.
+timer på internett. Etter hvert var jeg tom for toalettpapir, og hadde
+fremdeles ingen aning om hvordan jeg skulle være toastmaster.
 
 Men nå står jeg her.
 
 ---
 
+### C — Setter tonen
+
+Dette blir en innmari kul fest.
+
+Vi skal kose oss til de sene nattestimer. Det er vårt ansvar her i
+kveld å hoie opp brudeparet, talerne og de som trenger det mest.
+
+*(Pause)*
+
 Alle gode prosjekter trenger en plan.
 
-*[Rød tråd 1/4]*
+*(Rød tråd 1/4 – ikke annonser den, la den ligge.)*
 
-Her er kveldens: 9 taler, 3 retter, 2 pauser – en etter forrett, en etter
-hovedrett. Felles pissepause, så slipper folk å vandre under talene.
-
-Det blir tradisjoner: tramping i gulvet, klirring i glasset. Hvis
-sidemannen din er ny i bryllupsgamet – forklar i forkant, ikke midtveis.
-
-Nødutgang: *[peker]*. Hvis det brenner, går vi ut der. Og brenner vi
-Kongsvingerne inne.
-
-*[Rettelse på farten]*: Jeg mente – vi løper ut sammen.
+Her er kveldens: 8 talesekvenser, 3 retter (forrett – hovedrett –
+dessert) og 2 pauser.
 
 ---
 
-Til å presentere kveldens mat – ta vel imot kokken, *[kokkens navn]*.
-
-*[Kokken kommer frem, 1–2 min menypresentasjon]*
-
-Tusen takk.
-
-Vinen: hvit fra *[distrikt]*, rød fra *[distrikt]*. For dere som er
-fineschmeckere – plukk den dere liker. For oss andre – ta den som står
-nærmest.
-
----
+### D — Brudeparet inn (servietter som startflagg)
 
 Og nå – det viktigste i hele kvelden.
 
-*[Rytmeskifte. Mer volum.]*
+*(Rytmeskifte. Mer volum.)*
 
 Jeg ber dere reise dere. Og ta serviettene deres – hvit, foldet, på bordet
 foran dere.
 
-*[Vent til alle er oppe og har servietten]*
+*(Vent til alle er oppe og har servietten.)*
 
-Dette er startflagget.
-
-Når musikken begynner, svinger vi dem. Høyt. Og jubler.
+Dette er startflagget. Når musikken begynner, svinger vi dem. Høyt. Og
+jubler.
 
 Klare?
 
 *[DJ: Let's Get Ready to Rumble! – full volum]*
 
-Ta imot – kveldens brudepar – Michelle og Anders!
+Og med det ber jeg alle juble inn kveldens enestående brudepar – ta dem
+imot:
 
-*[Brudeparet kommer inn mens gjestene svinger servietter. 30–45 sek.]*
+**Michelle og Anders!**
 
-*[Når de har satt seg:]*
-
-Og med det – spenn fast setebeltet. Det blir tre timer med mat, taler og
-stemning.
-
-Vel bekomme. Og skål for brudeparet!
+*(Brudeparet kommer inn mens gjestene svinger servietter. 30–45 sek.)*
 
 ---
 
-## Forrett – talerunde 1 (17:25–18:05)
+### E — Regi-info etter at brudeparet sitter
 
-### Intro tale 1 — Brudens far
+Og med det – jada, det blir et sånt bryllup.
+
+Det er bare å spenne fast setebeltet. Tre timer mat, taler og stemning.
+
+*(Pause. Hold tempoet ned.)*
+
+Et par praktiske ting:
+
+Det blir tradisjoner i kveld – tramping i gulvet og klirring i glasset.
+Hvis sidemannen din er ny i bryllupsgamet, forklar i forkant, ikke
+midtveis.
+
+Felles pissepause kommer etter første talerunde. Da slipper folk å gå
+under talene.
+
+Nødutgang er *[peker]*. Hvis det brenner, går vi ut der – og hjelper
+hverandre.
+
+*(Selvironi om Kongsvinger-historien fra notatbank §3 er kuttet pga
+mormor + 3 besteforeldre i rommet.)*
+
+To bonusregler i kveld:
+
+Hver gang en taler sier **«Equinor»** – ta en slurk.
+
+Hver gang en taler sier **«pitch deck»** – ta en slurk.
+
+Talerne er advart. Anders er advart mest.
+
+---
+
+### F — Hovmesteren, vinen, skål
+
+Til å presentere kveldens mat har vi en kveldens vert utenom det vanlige.
+
+Hun har en ro i blikket, en sikker hånd på serviettbretten – og en
+kunnskap om denne kveldens meny som overgår min egen kunnskap om
+toastmaster-rollen.
+
+Det er én ting å lage maten. Det er en helt annen ting å bære den frem
+med stil.
+
+Ta vel imot kveldens hovmester – **Oda Rogstad**.
+
+*(Oda Rogstad kommer frem, 1–2 min menypresentasjon. Feminin og fornem
+levering. Grep fra Oda/Sivert §3.1, men hovmester i stedet for kokk.)*
+
+Tusen takk, Oda.
+
+Vinen: hvit fra *[distrikt]*, rød fra *[distrikt]*. For dere som er
+fineschmeckere – plukk den dere liker. For oss andre – ta den som står
+nærmest.
+
+*(Vin-presentasjon med distrikt – grep fra Oda/Sivert §3.2.)*
+
+Da håper jeg at alle har fått påfyll i glassene.
+
+**Vel bekomme. Og skål for brudeparet!**
+
+---
+
+## Velkomstbolk FØR forrett (17:38–17:46)
+
+*Klassisk åpningstale fra brudens far + Helan går + velkomstshot. Setter
+energien før folk reiser seg til buffet.*
+
+---
+
+### Intro tale 1 — Werner Seigerud (brudens far)
 
 *[Intro-sang: Optimist – Jahn Teigen, 20 sek]*
 
-Neste mann har gjort livets viktigste investering. Ingen fondsforvalter
-kan matche avkastningen han får se gå ned kirkegulvet.
+Og før vi går til buffet – det er én mann som skal ha ordet først.
+
+Neste mann har gjort livets viktigste investering.
+
+Ingen fondsforvalter kan matche avkastningen han får se gå ned
+kirkegulvet.
 
 Han er også mannen som sørget for at alt dette – Maarud, maten, vinen,
 dere – ble til virkelighet.
 
-Ordet er ditt, Werner Seigerud.
+Ordet er ditt, Werner.
 
 *[Tale 1, 5 min]*
 
 ---
 
-### Intro tale 2 — Anders til bruden
+### Helan går — obligatorisk skål med Werner
+
+*[Etter Werners tale. PowerPoint: tekst]*
+
+Werner – det fortjener en ekte skål.
+
+**Helan går!**
+
+*[Hele salen, 1 vers + skål. Ned i ett.]*
+
+---
+
+### 🔥 Fireball-runde 1 — velkomstshot
+
+*[PowerPoint: 🔥 FIREBALL slide. Forlovere har shotbrett klare.]*
+
+Og før vi slipper løs på buffet – én ekstra runde.
+
+Glassene opp – Fireball til bruden og brudgommen!
+
+*[Felles skål, ned i ett. 30 sek.]*
+
+Og med det – buffet 1 er åpen. Vel bekomme!
+
+*(Buffet 1 åpnes. Folk reiser seg, henter forrett. Kjøkkenet styrer
+bord-rotasjon.)*
+
+---
+
+## Forrett — talerunde 1 (18:10–18:22)
+
+*Når alle har satt seg igjen og fått tatt en gaffel.*
+
+---
+
+### Intro tale 2 — Anders til Michelle
 
 *[Intro-sang: Burning Love, 20 sek]*
 
-Neste taler har gjort karriere på å holde pitch deck. I kveld holder han
-tale. Forskjellen er at han ikke kan avslutte med «any questions?» –
+Neste taler har gjort karriere på å holde pitch deck.
+
+I kveld holder han tale.
+
+Forskjellen er at han ikke kan avslutte med «any questions?» –
 svigerfaren sitter på første rad.
 
 Anders – scenen er din.
@@ -159,42 +282,56 @@ Anders – scenen er din.
 
 ---
 
-### Intro tale 3 — Anders' foreldre
+### Intro tale 3 — Kjersti + Erik Nilsen (Anders' foreldre)
 
-*[Intro-sang: The Power of Love, 20 sek]*
+*[Intro-sang: Power of Love, 20 sek. «Arv eller miljø»-grep fra
+Lars/Julie §3.3, flettet med Erik Nilsens tog-profil.]*
 
-Mye av det vi ser i Anders i dag stammer fra hjemmet. Viljen til å
-optimalisere. Kjærligheten til naturen. Og det rotet vi ikke skal snakke
-om.
+Mye av det vi ser i Anders i dag stammer fra hjemmet.
+
+Viljen til å optimalisere. Kjærligheten til naturen. Og det rotet vi ikke
+skal snakke om.
+
+Faren – Erik Nilsen – har bygget en karriere på å holde ting på rett
+spor. Bokstavelig talt. Hvis noen kan forklare hvordan Anders endelig
+kom frem i rute, er det ham.
+
+Og kjærligheten til naturen – den er kanskje fra moren?
 
 Er det arv eller miljø? Det skal vi få høre mer om nå.
 
-Ta imot Anders' mor og far.
+Ta imot Anders' mor og far – Kjersti og Erik Nilsen.
 
 *[Tale 3, 5 min]*
 
 ---
 
-## Pause 10 min (18:05–18:15)
+## Pissepause 10 min (18:20–18:30)
 
-Takk for tre flotte taler. Ti minutters felles pause. Strekk beina, besøk
-toalettene, fyll glassene. Hovedrett kommer.
+Takk for tre flotte taler.
 
----
+Ti minutters felles pause. Strekk beina, besøk toalettene, fyll glassene.
 
-## Hovedrett (18:15)
-
-*[Ingen tale under innservering.]*
+Hovedretten kommer rett over.
 
 ---
 
-## STIKK 2 — Hvordan jeg kjenner Anders (18:45, ca 5 min)
+## Buffet 2 — hovedrett (18:30–18:50)
 
-*[Når hovedretten er godt i gang]*
+*[Ingen tale under buffet-runden. Folk henter mat.]*
+
+---
+
+## STIKK 2 — Hvordan jeg kjenner Anders (19:00, ca 5 min)
+
+*Lars/Julie §2 «hjertelig bro mellom hovedrett og taler». Personlig
+anekdote, fetter-perspektiv. Den varmeste bolken i kvelden – HJERTET.*
+
+---
 
 Før neste talerunde – jeg skylder dere en liten historie.
 
-*[Pause]*
+*(Pause)*
 
 For noen er dette deres første bryllup.
 
@@ -202,145 +339,171 @@ For andre – er det kanskje deres tiende.
 
 Brudeparet håper det ikke er hverken deres første eller siste forsøk.
 
-*[Pause, smil]*
+*(Pause, smil. First-or-last grep fra notatbank §2.1, mykere
+formulering.)*
 
 ---
 
-Jeg har kjent Anders hele livet. Jeg er nemlig fetteren hans.
+Jeg har kjent Anders lenge. Lenger enn de fleste i rommet.
 
-Det betyr at jeg har kjent ham lenger enn han har kjent seg selv. Og når
-jeg ble spurt om å være toastmaster, var første tanken: hvorfor meg?
+Vi er fettere. Det betyr at hvis denne talen går dårlig, kan jeg ikke
+slippe unna ved neste familieselskap.
 
-Andre tanke: fordi alle andre hadde sagt nei.
+Det er ekstra motivasjon.
 
-Tredje tanke: jeg ligner på Marius Høiby.
+*(Pause)*
 
-Dette har ingenting med noen ting å gjøre, men jeg ville bare nevne det
+Andre tanke da jeg ble spurt: hvorfor meg?
+
+Tredje tanke: fordi alle andre hadde sagt nei.
+
+Fjerde tanke: jeg ligner på Marius Høiby.
+
+*(Pause for latter.)*
+
+Dette har ingenting med noen ting å gjøre. Men jeg ville bare nevne det
 før noen her begynner å hviske om det til sidemannen.
 
 ---
 
-*[Personlig anekdote om Anders – 2–3 min. Se telefonrunden i
-`telefonliste.md`. Eksempel på struktur:]*
+*[A-story – B-story – A-callback (fra `standup-teknikk.md` §8). Konkret
+anekdote om Anders som fetter. Fylles inn etter telefonrunden – 2-3 min:]*
 
-**Mal A – «Før Michelle kom»-historien**:
-Start med en konkret scene før Michelle var i bildet. Hvor Anders var. Hva
-han gjorde. En detalj som maler ham som han var da. Så et punkt hvor
-Michelle dukker opp. Og hvordan Anders endret seg etter.
+- **A1** (60 sek): første minne om Anders fra barndommen / familieselskap
+- **B** (90 sek): én karakteristisk Anders-historie som lander hvem han er
+  (pitch deck-obsesjon, dykking, optimering)
+- **A2** (60 sek): tilbake til åpningsscenen, nå med ny mening
+- **Landing** (30 sek): hva alt dette sier om Anders som menneske – og
+  hvorfor Michelle er den rette
 
-**Mal B – «Én vane»-historien**:
-Ta én konkret vane Anders har (optimeringsgrep, dykkerrutine,
-jaktforberedelse) og følg den gjennom et helt år. Vis hvordan den vanen
-også beskriver hvordan han elsker.
-
-**Mal C – «Første gang jeg så dem sammen»-historien**:
-Første gang du så Anders og Michelle sammen. Hva du så. Hva du ikke
-forsto den gangen. Og hva du forstår nå.
-
-*[Velg én. Skriv 300–400 ord. Les høyt. Les igjen. Kutt til 250 ord.]*
+*(Plassholder – fylles etter telefonrunden.)*
 
 ---
 
-Og som i alle gode prosjekter – noen sørger for struktur. Andre bringer
-kaos.
+Som i alle gode prosjekter: noen sørger for struktur, andre bringer kaos.
 
 Anders bringer begge. Samtidig.
 
-*[Rød tråd 2/4]*
+Og Michelle – hun har funnet ut hvordan vi alle har lurt på: hvordan
+få Anders til å sitte stille i fem minutter.
+
+*(Rød tråd 2/4)*
 
 ---
 
-## Hovedrett – talerunde 2 (18:50–19:02)
+## Hovedrett — talerunde 2 (19:05–19:17)
 
-### Intro tale 4 — Cathrine (Michelles storesøster 1)
+---
+
+### Intro tale 4 — Cathrine + Anette (Michelles storesøstre, felles tale)
 
 *[Intro-sang: Walking On Sunshine, 20 sek]*
 
-Michelle har ikke én storesøster. Hun har to.
+Michelle har ikke én storesøster.
+
+Hun har to.
 
 Det betyr at hun aldri har kommet unna med noenting.
 
-Først ut – storesøster nummer én, hun som så alt komme før Michelle
-selv skjønte det. Cathrine, ordet er ditt.
+To storesøstre = dobbel kjærlighet og dobbel oppdragelse.
 
-*[Tale 4, 3 min]*
+Først ut – i felles regi – Cathrine og Anette.
 
----
-
-### Intro tale 5 — Anette (Michelles storesøster 2)
-
-*[Intro-sang: Sarà perché ti amo, 20 sek]*
-
-*[Kort callback til Cathrines tale hvis noe landet særlig godt]*
-
-To søstre = dobbel kjærlighet og dobbel oppdragelse.
-
-Mens Cathrine jobbet med de store linjene, har Anette finpusset
-detaljene.
-
-Ta imot – Anette.
-
-*[Tale 5, 3 min]*
+*[Tale 4 felles, 5 min]*
 
 ---
 
-### Intro tale 6 — Ola (Anders' bror)
+### Intro tale 5 — Ingrid + Ola (Anders' søsken, felles tale)
 
-*[Intro-sang: Crazy Train, 15 sek]*
+*[Intro-sang: Crazy Train, 15 sek. «Gå sakte mot personen»-grep fra
+Lars/Julie §3.2 – Fredrik beveger seg sakte mot Olas bord.]*
 
-*[Går sakte mot Olas bord mens jeg snakker – publikum skjønner hvem det
-er før navnet nevnes]*
+Michelle har to storesøstre.
 
-Michelle har to storesøstre. Anders har én storebror.
+Anders har én bror og én søster.
 
-Ballansen er tilbake.
+Balansen er tilbake.
 
 To brødre. Én familiebil. Én sportsbil. Spørsmålet er hvem som er hvem.
 
 Svaret er ikke det du tror.
 
-Ta imot Anders' bror, Ola.
+I kveld kommer det i samlet pakke – ta imot Anders' søsken, Ingrid og
+Ola.
 
-*[Tale 6, 3 min]*
-
----
-
-## Pause 20 min (19:02–19:22)
-
-Takk for tre til. Tjue minutters pause. Fireball-baren åpner, kaffen er
-klar, og dessert er på vei.
+*[Tale 5 felles, 5 min]*
 
 ---
 
-## Dessert (19:22)
+## Pause 23 min (19:17–19:40)
+
+Takk for to flotte fellestaler.
+
+Tjuetre minutter pause. Fireball-baren åpner, kaffen er klar, dessert
+kommer rett over.
+
+*(Midt i pausen, ca 19:30: Fireball-runde 2, annonsert kort fra mygg.)*
 
 ---
 
-## STIKK 3 — Før forloverne (19:55, ca 3 min)
+## Buffet 3 / dessert (19:40–19:55)
 
-Vi nærmer oss kveldens siste talerunde. Forloverne.
+*[Dessert serveres. Folk setter seg.]*
+
+---
+
+## STIKK 3 — Før forloverne (20:00, ca 3 min)
+
+*Lars/Julie §3.1 «Jeg ringte rundt»-grep. Setter opp siste talerunde.*
+
+---
+
+Vi nærmer oss kveldens siste talerunde.
+
+Forloverne.
 
 Men først – jeg har ringt rundt.
 
-Familie. Venner. Kolleger. Jeg spurte alle samme spørsmål: hva er deres
-beste råd til Anders og Michelle?
+Familie. Venner. Kolleger. Jeg spurte alle samme spørsmål:
+
+Hva er deres beste råd til Anders og Michelle?
+
+*(Pause)*
 
 Svaret som gikk igjen: **fortsett som dere er.**
 
 Svaret på andre plass: kjøp ny stavmikser før oppussingen er ferdig.
 
-*[Ev. ett konkret sitat fra telefonrunden – fylles inn]*
+Svaret på tredje plass: og hvis dere skal pusse opp, ikke gjør det selv.
 
-Mens andre bringer energi – la oss høre fra de som står brudeparet aller
-nærmest.
-
-*[Rød tråd 3/4]*
+*(Rule of three. Tredje element bryter mønsteret.)*
 
 ---
 
-## Dessert – talerunde 3 (19:58–20:09)
+*(Callback til Altinn fra Stikk 1:)*
 
-### Intro tale 7 — Forlover brud
+Jeg ringte rundt. Svarene kom inn. På Altinn.
+
+Noen har fortsatt ikke svart. Dere vet hvem dere er.
+
+*(Pause for latter.)*
+
+---
+
+Og som i alle gode prosjekter – mens andre bringer struktur, bringer
+andre energi.
+
+La oss høre fra de som står brudeparet aller nærmest.
+
+*(Rød tråd 3/4)*
+
+---
+
+## Dessert — talerunde 3 (20:03–20:15)
+
+---
+
+### Intro tale 6 — Helene (forlover brud)
 
 *[Intro-sang: Fanga av ein stormvind – Kjartan Lauritzen, 45 sek]*
 
@@ -351,23 +514,54 @@ Hun jobber til daglig med å skape ro i landskap.
 
 I kveld gir hun oss et landskap av ord.
 
-Applaus.
+Applaus til Michelles forlover – Helene.
+
+*[Tale 6, 3 min]*
+
+---
+
+### Thunderstruck-flaske ruller
+
+*[Etter Helenes tale, før Even. Even-bordet får utdelt en flaske
+øl/cider. DJ starter Thunderstruck på lav volum.]*
+
+Før neste taler – en liten regel.
+
+Jeg sender denne flasken rundt forlover-bordet. Hver gang AC/DC sier
+«thunder» – drikker den som holder.
+
+*(45 sek Thunderstruck. Trykket bygges. Fade ned.)*
+
+---
+
+### Intro tale 7 — Even (forlover brudgom)
+
+*[Intro-sang: Let's Get Ready to Rumble!, 30 sek]*
+
+Neste taler kjenner Anders på godt og vondt.
+
+Og på benkpress.
+
+Han vet hva Anders klarer i toppform. Spørsmålet er hva han klarer å
+avsløre på tre minutter.
+
+Vær så god – Anders' forlover, Even.
 
 *[Tale 7, 3 min]*
 
 ---
 
-### Intro tale 8 — Forlover brudgom
+### Intro tale 8 — Tom Christian (venn av Anders)
 
-*[Intro-sang: Let's Get Ready to Rumble!, 30 sek]*
+*[Intro-sang: kort snutt – Hold the Line (#24) eller en kjent vennegjeng-låt, 15 sek]*
 
-Neste taler kjenner Anders på godt og vondt. Og på benkpress.
+Når man har holdt det gående til denne timen i et bryllup, er det fordi
+det er noe man ikke vil gå glipp av.
 
-Han vet hva Anders klarer i toppform.
+Neste taler er en god venn av Anders – og det å ha venner som blir
+værende lenge, både i livet og i bryllupet, sier sitt.
 
-Spørsmålet er hva han klarer å avsløre på tre minutter.
-
-Vær så god.
+Tom Christian – ordet er ditt.
 
 *[Tale 8, 3 min]*
 
@@ -375,31 +569,36 @@ Vær så god.
 
 ### Tale 9 — Takketale brudeparet
 
-*[Ingen intro – brudeparet reiser seg når forloveren har satt seg]*
+*[Ingen intro – brudeparet reiser seg når Tom Christian har satt seg]*
 
 Og nå – kveldens viktigste taler.
 
-Ordet er deres, *[brudens navn]* og Anders.
+Ordet er deres, Michelle og Anders.
 
 *[Takketale, 3 min]*
 
 ---
 
-## Buffer 10 min (20:09–20:19)
+## Buffer 10 min (20:18–20:28)
 
 For uanmeldte innslag, sanger, videoer, eller om noen har plutselig fått
 mot. Hvis ingenting kommer – gå rett til Stikk 4.
 
 ---
 
-## STIKK 4 — Avrunding + fellessang (20:19, ca 10 min)
+## STIKK 4 — Avrunding + fellessang (20:28, ca 10 min)
 
-Det har vært et tett program. Ni taler. To pauser. Tre retter. Ett
-brudepar.
+Det har vært et tett program.
+
+Ni taler. Tre retter. Tre Fireball-runder. Ett brudepar.
+
+*(Rule of three med twist.)*
 
 Og mye kjærlighet i rommet.
 
 ---
+
+### Take on Me + påstander
 
 Men før vi åpner dansegulvet – jeg har lagd en liten sak.
 
@@ -423,44 +622,61 @@ Påstandene er blant annet:
 - Er i familie med brudeparet
 - Har giftet seg i dag
 - Er glad i Michelle og Anders
+- Har drukket Fireball i kveld
+- Har sagt «Equinor» i en tale i kveld
 - *[flere – fylles inn]*
 
 *[Take on Me spilles. Ark synges med. 3 min]*
 
 ---
 
-*[Etter sangen:]*
+### Landing — siste rød tråd
+
+*[Etter sangen]*
 
 Og til slutt – det viktigste:
 
-*[Pause]*
+*(Pause)*
 
 Kjærligheten som holder alt sammen.
 
-*[Rød tråd 4/4 – lander her]*
+*(Rød tråd 4/4. Lander her.)*
 
 ---
 
+### Fireball-runde 3 + dansen åpner
+
 Takk for maten! En applaus til kjøkkenet.
 
-Baren er åpen. Dansegulvet er åpent. Siste bussavgang er *[kl XX]* – ta
-godt vare på hverandre, og på brudeparet.
+*[PowerPoint: 🔥 FIREBALL slide]*
+
+Og før vi slipper dem løs – siste runde Fireball. Glassene opp!
+
+*[Felles skål, ned i ett.]*
+
+Baren er åpen. Dansegulvet er åpent. Siste bussavgang er *[01:00 –
+forslag, avklares]* – ta godt vare på hverandre, og på brudeparet.
 
 Ta imot – Anders og Michelle, inn på dansegulvet!
 
-*[Musikk: åpningsdans / Jenka ut til dans]*
+*[Musikk: åpningsdans]*
 
 ---
 
 ## Plassholdere som må fylles inn
 
 - [x] Brudens navn: **Michelle**
-- [x] Brudens fars navn: **Werner**
-- [ ] Kokkens navn
+- [x] Brudens fars navn: **Werner Seigerud**
+- [x] Brudgommens foreldre: **Kjersti og Erik Nilsen**
+- [x] Michelles søstre (felles tale): **Cathrine og Anette**
+- [x] Anders' søsken (felles tale): **Ingrid og Ola**
+- [x] Forlover brud: **Helene** (#39)
+- [x] Forlover brudgom: **Even** (#40)
+- [x] Hovmester (presenterer maten): **Oda Rogstad**
 - [ ] Vin-distrikt (hvit + rød)
-- [ ] Anekdote til Stikk 2 (2–3 min personlig historie)
-- [ ] Sitat fra telefonrunden til Stikk 3
-- [ ] Siste bussavgang
+- [ ] **Anekdote til Stikk 2** (A1 + B + A2 + landing, 4 deler)
+- [ ] Sitat fra telefonrunden til Stikk 3 (3 «svar som gikk igjen»)
+- [ ] Siste bussavgang – forslag 01:00
 - [ ] Påstander til fellessangen
 - [ ] Nødutgang – spesifikk retning på Maarud
 
@@ -472,7 +688,39 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 2. **Ingen fullstendig lesing** – bruk manuset som stikkord, snakk fritt.
 3. **Pauser** – tre sekunder stillhet føles som evighet for deg, tyngde
    for gjestene.
-4. **Øyekontakt** – 2–3 sekunder per gjest, spre blikket.
+4. **Øyekontakt** – 2–3 sekunder per gjest, spre blikket via 5
+   anker-gjester (`lure-grep.md` §11.6).
 5. **Tempo**: snakk saktere enn du tror. Nerver øker hastigheten.
-6. **Kutt om nødvendig** – ligger du bak skjema, kutt intro-ene, ikke
-   talene. Aldri kutt Stikk 2.
+6. **20-sek-regelen**: første latter skal komme før 25 sek inn i Stikk 1
+   (`standup-teknikk.md` §1).
+7. **Kutt om nødvendig** – ligger du bak skjema, kutt intro-ene, ikke
+   talene. **Aldri kutt Stikk 2.**
+
+---
+
+## Dramaturgisk oversikt – tempo og rytme
+
+```
+Stikk 1            ████      Varm + selvironi + brudeparet inn
+Werner Seigerud    ██        Tyngde
+Helan går          ██        Skål
+Fireball 1         ███       Velkomstshot
+— buffet 1 —
+Anders til brud    ███       Burning Love
+Kjersti + Erik N.  ██        Arv eller miljø + tog-metafor
+— pissepause + buffet 2 —
+Stikk 2            ███       Personlig fetter-historie (HJERTET)
+Cathrine + Anette  ██        Walking On Sunshine, søster-duo
+Ingrid + Ola       ████      Crazy Train, søsken-duo
+— pause + Fireball 2 —
+— dessert —
+Stikk 3            ██        Jeg ringte rundt + Altinn-callback
+Helene             ███       Fanga av stormvind
+Even               ████      Thunderstruck-flaske + Rumble
+Tom Christian      ███       Vennegjeng-tale, mot slutten
+Takketale          ██        Brudeparet
+Stikk 4            ███       Take on Me + Fireball 3 + landing
+— DANS —
+```
+
+Maks to «firere» på rad. Brekk alltid med en «toer» eller pause.

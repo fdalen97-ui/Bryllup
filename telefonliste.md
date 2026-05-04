@@ -11,23 +11,26 @@ løpende.
 | # | Navn | Relasjon | Telefon | Ringt | Notert |
 |---|------|----------|---------|-------|--------|
 | 1 | Werner Seigerud | Brudens far | | ☐ | ☐ |
-| 2 | [Brudens mor] | Brudens mor | | ☐ | ☐ |
-| 3 | Cathrine | Michelles storesøster 1 | | ☐ | ☐ |
-| 4 | Anette | Michelles storesøster 2 | | ☐ | ☐ |
+| 2 | Mai-Britt | Brudens mor | | ☐ | ☐ |
+| 3 | Cathrine | Michelles storesøster 1 (felles tale) | | ☐ | ☐ |
+| 4 | Anette | Michelles storesøster 2 (felles tale) | | ☐ | ☐ |
 | 5 | Kjersti | Anders' mor | | ☐ | ☐ |
-| 6 | Erik | Anders' far | | ☐ | ☐ |
-| 7 | Ola | Anders' bror | | ☐ | ☐ |
-| 8 | [Helene/Even] | Forlover brud (landskapsarkitekt, Tromsø) | | ☐ | ☐ |
-| 9 | [Helene/Even] | Forlover brudgom (Equinor, gym) | | ☐ | ☐ |
-| 10 | [Equinor-kollega] | Jobbkompis av Anders | | ☐ | ☐ |
-| 11 | [Dykkerkompis] | Fra Anders' dykkermiljø | | ☐ | ☐ |
-| 12 | [Start-up-kompis] | Fra start-up-miljøet | | ☐ | ☐ |
+| 6 | Erik Nilsen | Anders' far (CEO/togreparasjon) | | ☐ | ☐ |
+| 7 | Ola | Anders' bror (felles tale med Ingrid) | | ☐ | ☐ |
+| 8 | Ingrid | Anders' søster (felles tale med Ola) | | ☐ | ☐ |
+| 9 | Helene | Forlover brud (landskapsarkitekt, Tromsø) | | ☐ | ☐ |
+| 10 | Even | Forlover brudgom (Equinor, gym) | | ☐ | ☐ |
+| 11 | Tom Christian | Brudesvenn / venn av Anders | | ☐ | ☐ |
+| 12 | [Equinor-kollega] | Jobbkompis av Anders | | ☐ | ☐ |
+| 13 | [Dykkerkompis] | Fra Anders' dykkermiljø | | ☐ | ☐ |
 
 **OBS**: Fredrik er **fetter** av Anders (#34 på gjesteliste). Det
-betyr at tante og onkel (Anders' foreldre) er hans egen familie – samtalene
-med Kjersti og Erik blir varme og uformelle. Utnytt det i Stikk 2.
+betyr at tante og onkel (Anders' foreldre = Kjersti og Erik Nilsen) er
+hans egen familie – samtalene blir varme og uformelle. Utnytt det i
+Stikk 2.
 
-**Minimum**: 8 personer. **Mål**: 12.
+**Minimum**: 8 personer. **Mål**: 13 (alle bekreftede talere + 2
+tilleggspersoner som ikke taler).
 
 ---
 

@@ -57,18 +57,18 @@ Trigges med klikker. Dedikert musikkansvarlig kan overstyre hvis nødvendig.
 - **Taler X**: Navn + relasjon til brudeparet
 - Bilde av taleren hvis tilgjengelig (ellers ikonografi)
 - Vises 10 sek før taleren reiser seg
-- Én slide per taler, totalt 9 stk
+- Én slide per talesekvens, totalt 9 stk
 
-Slides (9 stk):
-- **Werner Seigerud** – brudens far
-- **Anders** – brudgom
-- **Kjersti & Erik** – brudgommens foreldre
-- **Cathrine** – Michelles storesøster 1
-- **Anette** – Michelles storesøster 2
-- **Ola** – brudgommens bror
-- **[Forlover brud]** – Helene/Even (avklar)
-- **[Forlover brudgom]** – Helene/Even (avklar)
-- **Takketale** – Michelle & Anders
+Slides (9 talesekvenser):
+- **Werner Seigerud** – brudens far (Tale 1, FØR mat)
+- **Anders** – brudgom, til Michelle (Tale 2)
+- **Kjersti & Erik Nilsen** – Anders' foreldre (Tale 3, tog-metafor)
+- **Cathrine + Anette** – Michelles storesøstre, felles tale (Tale 4)
+- **Ingrid + Ola** – Anders' søsken, felles tale (Tale 5)
+- **Helene** – Michelles forlover (Tale 6)
+- **Even** – Anders' forlover (Tale 7)
+- **Tom Christian** – venn av Anders (Tale 8, mot slutten)
+- **Takketale** – Michelle & Anders (Tale 9)
 
 ---
 

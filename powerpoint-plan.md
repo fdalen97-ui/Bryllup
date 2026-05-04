@@ -55,7 +55,8 @@ de er max 10 sek og testet flere ganger.
 | 3 | Kveldens program | Liste: 9 taler, 3 retter, 2 pauser | Under «Her er kveldens plan...» | Klikk |
 | 4 | Spilleregler | Tramping, klirring, nødutgang | Når Fredrik nevner det | Klikk |
 | 5 | Trigger-shot | «Equinor» / «pitch deck» = drikk | Når regelen annonseres | Klikk |
-| 6 | F1 / Rumble-slide | Startflagg-bilde | Rett før brudeparet entrer | Klikk |
+| 6 | Hovmester Oda Rogstad | Bilde + «Kveldens hovmester» | Når Oda kommer frem | Klikk |
+| 6b | F1 / Rumble-slide | Startflagg-bilde | Rett før brudeparet entrer | Klikk |
 | 7 | Brudeparet entrer | Bilde av Michelle & Anders | Mens de går inn | Klikk |
 | 8 | Tale 1 – Werner | Bilde + «Werner Seigerud, brudens far» | 5 sek før Werner reiser seg | Klikk |
 | 9 | Helan går – tekst | Hele første vers, stor font | Etter Werners tale | Klikk |
@@ -64,15 +65,14 @@ de er max 10 sek og testet flere ganger.
 | 12 | Tale 3 – Anders' foreldre | Bilde + navn | Før de reiser seg | Klikk |
 | 13 | Pause 1 | «10 min – strekk beina» + nedteller | Pausen | Klikk |
 | 14 | Stikk 2 åpner | Sort slide | Når Fredrik begynner | Klikk |
-| 15 | Tale 4 – Cathrine | Bilde + «Cathrine, Michelles storesøster» | Før hun reiser seg | Klikk |
-| 16 | Tale 5 – Anette | Bilde + «Anette, Michelles storesøster» | Før hun reiser seg | Klikk |
-| 17 | Tale 6 – Ola | Bilde + «Ola, brudgommens bror» | Før han reiser seg | Klikk |
+| 15 | Tale 4 – Cathrine + Anette | Bilde av begge + «Michelles storesøstre» | Før de reiser seg | Klikk |
+| 16 | Tale 5 – Ingrid + Ola | Bilde av begge + «Anders' søsken» | Før de reiser seg | Klikk |
 | 18 | Pause 2 | «20 min – kaffe + Fireball» | Pausen | Klikk |
 | 19 | 🔥 FIREBALL RUNDE 2 | Brann-grafikk | Midt i pausen | Klikk |
 | 20 | Stikk 3 åpner | Sort slide | Når Fredrik begynner | Klikk |
-| 21 | Tale 7 – forlover brud | Bilde + navn | Før hun reiser seg | Klikk |
-| 22 | ⚡ THUNDERSTRUCK | AC/DC-stilig grafikk + «Hver "thunder" = drikk» | Før forlover brudgom-intro | Klikk |
-| 23 | Tale 8 – forlover brudgom | Bilde + navn | Etter Thunderstruck-flaska | Klikk |
+| 21 | Tale 6 – Helene | Bilde + «Helene, Michelles forlover» | Før hun reiser seg | Klikk |
+| 22 | ⚡ THUNDERSTRUCK | AC/DC-stilig grafikk + «Hver "thunder" = drikk» | Før Even-intro | Klikk |
+| 23 | Tale 7 – Even | Bilde + «Even, Anders' forlover» | Etter Thunderstruck-flaska | Klikk |
 | 24 | Takketale brudeparet | Bilde av Michelle & Anders | Når de reiser seg | Klikk |
 | 25 | Stikk 4 åpner | Sort slide | Når Fredrik begynner | Klikk |
 | 26–35 | Take on Me-påstander | Én påstand per slide, stor font | Sangen rulles, klikk hvert 15 sek | Klikk |

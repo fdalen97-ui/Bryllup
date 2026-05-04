@@ -19,7 +19,7 @@ reiser seg.
 | # | Låt | Artist | Lengde | Best til |
 |---|-----|--------|--------|----------|
 | 6 | Let's Get Ready To Rumble! | Zantro | 1:59 | Forlover (brudgom) – punchy intro |
-| 3 | Macgyver Theme | Hollywood TV Players | 1:14 | Generell «problemløser»-intro |
+| 3 | Macgyver Theme | Hollywood TV Players | 1:14 | Erik Nilsen – «problemløseren» |
 | 36 | Free Bird (MOONLGHT) | MOONLGHT | 1:54 | Ola – biler / frihet |
 | 21 | Stayin' Alive | Bee Gees | 1:33 | Generell løfter |
 
@@ -29,8 +29,8 @@ reiser seg.
 |---|-----|-----------|-------|
 | 7 | Fanga av ein stormvind | **Forlover (brud)** | Nordnorsk, poetisk, natur |
 | 29 | The Power Of Love | **Brudens far** | Farsvisdom, tyngde |
-| 12 | Walking On Sunshine | **Cathrine (søster 1)** | Varmt, oppveksthistorier |
-| 9 | Sarà perché ti amo | **Anette (søster 2)** | Italiensk sjarm, komplement til Cathrine |
+| 12 | Walking On Sunshine | **Cathrine + Anette (felles tale, søstre)** | Varmt, oppveksthistorier |
+| 32/33 | Crazy Train | **Ingrid + Ola (felles tale, Anders' søsken)** | Bil/sport-tema |
 | 9 | Sarà perché ti amo | Overgang / romantisk | Italiensk sjarm |
 | 28 | Take on Me | Intro som løfter blidt | Klassiker, 80-tall |
 
@@ -42,8 +42,8 @@ reiser seg.
 | 13 | Enter Sandman | **Forlover (brudgom)** alt. | Tung intro |
 | 32/33 | Crazy Train | **Ola** eller **Anders** | Bilmetafor |
 | 23 | T.N.T. | **Ola** | Sport / krefter |
-| 24 | Hold the Line | Backup (hvis ekstra taler meldes inn) | «Hold linjen» – logistikk |
-| 30 | We Didn't Start the Fire | Backup / buffer | Driv, tog-tempo |
+| 24 | Hold the Line | **Erik Nilsen** | «Hold linjen» – logistikk |
+| 30 | We Didn't Start the Fire | **Erik Nilsen** alt. | Driv, tog-tempo |
 
 ### 🚀 Brudgom / Equinor / start-up
 
@@ -69,7 +69,7 @@ reiser seg.
 |---|-----|------|
 | 1 | Forza Vinger – Blodrødt | Åpning hvis lokalt publikum kjenner den |
 | 2 | Shock 2017 (kongsvingerrussen) | Sent, hvis russeprofil passer |
-| 14 | Optimist – Jahn Teigen | Før brudens far – norsk tyngde |
+| 14 | Optimist – Jahn Teigen | Før Erik / før brudens far – norsk tyngde |
 | 31 | Bønda i fra nord 2000 | Sent – gir fartsfylt stemning |
 | 8 | Vi Kommer Fra Skogene | Etter middag – inn i festdelen |
 
@@ -96,14 +96,14 @@ middagsbakgrunn** – hold disse til dansen.
 
 | Taler | Primær | Reserve | Lengde på intro |
 |-------|--------|---------|-----------------|
-| **Werner Seigerud** (brudens far) | The Power Of Love (#29) | Optimist – Jahn Teigen (#14) | 20–25 sek |
-| **Kjersti & Erik** (Anders' foreldre) | Power of Love (#29) | Signed, Sealed, Delivered (#11) | 20 sek |
+| **Erik Nilsen** | Macgyver Theme (#3) | Hold the Line (#24) | 15–20 sek |
+| **Brudens far** | The Power Of Love (#29) | Optimist – Jahn Teigen (#14) | 20–25 sek |
 | **Forlover (brudgom)** | Let's Get Ready To Rumble! (#6) | Thunderstruck (#20/35) | 10–15 sek |
 | **Forlover (brud)** | Fanga av ein stormvind (#7) | Take on Me (#28) | 20–25 sek |
-| **Ola** | Crazy Train (#32) | T.N.T. (#23) | 10–15 sek |
-| **Cathrine** (søster 1) | Walking On Sunshine (#12) | Mamma Mia (#19) | 20 sek |
-| **Anette** (søster 2) | Sarà perché ti amo (#9) | We Didn't Start the Fire (#30) alt. | 20 sek |
+| **Cathrine + Anette** (felles) | Walking On Sunshine (#12) | Mamma Mia (#19) | 20 sek |
+| **Ingrid + Ola** (felles) | Crazy Train (#32) | T.N.T. (#23) | 15 sek |
 | **Anders (til bruden)** | Burning Love (#26) | The Power Of Love (#29) | 20 sek |
+| **Tom Christian** (venn av Anders) | Hold the Line (#24) | We Didn't Start the Fire (#30) | 15 sek |
 | **Bruden (hvis taler)** | Mamma Mia (#19) | Waterloo (#16) | 20 sek |
 
 ---
@@ -115,16 +115,22 @@ Unngå å følge rask låt med rask låt. Behold Duartes prinsipp om
 
 ```
 Åpning           ██        Optimist / Forza Vinger – varm start
-Brudens far      ██        Power Of Love – senke skuldre
+Werner Seigerud  ██        Power Of Love – senke skuldre
+Helan går        ██        Skål
+Fireball 1       ███       Velkomstshot
+— buffet 1 —
 Anders til brud  ███       Burning Love – løft
-— servering —
-Cathrine         ██        Walking On Sunshine – varme
-Anette           ██        Sarà perché ti amo – søster-duo
-Ola              ████      Crazy Train / T.N.T. – energi
-— servering —
-Forlover brud    ██        Fanga av ein stormvind – ro
-Forlover brudgom ████      Let's Get Ready / Thunderstruck – topp
-Takketale        ███       Signed, Sealed, Delivered – avslutning
+Kjersti+Erik N.  ██        Power Of Love – arv eller miljø
+— buffet 2 —
+Cathrine+Anette  ██        Walking On Sunshine – søster-duo
+Ingrid+Ola       ████      Crazy Train – søsken-duo
+— pause + Fireball 2 —
+— dessert —
+Helene (f. brud) ██        Fanga av ein stormvind – ro
+Even  (f. brudg) ████      Let's Get Ready / Thunderstruck – topp
+Tom Christian    ███       Hold the Line – vennegjeng
+Takketale        ██        Brudeparet
+Stikk 4          ███       Take on Me + Fireball 3
 — kake / dans —
                  █████     Samba / Cotton Eye Joe / Y.M.C.A.
 ```
