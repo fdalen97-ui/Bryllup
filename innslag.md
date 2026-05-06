@@ -12,7 +12,7 @@ dette» – alt skal være avklart med brudeparet på forhånd.
 
 ## 1. Thunderstruck-flaske
 
-**Når**: Mellom Helene (forlover brud) og Even (forlover brudgom), ca 20:23.
+**Når**: Mellom Helene (forlover brud) og Even (forlover brudgom), ca 20:46.
 
 **Slik gjør du**:
 1. Forlovere får utdelt én flaske øl/cider per bord før talerunden starter.
@@ -39,8 +39,8 @@ dette» – alt skal være avklart med brudeparet på forhånd.
 | Runde | Tidspunkt | Funksjon |
 |-------|-----------|----------|
 | 1 | Rett etter Helan går, FØR buffet 1 (~17:45) | Velkomstshot, sparkstart |
-| 2 | Midt i pause 2 (~19:46) | Energi-injeksjon før dessertrunden |
-| 3 | Rett før dansegulvet åpnes (~20:58) | Sparkstart til festen |
+| 2 | Midt i pause 2 (~20:04) | Energi-injeksjon før dessertrunden |
+| 3 | Rett før dansegulvet åpnes (~21:21) | Sparkstart til festen |
 
 **Slik gjør du**:
 1. PowerPoint-slide tennes: «🔥 FIREBALL 🔥» med kort jingle (5–10 sek
@@ -92,7 +92,7 @@ synlig. Fungerer fordi Werner = brudens far = øyeblikket fortjener tyngde.
 
 ### 3.2 «Vi e fra Norge» – Postgirobygget (lett fellessang)
 
-**Når**: Stikk 2 (ca 18:45) eller Stikk 4 (avrunding).
+**Når**: Stikk 2 (ca 19:23) eller Stikk 4 (avrunding).
 
 **Slik**:
 - Spilles fra anlegget, refrenget er enkelt nok til at hele rommet henger
@@ -174,7 +174,7 @@ suspendert til etter dessert. Drikk vann.»*
 
 ## 6. Fellessang «Take on Me» med påstander
 
-**Når**: Stikk 4 (avrunding, 20:19).
+**Når**: Stikk 4 (avrunding, 21:11).
 
 Allerede beskrevet i `manus.md`. Påstander å fylle inn:
 
@@ -201,26 +201,26 @@ PowerPoint-slide for hver påstand. Klikker bytter slide hvert 15. sekund.
 17:30       Stikk 1 – servietter + Rumble + brudeparet inn
 17:39       Werner Seigerud → 🍺 Helan går
 17:45       → 🔥 FIREBALL RUNDE 1 (velkomstshot, FØR mat)
-17:46       Buffet 1 åpner – forrett
-18:11       Anders til Michelle
-18:17       Michelle til Anders (brudens tale)
-18:23       Kjersti + Erik Nilsen (foreldre + tog-metafor)
-18:28       Pissepause 10 min
-18:38       Buffet 2 åpner – hovedrett
-19:05       Stikk 2 (Fredrik som fetter)
+17:46       Buffet 1 åpner – forrett (25 min)
+18:19       Anders til Michelle
+18:25       Michelle til Anders (brudens tale)
+18:31       Kjersti + Erik Nilsen (foreldre + tog-metafor)
+18:36       Pissepause 10 min
+18:46       Buffet 2 åpner – hovedrett (30 min)
+19:23       Stikk 2 (Fredrik som fetter)
             Cathrine + Anette (felles) → Ingrid + Ola (felles)
-19:23       Kongsvinger-vennene (gruppe-tale)
-19:29       «Feminin og fornem» (Ås-gjeng Michelle)
-19:34       Pause 22 min → 🔥 FIREBALL RUNDE 2 (midt i pausen)
-19:56       Buffet 3 / dessert
-20:16       Stikk 3 (Jeg ringte rundt)
+19:41       Kongsvinger-vennene (gruppe-tale)
+19:47       «Feminin og fornem» (Ås-gjeng Michelle)
+19:52       Pause 22 min → 🔥 FIREBALL RUNDE 2 (midt i pausen)
+20:14       Buffet 3 / dessert (20 min)
+20:39       Stikk 3 (Jeg ringte rundt)
             Helene (forlover brud)
-20:23       → ⚡ THUNDERSTRUCK-flaske + Even (forlover brudgom)
-20:29       INNSLAG: Broderskapet Unity (Anders' Ås-gjeng)
-20:35       Tom Christian (KVELDENS SISTE TALE)
-20:48       Stikk 4: Take on Me
-20:58       → 🔥 FIREBALL RUNDE 3 (sparkstart dans)
-21:00       DANS
+20:46       → ⚡ THUNDERSTRUCK-flaske + Even (forlover brudgom)
+20:52       INNSLAG: Broderskapet Unity (Anders' Ås-gjeng)
+20:58       Tom Christian (KVELDENS SISTE TALE)
+21:11       Stikk 4: Take on Me
+21:21       → 🔥 FIREBALL RUNDE 3 (sparkstart dans)
+21:23       DANS
 02:30       Siste buss (kun én avgang)
 ```
 

@@ -487,7 +487,7 @@ bord-rotasjon.)*
 
 ---
 
-## Forrett — talerunde 1 (18:10–18:22)
+## Forrett — talerunde 1 (18:18–18:36)
 
 *Når alle har satt seg igjen og fått tatt en gaffel.*
 
@@ -552,7 +552,7 @@ Ta imot Anders' mor og far – Kjersti og Erik Nilsen.
 
 ---
 
-## Pissepause 10 min (18:20–18:30)
+## Pissepause 10 min (18:36–18:46)
 
 Takk for tre flotte taler.
 
@@ -562,13 +562,13 @@ Hovedretten kommer rett over.
 
 ---
 
-## Buffet 2 — hovedrett (18:30–18:50)
+## Buffet 2 — hovedrett (18:46–19:16, 30 min)
 
 *[Ingen tale under buffet-runden. Folk henter mat.]*
 
 ---
 
-## STIKK 2 — Hvordan jeg kjenner Anders (19:05, ca 5 min)
+## STIKK 2 — Hvordan jeg kjenner Anders (19:23, ca 5 min)
 
 *Lars/Julie §2 «hjertelig bro mellom hovedrett og taler». Personlig
 anekdote, fetter-perspektiv. Den varmeste bolken i kvelden – HJERTET.*
@@ -954,7 +954,7 @@ Hvordan få Anders til å sitte stille i fem minutter.
 
 ---
 
-## Hovedrett — talerunde 2 (19:05–19:17)
+## Hovedrett — talerunde 2 (19:23–19:52)
 
 ---
 
@@ -1036,24 +1036,24 @@ Ta vel imot – «Feminin og fornem».
 
 ---
 
-## Pause 22 min (19:34–19:56)
+## Pause 22 min (19:52–20:14)
 
 Takk for fire flotte taler.
 
 Tjueto minutter pause. Fireball-baren åpner, kaffen er klar, dessert
 kommer rett over.
 
-*(Midt i pausen, ca 19:46: Fireball-runde 2, annonsert kort fra mygg.)*
+*(Midt i pausen, ca 20:04: Fireball-runde 2, annonsert kort fra mygg.)*
 
 ---
 
-## Buffet 3 / dessert (19:56–20:11)
+## Buffet 3 / dessert (20:14–20:34, 20 min)
 
 *[Dessert serveres. Folk setter seg.]*
 
 ---
 
-## STIKK 3 — Før forloverne (20:16, ca 3 min)
+## STIKK 3 — Før forloverne (20:39, ca 3 min)
 
 *Lars/Julie §3.1 «Jeg ringte rundt»-grep. Setter opp siste talerunde.*
 
@@ -1100,7 +1100,7 @@ La oss høre fra de som står brudeparet aller nærmest.
 
 ---
 
-## Dessert — talerunde 3 (20:03–20:15)
+## Dessert — talerunde 3 (20:39–21:01)
 
 ---
 
@@ -1185,14 +1185,14 @@ Tom Christian – ordet er ditt.
 
 ---
 
-## Buffer 10 min (20:38–20:48)
+## Buffer 10 min (21:01–21:11)
 
 For uanmeldte innslag, sanger, videoer, eller om noen har plutselig fått
 mot. Hvis ingenting kommer – gå rett til Stikk 4.
 
 ---
 
-## STIKK 4 — Avrunding + fellessang (20:48, ca 10 min)
+## STIKK 4 — Avrunding + fellessang (21:11, ca 10 min)
 
 Det har vært et tett program.
 
