@@ -85,15 +85,19 @@ som trenger spesifikk intro-strategi.
 
 | Person | Rolle | Humorvinkel | Tone i intro |
 |--------|-------|-------------|--------------|
-| **Werner Seigerud** | Brudens far | «ROI på oppdragelse». Pappa-linjer som lander varmt. | Respektfull, la emosjonell tyngde komme frem. |
-| **Kjersti + Erik** | Brudgommens foreldre (#21 + #22) | «Arv eller miljø» – hvor kommer Anders' kombinasjon av start-up og dykking fra? | Varm, familiær. |
-| **Cathrine** | **Michelles storesøster (#9)** | «Den eldste vet alt først» – oppveksthistorier, big-sister-autoritet. | Varm + lett ertende. |
-| **Anette** | **Michelles storesøster (#15)** | Den andre storesøsteren – komplement til Cathrine. «To mot én – ingen sjanse for Michelle å rømme». | Varm + søster-solidaritet. |
-| **Ola** | Brudgommens bror (#23), biler/sport | «Anders som familiebil vs. sportsbil». Brødre-rivalisering. | Raskt, litt røft. |
-| **Forlover (brudgom)** | Equinor, treningsfyr (Helene el. Even) | Gym/prestasjon. «Anders i toppform vs. Anders i forhold». | Rask, punchy. |
-| **Forlover (brud)** | Landskapsarkitekt, Tromsø (Helene el. Even) | Vill natur vs. kontrollert bryllup. Nordnorsk ro. | Poetisk, myk, elegant. |
-| **Tom Christian** | Venn av Anders | Vennegjeng-historier, langvarig vennskap. Plasseres blant de **siste** talerne (etter familie og forlovere). | Personlig, varm, litt ertende. |
-| ~~**Erik Nilsen**~~ | ~~CEO / logistikk / togreparasjon~~ | **Må avklares**: er dette en separat taler, eller forveksling med Erik (#22, Anders' far)? Står ikke på gjestelisten. | – |
+| **Werner Seigerud** | Brudens far (#7) – staut, snill, rolig, chill, **ordknapp** | «ROI på oppdragelse». Pappa-linjer som lander varmt. Speil hans rytme – korte setninger, ingen oppjaging. | Rolig, respektfull, lavmælt. Han er trygg – ikke jag ham. |
+| **Mai-Britt** (kontekst, ikke taler) | Michelles mor (#3) – **prattsom** (mer enn Sissel), artig | Brukes som kontrast til Werner i hans intro: «én prater hele tiden, én er ordknapp». | – |
+| **Kjersti + Erik Nilsen** | Brudgommens foreldre (#21 + #22) – Erik: pengebevisst, snill, sta, arbeidsom | «Arv eller miljø» (Lars/Julie §3.3) flettet med tog-metafor. | Varm, familiær. |
+| **Cathrine + Anette** | **Michelles to storesøstre (#9 + #15)** – **felles tale** | «To storesøstre = dobbel kjærlighet, dobbel oppdragelse. Michelle har aldri kommet unna med noenting.» | Varm + ertende, søster-duo. |
+| **Ingrid + Ola** | **Anders' søsken (#23 + #25)** – **felles tale** | Søsken-rivalisering: Ola = sportsbilen, Ingrid = den som husker hva som skjedde. «To mot én Anders.» | Raskt, røft + varmt. |
+| **Even** | **Forlover brudgom (#40)** – Equinor, treningsfyr | Gym/prestasjon. «Anders i toppform vs. Anders i forhold». | Rask, punchy. |
+| **Helene** | **Forlover brud (#39)** – Landskapsarkitekt, Tromsø | Vill natur vs. kontrollert bryllup. Nordnorsk ro. | Poetisk, myk, elegant. |
+| **Erik Nilsen** | **Anders' far (#22)** – CEO / logistikk / togreparasjon | Togmetaforer: «på rett spor», «forsinkelser i kjærlighetslivet». Flettes inn i foreldre-intro (Tale 3 sammen med Kjersti). | Selvsikker, lett ironisk respekt. |
+| **Tom Christian** | **Brudesvenn / venn av Anders (#56)** | Vennegjeng-historier, langvarig vennskap. Plasseres rett etter forlovere. | Personlig, varm, litt ertende. |
+| **Kongsvinger-vennene** | **Michelles barndomsvenner – gruppe-tale** | Lokal forankring (Vinger kirke, Kongsvinger). «Vennegjengen som har sett Michelle vokse». Talsperson kan tale på vegne av flere. | Lokal, varm, litt nostalgisk. |
+| **Michelle** | **Brudens tale – tidlig (Tale 3, etter Anders)** | Paret-utveksling. Hun svarer på Anders' tale med sin egen. Ingen felles takketale senere. | Elegant, takknemlig, personlig. |
+| **«Feminin og fornem»** | **Michelles Ås-gjeng (NMBU studievenninner) – gruppe-tale (Tale 8)** | Studietids-historier, NMBU-referanser. Gjengnavnet er ironisk-elegant – spill på det. | Varm, sjarmerende, selvironisk. |
+| **Broderskapet Unity** | **Anders' Ås-vennegjeng – INNSLAG (dessert)** | Sang / sketsj / tale, fleksibelt format. Studietids-broderskap. NB: notatbank §3 har risikabel humor om dem – sjekk hva som er internt godkjent. | Tung, ertende, mannsdominert. |
 
 **Viktig endring**: Michelle har **to storesøstre** (Cathrine #9 og
 Anette #15), ikke én som tidligere antatt. Begge skal tale.
@@ -112,8 +116,8 @@ gå igjen.
 - 🔧 **«Bygge et liv sammen»** – bruden.
 - 🚀 **«Start-up ekteskap»** – brudgommen.
 - 🚂 **«På rett spor»** – Erik / logistikk.
-- 🏋️ **«Relasjonsfitness»** – forlover brudgom.
-- 🌲 **«Natur vs. struktur»** – forlover brud.
+- 🏋️ **«Relasjonsfitness»** – Even (forlover brudgom).
+- 🌲 **«Natur vs. struktur»** – Helene (forlover brud).
 - 🚗 **«Familiebil vs. sportsbil»** – Ola / brødre.
 
 ---
@@ -137,19 +141,24 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 > Disse er startpunkt. Finpuss i siste uke når du kjenner rommet.
 
 **Brudens far – Werner Seigerud**
-> «Noen investeringer måles i kroner. Andre i år, tårer og stolthet. Neste
-> taler har gjort den viktigste investeringen i sitt liv – og i kveld får vi
-> se avkastningen gå opp kirkegulvet. Ordet er ditt, Werner.»
+> «Noen menn snakker mye. Werner er ikke en av dem. Når han først sier
+> noe, er det fordi det er verdt å høre. Brudens far – Werner.»
 
-**Cathrine (storesøster 1)**
-> «Noen søsken vet ting før deg selv. Noen sier det også – høyt, ofte, og
-> med autoritet. Cathrine er av typen som har visst at denne dagen kom,
-> siden Michelle var 7. Applaus til Cathrine.»
+*(Speil hans rytme. Korte setninger. Lite energi i intro-en, mye varme.
+Ikke jag ham frem.)*
 
-**Anette (storesøster 2)**
-> «To storesøstre er dobbelt så mye kjærlighet – og dobbelt så mye
-> oppdragelse. Mens Cathrine jobbet med de store linjene, har Anette
-> finpusset detaljene. Ta imot – Anette.»
+**Cathrine + Anette (felles tale – Michelles storesøstre)**
+> «Michelle har ikke én storesøster. Hun har to. Det er som å vokse opp
+> med tre mammaer – det er ingenting man kommer unna med. Mens andre lærte
+> å sykle, lærte Michelle å holde takten med to arbeidsjern som kjente
+> henne bedre enn hun kjente seg selv. Og som har kalt Anders nerd siden
+> første dag. Først ut – Cathrine og Anette.»
+
+**Ingrid + Ola (felles tale – Anders' søsken)**
+> «Michelle har to storesøstre. Anders har én bror og én søster. Balansen
+> er tilbake. Ola er tøffingen som lever i hardtarbeidende festmodus.
+> Ingrid er den gamle sjelen som har holdt øye med oss alle. Sammen får
+> de fem minutter til å avsløre hvem broren deres egentlig er. Ta imot.»
 
 **Forlover (brudgom)**
 > «Neste mann kjenner Anders på godt og vondt – og på benkpress. Han vet hva
@@ -161,17 +170,34 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 > neste taler. Hun jobber til daglig med å skape ro i landskap. I kveld gir
 > hun oss et landskap av ord. Applaus.»
 
-**Ola**
-> «Det finnes to typer brødre: de som rivaliserer, og de som lyver om at de
-> ikke gjør det. Anders har heldigvis en som ikke lyver. Ola – scenen er din.»
+*(Ingrid + Ola og Cathrine + Anette ligger i avsnittet over – felles
+intro-maler.)*
 
-*(Cathrine og Anette flyttet til eget avsnitt over.)*
-
-**Tom Christian** (blant de siste talerne – venn, ikke familie/forlover)
+**Tom Christian (mot slutten av kvelden)**
 > «Når man har holdt det gående til denne timen i et bryllup, er det fordi
 > det er noe man ikke vil gå glipp av. Neste taler er en god venn av Anders –
 > og det å ha venner som blir værende lenge, både i livet og i bryllupet,
 > sier sitt. Tom Christian – ordet er ditt.»
+
+**Kongsvinger-vennene (Michelles barndomsvenner – gruppe-tale)**
+> «Det finnes folk som har vært der hele veien. Som vet hvor Michelle
+> bodde, hvor hun gikk på skole, hvilken benk hun satt på. Vi snakker om
+> Kongsvinger-vennene. Ta vel imot.»
+
+**Michelle (brudens tale – tidlig, etter Anders)**
+> «Anders har akkurat fortalt oss hvem Michelle er for ham. Nå er det
+> hennes tur. Det er sjelden i et bryllup at vi får høre brudens egne
+> ord så tidlig. Vi får. Bruden – Michelle.»
+
+**«Feminin og fornem» (Michelles Ås-gjeng)**
+> «Det finnes vennegjenger med beskjedne navn. Og det finnes vennegjenger
+> som har bestemt seg for å være feminine og fornemme – og holdt på det
+> siden NMBU. Michelle har bestemt seg en slik. Ta vel imot.»
+
+**Broderskapet Unity (Anders' Ås-vennegjeng – innslag)**
+> «Hver gang en mann gifter seg, mister han noen rettigheter. Heldigvis
+> er det noen som har samlet seg i et broderskap for å passe på at de
+> ikke mister minnene. Broderskapet Unity – scenen er deres.»
 
 ---
 
@@ -190,7 +216,8 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 
 ## 8. Huskeliste spesifikt for dette bryllupet
 
-- [ ] Erik Nilsen – eksisterer taleren, eller er det forveksling med Erik (#22)? Avklar med brudeparet.
+- [x] Erik Nilsen = **Anders' far (#22)**. Tog-metaforer flettes inn i Tale 3 (Kjersti + Erik Nilsen).
+- [x] Helene = forlover brud, Even = forlover brudgom.
 - [x] Brudens fars fornavn og riktig uttale. → **Werner Seigerud.**
 - [ ] Forlovernes navn og uttale (både brud- og brudgomsside).
 - [ ] Olas alder og forhold til Anders (eldre/yngre bror?).
@@ -198,8 +225,11 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
   rødme.
 - [ ] Klarér at Equinor/start-up-vitser ikke er for inside for de fleste
   gjestene.
-- [ ] Nordnorsk-referanser om forlover brud: sjekk at de er varme, ikke
+- [ ] Nordnorsk-referanser om Helene (forlover brud): sjekk at de er varme, ikke
   klisjéaktige.
+- [ ] **Tom Christian**: bekreft lengde og tekniske behov, plasseres mot
+  slutten av talerekken (etter forlovere, før takketalen). Sjekk uttale av
+  navn og hvordan han kjenner Anders (skole, jobb, vennegjeng?).
 - [ ] Avtale signal med brudepar: når er det nok humor, når vil de ha rolig
   overgang.
 - [ ] Se «Må-se før 26. juni»-videoliste i `resources.md` – én video i uka.
@@ -237,8 +267,8 @@ oppgavene delegeres til navngitte hjelpere:
 | Klikk PowerPoint-slides | Dedikert «klikker» (venn med laptop) | Øyekontakt + nikk |
 | Fireball-shots per bord | Forlovere + 2 utvalgte | Slide «Fireball-runde» = signal |
 | Servietter ut før Stikk 1 | 1 venn, gjøres mens gjestene tar plass | Avtalt 17:00 |
-| Backup hvis Fredrik mister stemmen | Forlover brudgom (kort melding) | Nødavtale, brifes dagen før |
-| Tidsvakt | Forlover brud (sitter nær, varsler ved 5 min over) | Hånd på skulder |
+| Backup hvis Fredrik mister stemmen | Even (forlover brudgom) | Nødavtale, brifes dagen før |
+| Tidsvakt | Helene (forlover brud, sitter nær, varsler ved 5 min over) | Hånd på skulder |
 
 **Avklar 1 uke før**:
 - [ ] Hvem er klikker? (laptop + PowerPoint kjent på forhånd)

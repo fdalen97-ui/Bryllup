@@ -1,8 +1,11 @@
 # Tidsplan – Anders' bryllup 26. juni 2026
 
-Detaljert kjøreplan basert på malen fra `referanse-oda-siver.md` §1, tilpasset
-Vinger kirke + Maarud Gård + buss. **Utkast** – justér med brudeparet,
-kjøkken og lokalet.
+Detaljert kjøreplan for buffet-bryllup på Maarud Gård. **Oppdatert til
+buffetformat** – gjestene reiser seg til to buffet-runder (forrett og
+hovedrett), dessert serveres ved bordet eller som siste buffet-runde.
+
+Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
+`referanse-oda-siver.md`). Justér med brudeparet, kjøkken og lokalet.
 
 ---
 
@@ -51,9 +54,10 @@ kjøkken og lokalet.
 | 20:29 | Takk for maten | Fredrik | 1 min | |
 | **20:30** | **Fest åpner – dansegulvet åpnes** | DJ | | |
 | 23:00 | Kake / midnattsmat (avklar) | – | | |
-| 01:00 | Siste bussavgang (avklar) | – | | |
+| **02:30** | **Siste bussavgang** | – | | Kongsvinger / Oslo – bekreftet |
 
-**Totalt middagstid**: 17:15 → 20:30 = ca 3 timer 15 min (inkl. 30 min pauser).
+**Totalt middagstid**: 17:30 → 20:37 = ca 3 timer 7 min.
+**Totalt fest**: 20:37 → 01:00 = ca 4 timer 23 min dansegulv.
 
 ---
 
@@ -61,32 +65,73 @@ kjøkken og lokalet.
 
 | Bolk | Tid |
 |------|-----|
-| Ankomst + mingling | 60 min |
-| Stikk 1 + kokken + skål | 10 min |
-| Forrett + 3 taler | 35 min |
-| Pause 1 | 10 min |
-| Hovedrett + Stikk 2 + 3 taler | 45 min |
-| Pause 2 | 20 min |
-| Dessert + Stikk 3 + 4 taler + takketale | 53 min |
-| Buffer | 4 min |
-| Stikk 4 + fellessang + takk | 11 min |
-| **Totalt middag** | **~3t 15 min** |
+| Kirke + buss + mingling utendørs (pizzasnurrer) | 14:00 → 17:25 |
+| Stikk 1 + Oda Rogstad + skål | 8 min |
+| Werner + Helan går + Fireball 1 (FØR mat) | 8 min |
+| Buffet 1 + forrett + 3 taler (Anders, Michelle, foreldre) | 42 min |
+| Pissepause | 10 min |
+| Buffet 2 + hovedrett + Stikk 2 + 4 taler (søsken x2, Kongsvinger, Ås-Michelle) | 56 min |
+| Pause 2 + Fireball 2 | 22 min |
+| Dessert + Stikk 3 + forlovere + Broderskapet + Tom Christian | 42 min |
+| Buffer | 10 min |
+| Stikk 4 + fellessang + Fireball 3 + takk | 12 min |
+| **Totalt middag** | **~3t 30 min** |
 
 ---
 
-## 3. Signaler og roller
+## 3. Buffet-mekanikk (NY)
 
-- **Kjøkkensjef → toastmaster**: håndsignal når neste rett er klar.
+Maarud serverer **buffet** – det betyr to forskyvninger der gjestene
+reiser seg, henter mat og setter seg igjen.
+
+### 3.1 Hvordan det gjennomføres
+
+| Forskyvning | Når | Hva |
+|-------------|-----|-----|
+| Buffet 1 | Etter STIKK 1 | Forrett – fisk/lett rett |
+| Buffet 2 | Etter Tale 3 + pissepause | Hovedrett – kjøtt/kraftig rett |
+| Buffet 3 (alt: ved bordet) | Etter Tale 5 + pause | Dessert |
+
+### 3.2 Bord-rotasjon
+
+For å unngå kø ved buffet-stasjonene:
+- **Bord 1–4** først (5 min)
+- **Bord 5–8** etter 5 min
+- **Bord 9–12** etter 10 min
+- Toastmaster annonserer rekkefølgen fra bordet sitt
+
+### 3.3 Konsekvenser for taler
+
+- **Ingen taler under buffet-runde** – folk er i bevegelse, klarer ikke
+  konsentrere seg.
+- Taler holdes når **alle har satt seg** og fått tatt en gaffel.
+- Buffet-runde tar 15–20 min – legg det inn i tidsbudsjettet.
+- Toastmaster signaliserer kjøkkenet: «Klar for buffet 2?»
+
+### 3.4 Avklaring med Maarud
+
+- [ ] Hvor mange buffet-stasjoner – skal de fordeles eller én linje?
+- [ ] Drikke (vin) – ved bordet eller selvbetjening?
+- [ ] Servietter / tallerkener – stable ved buffet eller dekk på bordet?
+- [ ] Hvor lenge tar én runde realistisk for 88 gjester?
+- [ ] Bord-rotasjon – kan kjøkkenet kommunisere om kø?
+
+---
+
+## 4. Signaler og roller
+
+- **Kjøkkensjef → toastmaster**: håndsignal når neste buffet-runde er
+  klar.
 - **Toastmaster → DJ/musikkansvarlig**: øyekontakt + nikk når intro-sang
   skal starte.
 - **Toastmaster → taler**: «Du er nestemann – 2 min til» sies ved bordet før
   intro.
-- **Co-toastmaster → Fredrik**: avtalt signal hvis tidsskjemaet skrider
-  (f.eks. hånd på skulder = «kutt ned»).
+- **Toastmaster → forlovere (Fireball-shotmasters)**: dedikert PowerPoint-slide
+  signaliserer Fireball-runde.
 
 ---
 
-## 4. Tidsbuffere innbakt
+## 5. Tidsbuffere innbakt
 
 - **10 min pause etter forrett** – kan strekkes til 15 min uten problem.
 - **20 min pause etter hovedrett** – kan strekkes til 25 min.
@@ -101,13 +146,40 @@ talen.
 
 ---
 
-## 5. Må avklares før bryllupet
+## 6. Bussavgang
 
-- [ ] Siste bussavgang tilbake → ytre ramme for programmet.
-- [ ] Når starter kakekutt / midnattsmat?
-- [ ] Hvilke taler er bekreftet? (opplista over er delvis antatt).
+**Siste buss går 02:30** – kun én avgang.
+
+Det gir ca 5 timer 40 min dansegulv (20:48 → 02:30), nok til at festen
+finner sin form og folk får møttes ute på dansegulvet.
+
+**Konsekvens**: gjester som trenger tidlig retur (eldre, barnefamilier)
+må ordne egen transport. Toastmaster kan minne om dette mot midnatt så
+ingen blir overrasket.
+
+**Avklar**:
+- [x] Antall busser: 1 stk
+- [x] Avgang: 02:30
+- [ ] Rute (hvor stopper bussen – Kongsvinger sentrum / Oslo / annet?)
+- [ ] Pålass-frist (siste tid for å sikre plass)
+
+---
+
+## 7. Må avklares før bryllupet
+
+- [x] Brudens søster(-e) – **Cathrine og Anette holder felles tale.**
+- [x] Anders' søster – **Ingrid holder felles tale med Ola.**
+- [x] **Michelle (bruden) holder tale TIDLIG** (Tale 3, etter Anders) – paret-utveksling.
+- [x] **Kongsvinger-vennene** (Michelles barndomsvenner) holder gruppe-tale (Tale 7).
+- [x] **«Feminin og fornem»** – Ås-gjengen / Michelles studievenninner fra NMBU – holder tale (Tale 8).
+- [x] **Broderskapet Unity** – Anders' Ås-vennegjeng – holder innslag (sang/sketsj/tale, fleksibelt format).
+- [x] **Takketale brudeparet droppes** – Tom Christian lukker talerekken.
+- [x] Servering – **buffet med 2 forskyvninger**.
+- [ ] Siste bussavgang tilbake → forslag 01:00 (avklar).
+- [ ] Når starter kakekutt / midnattsmat? (forslag: 23:00).
 - [ ] Talernes rekkefølge godkjent av brudeparet?
-- [ ] Kokkens navn og mat-presentasjon – avklart?
+- [x] **Hovmester Oda Rogstad** presenterer maten (feminin og fornem stil).
+- [ ] Vin-distrikt for kort presentasjon – navn og uttale.
 - [ ] Musikkansvarlig – hvem trykker play?
 - [ ] Mikrofon fra bordene – mulig?
 - [x] Brudens søster(-e) – **Cathrine og Anette, begge holder tale.**
