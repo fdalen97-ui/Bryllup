@@ -235,6 +235,12 @@ intro-maler.)*
 - [ ] Se «Må-se før 26. juni»-videoliste i `resources.md` – én video i uka.
 - [ ] Les `standup-teknikk.md` og merk opp rule-of-three og callbacks i
   eget manus.
+- [x] **Tom Christian** (venn av Anders): **bekreftet 4–5 min**, plassert
+  som **Tale 9** i `tidsplan.md` (20:07, etter forlover brudgom, før
+  takketalen).
+- [ ] Velg intro-sang for Tom Christian (Tale 9, 20:06).
+- [ ] Sjekk uttale av Tom Christians navn og hvordan han kjenner Anders
+  (skole, jobb, vennegjeng?) – brukes i intro.
 
 ---
 
