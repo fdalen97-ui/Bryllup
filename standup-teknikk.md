@@ -299,3 +299,152 @@ Hvis tiden er knapp, prioritér disse:
    aldri få panikk
 
 Alt annet er bonus.
+
+---
+
+## 12. Tilegne seg material fra standup – konverterings-mal
+
+**Hovedregel**: stjel strukturen, aldri vitsen. Hvis bare én av 88 gjester
+har sett klippet på YouTube, dør materialet i rommet. Du eier ordene –
+ingen kan gjenkjenne dem hvis du gjør jobben riktig.
+
+### 12.1 Hvorfor du ikke kan kopiere direkte
+
+- **Gjenkjenningsdød**: én gjest som hvisker «det er fra Mulaney» til
+  sidemannen smitter til 3 bord på 30 sekunder. Latteren din blir til
+  fnis.
+- **Tonal mismatch**: amerikansk klubbhumor er ofte hardere/mørkere enn
+  norsk bryllup tåler. Bo Burnham vil ikke lande etter Werner Seigerud.
+- **Stilthet**: kopierte ord uten egen rytme høres ut som lest.
+- **Etikk**: profesjonelle komikere lever av disse vitsene. De har en
+  uskreven kode mot tjuveri. Du holder en bryllupstale – du har samme
+  kode.
+
+### 12.2 Konverteringsprosessen i tre steg
+
+**Steg 1 – Identifiser**
+- Velg én vits/bit du har ledd høyt av minst to ganger.
+- Noter tidsstempel (f.eks. «Mulaney, *Baby J*, Netflix, 04:23»).
+- Hør på den 3 ganger. Skriv én setning som svarer:
+  *«Hvor blir publikum overrasket?»*
+
+**Steg 2 – Strip til skjelettet**
+- Skriv ned **bare** den abstrakte strukturen – ikke ordene:
+  - Hvor mange setups før twisten?
+  - Hva er domenet (jobb, familie, en gjenstand)?
+  - Hva er twisten – kontrast, eskalering, eller absurd vinkel?
+  - Hvor lang er pausen før punchline?
+- Hvis skjelettet ditt fortsatt inneholder komikerens spesifikke detaljer
+  (eksens navn, byen, jobben hen har), strip videre.
+
+**Steg 3 – Bygg om i ditt domene**
+- Bytt domenet til bryllupet (Werner, Anders, Maarud, NMBU, Equinor).
+- Skriv din versjon **uten å se på originalen**.
+- Test: «Ville komikeren kjent vitsen igjen?»
+  - Nei → du har gjort jobben.
+  - Ja → strip mer.
+
+### 12.3 Konverterings-skjema (fyll ut selv)
+
+Ta én A4-side per vits du vil tilegne deg.
+
+```
+┌─────────────────────────────────────────────────────┐
+│ KILDE                                               │
+│ Komiker: ____________   Special: ____________      │
+│ Plattform: __________   Tidsstempel: __________    │
+│                                                     │
+│ HVA SKJER (én setning):                             │
+│ ____________________________________________        │
+│                                                     │
+│ STRUKTUR (skjelett – ikke ord):                     │
+│ - Setup-domene: __________                         │
+│ - Antall beats før twist: ___                       │
+│ - Twist-type:  □ kontrast  □ eskalering            │
+│                □ absurd  □ misdirection             │
+│ - Pause før punchline:  □ kort  □ lang              │
+│                                                     │
+│ MIN VERSJON (eget domene, egne ord):                │
+│ ____________________________________________        │
+│ ____________________________________________        │
+│                                                     │
+│ TEST: Ville originalkomikeren kjent denne igjen?    │
+│ □ Nei (klar til bryllup)                            │
+│ □ Kanskje (strip mer)                               │
+│ □ Ja (start på nytt)                                │
+└─────────────────────────────────────────────────────┘
+```
+
+### 12.4 Anbefalte komikere for ditt register (selvironisk-varm)
+
+Disse kombinerer **velbygd struktur** med **selvironi/varme** – som
+matcher hvordan Fredrik skal levere. Bruk dem som **rytme-skole**, ikke
+material-bank.
+
+#### Engelskspråklige – for teknikk
+
+| Komiker | Special / sted | Hva å studere |
+|---------|----------------|---------------|
+| **John Mulaney** | *New In Town*, *Baby J* (Netflix) | Setup-presisjon, tilbakeholdt energi, callback-arkitektur |
+| **Mike Birbiglia** | *The New One*, *Thank God for Jokes* (Netflix) | Bryllupsrelevant: lange varme storyteller-bolker, A/B/A-struktur |
+| **Norm MacDonald** | YouTube – sene Conan-besøk, *Hitler's Dog* | Anti-punchline, master-pauser, dødspeker-rytme |
+| **Demetri Martin** | *If I*, *Live (At The Time)* (Netflix) | One-liner-konsentrasjon, rule of three med twist |
+| **Hannah Gadsby** | *Nanette*, *Douglas* (Netflix) | Strukturert monolog som bygger til emosjonell klimaks |
+| **Brian Regan** | *I Walked On the Moon*, YouTube | Ren observasjons-humor, ingen blue, høy energi |
+| **Maria Bamford** | *Old Baby* (Netflix) | Selvironi tatt til vulnerable yttergrenser |
+| **Daniel Sloss** | *X*, *Jigsaw* (Netflix) | Storyteller med plot-twist – lærer deg Chekhov's gun |
+
+#### Norske – for tone og kulturkontekst
+
+For et norsk bryllup vil norske komikeres rytme matche bedre:
+
+| Komiker | Hvor å finne | Hva å studere |
+|---------|--------------|---------------|
+| **Sigrid Bonde Tusvik** | Latter, NRK-spesialer, podcast | Skarp selvironi, kvinnelig røst |
+| **Henrik Thodesen** | YouTube, Latter-klipp | Tørr observasjon, Oslo-vest-blikk |
+| **Else Kåss Furuseth** | NRK, podcast *Kåss til kvelds* | Emosjonell storyteller, vulnerable selvironi |
+| **Dagfinn Lyngbø** | NRK, spesialer | Dialekt-varme, folkelig observasjon |
+| **Anne-Kat Hærland** | YouTube, NRK | Klassisk standup-arkitektur, sjarmerende |
+| **Atle Antonsen** | NRK, podcast | Absurd norsk humor, bryllupsrelevant for innslag |
+| **Rune Andersen** | NRK Latter | Tørr punchline-mester |
+| **Espen Eckbo** | Sketsj, NRK | Karakter-bygging, kan inspirere innslag |
+
+### 12.5 Hva du IKKE skal hente fra standup
+
+- **Råe vitser om eks-kjærester eller kropp** – står ikke til
+  bryllupsregister
+- **Politiske spissformuleringer** – splitter rommet
+- **Vitser om kjønn / minoriteter** – risikerer å såre gjester
+- **«Kynisk pappa»-rutiner** – kolliderer med varme tonen i kvelden
+- **Noe du må forklare** – hvis vitsen krever forklaring, dropp den
+
+### 12.6 Praktisk øvelse – tre uker, tre vitser
+
+| Uke | Oppgave |
+|-----|---------|
+| 1 | Velg 3 vitser fra 3 ulike komikere. Fyll ut konverterings-skjema for hver. |
+| 2 | Skriv din versjon av hver. Les høyt for én venn (uten å avsløre kilden). |
+| 3 | Hvis vennen ler – sjekk én siste gang at originalkomikeren ikke ville gjenkjent den. Hvis OK – legg inn i `manus.md`. |
+
+**Mål**: 1–2 av de 3 vitsene overlever til endelig manus. De er nå
+**dine**, fordi du har gjort konverteringsarbeidet.
+
+### 12.7 Hvor du kan se klipp lovlig
+
+- **Netflix / HBO Max / Disney+** – fulle spesialer, betalt
+- **YouTube offisielle kanaler** – Comedy Central, Just for Laughs,
+  komikernes egne kanaler
+- **NRK TV** – Latter, norske spesialer
+- **Podcast-format** – komikere snakker om hvordan de bygger material
+  (Mulaney på *WTF with Marc Maron*, Mulaney/Birbiglia på *The New One*-bts,
+  norske Tusvik & Tønne-podcast)
+
+### 12.8 Etisk minimum
+
+- Hvis du virkelig elsker en spesifikk vitsestruktur og bruker den nesten
+  uendret: **krediter komikeren** i forbifarten («som Mulaney sier...»).
+  Gir deg én bruk, taper energi etter det.
+- Aldri lat som en konvertert vits er ditt eget originale påfunn hvis
+  noen direkte spør hvor den kommer fra.
+- Hvis i tvil: skriv noe nytt fra null. Du kjenner Anders bedre enn noen
+  komiker.
