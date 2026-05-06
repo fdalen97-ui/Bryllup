@@ -15,44 +15,55 @@ Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
 |-----|----------|------|----------|---------|
 | 14:00 | Vielse | Prest + brudepar | 30–45 min | Vinger kirke |
 | 14:45 | Gratulasjoner / foto utenfor kirken | – | 30 min | |
-| 15:15 | Buss avgang Vinger → Maarud | – | 30–40 min | |
-| 15:55 | Ankomst Maarud Gård | – | – | |
-| 16:00 | Velkomstdrink + mingling + foto | – | 60 min | |
-| 17:00 | Dørene til middagssal åpnes | Toastmaster | – | Bussen slipper nachsitter |
-| 17:05 | Gjestene tar plass | – | 10 min | |
-| **17:15** | **STIKK 1 – åpning** | Fredrik | 4 min | Brudeparet jubles inn |
-| 17:20 | Kokken presenterer menyen | Kokk | 2 min | |
-| 17:22 | Praktisk info + skål | Fredrik | 2 min | |
-| **17:25** | **Forrett serveres + vin** | – | 20 min | |
-| 17:45 | Intro taler 1 | Fredrik | 30 sek | *Optimist – Jahn Teigen* 20 sek |
-| 17:46 | **Tale 1 – brudens far** | | 5 min | |
-| 17:51 | Intro taler 2 | Fredrik | 30 sek | *Burning Love* 20 sek |
-| 17:52 | **Tale 2 – Anders (til bruden)** | | 5 min | |
-| 17:57 | Intro taler 3 | Fredrik | 30 sek | *Power of Love* 20 sek |
-| 17:58 | **Tale 3 – Anders' foreldre** | | 5 min | |
-| **18:05** | **Pause 10 min** | – | | Felles pissepause |
-| **18:15** | **Hovedrett serveres + vin** | – | | |
-| 18:45 | **STIKK 2 – personlig historie** | Fredrik | 5 min | Setter opp talerunde 2 |
-| 18:50 | Intro taler 4 | Fredrik | 30 sek | *Walking On Sunshine* 20 sek |
-| 18:51 | **Tale 4 – Cathrine (søster 1)** | | 3 min | Storesøster 1 |
-| 18:54 | Intro taler 5 | Fredrik | 30 sek | *Sarà perché ti amo* 20 sek |
-| 18:55 | **Tale 5 – Anette (søster 2)** | | 3 min | Storesøster 2 |
-| 18:58 | Intro taler 6 | Fredrik | 30 sek | *Crazy Train* 15 sek |
-| 18:59 | **Tale 6 – Ola (Anders' bror)** | | 3 min | |
-| **19:02** | **Pause 20 min** | – | | Kaffe, røyk, Fireball-bar |
-| **19:22** | **Dessert serveres** | – | | |
-| 19:55 | **STIKK 3 – før forlovertaler** | Fredrik | 3 min | Oppsummering fra telefonrunden |
-| 19:58 | Intro taler 7 | Fredrik | 45 sek | *Fanga av ein stormvind* 45 sek |
-| 19:59 | **Tale 7 – forlover brud** | | 3 min | |
-| 20:02 | Intro taler 8 | Fredrik | 30 sek | *Let's Get Ready to Rumble!* 30 sek |
-| 20:03 | **Tale 8 – forlover brudgom** | | 3 min | |
-| 20:06 | Intro taler 9 | Fredrik | 30 sek | *Intro-sang TBD* |
-| 20:07 | **Tale 9 – Tom Christian (venn av Anders)** | | 4–5 min | Siste taler før takketalen |
-| 20:12 | **Tale 10 – takketale brudeparet** | | 3 min | Michelle + Anders |
-| 20:15 | **Buffer** | – | 4 min | Krympet fra 10 → 4 min for å gi plass til Tom |
-| **20:19** | **STIKK 4 – avrunding + fellessang** | Fredrik | 10 min | *Take on Me* + påstander |
-| 20:29 | Takk for maten | Fredrik | 1 min | |
-| **20:30** | **Fest åpner – dansegulvet åpnes** | DJ | | |
+| 15:15 | Buss avgang Vinger → Maarud | – | 30–35 min | |
+| 15:50 | Ankomst Maarud Gård | – | – | |
+| 15:50 | Mingling utenfor + pizzasnurrer + velkomstdrink + foto | – | 95 min | Lett mat utendørs hvis vær |
+| 17:25 | Dørene til middagssal åpnes | Toastmaster | 5 min | Gjester finner plassen |
+| **17:30** | **STIKK 1 – åpning + brudeparet inn** | Fredrik | 5 min | A-F-struktur (Oda/Sivert) |
+| 17:35 | Hovmester Oda Rogstad presenterer maten | Oda Rogstad | 2 min | Feminin og fornem levering |
+| 17:37 | Vin-presentasjon + skål for brudeparet | Fredrik | 1 min | |
+| 17:38 | Intro tale 1 | Fredrik | 30 sek | *Optimist – Jahn Teigen* 20 sek |
+| 17:39 | **Tale 1 – Werner Seigerud (brudens far) – velkomsttale FØR mat** | | 5 min | Klassisk åpningstale |
+| 17:44 | **Helan går** – obligatorisk skål | Fredrik + alle | 1 min | Tekst på PowerPoint |
+| 17:45 | 🔥 **Fireball-runde 1 – velkomstshot** | Forlovere | 1 min | Sparkstart, før mat |
+| **17:46** | **Buffet 1 åpner – forrett** | – | 17 min | Folk reiser seg, henter mat |
+| 18:03 | Alle har satt seg, forrett pågår | – | – | |
+| 18:10 | Intro tale 2 | Fredrik | 30 sek | *Burning Love* 20 sek |
+| 18:11 | **Tale 2 – Anders til Michelle** | | 5 min | |
+| 18:16 | Intro tale 3 | Fredrik | 30 sek | *Mamma Mia* 20 sek |
+| 18:17 | **Tale 3 – Michelle til Anders (brudens tale)** | | 5 min | Feminin og fornem, paret-utveksling |
+| 18:22 | Intro tale 4 | Fredrik | 30 sek | *Power of Love* 20 sek |
+| 18:23 | **Tale 4 – Kjersti + Erik Nilsen (Anders' foreldre)** | | 5 min | «Arv eller miljø» + tog-metafor |
+| **18:28** | **Felles pissepause 10 min** | – | | Annonsert (Oda/Sivert §3.3) |
+| **18:38** | **Buffet 2 åpner – hovedrett** | – | 20 min | Andre forskyvning |
+| 18:58 | Alle har satt seg, hovedrett pågår | – | – | |
+| **19:05** | **STIKK 2 – personlig historie (Fredrik som fetter)** | Fredrik | 5 min | Lars/Julie kisten-stil |
+| 19:10 | Intro tale 5 | Fredrik | 30 sek | *Walking On Sunshine* 20 sek |
+| 19:11 | **Tale 5 – Cathrine + Anette (felles, Michelles storesøstre)** | | 5 min | Søster-duo |
+| 19:16 | Intro tale 6 | Fredrik | 30 sek | *Crazy Train* 15 sek |
+| 19:17 | **Tale 6 – Ingrid + Ola (felles, Anders' søsken)** | | 5 min | Søsken-duo, «gå sakte mot»-intro |
+| 19:22 | Intro tale 7 | Fredrik | 30 sek | *Forza Vinger – Blodrødt* 20 sek |
+| 19:23 | **Tale 7 – Kongsvinger-vennene** (Michelles barndomsvenner) | | 5 min | Gruppe-tale, lokal forankring |
+| 19:28 | Intro tale 8 | Fredrik | 30 sek | *Voulez-Vous* 20 sek |
+| 19:29 | **Tale 8 – «Feminin og fornem»** (Ås-gjengen, Michelles studievenninner) | | 5 min | Gruppe-tale, NMBU/Ås |
+| **19:34** | **Pause 22 min** | – | | Kaffe, røyk, Fireball-bar |
+| 19:46 | 🔥 **Fireball-runde 2** | Forlovere | 1 min | Midt i pausen |
+| **19:56** | **Buffet 3 / dessert** | – | 15 min | Dessert ved bordet eller buffet |
+| 20:11 | Dessert pågår | – | – | |
+| 20:16 | **STIKK 3 – før forlovertaler («Jeg ringte rundt»)** | Fredrik | 3 min | Lars/Julie §3.1 |
+| 20:19 | Intro tale 9 | Fredrik | 45 sek | *Fanga av ein stormvind* 45 sek |
+| 20:20 | **Tale 9 – Helene (forlover brud)** | | 3 min | Michelles forlover |
+| 20:23 | ⚡ **Thunderstruck-flaske ruller** | DJ + bord | 45 sek | Før Even |
+| 20:24 | Intro tale 10 | Fredrik | 30 sek | *Let's Get Ready to Rumble!* 30 sek |
+| 20:25 | **Tale 10 – Even (forlover brudgom)** | | 3 min | Anders' forlover |
+| 20:28 | Intro innslag – **Broderskapet Unity** | Fredrik | 30 sek | *Enter Sandman* 15 sek |
+| 20:29 | **INNSLAG – Broderskapet Unity** (Anders' Ås-venner) | | 5 min | Sang / sketsj / tale – flex |
+| 20:34 | Intro tale 11 | Fredrik | 30 sek | *Hold the Line* 15 sek |
+| 20:35 | **Tale 11 – Tom Christian (venn av Anders)** | | 3 min | KVELDENS SISTE TALE |
+| 20:38 | **Buffer 10 min** | – | | Uanmeldte innslag |
+| **20:48** | **STIKK 4 – avrunding + fellessang Take on Me** | Fredrik | 10 min | Med påstander |
+| 20:58 | Takk for maten + 🔥 **Fireball-runde 3** | Fredrik + alle | 2 min | Sparkstart til dans |
+| **21:00** | **Fest åpner – første dans** | DJ | | Brudeparet entrer dansegulvet |
 | 23:00 | Kake / midnattsmat (avklar) | – | | |
 | **02:30** | **Siste bussavgang** | – | | Kongsvinger / Oslo – bekreftet |
 
@@ -133,11 +144,9 @@ For å unngå kø ved buffet-stasjonene:
 
 ## 5. Tidsbuffere innbakt
 
-- **10 min pause etter forrett** – kan strekkes til 15 min uten problem.
-- **20 min pause etter hovedrett** – kan strekkes til 25 min.
-- **4 min buffer** før Stikk 4 – krympet fra 10 etter at Tom Christian (4–5
-  min) ble lagt inn. Ved overskridelse: kutt buffer først, deretter en
-  intro-sang.
+- **10 min pissepause** etter Tale 3 – kan strekkes til 15 min.
+- **23 min pause** etter Tale 5 (inkl. Fireball 2) – kan strekkes.
+- **10 min buffer** før Stikk 4 – for uanmeldte innslag.
 - **Intro-sanger** er 15–45 sek – kan fades kortere hvis tiden er stram.
 
 **Tommelfingerregel**: ligger du 10 min bak skjema etter hovedrett, kutt
@@ -182,11 +191,4 @@ ingen blir overrasket.
 - [ ] Vin-distrikt for kort presentasjon – navn og uttale.
 - [ ] Musikkansvarlig – hvem trykker play?
 - [ ] Mikrofon fra bordene – mulig?
-- [x] Brudens søster(-e) – **Cathrine og Anette, begge holder tale.**
-- [ ] Vil Cathrine og Anette ha separate intro og egne taler, eller felles
-  tale? Planen er bygd for separate.
-- [ ] Erik Nilsen – eksisterer denne taleren, eller var det forveksling
-  med Anders' far Erik (#22)? **Må avklares.** Foreløpig fjernet fra
-  tidsplanen.
-- [x] Tom Christian – **bekreftet 4–5 min, plassert som Tale 9 (siste taler
-  før takketalen).** Intro-sang må velges.
+- [ ] Erik Nilsen – eksisterer denne taleren? (foreløpig utelatt).
