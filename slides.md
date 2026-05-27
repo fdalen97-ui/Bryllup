@@ -61,10 +61,10 @@ Trigges med klikker. Dedikert musikkansvarlig kan overstyre hvis nødvendig.
 
 Slides (11 talesekvenser + 1 innslag):
 - **Werner Seigerud** – brudens far (Tale 1, FØR mat)
-- **Anders** – brudgom, til Michelle (Tale 2)
-- **Michelle** – brudens tale (Tale 3, paret-utveksling)
-- **Kjersti & Erik Nilsen** – Anders' foreldre (Tale 4, tog-metafor)
-- **Cathrine + Anette** – Michelles storesøstre, felles tale (Tale 5)
+- **Anders** – brudgom, til Michelle (Tale 2, FØR mat)
+- **Michelle** – brudens tale (Tale 3, paret-utveksling, FØR mat)
+- **Cathrine + Anette** – Michelles storesøstre, felles tale (Tale 4, FØR mat)
+- **Kjersti & Erik Nilsen** – Anders' foreldre (Tale 5, tog-metafor, forrett)
 - **Ingrid + Ola** – Anders' søsken, felles tale (Tale 6)
 - **Kongsvinger-vennene** – Michelles barndomsvenner, gruppe-tale (Tale 7)
 - **«Feminin og fornem»** – Michelles Ås-gjeng (NMBU), gruppe-tale (Tale 8)

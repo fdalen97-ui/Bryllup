@@ -92,7 +92,7 @@ synlig. Fungerer fordi Werner = brudens far = øyeblikket fortjener tyngde.
 
 ### 3.2 «Vi e fra Norge» – Postgirobygget (lett fellessang)
 
-**Når**: Stikk 2 (ca 19:23) eller Stikk 4 (avrunding).
+**Når**: Stikk 2 (ca 19:29) eller Stikk 4 (avrunding).
 
 **Slik**:
 - Spilles fra anlegget, refrenget er enkelt nok til at hele rommet henger
@@ -199,16 +199,17 @@ PowerPoint-slide for hver påstand. Klikker bytter slide hvert 15. sekund.
 
 ```
 17:30       Stikk 1 – servietter + Rumble + brudeparet inn
-17:39       Werner Seigerud → 🍺 Helan går
-17:45       → 🔥 FIREBALL RUNDE 1 (velkomstshot, FØR mat)
-17:46       Buffet 1 åpner – forrett (25 min)
-18:19       Anders til Michelle
-18:25       Michelle til Anders (brudens tale)
-18:31       Kjersti + Erik Nilsen (foreldre + tog-metafor)
-18:36       Pissepause 10 min
-18:46       Buffet 2 åpner – hovedrett (30 min)
-19:23       Stikk 2 (Fredrik som fetter)
-            Cathrine + Anette (felles) → Ingrid + Ola (felles)
+17:39       Werner Seigerud (brudens far)
+17:45       Anders til Michelle
+17:51       Michelle til Anders (brudens tale)
+17:57       Cathrine + Anette (felles, søstre) → 🍺 Helan går
+18:03       → 🔥 FIREBALL RUNDE 1 (velkomstshot, FØR mat)
+18:04       Buffet 1 åpner – forrett (25 min)
+18:37       Kjersti + Erik Nilsen (foreldre + tog-metafor)
+18:42       Pissepause 10 min
+18:52       Buffet 2 åpner – hovedrett (30 min)
+19:29       Stikk 2 (Fredrik som fetter)
+            Ingrid + Ola (felles, Anders' søsken)
 19:41       Kongsvinger-vennene (gruppe-tale)
 19:47       «Feminin og fornem» (Ås-gjeng Michelle)
 19:52       Pause 22 min → 🔥 FIREBALL RUNDE 2 (midt i pausen)

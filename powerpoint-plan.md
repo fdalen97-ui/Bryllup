@@ -59,15 +59,14 @@ de er max 10 sek og testet flere ganger.
 | 6b | F1 / Rumble-slide | Startflagg-bilde | Rett før brudeparet entrer | Klikk |
 | 7 | Brudeparet entrer | Bilde av Michelle & Anders | Mens de går inn | Klikk |
 | 8 | Tale 1 – Werner | Bilde + «Werner Seigerud, brudens far» | 5 sek før Werner reiser seg | Klikk |
-| 9 | Helan går – tekst | Hele første vers, stor font | Etter Werners tale | Klikk |
-| 10 | Tale 2 – Anders til Michelle | Bilde + «Anders – brudgommen» | Før Anders reiser seg | Klikk |
-| 11 | 🔥 FIREBALL RUNDE 1 | Stor brann-grafikk | Etter Anders' tale | Klikk |
-| 12 | Tale 3 – Anders' foreldre | Bilde + navn | Før de reiser seg | Klikk |
-| 13 | Pause 1 | «10 min – strekk beina» + nedteller | Pausen | Klikk |
-| 14 | Stikk 2 åpner | Sort slide | Når Fredrik begynner | Klikk |
-| 14a | Tale 3 – Michelle (brudens tale) | Bilde + «Michelle, bruden» | Etter Anders' tale | Klikk |
-| 14b | Tale 4 – Kjersti + Erik Nilsen | Bilde + «Anders' foreldre» | Etter Michelles tale | Klikk |
-| 15 | Tale 5 – Cathrine + Anette | Bilde av begge + «Michelles storesøstre» | Før de reiser seg | Klikk |
+| 9 | Tale 2 – Anders til Michelle | Bilde + «Anders – brudgommen» | Før Anders reiser seg (FØR mat) | Klikk |
+| 10 | Tale 3 – Michelle (brudens tale) | Bilde + «Michelle, bruden» | Etter Anders' tale (FØR mat) | Klikk |
+| 11 | Tale 4 – Cathrine + Anette | Bilde av begge + «Michelles storesøstre» | Etter Michelles tale (FØR mat) | Klikk |
+| 12 | Helan går – tekst | Hele første vers, stor font | Etter de fire talene | Klikk |
+| 13 | 🔥 FIREBALL RUNDE 1 | Stor brann-grafikk | Etter Helan går, før buffet 1 | Klikk |
+| 14 | Tale 5 – Kjersti + Erik Nilsen | Bilde + «Anders' foreldre» | Under forrett, før de reiser seg | Klikk |
+| 15 | Pause 1 | «10 min – strekk beina» + nedteller | Pissepausen | Klikk |
+| 15a | Stikk 2 åpner | Sort slide | Etter buffet 2, når Fredrik begynner | Klikk |
 | 15b | Tale 6 – Ingrid + Ola | Bilde av begge + «Anders' søsken» | Før de reiser seg | Klikk |
 | 15c | Tale 7 – Kongsvinger-vennene | Bilde av gruppe + «Michelles barndomsvenner» | Før de reiser seg | Klikk |
 | 15d | Tale 8 – «Feminin og fornem» | Bilde av gruppe + «Michelles Ås-gjeng (NMBU)» | Før de reiser seg | Klikk |

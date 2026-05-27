@@ -431,10 +431,11 @@ Da håper jeg at alle har fått påfyll i glassene.
 
 ---
 
-## Velkomstbolk FØR forrett (17:38–17:46)
+## Velkomstbolk FØR forrett (17:38–18:04)
 
-*Klassisk åpningstale fra brudens far + Helan går + velkomstshot. Setter
-energien før folk reiser seg til buffet.*
+*Fire taler FØR mat: brudens far, Anders→Michelle, Michelle→Anders (paret-
+utveksling tidlig) og Michelles søstre. Deretter Helan går + velkomstshot.
+Setter energien før folk reiser seg til buffet.*
 
 ---
 
@@ -455,41 +456,6 @@ dere – ble til virkelighet.
 Ordet er ditt, Werner.
 
 *[Tale 1, 5 min]*
-
----
-
-### Helan går — obligatorisk skål med Werner
-
-*[Etter Werners tale. PowerPoint: tekst]*
-
-Werner – det fortjener en ekte skål.
-
-**Helan går!**
-
-*[Hele salen, 1 vers + skål. Ned i ett.]*
-
----
-
-### 🔥 Fireball-runde 1 — velkomstshot
-
-*[PowerPoint: 🔥 FIREBALL slide. Forlovere har shotbrett klare.]*
-
-Og før vi slipper løs på buffet – én ekstra runde.
-
-Glassene opp – Fireball til bruden og brudgommen!
-
-*[Felles skål, ned i ett. 30 sek.]*
-
-Og med det – buffet 1 er åpen. Vel bekomme!
-
-*(Buffet 1 åpnes. Folk reiser seg, henter forrett. Kjøkkenet styrer
-bord-rotasjon.)*
-
----
-
-## Forrett — talerunde 1 (18:18–18:36)
-
-*Når alle har satt seg igjen og fått tatt en gaffel.*
 
 ---
 
@@ -528,7 +494,61 @@ Bruden – **Michelle**.
 
 ---
 
-### Intro tale 4 — Kjersti + Erik Nilsen (Anders' foreldre)
+### Intro tale 4 — Cathrine + Anette (Michelles storesøstre, felles tale)
+
+*[Intro-sang: Walking On Sunshine, 20 sek]*
+
+Michelle har ikke én storesøster.
+
+Hun har to.
+
+Det betyr at hun aldri har kommet unna med noenting.
+
+To storesøstre = dobbel kjærlighet og dobbel oppdragelse.
+
+I felles regi – Cathrine og Anette.
+
+*[Tale 4 felles, 5 min]*
+
+---
+
+### Helan går — obligatorisk skål
+
+*[Etter de fire talene. PowerPoint: tekst]*
+
+Fire flotte taler – det fortjener en ekte skål.
+
+**Helan går!**
+
+*[Hele salen, 1 vers + skål. Ned i ett.]*
+
+---
+
+### 🔥 Fireball-runde 1 — velkomstshot
+
+*[PowerPoint: 🔥 FIREBALL slide. Forlovere har shotbrett klare.]*
+
+Og før vi slipper løs på buffet – én ekstra runde.
+
+Glassene opp – Fireball til bruden og brudgommen!
+
+*[Felles skål, ned i ett. 30 sek.]*
+
+Og med det – buffet 1 er åpen. Vel bekomme!
+
+*(Buffet 1 åpnes. Folk reiser seg, henter forrett. Kjøkkenet styrer
+bord-rotasjon.)*
+
+---
+
+## Forrett — talerunde 1 (18:29–18:42)
+
+*Når alle har satt seg igjen og fått tatt en gaffel. Én tale her –
+Anders' foreldre.*
+
+---
+
+### Intro tale 5 — Kjersti + Erik Nilsen (Anders' foreldre)
 
 *[Intro-sang: Power of Love, 20 sek. «Arv eller miljø»-grep fra
 Lars/Julie §3.3, flettet med Erik Nilsens tog-profil.]*
@@ -548,13 +568,13 @@ Er det arv eller miljø? Det skal vi få høre mer om nå.
 
 Ta imot Anders' mor og far – Kjersti og Erik Nilsen.
 
-*[Tale 4, 5 min]*
+*[Tale 5, 5 min]*
 
 ---
 
-## Pissepause 10 min (18:36–18:46)
+## Pissepause 10 min (18:42–18:52)
 
-Takk for tre flotte taler.
+Takk for fem flotte taler så langt.
 
 Ti minutters felles pause. Strekk beina, besøk toalettene, fyll glassene.
 
@@ -562,13 +582,13 @@ Hovedretten kommer rett over.
 
 ---
 
-## Buffet 2 — hovedrett (18:46–19:16, 30 min)
+## Buffet 2 — hovedrett (18:52–19:22, 30 min)
 
 *[Ingen tale under buffet-runden. Folk henter mat.]*
 
 ---
 
-## STIKK 2 — Hvordan jeg kjenner Anders (19:23, ca 5 min)
+## STIKK 2 — Hvordan jeg kjenner Anders (19:29, ca 5 min)
 
 *Lars/Julie §2 «hjertelig bro mellom hovedrett og taler». Personlig
 anekdote, fetter-perspektiv. Den varmeste bolken i kvelden – HJERTET.*
@@ -704,7 +724,7 @@ vært levert av Erik Nilsen personlig.
 
 *(2 sek – la latter komme)*
 
-*[CHEKHOV CALLBACK: Erik Nilsens tog-metafor fra Tale 4.]*
+*[CHEKHOV CALLBACK: Erik Nilsens tog-metafor fra Tale 5.]*
 
 ---
 
@@ -954,25 +974,7 @@ Hvordan få Anders til å sitte stille i fem minutter.
 
 ---
 
-## Hovedrett — talerunde 2 (19:23–19:52)
-
----
-
-### Intro tale 5 — Cathrine + Anette (Michelles storesøstre, felles tale)
-
-*[Intro-sang: Walking On Sunshine, 20 sek]*
-
-Michelle har ikke én storesøster.
-
-Hun har to.
-
-Det betyr at hun aldri har kommet unna med noenting.
-
-To storesøstre = dobbel kjærlighet og dobbel oppdragelse.
-
-Først ut – i felles regi – Cathrine og Anette.
-
-*[Tale 5 felles, 5 min]*
+## Hovedrett — talerunde 2 (19:29–19:52)
 
 ---
 
@@ -1279,7 +1281,9 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 - [x] Anders' søsken (felles tale): **Ingrid og Ola**
 - [x] Forlover brud: **Helene** (#39)
 - [x] Forlover brudgom: **Even** (#40)
-- [x] **Michelle (brudens tale) som Tale 3** – tidlig, etter Anders, paret-utveksling
+- [x] **Michelle (brudens tale) som Tale 3** – FØR mat, rett etter Anders, paret-utveksling
+- [x] **Cathrine + Anette (søstre) som Tale 4** – FØR mat
+- [x] **Kjersti + Erik (Anders' foreldre) som Tale 5** – forrett
 - [x] **Kongsvinger-vennene** som Tale 7 (gruppe-tale, hovedrett)
 - [x] **«Feminin og fornem»** (Ås-gjeng Michelle) som Tale 8 (gruppe-tale, hovedrett)
 - [x] **Broderskapet Unity** (Anders' Ås-vennegjeng) som INNSLAG i dessert-bolken
@@ -1318,15 +1322,15 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 ```
 Stikk 1            ████      Varm + selvironi + brudeparet inn
 Werner Seigerud    ██        Tyngde
+Anders til brud    ███       Burning Love
+Michelle til Anders███       Mamma Mia, feminin og fornem (paret-utveksling)
+Cathrine + Anette  ██        Walking On Sunshine, søster-duo
 Helan går          ██        Skål
 Fireball 1         ███       Velkomstshot
 — buffet 1 —
-Anders til brud    ███       Burning Love
-Michelle til Anders███       Mamma Mia, feminin og fornem (paret-utveksling)
 Kjersti + Erik N.  ██        Arv eller miljø + tog-metafor
 — pissepause + buffet 2 —
 Stikk 2            ███       Personlig fetter-historie (HJERTET)
-Cathrine + Anette  ██        Walking On Sunshine, søster-duo
 Ingrid + Ola       ████      Crazy Train, søsken-duo
 Kongsvinger        ██        Forza Vinger, lokal forankring
 Feminin og fornem  ██        Voulez-Vous, Ås-gjeng Michelle

@@ -97,10 +97,10 @@ middagsbakgrunn** – hold disse til dansen.
 | Taler | Primær | Reserve | Lengde på intro |
 |-------|--------|---------|-----------------|
 | **Tale 1 – Werner Seigerud** (brudens far, FØR mat) | Optimist – Jahn Teigen (#14) | The Power Of Love (#29) | 20–25 sek |
-| **Tale 2 – Anders til Michelle** | Burning Love (#26) | The Power Of Love (#29) | 20 sek |
-| **Tale 3 – Michelle til Anders** (brudens tale) | Mamma Mia (#19) | Burning Love (#26) | 20 sek |
-| **Tale 4 – Kjersti & Erik Nilsen** (Anders' foreldre) | Power of Love (#29) | Signed, Sealed, Delivered (#11) | 20 sek |
-| **Tale 5 – Cathrine + Anette** (felles, Michelles søstre) | Walking On Sunshine (#12) | Mamma Mia (#19) | 20 sek |
+| **Tale 2 – Anders til Michelle** (FØR mat) | Burning Love (#26) | The Power Of Love (#29) | 20 sek |
+| **Tale 3 – Michelle til Anders** (brudens tale, FØR mat) | Mamma Mia (#19) | Burning Love (#26) | 20 sek |
+| **Tale 4 – Cathrine + Anette** (felles, Michelles søstre, FØR mat) | Walking On Sunshine (#12) | Mamma Mia (#19) | 20 sek |
+| **Tale 5 – Kjersti & Erik Nilsen** (Anders' foreldre, forrett) | Power of Love (#29) | Signed, Sealed, Delivered (#11) | 20 sek |
 | **Tale 6 – Ingrid + Ola** (felles, Anders' søsken) | Crazy Train (#32) | T.N.T. (#23) | 15 sek |
 | **Tale 7 – Kongsvinger-vennene** (gruppe-tale) | Forza Vinger – Blodrødt (#1) | Shock 2017 (#2) | 20 sek |
 | **Tale 8 – «Feminin og fornem»** (Ås-gjeng Michelle) | Voulez-Vous (#22) | Sarà perché ti amo (#9) | 20 sek |
@@ -119,14 +119,14 @@ Unngå å følge rask låt med rask låt. Behold Duartes prinsipp om
 ```
 Åpning           ██        Optimist / Forza Vinger – varm start
 Werner Seigerud  ██        Power Of Love – senke skuldre
+Anders til brud  ███       Burning Love – løft
+Michelle         ███       Mamma Mia – feminin og fornem (paret-utveksling)
+Cathrine+Anette  ██        Walking On Sunshine – søster-duo
 Helan går        ██        Skål
 Fireball 1       ███       Velkomstshot
 — buffet 1 —
-Anders til brud  ███       Burning Love – løft
-Michelle         ███       Mamma Mia – feminin og fornem (paret-utveksling)
 Kjersti+Erik N.  ██        Power Of Love – arv eller miljø
 — buffet 2 —
-Cathrine+Anette  ██        Walking On Sunshine – søster-duo
 Ingrid+Ola       ████      Crazy Train – søsken-duo
 Kongsvinger      ██        Forza Vinger – lokal forankring
 Feminin og fornem██        Voulez-Vous – Ås-gjeng Michelle

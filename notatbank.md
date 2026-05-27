@@ -207,7 +207,7 @@ den korte intro-en bli et nikk til det.
 - Arbeidsom
 - Hater militæret
 
-→ Konsekvens for intro (Tale 4 sammen med Kjersti): tog-metafor fungerer
+→ Konsekvens for intro (Tale 5 sammen med Kjersti): tog-metafor fungerer
 (han har bygget karriere på rett spor), kan bake inn «kommer alltid på
 skinnegangen for de han er glad i». Militær-detaljen er privat info –
 ikke bruk uten samtykke.
@@ -243,7 +243,7 @@ bør være lavmælt og elegant – matcher hennes ro.
 - Står på, arbeidsjern
 - **Tagline fra dem om Anders: «nerd»**
 
-→ Konsekvens for Tale 5-intro: «3 mammaer» er gull. Krutt + arbeidsjern
+→ Konsekvens for Tale 4-intro: «3 mammaer» er gull. Krutt + arbeidsjern
 + «hun har kalt Anders nerd siden han kom inn i bildet» = sterk intro.
 
 **Ola – Anders' bror**
