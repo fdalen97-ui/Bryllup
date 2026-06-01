@@ -52,40 +52,40 @@ de er max 10 sek og testet flere ganger.
 |---|--------|---------|-----------|-----------|
 | 1 | Velkommen | «Michelle & Anders – 26. juni 2026» + bilde | Mens gjester tar plass (17:00–17:15) | Auto |
 | 2 | Stikk 1 åpner | Sort slide (lar Fredrik være i fokus) | Når Fredrik begynner åpning | Klikk |
-| 3 | Kveldens program | Liste: 9 taler, 3 retter, 2 pauser | Under «Her er kveldens plan...» | Klikk |
+| 3 | Kveldens program | Liste: 11 taler, 3 retter, 2 pauser | Under «Her er kveldens plan...» | Klikk |
 | 4 | Spilleregler | Tramping, klirring, nødutgang | Når Fredrik nevner det | Klikk |
 | 5 | Trigger-shot | «Equinor» / «pitch deck» = drikk | Når regelen annonseres | Klikk |
 | 6 | Hovmester Oda Rogstad | Bilde + «Kveldens hovmester» | Når Oda kommer frem | Klikk |
 | 6b | F1 / Rumble-slide | Startflagg-bilde | Rett før brudeparet entrer | Klikk |
 | 7 | Brudeparet entrer | Bilde av Michelle & Anders | Mens de går inn | Klikk |
-| 8 | Tale 1 – Werner | Bilde + «Werner Seigerud, brudens far» | 5 sek før Werner reiser seg | Klikk |
+| 8 | Tale 1 – Werner | Bilde + «Werner Seigerud, brudens far» | 5 sek før Werner reiser seg (FØR mat) | Klikk |
 | 9 | Tale 2 – Anders til Michelle | Bilde + «Anders – brudgommen» | Før Anders reiser seg (FØR mat) | Klikk |
 | 10 | Tale 3 – Michelle (brudens tale) | Bilde + «Michelle, bruden» | Etter Anders' tale (FØR mat) | Klikk |
-| 11 | Tale 4 – Cathrine + Anette | Bilde av begge + «Michelles storesøstre» | Etter Michelles tale (FØR mat) | Klikk |
-| 12 | Helan går – tekst | Hele første vers, stor font | Etter de fire talene | Klikk |
-| 13 | 🔥 FIREBALL RUNDE 1 | Stor brann-grafikk | Etter Helan går, før buffet 1 | Klikk |
-| 14 | Tale 5 – Kjersti + Erik Nilsen | Bilde + «Anders' foreldre» | Under forrett, før de reiser seg | Klikk |
-| 15 | Pause 1 | «10 min – strekk beina» + nedteller | Pissepausen | Klikk |
-| 15a | Stikk 2 åpner | Sort slide | Etter buffet 2, når Fredrik begynner | Klikk |
-| 15b | Tale 6 – Ingrid + Ola | Bilde av begge + «Anders' søsken» | Før de reiser seg | Klikk |
-| 15c | Tale 7 – Kongsvinger-vennene | Bilde av gruppe + «Michelles barndomsvenner» | Før de reiser seg | Klikk |
-| 15d | Tale 8 – «Feminin og fornem» | Bilde av gruppe + «Michelles Ås-gjeng (NMBU)» | Før de reiser seg | Klikk |
-| 18 | Pause 2 | «20 min – kaffe + Fireball» | Pausen | Klikk |
-| 19 | 🔥 FIREBALL RUNDE 2 | Brann-grafikk | Midt i pausen | Klikk |
-| 20 | Stikk 3 åpner | Sort slide | Når Fredrik begynner | Klikk |
-| 21 | Tale 9 – Helene | Bilde + «Helene, Michelles forlover» | Før hun reiser seg | Klikk |
-| 22 | ⚡ THUNDERSTRUCK | AC/DC-stilig grafikk + «Hver "thunder" = drikk» | Før Even-intro | Klikk |
-| 23 | Tale 10 – Even | Bilde + «Even, Anders' forlover» | Etter Thunderstruck-flaska | Klikk |
-| 23a | Innslag – Broderskapet Unity | Bilde av gruppe + «Anders' Ås-vennegjeng» | Før de starter | Klikk |
-| 23b | Tale 11 – Tom Christian | Bilde + «Tom Christian, venn av Anders – kveldens siste tale» | Før han reiser seg | Klikk |
-| 24 | Takketale brudeparet | Bilde av Michelle & Anders | Når de reiser seg | Klikk |
-| 25 | Stikk 4 åpner | Sort slide | Når Fredrik begynner | Klikk |
-| 26–35 | Take on Me-påstander | Én påstand per slide, stor font | Sangen rulles, klikk hvert 15 sek | Klikk |
-| 36 | We Didn't Start the Fire | Refrengtekst + skjelett | Hvis innslaget kjøres | Klikk |
-| 37 | Takk for maten | «Tusen takk til kjøkkenet» | Avslutning | Klikk |
-| 38 | 🔥 FIREBALL RUNDE 3 | Brann-grafikk | Før dansegulvet åpnes | Klikk |
-| 39 | Dansegulvet åpnes | «Michelle & Anders – første dans» | Inn til dans | Klikk |
-| 40 | Reserve | Sort slide | Hvis noe trekker ut | Klikk |
+| 11 | Helan går – tekst | Hele første vers, stor font | Etter de tre talene | Klikk |
+| 12 | 🔥 FIREBALL RUNDE 1 | Stor brann-grafikk | Etter Helan går, før buffet 1 | Klikk |
+| 13 | Tale 4 – Kjersti + Erik Nilsen | Bilde + «Anders' foreldre» | Under forrett, før de reiser seg | Klikk |
+| 14 | Pause 1 | «10–15 min – strekk beina» + nedteller | Pausen før hovedrett | Klikk |
+| 15 | Stikk 2 åpner | Sort slide | Etter buffet 2, når Fredrik begynner | Klikk |
+| 16 | Tale 5 – Helene | Bilde + «Helene, Michelles forlover» | Før hun reiser seg | Klikk |
+| 17 | ⚡ THUNDERSTRUCK | AC/DC-stilig grafikk + «Hver "thunder" = drikk» | Før Even-intro | Klikk |
+| 18 | Tale 6 – Even | Bilde + «Even, Anders' forlover» | Etter Thunderstruck-flaska | Klikk |
+| 19 | Tale 7 – Cathrine + Anette | Bilde av begge + «Michelles storesøstre» | Før de reiser seg | Klikk |
+| 20 | Tale 8 – Ingrid + Ola | Bilde av begge + «Anders' søsken» | Før de reiser seg | Klikk |
+| 21 | Pause 2 | «20 min – kaffe + Fireball» | Pausen | Klikk |
+| 22 | 🔥 FIREBALL RUNDE 2 | Brann-grafikk | Midt i pausen | Klikk |
+| 23 | Stikk 3 åpner | Sort slide | Når Fredrik begynner | Klikk |
+| 24 | Tale 9 – Kongsvinger-vennene | Bilde av gruppe + «Michelles barndomsvenner» | Før de reiser seg | Klikk |
+| 25 | Tale 10 – «Feminin og fornem» | Bilde av gruppe + «Michelles Ås-gjeng (NMBU)» | Før de reiser seg | Klikk |
+| 26 | Innslag – Broderskapet Unity | Bilde av gruppe + «Anders' Ås-vennegjeng» | Før de starter | Klikk |
+| 27 | Tale 11 – Tom Christian | Bilde + «Tom Christian, venn av Anders – kveldens siste tale» | Før han reiser seg | Klikk |
+| 28 | Takketale brudeparet | Bilde av Michelle & Anders | Når de reiser seg | Klikk |
+| 29 | Stikk 4 åpner | Sort slide | Når Fredrik begynner | Klikk |
+| 30–39 | Take on Me-påstander | Én påstand per slide, stor font | Sangen rulles, klikk hvert 15 sek | Klikk |
+| 40 | We Didn't Start the Fire | Refrengtekst + skjelett | Hvis innslaget kjøres | Klikk |
+| 41 | Takk for maten | «Tusen takk til kjøkkenet» | Avslutning | Klikk |
+| 42 | 🔥 FIREBALL RUNDE 3 | Brann-grafikk | Før dansegulvet åpnes | Klikk |
+| 43 | Dansegulvet åpnes | «Michelle & Anders – første dans» | Inn til dans | Klikk |
+| 44 | Reserve | Sort slide | Hvis noe trekker ut | Klikk |
 
 ---
 
@@ -165,7 +165,7 @@ men klar som backup.
 **Hvem**: Fredrik + klikker-person + DJ.
 
 **Sjekkliste**:
-- [ ] Slide 1 til 40 spiller gjennom uten feil
+- [ ] Slide 1 til 44 spiller gjennom uten feil
 - [ ] Klikker rekker fra Fredriks plassering til laptopen
 - [ ] Lyd fra DJ-anlegget testet på alle Fireball-jingler
 - [ ] Fredrik øver Thunderstruck-cue + Fireball-cue mot DJ
