@@ -78,14 +78,13 @@ de er max 10 sek og testet flere ganger.
 | 25 | Tale 10 – «Feminin og fornem» | Bilde av gruppe + «Michelles Ås-gjeng (NMBU)» | Før de reiser seg | Klikk |
 | 26 | Innslag – Broderskapet Unity | Bilde av gruppe + «Anders' Ås-vennegjeng» | Før de starter | Klikk |
 | 27 | Tale 11 – Tom Christian | Bilde + «Tom Christian, venn av Anders – kveldens siste tale» | Før han reiser seg | Klikk |
-| 28 | Takketale brudeparet | Bilde av Michelle & Anders | Når de reiser seg | Klikk |
-| 29 | Stikk 4 åpner | Sort slide | Når Fredrik begynner | Klikk |
-| 30–39 | Take on Me-påstander | Én påstand per slide, stor font | Sangen rulles, klikk hvert 15 sek | Klikk |
-| 40 | We Didn't Start the Fire | Refrengtekst + skjelett | Hvis innslaget kjøres | Klikk |
-| 41 | Takk for maten | «Tusen takk til kjøkkenet» | Avslutning | Klikk |
-| 42 | 🔥 FIREBALL RUNDE 3 | Brann-grafikk | Før dansegulvet åpnes | Klikk |
-| 43 | Dansegulvet åpnes | «Michelle & Anders – første dans» | Inn til dans | Klikk |
-| 44 | Reserve | Sort slide | Hvis noe trekker ut | Klikk |
+| 28 | Stikk 4 åpner | Sort slide | Når Fredrik begynner | Klikk |
+| 29–38 | Take on Me-påstander | Én påstand per slide, stor font | Sangen rulles, klikk hvert 15 sek | Klikk |
+| 39 | We Didn't Start the Fire | Refrengtekst + skjelett | Hvis innslaget kjøres | Klikk |
+| 40 | Takk for maten | «Tusen takk til kjøkkenet» | Avslutning | Klikk |
+| 41 | 🔥 FIREBALL RUNDE 3 | Brann-grafikk | Før dansegulvet åpnes | Klikk |
+| 42 | Dansegulvet åpnes | «Michelle & Anders – første dans» | Inn til dans | Klikk |
+| 43 | Reserve | Sort slide | Hvis noe trekker ut | Klikk |
 
 ---
 
@@ -165,7 +164,7 @@ men klar som backup.
 **Hvem**: Fredrik + klikker-person + DJ.
 
 **Sjekkliste**:
-- [ ] Slide 1 til 44 spiller gjennom uten feil
+- [ ] Slide 1 til 43 spiller gjennom uten feil
 - [ ] Klikker rekker fra Fredriks plassering til laptopen
 - [ ] Lyd fra DJ-anlegget testet på alle Fireball-jingler
 - [ ] Fredrik øver Thunderstruck-cue + Fireball-cue mot DJ
