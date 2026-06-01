@@ -17,27 +17,28 @@ Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
 | 14:45 | Gratulasjoner / foto utenfor kirken | – | 30 min | |
 | 15:15 | Buss avgang Vinger → Maarud | – | 30–35 min | |
 | 15:50 | Ankomst Maarud Gård | – | – | |
-| 15:50 | Mingling utenfor + pizzasnurrer + velkomstdrink + foto | – | 95 min | Lett mat utendørs hvis vær |
-| 17:25 | Dørene til middagssal åpnes | Toastmaster | 5 min | Gjester finner plassen |
-| **17:30** | **STIKK 1 – åpning + brudeparet inn** | Fredrik | 5 min | A-F-struktur (Oda/Sivert) |
-| 17:35 | Hovmester Oda Rogstad presenterer maten | Oda Rogstad | 2 min | Feminin og fornem levering |
-| 17:37 | Vin-presentasjon + skål for brudeparet | Fredrik | 1 min | |
-| 17:38 | Intro tale 1 | Fredrik | 30 sek | *Optimist – Jahn Teigen* 20 sek |
-| 17:39 | **Tale 1 – Werner Seigerud (brudens far) – velkomsttale FØR mat** | | 5 min | Klassisk åpningstale |
-| 17:44 | Intro tale 2 | Fredrik | 30 sek | *Burning Love* 20 sek |
-| 17:45 | **Tale 2 – Anders til Michelle** (FØR mat) | | 5 min | Flyttet opp – setter tonen tidlig |
-| 17:50 | Intro tale 3 | Fredrik | 30 sek | *Mamma Mia* 20 sek |
-| 17:51 | **Tale 3 – Michelle til Anders (brudens tale)** (FØR mat) | | 5 min | Feminin og fornem, paret-utveksling – flyttet opp |
-| 17:56 | Intro tale 4 | Fredrik | 30 sek | *Walking On Sunshine* 20 sek |
-| 17:57 | **Tale 4 – Cathrine + Anette (felles, Michelles storesøstre)** (FØR mat) | | 5 min | Søster-duo, flyttet opp |
-| 18:02 | **Helan går** – obligatorisk skål | Fredrik + alle | 1 min | Tekst på PowerPoint |
-| 18:03 | 🔥 **Fireball-runde 1 – velkomstshot** | Forlovere | 1 min | Sparkstart, før mat |
-| **18:04** | **Buffet 1 åpner – forrett** | – | 25 min | 88 gjester, bord-rotasjon, hente + sette seg |
-| 18:29 | Alle har satt seg, forrett pågår | – | – | |
-| 18:36 | Intro tale 5 | Fredrik | 30 sek | *Power of Love* 20 sek |
-| 18:37 | **Tale 5 – Kjersti + Erik Nilsen (Anders' foreldre)** | | 5 min | «Arv eller miljø» + tog-metafor |
-| **18:42** | **Felles pissepause 10 min** | – | | Annonsert (Oda/Sivert §3.3) |
-| **18:52** | **Buffet 2 åpner – hovedrett** | – | 30 min | Hovedrett tar lengst – kjøtt + tilbehør |
+| 15:50 | Mingling utenfor + pizzasnurrer + velkomstdrink + foto | – | 80 min | Lett mat utendørs hvis vær |
+| 17:10 | Dørene til middagssal åpnes | Toastmaster | 5 min | Gjester finner plassen |
+| **17:15** | **STIKK 1 – åpning + brudeparet inn** | Fredrik | 5 min | A-F-struktur (Oda/Sivert). Middagsstart 17:15–17:30 |
+| 17:20 | Hovmester Oda Rogstad presenterer maten | Oda Rogstad | 2 min | Feminin og fornem levering |
+| 17:22 | Vin-presentasjon + skål for brudeparet | Fredrik | 1 min | |
+| 17:23 | Intro tale 1 | Fredrik | 30 sek | *Optimist – Jahn Teigen* 20 sek |
+| 17:24 | **Tale 1 – Werner Seigerud (brudens far) – velkomsttale FØR mat** | | 5 min | Klassisk åpningstale |
+| 17:29 | Intro tale 2 | Fredrik | 30 sek | *Burning Love* 20 sek |
+| 17:30 | **Tale 2 – Anders til Michelle** (FØR mat) | | 5 min | Flyttet opp – setter tonen tidlig |
+| 17:35 | Intro tale 3 | Fredrik | 30 sek | *Mamma Mia* 20 sek |
+| 17:36 | **Tale 3 – Michelle til Anders (brudens tale)** (FØR mat) | | 5 min | Feminin og fornem, paret-utveksling – flyttet opp |
+| 17:41 | Intro tale 4 | Fredrik | 30 sek | *Walking On Sunshine* 20 sek |
+| 17:42 | **Tale 4 – Cathrine + Anette (felles, Michelles storesøstre)** (FØR mat) | | 5 min | Søster-duo, flyttet opp |
+| 17:47 | **Helan går** – obligatorisk skål | Fredrik + alle | 1 min | Tekst på PowerPoint |
+| 17:48 | 🔥 **Fireball-runde 1 – velkomstshot** | Forlovere | 1 min | Sparkstart, før mat |
+| **17:49** | **Buffet 1 åpner – forrett (matpause 1)** | – | 50 min | 88 gjester, bord-rotasjon. 45–60 min realistisk |
+| 18:14 | Alle har satt seg, forrett pågår | – | – | |
+| 18:21 | Intro tale 5 | Fredrik | 30 sek | *Power of Love* 20 sek |
+| 18:22 | **Tale 5 – Kjersti + Erik Nilsen (Anders' foreldre)** | | 5 min | «Arv eller miljø» + tog-metafor. Holdes når alle sitter |
+| 18:27 | Forrett ferdigspises ved bordet | – | – | |
+| **18:39** | **Pause 10–15 min** | – | | Kort beinstrekk/do før hovedrett (Oda/Sivert §3.3) |
+| **18:52** | **Buffet 2 åpner – hovedrett (matpause 2)** | – | 30 min | Hovedrett tar lengst – kjøtt + tilbehør |
 | 19:22 | Alle har satt seg, hovedrett pågår | – | – | |
 | **19:29** | **STIKK 2 – personlig historie (Fredrik som fetter)** | Fredrik | 5 min | Lars/Julie kisten-stil |
 | 19:34 | Intro tale 6 | Fredrik | 30 sek | *Crazy Train* 15 sek |
@@ -67,7 +68,7 @@ Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
 | 23:00 | Kake / midnattsmat (avklar) | – | | |
 | **02:30** | **Siste bussavgang** | – | | Kongsvinger / Oslo – bekreftet |
 
-**Totalt middagstid**: 17:30 → 21:23 = ca 3 timer 53 min.
+**Totalt middagstid**: 17:15 → 21:23 = ca 4 timer 8 min.
 **Totalt fest**: 21:23 → 02:30 = ca 5 timer 7 min dansegulv.
 
 ---
@@ -76,17 +77,17 @@ Bygger på Lars/Julie og Oda/Sivert sin struktur (`referanse-lars-julie.md`,
 
 | Bolk | Tid |
 |------|-----|
-| Kirke + buss + mingling utendørs (pizzasnurrer) | 14:00 → 17:25 |
+| Kirke + buss + mingling utendørs (pizzasnurrer) | 14:00 → 17:10 |
 | Stikk 1 + Oda Rogstad + skål | 8 min |
 | 4 taler FØR mat (Werner, Anders→M, M→Anders, søstre) + Helan går + Fireball 1 | 26 min |
-| Buffet 1 (25 min) + forrett + 1 tale (Anders' foreldre) | 38 min |
-| Pissepause | 10 min |
+| Buffet 1 (50 min) + forrett + 1 tale (Anders' foreldre) | 50 min |
+| Pause før hovedrett | 10–15 min |
 | Buffet 2 (30 min) + hovedrett + Stikk 2 + 3 taler (Anders' søsken, Kongsvinger, Ås) | 60 min |
 | Pause 2 + Fireball 2 | 22 min |
 | Dessert (20 min) + Stikk 3 + forlovere + Broderskapet + Tom Christian | 47 min |
 | Buffer | 10 min |
 | Stikk 4 + fellessang + Fireball 3 + takk | 12 min |
-| **Totalt middag** | **~3t 53 min** |
+| **Totalt middag** | **~4t 8 min** |
 
 ---
 
@@ -100,7 +101,7 @@ reiser seg, henter mat og setter seg igjen.
 | Forskyvning | Når | Hva |
 |-------------|-----|-----|
 | Buffet 1 | Etter de 4 talene FØR mat | Forrett – fisk/lett rett |
-| Buffet 2 | Etter Tale 5 (Anders' foreldre) + pissepause | Hovedrett – kjøtt/kraftig rett |
+| Buffet 2 | Etter forrett (m/Tale 5) + pause 10–15 min | Hovedrett – kjøtt/kraftig rett |
 | Buffet 3 (alt: ved bordet) | Etter Tale 8 + pause | Dessert |
 
 ### 3.2 Bord-rotasjon
@@ -116,9 +117,10 @@ For å unngå kø ved buffet-stasjonene:
 - **Ingen taler under buffet-runde** – folk er i bevegelse, klarer ikke
   konsentrere seg.
 - Taler holdes når **alle har satt seg** og fått tatt en gaffel.
-- Buffet-runde tar 25–30 min for 88 gjester med bord-rotasjon (henting +
-  setting + en gaffel). Dessert er kortere (20 min). **Ikke kutt
-  ned** – kø + sosial mingling tar mer tid enn folk antar.
+- Første servering (forrett) er satt til **45–60 min** for 88 gjester med
+  bord-rotasjon (henting + setting + spising + sosial mingling) – realistisk
+  tall. Hovedrett 30 min, dessert 20 min. **Ikke kutt ned** – kø + mingling
+  tar mer tid enn folk antar.
 - Toastmaster signaliserer kjøkkenet: «Klar for buffet 2?»
 
 ### 3.4 Avklaring med Maarud
@@ -146,7 +148,7 @@ For å unngå kø ved buffet-stasjonene:
 
 ## 5. Tidsbuffere innbakt
 
-- **10 min pissepause** etter Tale 3 – kan strekkes til 15 min.
+- **10–15 min pause** etter forrett (matpause 1) – kan strekkes.
 - **23 min pause** etter Tale 5 (inkl. Fireball 2) – kan strekkes.
 - **10 min buffer** før Stikk 4 – for uanmeldte innslag.
 - **Intro-sanger** er 15–45 sek – kan fades kortere hvis tiden er stram.
