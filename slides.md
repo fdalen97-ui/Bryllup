@@ -26,10 +26,10 @@ Trigges med klikker. Dedikert musikkansvarlig kan overstyre hvis nødvendig.
 
 - **Enkel grafikk**:
   - 17:15 Velkommen
-  - 17:25 Forrett + taler
-  - 18:15 Hovedrett + taler
-  - 19:22 Dessert + taler
-  - 20:30 Fest
+  - 17:30 Forrett + taler
+  - 19:10 Hovedrett + taler
+  - 20:35 Dessert + taler
+  - 21:45 Fest
 - Ikke for detaljert – bare hovedbolkene
 
 ---

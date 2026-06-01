@@ -21,8 +21,8 @@ løpende.
 | 9 | Helene | Forlover brud (landskapsarkitekt, Tromsø) | | ☐ | ☐ |
 | 10 | Even | Forlover brudgom (Equinor, gym) | | ☐ | ☐ |
 | 11 | Tom Christian | Brudesvenn / venn av Anders (Tale 11, kveldens siste) | | ☐ | ☐ |
-| 12 | [Talsperson Kongsvinger-vennene] | Michelles barndomsvenner (Tale 7, gruppe) | | ☐ | ☐ |
-| 13 | [Talsperson «Feminin og fornem»] | Michelles Ås-gjeng / NMBU (Tale 8, gruppe) | | ☐ | ☐ |
+| 12 | [Talsperson Kongsvinger-vennene] | Michelles barndomsvenner (Tale 9, gruppe) | | ☐ | ☐ |
+| 13 | [Talsperson «Feminin og fornem»] | Michelles Ås-gjeng / NMBU (Tale 10, gruppe) | | ☐ | ☐ |
 | 14 | [Talsperson Broderskapet Unity] | Anders' Ås-vennegjeng (Innslag, sang/sketsj) | | ☐ | ☐ |
 | 15 | [Equinor-kollega] | Jobbkompis av Anders | | ☐ | ☐ |
 | 16 | [Dykkerkompis] | Fra Anders' dykkermiljø | | ☐ | ☐ |
