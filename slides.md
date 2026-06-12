@@ -26,10 +26,10 @@ Trigges med klikker. Dedikert musikkansvarlig kan overstyre hvis nødvendig.
 
 - **Enkel grafikk**:
   - 17:15 Velkommen
-  - 17:25 Forrett + taler
-  - 18:15 Hovedrett + taler
-  - 19:22 Dessert + taler
-  - 20:30 Fest
+  - 17:30 Forrett + taler
+  - 19:10 Hovedrett + taler
+  - 20:35 Dessert + taler
+  - 21:45 Fest
 - Ikke for detaljert – bare hovedbolkene
 
 ---
@@ -61,15 +61,15 @@ Trigges med klikker. Dedikert musikkansvarlig kan overstyre hvis nødvendig.
 
 Slides (11 talesekvenser + 1 innslag):
 - **Werner Seigerud** – brudens far (Tale 1, FØR mat)
-- **Anders** – brudgom, til Michelle (Tale 2)
-- **Michelle** – brudens tale (Tale 3, paret-utveksling)
-- **Kjersti & Erik Nilsen** – Anders' foreldre (Tale 4, tog-metafor)
-- **Cathrine + Anette** – Michelles storesøstre, felles tale (Tale 5)
-- **Ingrid + Ola** – Anders' søsken, felles tale (Tale 6)
-- **Kongsvinger-vennene** – Michelles barndomsvenner, gruppe-tale (Tale 7)
-- **«Feminin og fornem»** – Michelles Ås-gjeng (NMBU), gruppe-tale (Tale 8)
-- **Helene** – Michelles forlover (Tale 9)
-- **Even** – Anders' forlover (Tale 10)
+- **Anders** – brudgom, til Michelle (Tale 2, FØR mat)
+- **Michelle** – brudens tale (Tale 3, paret-utveksling, FØR mat)
+- **Kjersti & Erik Nilsen** – Anders' foreldre (Tale 4, tog-metafor, forrett)
+- **Helene** – Michelles forlover (Tale 5, hovedrett)
+- **Even** – Anders' forlover (Tale 6, hovedrett)
+- **Cathrine + Anette** – Michelles storesøstre, felles tale (Tale 7)
+- **Ingrid + Ola** – Anders' søsken, felles tale (Tale 8)
+- **Kongsvinger-vennene** – Michelles barndomsvenner, gruppe-tale (Tale 9)
+- **«Feminin og fornem»** – Michelles Ås-gjeng (NMBU), gruppe-tale (Tale 10)
 - **Broderskapet Unity** – Anders' Ås-vennegjeng (INNSLAG, sang/sketsj)
 - **Tom Christian** – venn av Anders (Tale 11, KVELDENS SISTE TALE)
 

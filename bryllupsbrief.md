@@ -92,11 +92,11 @@ som trenger spesifikk intro-strategi.
 | **Ingrid + Ola** | **Anders' søsken (#23 + #25)** – **felles tale** | Søsken-rivalisering: Ola = sportsbilen, Ingrid = den som husker hva som skjedde. «To mot én Anders.» | Raskt, røft + varmt. |
 | **Even** | **Forlover brudgom (#40)** – Equinor, treningsfyr | Gym/prestasjon. «Anders i toppform vs. Anders i forhold». | Rask, punchy. |
 | **Helene** | **Forlover brud (#39)** – Landskapsarkitekt, Tromsø | Vill natur vs. kontrollert bryllup. Nordnorsk ro. | Poetisk, myk, elegant. |
-| **Erik Nilsen** | **Anders' far (#22)** – CEO / logistikk / togreparasjon | Togmetaforer: «på rett spor», «forsinkelser i kjærlighetslivet». Flettes inn i foreldre-intro (Tale 3 sammen med Kjersti). | Selvsikker, lett ironisk respekt. |
-| **Tom Christian** | **Brudesvenn / venn av Anders (#56)** | Vennegjeng-historier, langvarig vennskap. Plasseres rett etter forlovere. | Personlig, varm, litt ertende. |
+| **Erik Nilsen** | **Anders' far (#22)** – CEO / logistikk / togreparasjon | Togmetaforer: «på rett spor», «forsinkelser i kjærlighetslivet». Flettes inn i foreldre-intro (Tale 4 sammen med Kjersti). | Selvsikker, lett ironisk respekt. |
+| **Tom Christian** | **Brudesvenn / venn av Anders (#56)** | Vennegjeng-historier, langvarig vennskap. Kveldens siste tale (Tale 11, dessert). | Personlig, varm, litt ertende. |
 | **Kongsvinger-vennene** | **Michelles barndomsvenner – gruppe-tale** | Lokal forankring (Vinger kirke, Kongsvinger). «Vennegjengen som har sett Michelle vokse». Talsperson kan tale på vegne av flere. | Lokal, varm, litt nostalgisk. |
 | **Michelle** | **Brudens tale – tidlig (Tale 3, etter Anders)** | Paret-utveksling. Hun svarer på Anders' tale med sin egen. Ingen felles takketale senere. | Elegant, takknemlig, personlig. |
-| **«Feminin og fornem»** | **Michelles Ås-gjeng (NMBU studievenninner) – gruppe-tale (Tale 8)** | Studietids-historier, NMBU-referanser. Gjengnavnet er ironisk-elegant – spill på det. | Varm, sjarmerende, selvironisk. |
+| **«Feminin og fornem»** | **Michelles Ås-gjeng (NMBU studievenninner) – gruppe-tale (Tale 10)** | Studietids-historier, NMBU-referanser. Gjengnavnet er ironisk-elegant – spill på det. | Varm, sjarmerende, selvironisk. |
 | **Broderskapet Unity** | **Anders' Ås-vennegjeng – INNSLAG (dessert)** | Sang / sketsj / tale, fleksibelt format. Studietids-broderskap. NB: notatbank §3 har risikabel humor om dem – sjekk hva som er internt godkjent. | Tung, ertende, mannsdominert. |
 
 **Viktig endring**: Michelle har **to storesøstre** (Cathrine #9 og
@@ -216,7 +216,7 @@ intro-maler.)*
 
 ## 8. Huskeliste spesifikt for dette bryllupet
 
-- [x] Erik Nilsen = **Anders' far (#22)**. Tog-metaforer flettes inn i Tale 3 (Kjersti + Erik Nilsen).
+- [x] Erik Nilsen = **Anders' far (#22)**. Tog-metaforer flettes inn i Tale 4 (Kjersti + Erik Nilsen).
 - [x] Helene = forlover brud, Even = forlover brudgom.
 - [x] Brudens fars fornavn og riktig uttale. → **Werner Seigerud.**
 - [ ] Forlovernes navn og uttale (både brud- og brudgomsside).
@@ -257,7 +257,7 @@ oppgavene delegeres til navngitte hjelpere:
 
 | Oppgave | Hvem | Signal fra Fredrik |
 |---------|------|--------------------|
-| Trykk play på musikksnutter | DJ / AV-ansvarlig | Nikk + håndtegn (avtalt forhånd) |
+| Trykk play på musikksnutter | **Simen** (lydtekniker, #57) – se `simen-lyd.md` | Nikk + håndtegn (avtalt forhånd) |
 | Klikk PowerPoint-slides | Dedikert «klikker» (venn med laptop) | Øyekontakt + nikk |
 | Fireball-shots per bord | Forlovere + 2 utvalgte | Slide «Fireball-runde» = signal |
 | Servietter ut før Stikk 1 | 1 venn, gjøres mens gjestene tar plass | Avtalt 17:00 |
@@ -266,7 +266,7 @@ oppgavene delegeres til navngitte hjelpere:
 
 **Avklar 1 uke før**:
 - [ ] Hvem er klikker? (laptop + PowerPoint kjent på forhånd)
-- [ ] DJ får full musikkliste + cues 7 dager før
+- [ ] Simen (lydtekniker) får full musikkliste + cues senest 19. juni – se `simen-lyd.md`
 - [ ] Forlovere instrueres om Fireball-rolle
 - [ ] Backup-taler vet om backup-rollen
 

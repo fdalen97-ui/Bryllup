@@ -154,7 +154,7 @@ Listen fra rånotatene, utvidet med det som mangler:
 
 ### 5.1 Teknisk
 - [ ] **Mygger** – hvor mange, overlapp / bytteprosedyre
-- [ ] **Musikk / lyd / backup** – hvem styrer spillelista; har DJ spillelista?
+- [ ] **Musikk / lyd / backup** – **Simen** styrer spillelista (se `simen-lyd.md`); har han fått den? Frist 19. juni.
 - [ ] **Projektor** – trengs til F1-intro eller FF-show?
 - [ ] **Lydtest** – 1 time før gjestene kommer
 
@@ -243,7 +243,7 @@ bør være lavmælt og elegant – matcher hennes ro.
 - Står på, arbeidsjern
 - **Tagline fra dem om Anders: «nerd»**
 
-→ Konsekvens for Tale 5-intro: «3 mammaer» er gull. Krutt + arbeidsjern
+→ Konsekvens for Tale 7-intro: «3 mammaer» er gull. Krutt + arbeidsjern
 + «hun har kalt Anders nerd siden han kom inn i bildet» = sterk intro.
 
 **Ola – Anders' bror**
@@ -252,7 +252,7 @@ bør være lavmælt og elegant – matcher hennes ro.
 - Morsom å være med
 - Hardtarbeidende og festlig
 
-→ Konsekvens for Tale 6-intro (sammen med Ingrid): «sportsbil»-metaforen
+→ Konsekvens for Tale 8-intro (sammen med Ingrid): «sportsbil»-metaforen
 står seg.
 
 **Ingrid – Anders' søster**
@@ -261,7 +261,7 @@ står seg.
 - Omsorgsjel
 - Gammel sjel
 
-→ Konsekvens for Tale 6-intro: kontrasten Ola = «krutt» / Ingrid =
+→ Konsekvens for Tale 8-intro: kontrasten Ola = «krutt» / Ingrid =
 «gammel sjel» er en perfekt rule-of-three-twist når begge presenteres
 sammen.
 
@@ -308,14 +308,14 @@ oppsummering.
 
 ### 7.4 Vennegjengene
 
-**Kongsvinger-gjengen (Tale 7, Michelles barndomsvenner)**
+**Kongsvinger-gjengen (Tale 9, Michelles barndomsvenner)**
 - Hadde kjærester på likt – alle ble single rundt samme tid
 - Snillere enn «den andre gjengen»
 - Rolig, omtenksom, stabil
 
 → Intro-tone: rolig, varm, stabil. Spill ikke krutt-energi.
 
-**FF / «Feminin og fornem» (Tale 8, Michelles Ås-gjeng)**
+**FF / «Feminin og fornem» (Tale 10, Michelles Ås-gjeng)**
 - «Mer krutt» (kontrast til Kongsvinger)
 
 → Intro-tone: opp i energi etter Kongsvinger. Bruk kontrasten:

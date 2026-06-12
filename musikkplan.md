@@ -97,15 +97,15 @@ middagsbakgrunn** – hold disse til dansen.
 | Taler | Primær | Reserve | Lengde på intro |
 |-------|--------|---------|-----------------|
 | **Tale 1 – Werner Seigerud** (brudens far, FØR mat) | Optimist – Jahn Teigen (#14) | The Power Of Love (#29) | 20–25 sek |
-| **Tale 2 – Anders til Michelle** | Burning Love (#26) | The Power Of Love (#29) | 20 sek |
-| **Tale 3 – Michelle til Anders** (brudens tale) | Mamma Mia (#19) | Burning Love (#26) | 20 sek |
-| **Tale 4 – Kjersti & Erik Nilsen** (Anders' foreldre) | Power of Love (#29) | Signed, Sealed, Delivered (#11) | 20 sek |
-| **Tale 5 – Cathrine + Anette** (felles, Michelles søstre) | Walking On Sunshine (#12) | Mamma Mia (#19) | 20 sek |
-| **Tale 6 – Ingrid + Ola** (felles, Anders' søsken) | Crazy Train (#32) | T.N.T. (#23) | 15 sek |
-| **Tale 7 – Kongsvinger-vennene** (gruppe-tale) | Forza Vinger – Blodrødt (#1) | Shock 2017 (#2) | 20 sek |
-| **Tale 8 – «Feminin og fornem»** (Ås-gjeng Michelle) | Voulez-Vous (#22) | Sarà perché ti amo (#9) | 20 sek |
-| **Tale 9 – Helene** (forlover brud) | Fanga av ein stormvind (#7) | Take on Me (#28) | 20–25 sek |
-| **Tale 10 – Even** (forlover brudgom) | Let's Get Ready To Rumble! (#6) | Thunderstruck (#20/35) | 10–15 sek |
+| **Tale 2 – Anders til Michelle** (FØR mat) | Burning Love (#26) | The Power Of Love (#29) | 20 sek |
+| **Tale 3 – Michelle til Anders** (brudens tale, FØR mat) | Mamma Mia (#19) | Burning Love (#26) | 20 sek |
+| **Tale 4 – Kjersti & Erik Nilsen** (Anders' foreldre, forrett) | Power of Love (#29) | Signed, Sealed, Delivered (#11) | 20 sek |
+| **Tale 5 – Helene** (forlover brud) | Fanga av ein stormvind (#7) | Take on Me (#28) | 20–25 sek |
+| **Tale 6 – Even** (forlover brudgom) | Let's Get Ready To Rumble! (#6) | Thunderstruck (#20/35) | 10–15 sek |
+| **Tale 7 – Cathrine + Anette** (felles, Michelles søstre) | Walking On Sunshine (#12) | Mamma Mia (#19) | 20 sek |
+| **Tale 8 – Ingrid + Ola** (felles, Anders' søsken) | Crazy Train (#32) | T.N.T. (#23) | 15 sek |
+| **Tale 9 – Kongsvinger-vennene** (gruppe-tale) | Forza Vinger – Blodrødt (#1) | Shock 2017 (#2) | 20 sek |
+| **Tale 10 – «Feminin og fornem»** (Ås-gjeng Michelle) | Voulez-Vous (#22) | Sarà perché ti amo (#9) | 20 sek |
 | **Innslag – Broderskapet Unity** (Anders' Ås-vennegjeng) | Enter Sandman (#13) | T.N.T. (#23) | 15 sek |
 | **Tale 11 – Tom Christian** (kveldens siste) | Hold the Line (#24) | We Didn't Start the Fire (#30) | 15 sek |
 
@@ -119,21 +119,21 @@ Unngå å følge rask låt med rask låt. Behold Duartes prinsipp om
 ```
 Åpning           ██        Optimist / Forza Vinger – varm start
 Werner Seigerud  ██        Power Of Love – senke skuldre
-Helan går        ██        Skål
-Fireball 1       ███       Velkomstshot
-— buffet 1 —
 Anders til brud  ███       Burning Love – løft
 Michelle         ███       Mamma Mia – feminin og fornem (paret-utveksling)
+Helan går        ██        Skål
+Fireball 1       ███       Velkomstshot
+— buffet 1 (forrett) —
 Kjersti+Erik N.  ██        Power Of Love – arv eller miljø
-— buffet 2 —
-Cathrine+Anette  ██        Walking On Sunshine – søster-duo
-Ingrid+Ola       ████      Crazy Train – søsken-duo
-Kongsvinger      ██        Forza Vinger – lokal forankring
-Feminin og fornem██        Voulez-Vous – Ås-gjeng Michelle
-— pause + Fireball 2 —
-— dessert —
+— buffet 2 (hovedrett) —
 Helene (f. brud) ██        Fanga av ein stormvind – ro
 Even  (f. brudg) ████      Let's Get Ready / Thunderstruck – topp
+Cathrine+Anette  ██        Walking On Sunshine – søster-duo
+Ingrid+Ola       ████      Crazy Train – søsken-duo
+— pause + Fireball 2 —
+— dessert —
+Kongsvinger      ██        Forza Vinger – lokal forankring
+Feminin og fornem██        Voulez-Vous – Ås-gjeng Michelle
 Broderskapet     ████      Enter Sandman – innslag (Anders' Ås)
 Tom Christian    ███       Hold the Line – KVELDENS SISTE TALE
 Stikk 4          ███       Take on Me + Fireball 3
@@ -188,10 +188,14 @@ Hvis en tale blir avlyst eller servering forsinkes:
 
 ---
 
-## 7. Avklar med DJ / AV-ansvarlig
+## 7. Avklar med Simen (lydtekniker)
 
-- [ ] Hvem styrer avspilling under middagen – du eller DJ?
-- [ ] Signaler for fade-in/fade-out (håndtegn / headset).
-- [ ] Preview-mulighet: test at alle 36 spor er tilgjengelige i systemet.
+**Simen (#57, brudesvenn) er lydtekniker og styrer all musikk.** Hans
+fulle brief med pakkeliste, cue-liste og frister ligger i `simen-lyd.md`.
+
+- [x] Hvem styrer avspilling under middagen – **Simen**.
+- [ ] Signaler for fade-in/fade-out (håndtegn / headset) – avtales på generalprøven 25. juni.
+- [ ] Preview-mulighet: test at alle 36 spor er tilgjengelige i systemet (offline!).
 - [ ] Bekreft volum under middag (snakkevennlig) vs. dans (høyt).
-- [ ] Avtal «panic track» (Samba de Janeiro) som DJ kan dra i hvis du signaliser.
+- [ ] Avtal «panic track» (Samba de Janeiro) som Simen kan dra i hvis du signaliser.
+- [ ] Simen får full musikkliste + cues **senest 19. juni** (7 dager før).

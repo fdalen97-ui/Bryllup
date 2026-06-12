@@ -431,10 +431,12 @@ Da håper jeg at alle har fått påfyll i glassene.
 
 ---
 
-## Velkomstbolk FØR forrett (17:38–17:46)
+## Velkomstbolk FØR forrett (17:38–17:58)
 
-*Klassisk åpningstale fra brudens far + Helan går + velkomstshot. Setter
-energien før folk reiser seg til buffet.*
+*Tre taler FØR mat: brudens far, Anders→Michelle og Michelle→Anders (paret-
+utveksling tidlig). Deretter Helan går + velkomstshot. Setter energien før
+folk reiser seg til buffet. Søstre og søsken er flyttet til hovedrett, rett
+etter forloverne.*
 
 ---
 
@@ -455,41 +457,6 @@ dere – ble til virkelighet.
 Ordet er ditt, Werner.
 
 *[Tale 1, 5 min]*
-
----
-
-### Helan går — obligatorisk skål med Werner
-
-*[Etter Werners tale. PowerPoint: tekst]*
-
-Werner – det fortjener en ekte skål.
-
-**Helan går!**
-
-*[Hele salen, 1 vers + skål. Ned i ett.]*
-
----
-
-### 🔥 Fireball-runde 1 — velkomstshot
-
-*[PowerPoint: 🔥 FIREBALL slide. Forlovere har shotbrett klare.]*
-
-Og før vi slipper løs på buffet – én ekstra runde.
-
-Glassene opp – Fireball til bruden og brudgommen!
-
-*[Felles skål, ned i ett. 30 sek.]*
-
-Og med det – buffet 1 er åpen. Vel bekomme!
-
-*(Buffet 1 åpnes. Folk reiser seg, henter forrett. Kjøkkenet styrer
-bord-rotasjon.)*
-
----
-
-## Forrett — talerunde 1 (18:18–18:36)
-
-*Når alle har satt seg igjen og fått tatt en gaffel.*
 
 ---
 
@@ -528,6 +495,42 @@ Bruden – **Michelle**.
 
 ---
 
+### Helan går — obligatorisk skål
+
+*[Etter de tre talene. PowerPoint: tekst]*
+
+Tre flotte taler – det fortjener en ekte skål.
+
+**Helan går!**
+
+*[Hele salen, 1 vers + skål. Ned i ett.]*
+
+---
+
+### 🔥 Fireball-runde 1 — velkomstshot
+
+*[PowerPoint: 🔥 FIREBALL slide. Forlovere har shotbrett klare.]*
+
+Og før vi slipper løs på buffet – én ekstra runde.
+
+Glassene opp – Fireball til bruden og brudgommen!
+
+*[Felles skål, ned i ett. 30 sek.]*
+
+Og med det – buffet 1 er åpen. Vel bekomme!
+
+*(Buffet 1 åpnes. Folk reiser seg, henter forrett. Kjøkkenet styrer
+bord-rotasjon.)*
+
+---
+
+## Forrett — talerunde 1 (18:23–18:36)
+
+*Når alle har satt seg igjen og fått tatt en gaffel. Én tale her –
+Anders' foreldre.*
+
+---
+
 ### Intro tale 4 — Kjersti + Erik Nilsen (Anders' foreldre)
 
 *[Intro-sang: Power of Love, 20 sek. «Arv eller miljø»-grep fra
@@ -552,23 +555,23 @@ Ta imot Anders' mor og far – Kjersti og Erik Nilsen.
 
 ---
 
-## Pissepause 10 min (18:36–18:46)
+## Pause 10–15 min (18:58–19:10)
 
-Takk for tre flotte taler.
+Takk for fire flotte taler så langt.
 
-Ti minutters felles pause. Strekk beina, besøk toalettene, fyll glassene.
+Et kvarters felles pause. Strekk beina, besøk toalettene, fyll glassene.
 
 Hovedretten kommer rett over.
 
 ---
 
-## Buffet 2 — hovedrett (18:46–19:16, 30 min)
+## Buffet 2 — hovedrett (19:10–19:40, 30 min)
 
 *[Ingen tale under buffet-runden. Folk henter mat.]*
 
 ---
 
-## STIKK 2 — Hvordan jeg kjenner Anders (19:23, ca 5 min)
+## STIKK 2 — Hvordan jeg kjenner Anders (19:47, ca 5 min)
 
 *Lars/Julie §2 «hjertelig bro mellom hovedrett og taler». Personlig
 anekdote, fetter-perspektiv. Den varmeste bolken i kvelden – HJERTET.*
@@ -954,11 +957,63 @@ Hvordan få Anders til å sitte stille i fem minutter.
 
 ---
 
-## Hovedrett — talerunde 2 (19:23–19:52)
+## Hovedrett — talerunde 2 (19:47–20:13)
+
+*Forloverne åpner talerunden, deretter søstre og søsken. Helene og Even er
+flyttet hit etter ønske – familien (søstre + søsken) følger rett etter
+forloverne.*
 
 ---
 
-### Intro tale 5 — Cathrine + Anette (Michelles storesøstre, felles tale)
+### Intro tale 5 — Helene (forlover brud)
+
+*[Intro-sang: Fanga av ein stormvind – Kjartan Lauritzen, 45 sek]*
+
+Helt fra Tromsø – der naturen er vill og himmelen vid – kommer kveldens
+neste taler.
+
+Hun jobber til daglig med å skape ro i landskap.
+
+I kveld gir hun oss et landskap av ord.
+
+Applaus til Michelles forlover – Helene.
+
+*[Tale 5, 3 min]*
+
+---
+
+### Thunderstruck-flaske ruller
+
+*[Etter Helenes tale, før Even. Even-bordet får utdelt en flaske
+øl/cider. DJ starter Thunderstruck på lav volum.]*
+
+Før neste taler – en liten regel.
+
+Jeg sender denne flasken rundt forlover-bordet. Hver gang AC/DC sier
+«thunder» – drikker den som holder.
+
+*(45 sek Thunderstruck. Trykket bygges. Fade ned.)*
+
+---
+
+### Intro tale 6 — Even (forlover brudgom)
+
+*[Intro-sang: Let's Get Ready to Rumble!, 30 sek]*
+
+Neste taler kjenner Anders på godt og vondt.
+
+Og på benkpress.
+
+Han vet hva Anders klarer i toppform. Spørsmålet er hva han klarer å
+avsløre på tre minutter.
+
+Vær så god – Anders' forlover, Even.
+
+*[Tale 6, 3 min]*
+
+---
+
+### Intro tale 7 — Cathrine + Anette (Michelles storesøstre, felles tale)
 
 *[Intro-sang: Walking On Sunshine, 20 sek]*
 
@@ -970,13 +1025,13 @@ Det betyr at hun aldri har kommet unna med noenting.
 
 To storesøstre = dobbel kjærlighet og dobbel oppdragelse.
 
-Først ut – i felles regi – Cathrine og Anette.
+I felles regi – Cathrine og Anette.
 
-*[Tale 5 felles, 5 min]*
+*[Tale 7 felles, 5 min]*
 
 ---
 
-### Intro tale 6 — Ingrid + Ola (Anders' søsken, felles tale)
+### Intro tale 8 — Ingrid + Ola (Anders' søsken, felles tale)
 
 *[Intro-sang: Crazy Train, 15 sek. «Gå sakte mot personen»-grep fra
 Lars/Julie §3.2 – Fredrik beveger seg sakte mot Olas bord.]*
@@ -994,74 +1049,37 @@ Svaret er ikke det du tror.
 I kveld kommer det i samlet pakke – ta imot Anders' søsken, Ingrid og
 Ola.
 
-*[Tale 6 felles, 5 min]*
+*[Tale 8 felles, 5 min]*
 
 ---
 
-### Intro tale 7 — Kongsvinger-vennene (Michelles barndomsvenner)
-
-*[Intro-sang: Forza Vinger – Blodrødt, 20 sek. Lokal forankring – sangen
-kjenner publikum fra Vinger.]*
-
-Det finnes folk som har vært der hele veien.
-
-Som vet hvor Michelle bodde, hvilken skole hun gikk på, hvilken
-fotballbane hun løp rundt.
-
-Vennegjengen som har sett Michelle vokse fra Kongsvinger til Maarud.
-
-Ta vel imot – Kongsvinger-vennene.
-
-*[Tale 7, 5 min – gruppe eller talsperson]*
-
----
-
-### Intro tale 8 — «Feminin og fornem» (Michelles Ås-gjeng)
-
-*[Intro-sang: Voulez-Vous, 20 sek. Tonen skal matche gjengnavnet –
-elegant, sjarmerende, lett ironisk.]*
-
-Det finnes vennegjenger med beskjedne navn.
-
-«Gutta». «Tirsdagsklubben». «Vinkjellergjengen».
-
-Og så finnes det vennegjenger som har bestemt seg for å være – og jeg
-siterer – **feminine og fornemme**. Og holdt på det siden NMBU.
-
-Michelle har én slik gjeng.
-
-Ta vel imot – «Feminin og fornem».
-
-*[Tale 8, 5 min – Ås-gjengen, gruppe eller talsperson]*
-
----
-
-## Pause 22 min (19:52–20:14)
+## Pause 22 min (20:13–20:35)
 
 Takk for fire flotte taler.
 
 Tjueto minutter pause. Fireball-baren åpner, kaffen er klar, dessert
 kommer rett over.
 
-*(Midt i pausen, ca 20:04: Fireball-runde 2, annonsert kort fra mygg.)*
+*(Midt i pausen, ca 20:25: Fireball-runde 2, annonsert kort fra mygg.)*
 
 ---
 
-## Buffet 3 / dessert (20:14–20:34, 20 min)
+## Buffet 3 / dessert (20:35–20:55, 20 min)
 
 *[Dessert serveres. Folk setter seg.]*
 
 ---
 
-## STIKK 3 — Før forloverne (20:39, ca 3 min)
+## STIKK 3 — Før venne-talene (21:00, ca 3 min)
 
-*Lars/Julie §3.1 «Jeg ringte rundt»-grep. Setter opp siste talerunde.*
+*Lars/Julie §3.1 «Jeg ringte rundt»-grep. Setter opp siste talerunde –
+vennegjengene (forloverne har allerede talt under hovedretten).*
 
 ---
 
 Vi nærmer oss kveldens siste talerunde.
 
-Forloverne.
+Vennene.
 
 Men først – jeg har ringt rundt.
 
@@ -1091,64 +1109,54 @@ Noen har fortsatt ikke svart. Dere vet hvem dere er.
 
 ---
 
-Og som i alle gode prosjekter – mens andre bringer struktur, bringer
+Og som i alle gode prosjekter – mens noen bringer struktur, bringer
 andre energi.
 
-La oss høre fra de som står brudeparet aller nærmest.
+La oss høre fra vennene som har fulgt dem lengst – fra Kongsvinger til Ås.
 
 *(Rød tråd 3/4)*
 
 ---
 
-## Dessert — talerunde 3 (20:39–21:01)
+## Dessert — talerunde 3 (21:00–21:25)
 
 ---
 
-### Intro tale 9 — Helene (forlover brud)
+### Intro tale 9 — Kongsvinger-vennene (Michelles barndomsvenner)
 
-*[Intro-sang: Fanga av ein stormvind – Kjartan Lauritzen, 45 sek]*
+*[Intro-sang: Forza Vinger – Blodrødt, 20 sek. Lokal forankring – sangen
+kjenner publikum fra Vinger.]*
 
-Helt fra Tromsø – der naturen er vill og himmelen vid – kommer kveldens
-neste taler.
+Det finnes folk som har vært der hele veien.
 
-Hun jobber til daglig med å skape ro i landskap.
+Som vet hvor Michelle bodde, hvilken skole hun gikk på, hvilken
+fotballbane hun løp rundt.
 
-I kveld gir hun oss et landskap av ord.
+Vennegjengen som har sett Michelle vokse fra Kongsvinger til Maarud.
 
-Applaus til Michelles forlover – Helene.
+Ta vel imot – Kongsvinger-vennene.
 
-*[Tale 9, 3 min]*
-
----
-
-### Thunderstruck-flaske ruller
-
-*[Etter Helenes tale, før Even. Even-bordet får utdelt en flaske
-øl/cider. DJ starter Thunderstruck på lav volum.]*
-
-Før neste taler – en liten regel.
-
-Jeg sender denne flasken rundt forlover-bordet. Hver gang AC/DC sier
-«thunder» – drikker den som holder.
-
-*(45 sek Thunderstruck. Trykket bygges. Fade ned.)*
+*[Tale 9, 5 min – gruppe eller talsperson]*
 
 ---
 
-### Intro tale 10 — Even (forlover brudgom)
+### Intro tale 10 — «Feminin og fornem» (Michelles Ås-gjeng)
 
-*[Intro-sang: Let's Get Ready to Rumble!, 30 sek]*
+*[Intro-sang: Voulez-Vous, 20 sek. Tonen skal matche gjengnavnet –
+elegant, sjarmerende, lett ironisk.]*
 
-Neste taler kjenner Anders på godt og vondt.
+Det finnes vennegjenger med beskjedne navn.
 
-Og på benkpress.
+«Gutta». «Tirsdagsklubben». «Vinkjellergjengen».
 
-Han vet hva Anders klarer i toppform. Spørsmålet er hva han klarer å
-avsløre på tre minutter.
+Og så finnes det vennegjenger som har bestemt seg for å være – og jeg
+siterer – **feminine og fornemme**. Og holdt på det siden NMBU.
 
-Vær så god – Anders' forlover, Even.
+Michelle har én slik gjeng.
 
-*[Tale 10, 3 min]*
+Ta vel imot – «Feminin og fornem».
+
+*[Tale 10, 5 min – Ås-gjengen, gruppe eller talsperson]*
 
 ---
 
@@ -1185,14 +1193,14 @@ Tom Christian – ordet er ditt.
 
 ---
 
-## Buffer 10 min (21:01–21:11)
+## Buffer 10 min (21:25–21:35)
 
 For uanmeldte innslag, sanger, videoer, eller om noen har plutselig fått
 mot. Hvis ingenting kommer – gå rett til Stikk 4.
 
 ---
 
-## STIKK 4 — Avrunding + fellessang (21:11, ca 10 min)
+## STIKK 4 — Avrunding + fellessang (21:35, ca 10 min)
 
 Det har vært et tett program.
 
@@ -1279,9 +1287,14 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 - [x] Anders' søsken (felles tale): **Ingrid og Ola**
 - [x] Forlover brud: **Helene** (#39)
 - [x] Forlover brudgom: **Even** (#40)
-- [x] **Michelle (brudens tale) som Tale 3** – tidlig, etter Anders, paret-utveksling
-- [x] **Kongsvinger-vennene** som Tale 7 (gruppe-tale, hovedrett)
-- [x] **«Feminin og fornem»** (Ås-gjeng Michelle) som Tale 8 (gruppe-tale, hovedrett)
+- [x] **Michelle (brudens tale) som Tale 3** – FØR mat, rett etter Anders, paret-utveksling
+- [x] **Kjersti + Erik (Anders' foreldre) som Tale 4** – forrett
+- [x] **Helene (forlover brud) som Tale 5** – hovedrett
+- [x] **Even (forlover brudgom) som Tale 6** – hovedrett
+- [x] **Cathrine + Anette (søstre) som Tale 7** – hovedrett, etter forloverne
+- [x] **Ingrid + Ola (Anders' søsken) som Tale 8** – hovedrett, etter søstrene
+- [x] **Kongsvinger-vennene** som Tale 9 (gruppe-tale, dessert)
+- [x] **«Feminin og fornem»** (Ås-gjeng Michelle) som Tale 10 (gruppe-tale, dessert)
 - [x] **Broderskapet Unity** (Anders' Ås-vennegjeng) som INNSLAG i dessert-bolken
 - [x] **Tom Christian som Tale 11** – kveldens siste tale
 - [x] Felles takketale fra brudeparet er **droppet**
@@ -1318,15 +1331,15 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 ```
 Stikk 1            ████      Varm + selvironi + brudeparet inn
 Werner Seigerud    ██        Tyngde
+Anders til brud    ███       Burning Love
+Michelle til Anders███       Mamma Mia, feminin og fornem (paret-utveksling)
+Cathrine + Anette  ██        Walking On Sunshine, søster-duo
 Helan går          ██        Skål
 Fireball 1         ███       Velkomstshot
 — buffet 1 —
-Anders til brud    ███       Burning Love
-Michelle til Anders███       Mamma Mia, feminin og fornem (paret-utveksling)
 Kjersti + Erik N.  ██        Arv eller miljø + tog-metafor
 — pissepause + buffet 2 —
 Stikk 2            ███       Personlig fetter-historie (HJERTET)
-Cathrine + Anette  ██        Walking On Sunshine, søster-duo
 Ingrid + Ola       ████      Crazy Train, søsken-duo
 Kongsvinger        ██        Forza Vinger, lokal forankring
 Feminin og fornem  ██        Voulez-Vous, Ås-gjeng Michelle

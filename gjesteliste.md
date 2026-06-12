@@ -26,16 +26,16 @@ plassering avklares med brudeparet.
 
 | # | Taler | Relasjon | Plass i manuset |
 |---|-------|----------|-----------------|
-| 1 | Werner Seigerud | Brudens far | Tale 1 (forrett, FØR mat) |
-| 2 | Anders | Brudgom, til bruden | Tale 2 (forrett) |
-| 3 | **Michelle** | **Brudens tale – paret-utveksling, etter Anders** | Tale 3 (forrett) |
+| 1 | Werner Seigerud | Brudens far | Tale 1 (FØR mat) |
+| 2 | Anders | Brudgom, til bruden | Tale 2 (FØR mat) |
+| 3 | **Michelle** | **Brudens tale – paret-utveksling, etter Anders** | Tale 3 (FØR mat) |
 | 4 | Kjersti + Erik Nilsen | Brudgommens foreldre | Tale 4 (forrett) |
-| 5 | **Cathrine + Anette** | **Michelles storesøstre – felles tale** | Tale 5 (hovedrett) |
-| 6 | **Ingrid + Ola** | **Anders' søsken – felles tale** | Tale 6 (hovedrett) |
-| 7 | **Kongsvinger-vennene** | **Michelles barndomsvenner – gruppe-tale** | Tale 7 (hovedrett) |
-| 8 | **«Feminin og fornem»** | **Michelles Ås-gjeng (NMBU studievenninner) – gruppe-tale** | Tale 8 (hovedrett) |
-| 9 | **Helene** | **Forlover brud (Michelles forlover)** | Tale 9 (dessert) |
-| 10 | **Even** | **Forlover brudgom (Anders' forlover)** | Tale 10 (dessert) |
+| 5 | **Helene** | **Forlover brud (Michelles forlover)** | Tale 5 (hovedrett) |
+| 6 | **Even** | **Forlover brudgom (Anders' forlover)** | Tale 6 (hovedrett) |
+| 7 | **Cathrine + Anette** | **Michelles storesøstre – felles tale** | Tale 7 (hovedrett) |
+| 8 | **Ingrid + Ola** | **Anders' søsken – felles tale** | Tale 8 (hovedrett) |
+| 9 | **Kongsvinger-vennene** | **Michelles barndomsvenner – gruppe-tale** | Tale 9 (dessert) |
+| 10 | **«Feminin og fornem»** | **Michelles Ås-gjeng (NMBU studievenninner) – gruppe-tale** | Tale 10 (dessert) |
 | – | **Broderskapet Unity** | **Anders' Ås-vennegjeng – INNSLAG (sang/sketsj/tale)** | Innslag (dessert) |
 | 11 | **Tom Christian** | **Brudesvenn / venn av Anders – KVELDENS SISTE TALE** | Tale 11 (dessert) |
 
@@ -67,13 +67,13 @@ lukker talerekken. Broderskapet Unity er et innslag (ikke nummerert tale).
 | 6 | Lina | Stebror + 1 | – |
 | 7 | **Werner Seigerud** | **Far** | ✅ Tale 1 |
 | 8 | Ingalill | Stemor | – |
-| 9 | **Cathrine** | **Søster** | ✅ Tale 5a |
+| 9 | **Cathrine** | **Søster** | ✅ Tale 7 (felles med Anette) |
 | 10 | Mads | Svoger (Cathrines ektefelle) | – |
 | 11 | Celina | Niese | – |
 | ~~12~~ | ~~Noah + 1~~ | ~~Nevø + 1~~ | **Kommer ikke** |
 | 13 | Mathias | Nevø | – |
 | 14 | Nicoline | Niese | – |
-| 15 | **Anette** | **Søster** | ✅ Tale 5b |
+| 15 | **Anette** | **Søster** | ✅ Tale 7 (felles med Cathrine) |
 | 16 | Christian | Svoger (Anettes ektefelle) | – |
 | 17 | Eldgeir | Nevø | – |
 | 18 | Anna | Niese | – |
@@ -84,11 +84,11 @@ lukker talerekken. Broderskapet Unity er et innslag (ikke nummerert tale).
 
 | # | Navn | Relasjon | Taler? |
 |---|------|----------|--------|
-| 21 | **Kjersti** | **Mor** | ✅ Tale 3 (sammen med Erik) |
-| 22 | **Erik Nilsen** | **Far** | ✅ Tale 3 (sammen med Kjersti) |
-| 23 | **Ola** | **Bror** | ✅ Tale 6 |
+| 21 | **Kjersti** | **Mor** | ✅ Tale 4 (sammen med Erik) |
+| 22 | **Erik Nilsen** | **Far** | ✅ Tale 4 (sammen med Kjersti) |
+| 23 | **Ola** | **Bror** | ✅ Tale 8 (felles med Ingrid) |
 | 24 | Anna | Bror + 1 (Olas partner) | – |
-| 25 | **Ingrid** | **Søster** | ✅ Tale 5 (felles med Ola) |
+| 25 | **Ingrid** | **Søster** | ✅ Tale 8 (felles med Ola) |
 | 26 | Markus | Søster + 1 (Ingrids partner) | – |
 | 27 | Anne Eva | Bestemor | – |
 | 28 | Torill | Bestemor | – |
@@ -107,14 +107,14 @@ lukker talerekken. Broderskapet Unity er et innslag (ikke nummerert tale).
 
 | # | Navn | Relasjon | Taler? |
 |---|------|----------|--------|
-| 39 | **Helene** | **Forlover for Michelle (brud)** | ✅ Tale 6 |
-| 40 | **Even** | **Forlover for Anders (brudgom)** | ✅ Tale 7 |
+| 39 | **Helene** | **Forlover for Michelle (brud)** | ✅ Tale 5 |
+| 40 | **Even** | **Forlover for Anders (brudgom)** | ✅ Tale 6 |
 | 42 | Emilie | Brudepike | – |
 | 43 | William | Brudesvenn/bridebro | – |
 | 51 | Sara | Brudepike | – |
 | 55 | Tuva | Brudepike | – |
-| 56 | **Tom Christian** | **Brudesvenn/bridebro – venn av Anders** | ✅ Tale 8 (mot slutten) |
-| 57 | Simen | Brudesvenn/bridebro | – |
+| 56 | **Tom Christian** | **Brudesvenn/bridebro – venn av Anders** | ✅ Tale 11 (kveldens siste) |
+| 57 | Simen | Brudesvenn/bridebro | 🎧 **Lydtekniker** – styrer all musikk, se `simen-lyd.md` |
 
 ### 3.5 Venner (resterende)
 
@@ -238,26 +238,21 @@ Niese/nevø på brud-side: Celina, Mathias, Nicoline, Eldgeir, Anna, Jacob
 
 ## 6. Oppsummert tale-rekkefølge (oppdatert)
 
-**Forrett** (3 taler):
-1. Werner Seigerud – brudens far
-2. Anders – til bruden
-3. Kjersti + Erik – brudgommens foreldre
-
-**Forrett** (4 taler):
+**FØR mat + forrett** (4 taler):
 1. Werner Seigerud – brudens far (FØR mat)
-2. Anders til Michelle
-3. **Michelle til Anders – brudens tale (NY POSISJON, tidlig)**
-4. Kjersti + Erik Nilsen – Anders' foreldre
+2. Anders til Michelle (FØR mat)
+3. **Michelle til Anders – brudens tale (tidlig paret-utveksling, FØR mat)**
+4. Kjersti + Erik Nilsen – Anders' foreldre (forrett)
 
-**Hovedrett** (4 taler):
-5. **Cathrine + Anette** – Michelles storesøstre, felles tale
-6. **Ingrid + Ola** – Anders' søsken, felles tale
-7. **Kongsvinger-vennene** – Michelles barndomsvenner, gruppe-tale
-8. **«Feminin og fornem»** – Michelles Ås-gjeng (NMBU), gruppe-tale
+**Hovedrett** (4 taler – forlovere først, så familie):
+5. **Helene** – forlover brud (Michelles forlover)
+6. **Even** – forlover brudgom (Anders' forlover)
+7. **Cathrine + Anette** – Michelles storesøstre, felles tale
+8. **Ingrid + Ola** – Anders' søsken, felles tale
 
-**Dessert** (3 taler + 1 innslag):
-9. **Helene** – forlover brud (Michelles forlover)
-10. **Even** – forlover brudgom (Anders' forlover)
+**Dessert** (2 taler + 1 innslag + siste tale):
+9. **Kongsvinger-vennene** – Michelles barndomsvenner, gruppe-tale
+10. **«Feminin og fornem»** – Michelles Ås-gjeng (NMBU), gruppe-tale
 –. **Broderskapet Unity** – Anders' Ås-vennegjeng, INNSLAG (sang/sketsj)
 11. **Tom Christian** – venn av Anders, **KVELDENS SISTE TALE**
 
@@ -274,8 +269,8 @@ Tidsplan i `tidsplan.md`.
 - [x] Erik Nilsen = **Anders' far (#22)**, samme person.
 - [x] Helene (#39) = **Michelles forlover**. Even (#40) = **Anders' forlover**.
 - [x] **Michelle (bruden) holder tale** – kveldens avslutning, erstatter takketale.
-- [x] **Kongsvinger-vennene** holder gruppe-tale (Tale 7).
-- [x] **«Feminin og fornem»** = Ås-gjengen (Michelles NMBU-venninner) holder gruppe-tale (Tale 8).
+- [x] **Kongsvinger-vennene** holder gruppe-tale (Tale 9).
+- [x] **«Feminin og fornem»** = Ås-gjengen (Michelles NMBU-venninner) holder gruppe-tale (Tale 10).
 - [x] **Broderskapet Unity** = Anders' Ås-vennegjeng holder innslag (sang/sketsj) i dessert-bolken.
 - [ ] **Hvilke gjester utgjør Kongsvinger-vennene, Ås-gjengen, Broderskapet Unity?** Avklar talspersoner og format for hvert.
 - [ ] Alder på barna – for barnesittings og ørepropper.
