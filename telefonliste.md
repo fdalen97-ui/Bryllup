@@ -14,8 +14,8 @@ løpende.
 | 2 | Mai-Britt | Brudens mor | | ☐ | ☐ |
 | 3 | Cathrine | Michelles storesøster 1 (felles tale) | | ☐ | ☐ |
 | 4 | Anette | Michelles storesøster 2 (felles tale) | | ☐ | ☐ |
-| 5 | Kjersti | Anders' mor | | ☐ | ☐ |
-| 6 | Erik Nilsen | Anders' far (CEO/togreparasjon) | | ☐ | ☐ |
+| 5 | Kjersti | Anders' mor | | ☑ 14/6 | ☑ `telefonnotater-kjersti-erik.md` |
+| 6 | Erik Nilsen | Anders' far (CEO/togreparasjon) | | ☑ 14/6 | ☑ `telefonnotater-kjersti-erik.md` |
 | 7 | Ola | Anders' bror (felles tale med Ingrid) | | ☐ | ☐ |
 | 8 | Ingrid | Anders' søster (felles tale med Ola) | | ☐ | ☐ |
 | 9 | Helene | Forlover brud (landskapsarkitekt, Tromsø) | | ☐ | ☐ |
