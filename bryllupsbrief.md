@@ -257,7 +257,7 @@ oppgavene delegeres til navngitte hjelpere:
 
 | Oppgave | Hvem | Signal fra Fredrik |
 |---------|------|--------------------|
-| Trykk play på musikksnutter | DJ / AV-ansvarlig | Nikk + håndtegn (avtalt forhånd) |
+| Trykk play på musikksnutter | **Simen** (lydtekniker, #57) – se `simen-lyd.md` | Nikk + håndtegn (avtalt forhånd) |
 | Klikk PowerPoint-slides | Dedikert «klikker» (venn med laptop) | Øyekontakt + nikk |
 | Fireball-shots per bord | Forlovere + 2 utvalgte | Slide «Fireball-runde» = signal |
 | Servietter ut før Stikk 1 | 1 venn, gjøres mens gjestene tar plass | Avtalt 17:00 |
@@ -266,7 +266,7 @@ oppgavene delegeres til navngitte hjelpere:
 
 **Avklar 1 uke før**:
 - [ ] Hvem er klikker? (laptop + PowerPoint kjent på forhånd)
-- [ ] DJ får full musikkliste + cues 7 dager før
+- [ ] Simen (lydtekniker) får full musikkliste + cues senest 19. juni – se `simen-lyd.md`
 - [ ] Forlovere instrueres om Fireball-rolle
 - [ ] Backup-taler vet om backup-rollen
 

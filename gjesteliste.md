@@ -114,7 +114,7 @@ lukker talerekken. Broderskapet Unity er et innslag (ikke nummerert tale).
 | 51 | Sara | Brudepike | – |
 | 55 | Tuva | Brudepike | – |
 | 56 | **Tom Christian** | **Brudesvenn/bridebro – venn av Anders** | ✅ Tale 11 (kveldens siste) |
-| 57 | Simen | Brudesvenn/bridebro | – |
+| 57 | Simen | Brudesvenn/bridebro | 🎧 **Lydtekniker** – styrer all musikk, se `simen-lyd.md` |
 
 ### 3.5 Venner (resterende)
 

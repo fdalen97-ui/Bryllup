@@ -27,7 +27,7 @@ PowerPoint krasjer, skal kvelden gå videre uten at noen merker det.
 - **Klikker**: trådløs presenter (se `utstyr.md`).
 - **Klikker-person**: én navngitt venn som sitter ved laptopen og bytter
   slide på Fredriks signal (nikk eller håndtegn).
-- **Musikk**: kjøres separat av DJ – **ikke** embedded i PowerPoint.
+- **Musikk**: kjøres separat av Simen (lydtekniker) – **ikke** embedded i PowerPoint.
 
 ### 1.2 Hvorfor musikk skal være separat
 
@@ -37,9 +37,9 @@ PowerPoint + embedded lyd er notorisk skjørt:
 - Hvis slides krasjer, mister du musikken også
 - Auto-spill ved slide-skift er upresist (lag på 0.5–2 sek)
 
-**Løsning**: DJ har egen musikkliste (basert på `musikkplan.md`). Fredrik
-nikker = DJ fader inn musikken. Slide bytter parallelt, men er ikke
-avhengig av musikken.
+**Løsning**: Simen har egen musikkliste (cue-liste i `simen-lyd.md`,
+basert på `musikkplan.md`). Fredrik nikker = Simen fader inn musikken.
+Slide bytter parallelt, men er ikke avhengig av musikken.
 
 **Unntak**: korte jingler (Fireball, F1-nedtelling) kan være embedded hvis
 de er max 10 sek og testet flere ganger.
@@ -161,13 +161,13 @@ men klar som backup.
 
 **Når**: dagen før bryllupet, eller morgenen samme dag på Maarud.
 
-**Hvem**: Fredrik + klikker-person + DJ.
+**Hvem**: Fredrik + klikker-person + Simen (lydtekniker).
 
 **Sjekkliste**:
 - [ ] Slide 1 til 43 spiller gjennom uten feil
 - [ ] Klikker rekker fra Fredriks plassering til laptopen
-- [ ] Lyd fra DJ-anlegget testet på alle Fireball-jingler
-- [ ] Fredrik øver Thunderstruck-cue + Fireball-cue mot DJ
+- [ ] Lyd fra anlegget testet på alle Fireball-jingler
+- [ ] Fredrik øver Thunderstruck-cue + Fireball-cue mot Simen
 - [ ] B-tast (sort skjerm) testet
 - [ ] Backup-laptop testet
 - [ ] Sangtekst-ark printet og lagt klar

@@ -183,6 +183,6 @@ under 1000 NOK. Hvis ikke, kjøp Rode Wireless ME og selg etterpå.
 - [ ] Adaptere (USB-C → HDMI, 3.5 mm → XLR)
 - [ ] Stikkordkort + reserveeksemplar
 - [ ] Vannflaske + halspastiller
-- [ ] Telefonliste: DJ, kjøkken, brudepar, klikker, forlovere
+- [ ] Telefonliste: Simen (lyd), kjøkken, brudepar, klikker, forlovere
 - [ ] Skjøteledning + grenuttak
 - [ ] Sangtekst-ark (Helan går, Take on Me, ev. We Didn't Start the Fire)

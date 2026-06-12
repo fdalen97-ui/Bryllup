@@ -188,10 +188,14 @@ Hvis en tale blir avlyst eller servering forsinkes:
 
 ---
 
-## 7. Avklar med DJ / AV-ansvarlig
+## 7. Avklar med Simen (lydtekniker)
 
-- [ ] Hvem styrer avspilling under middagen – du eller DJ?
-- [ ] Signaler for fade-in/fade-out (håndtegn / headset).
-- [ ] Preview-mulighet: test at alle 36 spor er tilgjengelige i systemet.
+**Simen (#57, brudesvenn) er lydtekniker og styrer all musikk.** Hans
+fulle brief med pakkeliste, cue-liste og frister ligger i `simen-lyd.md`.
+
+- [x] Hvem styrer avspilling under middagen – **Simen**.
+- [ ] Signaler for fade-in/fade-out (håndtegn / headset) – avtales på generalprøven 25. juni.
+- [ ] Preview-mulighet: test at alle 36 spor er tilgjengelige i systemet (offline!).
 - [ ] Bekreft volum under middag (snakkevennlig) vs. dans (høyt).
-- [ ] Avtal «panic track» (Samba de Janeiro) som DJ kan dra i hvis du signaliser.
+- [ ] Avtal «panic track» (Samba de Janeiro) som Simen kan dra i hvis du signaliser.
+- [ ] Simen får full musikkliste + cues **senest 19. juni** (7 dager før).
