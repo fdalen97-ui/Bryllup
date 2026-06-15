@@ -59,7 +59,8 @@ mikrofonen.** Full låt kun i pauser og på dansegulvet.
 | 19:30–20:00 | Hovedrett + pause | Rolig bakgrunn | lav |
 | 20:00 | 🔥 Innkalling | Fireball-jingle | 5–10 sek |
 | 20:13 | 🔥 Fireball-runde 2 | Fireball-jingle | 5–10 sek |
-| 20:15 | ⚡ Thunderstruck-ritual + intro tale 5 – Even | Thunderstruck (lav volum, fade opp) → Let's Get Ready To Rumble! (#6) | se `innslag.md` |
+| 20:15 | Intro tale 5 – Helene | Fanga av ein stormvind (#7) | 20–25 sek |
+| 20:23 | ⚡ Thunderstruck-ritual + intro tale 6 – Even | Thunderstruck (lav volum, fade opp) → Let's Get Ready To Rumble! (#6) | se `innslag.md` |
 | 20:33 | Intro tale 7 – Ingrid & Ola | Crazy Train (#32) | 15 sek |
 | 20:48 | Intro tale 8 – Cathrine & Anette | Walking On Sunshine (#12) | 20 sek |
 | 21:00–21:30 | Dessert + pause | Rolig bakgrunn | lav |
@@ -73,8 +74,8 @@ mikrofonen.** Full låt kun i pauser og på dansegulvet.
 | 22:42 | **Første dans** | Førstedans-låt (avklar!) → festtoppere | full |
 
 Reservelåter per taler: se tabellen i `musikkplan.md` §2.
-**OBS**: `musikkplan.md` §2 har eldre talerekkefølge (Helene er tatt ut) –
-tabellen over følger gjeldende `tidsplan.md`.
+**OBS**: `musikkplan.md` §2 har Cathrine+Anette og Ingrid+Ola i motsatt
+rekkefølge av gjeldende `tidsplan.md` – cue-lista over følger tidsplanen.
 
 ---
 

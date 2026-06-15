@@ -15,8 +15,9 @@ brudeparet, kjøkken og lokalet.
 >   flyttet til etter første servering.
 > - **Talerekka ender 22:20** (Broderskapet Unity), fest/dans starter ca
 >   22:42 – senere enn før.
-> - **Helene (forlover brud) er tatt ut**, og talenummer 6 hoppes over
->   (følger det tentative skjemaet bokstavelig).
+> - **Helene (forlover brud) er tilbake inne** som Tale 5 (hun ombestemte
+>   seg 15. juni); Even blir dermed Tale 6. Forlover-bolken absorberes i
+>   den eksisterende slakken, så totaltider er uendret.
 > - **Fireball-lyden brukes som innkallingssignal**: når den spilles
 >   kommer alle inn og setter seg igjen etter pause.
 
@@ -53,8 +54,10 @@ brudeparet, kjøkken og lokalet.
 | 20:00 | Alle ferdig med å hente mat (alle sitter) | – | – | 🔥 Fireball-lyden = innkalling |
 | 20:13 | 🔥 **Fireball-runde 2** (innkalling etter pause) | Forlovere | 2 min | Lyden henter folk inn |
 | 20:14 | **STIKK 2 – personlig historie (Fredrik som fetter)** | Fredrik | 1 min | Lars/Julie kisten-stil |
-| 20:15 | ⚡ Thunderstruck + intro tale 5 | Fredrik | 1 min | *Let's Get Ready to Rumble!* |
-| 20:16 | **Tale 5 – Even (forlover brudgom)** | Even | ~18 min m/intro | Anders' forlover |
+| 20:15 | Intro tale 5 – Helene (forlover brud) | Fredrik | 2 min | *Fanga av ein stormvind* |
+| 20:17 | **Tale 5 – Helene (forlover brud)** | Helene | ~6 min | Søskenforhold til Michelle, poetisk/ærlig |
+| 20:23 | ⚡ Thunderstruck-flaske + intro tale 6 | Fredrik | 1 min | *Let's Get Ready to Rumble!* |
+| 20:24 | **Tale 6 – Even (forlover brudgom)** | Even | ~9 min | Anders' forlover |
 | 20:33 | Intro tale 7 | Fredrik | 2 min | *Crazy Train* |
 | 20:35 | **Tale 7 – Ingrid & Ola (felles, Anders' søsken)** | Ingrid & Ola | ~15 min | Søsken-duo |
 | 20:48 | Intro tale 8 | Fredrik | 2 min | *Walking On Sunshine* |
@@ -202,8 +205,8 @@ ingen blir overrasket.
       kjøretid og at gjester rekker Maarud 15:30.
 - [x] **Bare Werner taler FØR maten** (Tale 1). Anders (Tale 2), Michelle
       (Tale 3) og Erik (Tale 4) flyttet til etter første servering.
-- [x] **Helene (forlover brud) tatt ut** – talenummer 6 hoppes over.
-- [x] **Even** holder forlover-tale (Tale 5).
+- [x] **Helene (forlover brud) tilbake inne** – Tale 5 (ombestemte seg 15. juni).
+- [x] **Even** holder forlover-tale (Tale 6).
 - [x] **Ingrid & Ola** (Anders' søsken) – felles tale (Tale 7).
 - [x] **Cathrine & Anette** (Michelles søstre) – felles tale (Tale 8).
 - [x] **Kongsvinger-jentene** holder gruppe-tale (Tale 9).

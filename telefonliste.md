@@ -18,7 +18,7 @@ løpende.
 | 6 | Erik Nilsen | Anders' far (CEO/togreparasjon) | | ☑ 14/6 | ☑ `telefonnotater-kjersti-erik.md` |
 | 7 | Ola | Anders' bror (felles tale med Ingrid) | | ☐ | ☐ |
 | 8 | Ingrid | Anders' søster (felles tale med Ola) | | ☐ | ☐ |
-| 9 | Helene | Forlover brud (landskapsarkitekt, Tromsø) | | ☐ | ☐ |
+| 9 | Helene | Forlover brud (landskapsarkitekt, Tromsø) | | ☑ 15/6 | ☑ `telefonnotater-helene.md` |
 | 10 | Even | Forlover brudgom (Equinor, gym) | | ☐ | ☐ |
 | 11 | Tom Christian | Brudesvenn / venn av Anders (Tale 11, kveldens siste) | | ☐ | ☐ |
 | 12 | Kongsvinger-jentene (talsperson) | Michelles barndomsvenner (Tale 9, gruppe) | | ☑ 12/6 | ☑ `telefonnotater-kongsvinger-jentene.md` |

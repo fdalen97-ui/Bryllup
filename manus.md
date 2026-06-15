@@ -446,6 +446,14 @@ etter forloverne.*
 
 Og før vi går til buffet – det er én mann som skal ha ordet først.
 
+Rallysjåfør. Gründer. Entreprenør. Det er få som har like kule titler på
+visittkortet som Werner Seigerud.
+
+Men spør du ham selv, sier han at det å bli pappa er det største øyeblikket
+i livet hans.
+
+*[Og der starter gråtinga.]*
+
 Neste mann har gjort livets viktigste investering.
 
 Ingen fondsforvalter kan matche avkastningen han får se gå ned
@@ -542,8 +550,13 @@ Viljen til å optimalisere. Kjærligheten til naturen. Og det rotet vi ikke
 skal snakke om.
 
 Faren – Erik Nilsen – har bygget en karriere på å holde ting på rett
-spor. Bokstavelig talt. Hvis noen kan forklare hvordan Anders endelig
-kom frem i rute, er det ham.
+spor. Bokstavelig talt.
+
+Når Bane NOR står fast og noe må fikses – er det én person de ringer.
+
+*(Folkens – er vi klare?)*
+
+Hvis noen kan forklare hvordan Anders endelig kom frem i rute, er det ham.
 
 Og kjærligheten til naturen – den er kanskje fra moren?
 
@@ -1184,8 +1197,11 @@ gjengen på forhånd: hva, varighet, tekniske behov.]*
 Når man har holdt det gående til denne timen i et bryllup, er det fordi
 det er noe man ikke vil gå glipp av.
 
-Kveldens siste taler er en god venn av Anders – og det å ha venner som
-blir værende lenge, både i livet og i bryllupet, sier sitt.
+Kveldens siste taler er en svært tilstedeværende – og til tider fraværende
+– type. Tidligere europamester i taekwondo.
+
+Han er en god venn av Anders – og det å ha venner som blir værende lenge,
+både i livet og i bryllupet, sier sitt.
 
 Tom Christian – ordet er ditt.
 
