@@ -131,9 +131,21 @@ Stikk 2) – fungerer dobbelt som åpner.*
 *Latter ~15 sek. Risiko med eldre gjester (notatbank §2.1) – backup, ikke
 førstevalg.*
 
+**Alt. 7 – Fake-out: «det sterkeste båndet» (brudepar → Anders og meg)**
+> *(varm, oppriktig – la rommet tro du hyller brudeparet)*
+> «Det finnes få par med et så sterkt og kraftfullt bånd som dette.
+> *(beat)* Få mennesker er så tett på hverandre. Forstår hverandre så godt.
+> Har holdt ut med hverandre så lenge.
+> *(beat)* Jeg snakker selvfølgelig om …
+> *(LAND 2 sek)* Anders. Og meg.»
+
+*Latter på reveal, ~18 sek. Misdirection: hele bordet tror det handler om
+Michelle og Anders, så svinger den til toastmasteren. Funker fordi Fredrik
+er fetteren. Lever de tre «så …»-linjene helt oppriktig – ikke flir.*
+
 **Regi**: Stå stille. Mikrofon tett. Ikke le av egen vits. Etter latteren
 faller → gli inn i «Takk for en strålende dag … wow for et lokale» (§A).
-**Anbefalt rekkefølge**: Alt. 1 eller 2 som åpner → Alt. 3 som neste beat.
+**Anbefalt rekkefølge**: Alt. 7 eller 1 som åpner → Alt. 3 som neste beat.
 
 ---
 
