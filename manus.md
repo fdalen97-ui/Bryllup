@@ -83,6 +83,60 @@ blir et visuelt bilde ingen glemmer.
 
 ---
 
+## Åpningsalternativer — de første 20 sekundene (velg ÉN)
+
+*Mål (fra `standup-teknikk.md`): første latter INNEN 20 sek. Lever kaldt –
+ikke varm opp med «så hyggelig at dere kom». Hook først, varme etterpå.
+Velg én av disse som aller første replikk; resten av §A følger etter.*
+
+**Alt. 1 – Anbudskonkurransen (tryggest, anbefalt)**
+> «God kveld. Mitt navn er Fredrik, og jeg er kveldens toastmaster –
+> valgt gjennom det som best kan beskrives som en offentlig
+> anbudskonkurranse. *(beat)* Billigst og tilgjengelig vant.»
+
+*Latter ~12 sek. Selvironi, senker forventninger. Kan lenkes til «Werner
+ville hatt en proff, men sjekket prisen».*
+
+**Alt. 2 – Rule of three (kortest, hardest)**
+> «Jeg ble valgt som toastmaster. *(beat)* Ikke som førstevalg. *(beat)*
+> Eller andre. *(beat)* Eller tredje.»
+
+*Latter på «tredje», ~10 sek. Klassisk tre-struktur (`standup-teknikk.md`).*
+
+**Alt. 3 – «Jeg var imot» (hook + intrige)**
+> «Før vi begynner – en innrømmelse. *(beat)* Jeg var faktisk imot at de
+> to skulle gifte seg. *(LAND 3 sek)* Jeg kommer tilbake til det.»
+
+*Latter + nysgjerrighet ~15 sek. Er allerede Chekhov-plant 1 (pay off
+Stikk 2) – fungerer dobbelt som åpner.*
+
+**Alt. 4 – Maarud-chips (lokal, visuell)**
+> «Velkommen til Maarud Gård – hjemmet til norske chips. *(beat)* Jeg skal
+> være ærlig: jeg forventet Crispo til forrett.»
+
+*Latter ~15 sek. NB: ble kuttet fra hovedflyten – her som åpner-kandidat.*
+
+**Alt. 5 – Fetteren med full tilgang**
+> «Mitt navn er Fredrik. Jeg er Anders' fetter – som betyr at jeg har
+> kjent ham hele livet *(beat)* og har full tilgang til materialet han
+> håpet aldri kom ut.»
+
+*Latter ~15 sek. Etablerer troverdighet + trussel mot brudgom.*
+
+**Alt. 6 – Første eller siste bryllup (høyest risiko – sjekk rommet)**
+> «For noen av dere er dette det første bryllupet i år. For andre det
+> tiende. *(beat)* Brudeparet håper det ikke er deres siste – men heller
+> ikke deres neste.»
+
+*Latter ~15 sek. Risiko med eldre gjester (notatbank §2.1) – backup, ikke
+førstevalg.*
+
+**Regi**: Stå stille. Mikrofon tett. Ikke le av egen vits. Etter latteren
+faller → gli inn i «Takk for en strålende dag … wow for et lokale» (§A).
+**Anbefalt rekkefølge**: Alt. 1 eller 2 som åpner → Alt. 3 som neste beat.
+
+---
+
 ## STIKK 1 — Åpning (17:30, ca 3–4 min)
 
 *Nedkortet A–F (ref. `referanse-oda-siver.md` §2). Fredrik ved eget bord,
@@ -91,6 +145,9 @@ mygg på. Brudeparet venter utenfor.*
 ---
 
 ### A — Varm velkomst + wow
+
+*[Velg åpner fra «Åpningsalternativer»-seksjonen over – lever den FØR
+linjene under. Anbudskonkurransen (Alt. 1) brukes da som åpner, ikke i §B.]*
 
 *[blikk: sveip rom. Smil før første ord.]*
 
