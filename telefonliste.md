@@ -10,7 +10,7 @@ løpende.
 
 | # | Navn | Relasjon | Telefon | Ringt | Notert |
 |---|------|----------|---------|-------|--------|
-| 1 | Werner Seigerud | Brudens far | | ☐ | ☐ |
+| 1 | Werner Seigerud | Brudens far | | ☑ 15/6 | ☑ `telefonnotater-werner.md` |
 | 2 | Mai-Britt | Brudens mor | | ☐ | ☐ |
 | 3 | Cathrine | Michelles storesøster 1 (felles tale) | | ☐ | ☐ |
 | 4 | Anette | Michelles storesøster 2 (felles tale) | | ☐ | ☐ |
