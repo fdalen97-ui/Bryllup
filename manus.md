@@ -163,6 +163,19 @@ førstevalg.*
 Michelle og Anders, så svinger den til toastmasteren. Funker fordi Fredrik
 er fetteren. Lever de tre «så …»-linjene helt oppriktig – ikke flir.*
 
+**Alt. 8 – Marius-look-alike (selvironi, HØYEST risiko – les rommet)**
+> *(varm)* «Jeg føler jeg kjenner de fleste her i kveld. *(beat)* For dere som
+> ikke kjenner meg: på en sommerfest var det en kjendis-look-alike-lek – og da
+> fikk jeg høre hvem jeg visstnok ligner på.
+> *(LAND 2 sek)* Marius Borg Høiby.
+> *(beat)* Så husker dere ikke navnet mitt – bare kall meg Marius.»
+
+*Selvironisk look-alike-gag. NB: bygger på Marius Høiby-linja som allerede
+ligger i Stikk 2 (§«Hvem jeg er») – BRUK DEN BARE ÉN GANG, ikke i både Stikk 1
+og Stikk 2. Din skarpeste variant er å si «overgriperen Marius Borg Høiby» rett
+ut, men det er kveldens mest betente linje (reell person, alvorlige siktelser)
+– test den på brudeparet/noen edru først.*
+
 **Regi**: Stå stille. Mikrofon tett. Ikke le av egen vits. Etter latteren
 faller → gli inn i «Takk for en strålende dag … wow for et lokale» (§A).
 **Anbefalt rekkefølge**: Alt. 7 eller 1 som åpner → Alt. 3 som neste beat.
@@ -289,23 +302,41 @@ introene + Stikk 4. Kongsvinger-humor kuttet pga mormor + besteforeldre.]*
 
 ---
 
-### F — Hovmesteren, vinen, skål
+### E2 — Skål til lydmannen (Simen)
 
-*(presentere)* Til å presentere kveldens mat har vi en kveldens vert utenom
-det vanlige – hovmester **Oda Rogstad**.
+*[Tidlig skål – ønsket plassert «ganske tidlig». Simen Borgen Messelt (#57,
+brudesvenn) styrer all lyd og musikk i kveld. Callback til inngangsmusikken
+som nettopp spilte. Holder det kort, ~20 sek.]*
 
-*[Oda frem, 1–2 min menypresentasjon. Feminin og fornem levering.]*
+*(varm)* Og en ting til – musikken dere nettopp hørte, og alt dere kommer til
+å høre i kveld, styres av én mann: **Simen Borgen Messelt**.
 
-*(2 sek)* Tusen takk, Oda.
+*(tørr)* Vi fikk itte Matoma eller David Guetta …
+
+*(beat)*
+
+… men dette er faen meg nesten det samma.
+
+*(beat – la latter komme)*
+
+*(varm)* Skål for Simen!
+
+*[kort skål. Simen sitter ved lydbordet – trenger ikke reise seg.]*
 
 ---
+
+### F — Vinen + skål for brudeparet
+
+*[Matpresentasjonen er flyttet: FF-jentene presenterer maten ETTER Werners
+tale – se «Matpresentasjon – FF-jentene» under Velkomstbolk. Oda-rollen
+avklares nærmere.]*
 
 Vinen: hvit fra *[distrikt]*, rød fra *[distrikt]*.
 
 *(tørr)* For dere som er fineschmeckere – plukk den dere liker. For oss andre
 – ta den som står nærmest.
 
-**Vel bekomme. Og skål for brudeparet!**
+**Skål for brudeparet!**
 
 ---
 
@@ -339,6 +370,30 @@ selve punchlinen.*
 Ordet er ditt, Werner Seigerud.
 
 *[Tale 1, 5 min]*
+
+---
+
+### Matpresentasjon — FF-jentene presenterer maten
+
+*[Rett etter Werners tale. FF-jentene = «Feminin og fornem» (Michelles
+Ås-venninner, samme gjeng som Tale 10). Oda-rollen avklares nærmere – poenget
+her er at FF-jentene presenterer maten. Selve buffeten åpnes som før, etter
+Fireball-runde 1.]*
+
+*(varm, oppriktig)* Før vi går videre – la meg fortelle hva kjøkkenet har til
+oss i kveld. Men aller først en liten hyllest.
+
+*(beat)* Jentene som presenterer maten stiller på **dugnad for foreningen**.
+De bruker helga og fritida si på å gjøre denne kvelden bedre for oss alle.
+
+*(varm)* Det står det respekt av. La oss gi en skikkelig applaus til
+**FF-jentene**!
+
+*[applaus. FF-jentene frem.]*
+
+*[Menypresentasjon, 1–2 min. FF-jentene presenterer rettene.]*
+
+*(2 sek)* Tusen takk, jenter.
 
 ---
 
@@ -1186,7 +1241,10 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 - [x] **Broderskapet Unity** (Anders' Ås-vennegjeng) som INNSLAG i dessert-bolken
 - [x] **Tom Christian som Tale 11** – kveldens siste tale
 - [x] Felles takketale fra brudeparet er **droppet**
-- [x] Hovmester (presenterer maten): **Oda Rogstad**
+- [x] Matpresentasjon: **FF-jentene** («Feminin og fornem») presenterer maten
+  ETTER Werners tale + hyllest for dugnad. (Hovmester Oda Rogstad-rollen
+  avklares nærmere – står fortsatt i `powerpoint-plan.md` slide 6.)
+- [x] Tidlig skål til **Simen Borgen Messelt** (lyd/musikk) i Stikk 1 §E2
 - [x] Siste buss: **02:30**, kun én avgang
 - [ ] Vin-distrikt (hvit + rød)
 - [ ] Talsperson for Kongsvinger-vennene + hvilke gjester
@@ -1217,8 +1275,9 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 ## Dramaturgisk oversikt – tempo og rytme
 
 ```
-Stikk 1            ████      Varm + selvironi + brudeparet inn
+Stikk 1            ████      Varm + selvironi + brudeparet inn (+ skål til Simen/lyd)
 Werner Seigerud    ██        Tyngde
+FF-jentene (mat)   ██        Matpresentasjon + hyllest for dugnad
 Anders til brud    ███       Burning Love
 Michelle til Anders███       Mamma Mia, feminin og fornem (paret-utveksling)
 Cathrine + Anette  ██        Walking On Sunshine, søster-duo
