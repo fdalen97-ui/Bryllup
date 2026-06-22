@@ -320,14 +320,22 @@ Ta imot kveldens enestående brudepar:
 
 *[vent til de sitter. 3 sek. Smil mot dem.]*
 
-*🔔 HUSK (gj.gang 1): hold dette kort. Ikke gå inn i en lang forklaring om
-antall bolker/taler/«sett dere ned» – det tappet energien etter inngangen.
-Det er tre timer (ikke fire) og tre intro-taler før buffet (ikke to).*
+*🔔 HUSK (gj.gang 1): hold dette kort. «Tolv taler»-vitsen under er BRA – men
+stopp der; ikke ramle ut i en lang forklaring om bolker/antall/«sett dere ned»
+(det tappet energien i gj.gang 1). Det er tre timer (ikke fire) og tre
+intro-taler før buffet (ikke to).*
 
 *(varm)* Og med det – jada, det blir et sånt bryllup.
 
 Det er bare å spenne fast setebeltet: tre timer med mat, taler og praktiske
 ting.
+
+*(tørr)* Vi har tolv taler på programmet i kveld. *(beat)* Tolv. Ikke tretten.
+
+*(varm)* Skulle noen brenne inne med en ekstra tale, er dere hjertelig
+velkomne til å holde den. *(beat)* På bussen hjem. *(beat)* Klokka 02:30.
+
+*(beat – la latter komme)*
 
 *(beat)* Det blir tradisjoner i kveld – tramping i gulvet og klirring i
 glasset. Er sidemannen din ny i bryllupsgamet, forklar i forkant.
