@@ -74,18 +74,24 @@ første høytlesning. Notasjonen er der for å hjelpe deg styre rytmen –
 *Disse falt ut da jeg snakket fritt første gang. Les denne FØR du øver, og
 sjekk den etterpå. Full logg i `gjennomganger.md`.*
 
-1. **Lever en åpner-vits** (§B / Åpningsalternativer). Velg ÉN og lås den –
-   ikke hopp rett til «vi skal kose oss». Første latter innen 20 sek.
-2. **🔴 Si «jeg var faktisk imot at de ble sammen»** (§B). Dette er CHEKHOV
-   PLANT 1 – uten den faller pay off-en i Stikk 2. Ikke dropp den.
-3. **Plant rød tråd 1/4**: «alle gode prosjekter trenger en plan» (§C). La den
-   ligge, ikke annonser den.
+1. **Lever en åpner-vits** (Åpningsalternativer). Velg ÉN og lås den – ikke
+   hopp rett til «vi skal kose oss». Første latter innen 20 sek.
+2. **🔴 «Jeg var imot at de ble sammen»-planten må sies** (CHEKHOV PLANT 1,
+   betales ut i Stikk 2). §B er fjernet, så denne MÅ komme fra åpneren – bruk
+   **Alt. 3**. Uten den henger Stikk 2.
+3. **⚠️ Rød tråd 1/4 er kuttet fra §C** («alle gode prosjekter trenger en
+   plan»). Pay-off-ene 2/4, 3/4 og 4/4 ligger fortsatt i Stikk 2–4 – avgjør om
+   du vil re-plante tråden ett sted, ellers stryk callbacks-ene også.
 4. **Avslutt Werner-introen på ordet «Michelle.»** – ikke trail av. Det er hele
    poenget med introen.
 5. **Werner = tre titler**, ikke fire (rule of three).
 6. **Hold §E kort** – ingen lang logistikk-digresjon om bolker/antall taler
    etter inngangen. Det tapper energien.
 7. Detaljer: **tre timer** (ikke fire), **tre intro-taler før buffet** (ikke to).
+8. **🔥 Fireball-kadens**: Fireball-shot skal på **etter hver buffet** (forrett
+   + hovedrett) **og etter dessert**. NB: runde 1 er i dag en velkomstshot FØR
+   buffet 1 – flytt/legg til så det blir én etter hver servering (se
+   `tidsplan.md` / `simen-lyd.md` / `powerpoint-plan.md`).
 
 ---
 
@@ -192,7 +198,11 @@ mygg på. Brudeparet venter utenfor.*
 ### A — Varm velkomst + wow
 
 *[Velg åpner fra «Åpningsalternativer»-seksjonen over – lever den FØR
-linjene under. Anbudskonkurransen (Alt. 1) brukes da som åpner, ikke i §B.]*
+linjene under.]*
+
+*[NB: §B (egen troverdighet) er nå slått sammen inn i §A. «Jeg var imot»-
+planten (Chekhov 1, betales ut i Stikk 2) må derfor komme fra åpneren –
+bruk Alt. 3, ellers henger Stikk 2 i løse lufta.]*
 
 *[blikk: sveip rom. Smil før første ord.]*
 
@@ -202,44 +212,6 @@ Velkommen alle sammen.
 til.
 
 *(beat)* Wow, for et lokale.
-
----
-
-### B — Egen troverdighet
-
-*🔔 HUSK (gj.gang 1): hele denne bolken falt ut. Ikke hopp fra «kveldens
-toastmaster» rett til §C. Lever en åpner-vits + planten under.*
-
-Mitt navn er Fredrik. Jeg er kveldens toastmaster.
-
-*(beat)* Jeg er også Anders' fetter – så jeg har full tilgang til materialet.
-
-*(varm, dempet)* For ordens skyld: jeg var faktisk imot at de ble sammen.
-
-*(LAND – 4 sek. Ikke fyll pausen.)*
-
-*[CHEKHOV PLANT 1: «jeg var imot». Pay off i Stikk 2.]*
-*🔴 HUSK: denne ble droppet i gj.gang 1 – uten den henger ikke Stikk 2.*
-
-*(rolig)* Jeg kommer tilbake til det.
-
----
-
-*[blikk: Werner.]* Men før jeg gjør det – la meg innrømme noe annet.
-
-Jeg ble valgt som toastmaster. Men ikke som førstevalg. *(beat)* Eller andre.
-
-*(beat)* Jeg ble valgt gjennom det som best kan beskrives som en offentlig
-anbudskonkurranse: billigst og tilgjengelig vant.
-
-Werner ville egentlig ha en profesjonell konferansier. Men så sjekket han
-prisen.
-
-*(varm)* Gratulerer – dere har fått en taler på budsjett.
-
-*[SELVIRONI-MENY TIL STARTEN (standup-teknikk §7: maks ~3 selvironi-linjer
-totalt, ellers leses det som usikkerhet). Alt under er forslag å plukke fra –
-velg et lite, stramt utvalg, ikke lever hele rekka.]*
 
 *(tørr)* Egentlig sliter jeg litt med å skjønne hva jeg skal gjøre her i kveld.
 
@@ -253,63 +225,15 @@ har til og med presten.
 *(tørr)* Men én ting har jeg ikke fortalt dere: jeg er byråkrat i staten.
 *(beat)* Så jeg klarer å gjøre meg viktig på de minste ting.
 
-*(beat – la latter komme)*
+---
 
-*[TOASTMASTER-ANALOGI (valgfri – plukk ÉN, ikke begge). Samme «jeg ble lurt
-inn i vervet»-poeng, to risikonivåer:]*
+*[Alt. 7 – Fake-out: «det sterkeste båndet» (brudepar → Anders og meg). Lever
+de tre «så …»-linjene helt oppriktig – ikke flir.]*
 
-> **a) FAU/elevrådet (trygg):** «Å være toastmaster er litt som å stille til
-> FAU eller elevrådet. *(beat)* Ingen vil egentlig ha vervet. *(beat)* Men har
-> du det først, oppfører du deg som om du styrer hele skolen.»
-
-> **b) Dronning Sonja (HØYEST RISIKO – les rommet):** «Å være toastmaster er
-> litt som å ligge med dronning Sonja. *(beat)* Du føler du ikke kan si nei …
-> *(beat)* men du har ikke så lyst heller.»
-
-*[NB Sonja-linja er kveldens frekkeste (kongehus + seksuelt), og mormor +
-besteforeldre er til stede (jf. §E). FAU-varianten gir samme poeng uten risiko
-– test Sonja på brudeparet før du evt. bruker den.]*
-
-*(tørr)* Og siden jeg jobber i det offentlige, tar ting jævlig lang tid. Men
-dere skal få talene.
-
-*[BYRÅKRAT × MARIUS – kveldens hovedselvironi. Teknikk (standup-teknikk.md):
-selvironi §7, rule of three §2, misdirection/antiklimaks, + Altinn-callback
-som betales ut i Stikk 3 (§3 callback A). Dette er SAMME tråd som
-Marius-åpneren (Alt. 8) – én historie som eskalerer, ikke to vitser. Lever
-montasjen, og plukk så ÉN bytte-tag. Ikke ta alt.]*
-
-*(tørr)* Jeg skal innrømme én ting til: jeg får stadig høre at jeg ligner på
-Marius Borg Høiby. *(beat)* Og vi har faktisk mer til felles enn ansiktet.
-
-*(varm, bygg sakte)* Vi er begge vant til store selskaper. Begge har mange
-mennesker som vil ha noe av oss. *(beat)* Begge har en viss berømmelse – i
-visse kretser.
-
-*(LAND 2 sek. Hold blikket. Ikke smil ennå.)*
-
-*(tørr, antiklimaks)* Så våkner jeg. Det er en tirsdag. Og jeg er
-saksbehandler i det offentlige.
-
-*(beat – la latter komme)*
-
-*(tørr)* Der stopper likheten. Marius er på forsida av VG. *(beat)* Jeg er i
-kopirommet og venter på at skriveren skal kjenne meg igjen.
-
-*(2 sek – la latter dempes)*
-
-**Bytte-tag – plukk ÉN:**
-
-> **Altinn (callback-plant → betales ut i Stikk 3):** «Talene ligger
-> forresten på Altinn, til godkjenning. Drøyer det – klag til staten. Ikke
-> til meg.»
-
-> **Rulleblad:** «Vi har til og med begge et rulleblad. *(beat)* Mitt er et
-> purregebyr på en bok jeg leverte for sent. *(beat)* Jeg bestrider det
-> fortsatt.»
-
-> **Allmøtet:** «Den villeste festen jeg hadde styrt før i kveld, var et
-> allmøte. *(beat)* Vi sprakk budsjettet på wienerbrød.»
+*(varm, oppriktig – la rommet tro du hyller brudeparet)* «Det finnes få par
+med et så sterkt og kraftfullt bånd som dette. *(beat)* Få mennesker er så tett
+på hverandre. Forstår hverandre så godt. Har holdt ut med hverandre så lenge.
+*(beat)* Jeg snakker selvfølgelig om … *(LAND 2 sek)* Anders. Og meg.»
 
 ---
 
@@ -319,11 +243,6 @@ Dette blir en innmari kul fest. Vi skal kose oss til de sene nattetimer.
 
 *(beat)* Det er vårt ansvar her i kveld: å hoie opp brudeparet, talerne og
 de som trenger det mest.
-
-*(varm)* Alle gode prosjekter trenger en plan.
-
-*[RØD TRÅD 1/4 – ikke annonser den. La den ligge.]*
-*🔔 HUSK: ikke plantet i gj.gang 1. Si linjen «alle gode prosjekter trenger en plan».*
 
 ---
 
@@ -451,11 +370,10 @@ etter forloverne.*
 
 Og før vi går til buffet – det er én mann som skal ha ordet først.
 
-Rallysjåfør. Gründer. Entreprenør. Det er få som har like kule titler på
+Rallysjåfør. Fabrikksjef og hestemanager. Det er få som har like kule titler på
 visittkortet som Werner Seigerud.
 
-*🔔 HUSK (gj.gang 1): TRE titler, ikke fire (ble «rallysjåfør/gründer/
-fabrikksjef/banebygger» – det brøt rytmen).*
+*🔔 HUSK (gj.gang 1): hold deg til TRE titler, ikke fire – det bryter rytmen.*
 
 Men etter å ha snakket med ham, er det én ting han er mest stolt av – og det
 er Michelle.
@@ -483,7 +401,7 @@ oss i kveld. Men aller først en liten hyllest.
 De bruker helga og fritida si på å gjøre denne kvelden bedre for oss alle.
 
 *(varm)* Det står det respekt av. La oss gi en skikkelig applaus til
-**FF-jentene**!
+**Feminin og Fornem-jentene**!
 
 *[applaus. FF-jentene frem.]*
 
@@ -504,6 +422,12 @@ I kveld holder han tale.
 Forskjellen er at han ikke kan avslutte med «any questions?» –
 svigerfaren sitter på første rad.
 
+*[Anders-beskrivelse (din):]*
+
+Anders har en lang merittliste – en ambisiøs «posterboy» fra Vinger. Varm,
+smart, god og nysgjerrig. *(beat)* Men de fleste vil nok først og fremst
+beskrive deg som smart.
+
 Anders – scenen er din.
 
 *[Tale 2, 5 min]*
@@ -515,6 +439,11 @@ Anders – scenen er din.
 *[Intro-sang: Mamma Mia, 20 sek. Tonen senkes – feminin og fornem.]*
 
 *(Pause. Bytt rytme. Senke skuldrene.)*
+
+*[Utkast – ny åpning (uferdig, fyll inn slutten):]* Jeg ringte rundt til flere
+og fikk særlig høre en hyggelig kommentar fra tanta mi Kjersti – Michelles
+svigermor: «hu var da ei veldig søt jinta, hu jinta hu dærre Michelle.»
+*(varm)* Michelle, du er …
 
 Anders har akkurat fortalt oss hvem Michelle er for ham.
 
@@ -1061,6 +990,12 @@ Hun har to.
 
 Det betyr at hun aldri har kommet unna med noenting.
 
+*(varm)* Men Michelle har sagt det selv, og finere kan det ikke sies: hun har
+vært heldig som ikke bare har hatt én mamma – ikke to – men hele tre.
+
+*(beat)* Cathrine og Anette har stått ved siden av henne hele veien. Gode
+rollemodeller, og de tryggeste støttespillerne en lillesøster kan ha.
+
 To storesøstre = dobbel kjærlighet og dobbel oppdragelse.
 
 I felles regi – Cathrine og Anette.
@@ -1139,8 +1074,8 @@ Svaret på tredje plass: og hvis dere skal pusse opp, ikke gjør det selv.
 
 Jeg ringte rundt. Svarene kom inn.
 
-*[CALLBACK-tag (kun hvis du brukte «Altinn»-tagen i Stikk 1 §B): «– og noen
-kom inn på Altinn.»]*
+*[Valgfri tag (Altinn-plantingen i §B er fjernet – linja funker fortsatt
+som frittstående spøk): «– og noen kom inn på Altinn.»]*
 
 Noen har fortsatt ikke svart. Dere vet hvem dere er.
 
