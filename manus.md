@@ -240,6 +240,25 @@ prisen.
 *(tørr)* Jeg jobber i det offentlige, så ting tar jævlig lang tid. Men dere
 skal få talene.
 
+*[BYRÅKRAT-PÅBYGG (valgfritt) – plukk ÉN, maks to. Bygger på linja over.
+Selvironi = trygt; du gjør narr av deg selv, ikke gjestene. Råmateriale
+adaptert fra byråkrat-/bureaucracy-humor (se kilder i committen).]*
+
+> **a) Lyspæra/utvalget:** «Vet dere hvor mange byråkrater som skal til for å
+> skifte en lyspære? *(beat)* Det vet vi ikke ennå – utvalget jobber med saken.»
+
+> **b) Skjemaet:** «Egentlig burde dere fylt ut et skjema før dere fikk lov å
+> le. *(beat)* I tre eksemplarer. Ett til arkivet.»
+
+> **c) Parkinsons lov:** «Jeg lover at denne talen tar nøyaktig så lang tid som
+> vi har satt av. *(beat)* Sannsynligvis litt lenger.»
+
+> **d) Stemplet:** «Talen er grundig forberedt – utredet, sendt på høring og
+> stemplet. *(beat)* Den er bare ikke helt ferdigbehandlet.»
+
+> **e) Kaffepausen:** «I det offentlige er det én ting som beveger seg raskt:
+> *(beat)* kaffepausen.»
+
 ---
 
 ### C — Setter tonen
