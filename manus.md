@@ -357,10 +357,11 @@ Vinen: hvit fra *[distrikt]*, rød fra *[distrikt]*.
 
 ## Velkomstbolk FØR forrett (17:38–17:58)
 
-*Tre taler FØR mat: brudens far, Anders→Michelle og Michelle→Anders (paret-
-utveksling tidlig). Deretter Helan går + velkomstshot. Setter energien før
-folk reiser seg til buffet. Søstre og søsken er flyttet til hovedrett, rett
-etter forloverne.*
+*Werner taler FØR mat. Så presenterer FF-jentene maten, og **første servering
+(forrett) åpnes**. Anders→Michelle og Michelle→Anders (paret-utveksling) taler
+når folk har forsynt seg – før hovedretten. Deretter Helan går + Fireball
+(etter forretten). Søstre og søsken er flyttet til hovedrett, rett etter
+forloverne.*
 
 ---
 
@@ -391,8 +392,8 @@ Ordet er ditt, Werner Seigerud.
 
 *[Rett etter Werners tale. FF-jentene = «Feminin og fornem» (Michelles
 Ås-venninner, samme gjeng som Tale 10). Oda-rollen avklares nærmere – poenget
-her er at FF-jentene presenterer maten. Selve buffeten åpnes som før, etter
-Fireball-runde 1.]*
+her er at FF-jentene presenterer maten. **Første servering (forrett) åpnes rett
+etter denne presentasjonen** – se under.]*
 
 *(varm, oppriktig)* Før vi går videre – la meg fortelle hva kjøkkenet har til
 oss i kveld. Men aller først en liten hyllest.
@@ -408,6 +409,19 @@ De bruker helga og fritida si på å gjøre denne kvelden bedre for oss alle.
 *[Menypresentasjon, 1–2 min. FF-jentene presenterer rettene.]*
 
 *(2 sek)* Tusen takk, jenter.
+
+---
+
+### 🍽️ Første servering — forrett (buffet 1 åpnes)
+
+*[Rett etter FF-presentasjonen. Folk reiser seg og henter forrett; kjøkkenet
+styrer bord-rotasjon. Anders' og Michelles taler kommer når alle har satt seg
+igjen og fått en gaffel – før hovedretten.]*
+
+*(varm)* Og med det er forretten servert – første buffet er åpen. Vel bekomme!
+
+*(Folk henter forrett og setter seg igjen. Vent med Anders' tale til alle
+sitter.)*
 
 ---
 
@@ -469,20 +483,19 @@ Tre flotte taler – det fortjener en ekte skål.
 
 ---
 
-### 🔥 Fireball-runde 1 — velkomstshot
+### 🔥 Fireball-runde 1 — etter forretten
 
-*[PowerPoint: 🔥 FIREBALL slide. Forlovere har shotbrett klare.]*
+*[PowerPoint: 🔥 FIREBALL slide. Forlovere har shotbrett klare.
+Fireball-kadens: én runde etter hver servering – dette er runden etter
+forretten, før hovedretten.]*
 
-Og før vi slipper løs på buffet – én ekstra runde.
+Tre flotte taler og vel overstått forrett – det fortjener en runde til.
 
 Glassene opp – Fireball til bruden og brudgommen!
 
 *[Felles skål, ned i ett. 30 sek.]*
 
-Og med det – buffet 1 er åpen. Vel bekomme!
-
-*(Buffet 1 åpnes. Folk reiser seg, henter forrett. Kjøkkenet styrer
-bord-rotasjon.)*
+*(Og så gjør vi oss klare til hovedretten.)*
 
 ---
 
