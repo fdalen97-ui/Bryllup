@@ -237,8 +237,41 @@ prisen.
 
 *(varm)* Gratulerer – dere har fått en taler på budsjett.
 
-*(tørr)* Jeg jobber i det offentlige, så ting tar jævlig lang tid. Men dere
-skal få talene.
+*[SELVIRONI-MENY TIL STARTEN (standup-teknikk §7: maks ~3 selvironi-linjer
+totalt, ellers leses det som usikkerhet). Alt under er forslag å plukke fra –
+velg et lite, stramt utvalg, ikke lever hele rekka.]*
+
+*(tørr)* Egentlig sliter jeg litt med å skjønne hva jeg skal gjøre her i kveld.
+
+*(bygg)* Vi har skaffet lydtekniker. Vi har DJ. Vi har fotograf. *(beat)* Vi
+har til og med presten.
+
+*(beat)* Med så mange flinke folk – hva trenger dere egentlig meg til?
+
+*(LAND 2 sek)*
+
+*(tørr)* Men én ting har jeg ikke fortalt dere: jeg er byråkrat i staten.
+*(beat)* Så jeg klarer å gjøre meg viktig på de minste ting.
+
+*(beat – la latter komme)*
+
+*[TOASTMASTER-ANALOGI (valgfri – plukk ÉN, ikke begge). Samme «jeg ble lurt
+inn i vervet»-poeng, to risikonivåer:]*
+
+> **a) FAU/elevrådet (trygg):** «Å være toastmaster er litt som å stille til
+> FAU eller elevrådet. *(beat)* Ingen vil egentlig ha vervet. *(beat)* Men har
+> du det først, oppfører du deg som om du styrer hele skolen.»
+
+> **b) Dronning Sonja (HØYEST RISIKO – les rommet):** «Å være toastmaster er
+> litt som å ligge med dronning Sonja. *(beat)* Du føler du ikke kan si nei …
+> *(beat)* men du har ikke så lyst heller.»
+
+*[NB Sonja-linja er kveldens frekkeste (kongehus + seksuelt), og mormor +
+besteforeldre er til stede (jf. §E). FAU-varianten gir samme poeng uten risiko
+– test Sonja på brudeparet før du evt. bruker den.]*
+
+*(tørr)* Og siden jeg jobber i det offentlige, tar ting jævlig lang tid. Men
+dere skal få talene.
 
 *[BYRÅKRAT × MARIUS – kveldens hovedselvironi. Teknikk (standup-teknikk.md):
 selvironi §7, rule of three §2, misdirection/antiklimaks, + Altinn-callback
