@@ -239,7 +239,7 @@ PowerPoint-slide for hver påstand. Klikker bytter slide hvert 15. sekund.
 
 ---
 
-## 9. Sjekkliste – avklares med DJ
+## 9. Sjekkliste – avklares med Simen (lydtekniker, se `simen-lyd.md`)
 
 - [ ] Thunderstruck cued (versjon #20 eller #35 – velg én)
 - [ ] Fireball-jingle 5–10 sek (kan være Crazy Train-intro)

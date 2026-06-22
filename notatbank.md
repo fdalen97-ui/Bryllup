@@ -154,7 +154,7 @@ Listen fra rånotatene, utvidet med det som mangler:
 
 ### 5.1 Teknisk
 - [ ] **Mygger** – hvor mange, overlapp / bytteprosedyre
-- [ ] **Musikk / lyd / backup** – hvem styrer spillelista; har DJ spillelista?
+- [ ] **Musikk / lyd / backup** – **Simen** styrer spillelista (se `simen-lyd.md`); har han fått den? Frist 19. juni.
 - [ ] **Projektor** – trengs til F1-intro eller FF-show?
 - [ ] **Lydtest** – 1 time før gjestene kommer
 

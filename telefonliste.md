@@ -10,18 +10,18 @@ løpende.
 
 | # | Navn | Relasjon | Telefon | Ringt | Notert |
 |---|------|----------|---------|-------|--------|
-| 1 | Werner Seigerud | Brudens far | | ☐ | ☐ |
+| 1 | Werner Seigerud | Brudens far | | ☑ 15/6 | ☑ `telefonnotater-werner.md` |
 | 2 | Mai-Britt | Brudens mor | | ☐ | ☐ |
 | 3 | Cathrine | Michelles storesøster 1 (felles tale) | | ☐ | ☐ |
 | 4 | Anette | Michelles storesøster 2 (felles tale) | | ☐ | ☐ |
-| 5 | Kjersti | Anders' mor | | ☐ | ☐ |
-| 6 | Erik Nilsen | Anders' far (CEO/togreparasjon) | | ☐ | ☐ |
+| 5 | Kjersti | Anders' mor | | ☑ 14/6 | ☑ `telefonnotater-kjersti-erik.md` |
+| 6 | Erik Nilsen | Anders' far (CEO/togreparasjon) | | ☑ 14/6 | ☑ `telefonnotater-kjersti-erik.md` |
 | 7 | Ola | Anders' bror (felles tale med Ingrid) | | ☐ | ☐ |
 | 8 | Ingrid | Anders' søster (felles tale med Ola) | | ☐ | ☐ |
-| 9 | Helene | Forlover brud (landskapsarkitekt, Tromsø) | | ☐ | ☐ |
+| 9 | Helene | Forlover brud (landskapsarkitekt, Tromsø) | | ☑ 15/6 | ☑ `telefonnotater-helene.md` |
 | 10 | Even | Forlover brudgom (Equinor, gym) | | ☐ | ☐ |
 | 11 | Tom Christian | Brudesvenn / venn av Anders (Tale 11, kveldens siste) | | ☐ | ☐ |
-| 12 | [Talsperson Kongsvinger-vennene] | Michelles barndomsvenner (Tale 9, gruppe) | | ☐ | ☐ |
+| 12 | Kongsvinger-jentene (talsperson) | Michelles barndomsvenner (Tale 9, gruppe) | | ☑ 12/6 | ☑ `telefonnotater-kongsvinger-jentene.md` |
 | 13 | [Talsperson «Feminin og fornem»] | Michelles Ås-gjeng / NMBU (Tale 10, gruppe) | | ☐ | ☐ |
 | 14 | [Talsperson Broderskapet Unity] | Anders' Ås-vennegjeng (Innslag, sang/sketsj) | | ☐ | ☐ |
 | 15 | [Equinor-kollega] | Jobbkompis av Anders | | ☐ | ☐ |

@@ -7,7 +7,7 @@ med 2 forskyvninger. Strukturert eksplisitt etter:
   troverdighet → setter tonen → brudeparet inn → regi-info → skål)
 - **Lars/Julie §2** for 4-stikk-strukturen gjennom kvelden (åpning →
   hjertelig bro → før forlovere → avrunding)
-- **`notatbank.md`** for rå humor (offentlig anbudskonkurranse, Altinn,
+- **`notatbank.md`** for rå humor (offentlig anbudskonkurranse,
   Marius Høiby, første-eller-siste bryllup)
 
 Manus skal leveres med **pauser**, **øyekontakt**, og **stemme fra magen**.
@@ -83,223 +83,156 @@ blir et visuelt bilde ingen glemmer.
 
 ---
 
-## STIKK 1 — Åpning (17:30, ca 5 min)
+## Åpningsalternativer — de første 20 sekundene (velg ÉN)
 
-*Følger A-F-mønsteret fra `referanse-oda-siver.md` §2. Fredrik står ved
-eget bord, mygg på. Brudeparet venter utenfor.*
+*Mål (fra `standup-teknikk.md`): første latter INNEN 20 sek. Lever kaldt –
+ikke varm opp med «så hyggelig at dere kom». Hook først, varme etterpå.
+Velg én av disse som aller første replikk; resten av §A følger etter.*
+
+**Alt. 1 – Anbudskonkurransen (tryggest, anbefalt)**
+> «God kveld. Mitt navn er Fredrik, og jeg er kveldens toastmaster –
+> valgt gjennom det som best kan beskrives som en offentlig
+> anbudskonkurranse. *(beat)* Billigst og tilgjengelig vant.»
+
+*Latter ~12 sek. Selvironi, senker forventninger. Kan lenkes til «Werner
+ville hatt en proff, men sjekket prisen».*
+
+**Alt. 2 – Rule of three (kortest, hardest)**
+> «Jeg ble valgt som toastmaster. *(beat)* Ikke som førstevalg. *(beat)*
+> Eller andre. *(beat)* Eller tredje.»
+
+*Latter på «tredje», ~10 sek. Klassisk tre-struktur (`standup-teknikk.md`).*
+
+**Alt. 3 – «Jeg var imot» (hook + intrige)**
+> «Før vi begynner – en innrømmelse. *(beat)* Jeg var faktisk imot at de
+> to skulle gifte seg. *(LAND 3 sek)* Jeg kommer tilbake til det.»
+
+*Latter + nysgjerrighet ~15 sek. Er allerede Chekhov-plant 1 (pay off
+Stikk 2) – fungerer dobbelt som åpner.*
+
+**Alt. 4 – Maarud-chips (lokal, visuell)**
+> «Velkommen til Maarud Gård – hjemmet til norske chips. *(beat)* Jeg skal
+> være ærlig: jeg forventet Crispo til forrett.»
+
+*Latter ~15 sek. NB: ble kuttet fra hovedflyten – her som åpner-kandidat.*
+
+**Alt. 5 – Fetteren med full tilgang**
+> «Mitt navn er Fredrik. Jeg er Anders' fetter – som betyr at jeg har
+> kjent ham hele livet *(beat)* og har full tilgang til materialet han
+> håpet aldri kom ut.»
+
+*Latter ~15 sek. Etablerer troverdighet + trussel mot brudgom.*
+
+**Alt. 6 – Første eller siste bryllup (høyest risiko – sjekk rommet)**
+> «For noen av dere er dette det første bryllupet i år. For andre det
+> tiende. *(beat)* Brudeparet håper det ikke er deres siste – men heller
+> ikke deres neste.»
+
+*Latter ~15 sek. Risiko med eldre gjester (notatbank §2.1) – backup, ikke
+førstevalg.*
+
+**Alt. 7 – Fake-out: «det sterkeste båndet» (brudepar → Anders og meg)**
+> *(varm, oppriktig – la rommet tro du hyller brudeparet)*
+> «Det finnes få par med et så sterkt og kraftfullt bånd som dette.
+> *(beat)* Få mennesker er så tett på hverandre. Forstår hverandre så godt.
+> Har holdt ut med hverandre så lenge.
+> *(beat)* Jeg snakker selvfølgelig om …
+> *(LAND 2 sek)* Anders. Og meg.»
+
+*Latter på reveal, ~18 sek. Misdirection: hele bordet tror det handler om
+Michelle og Anders, så svinger den til toastmasteren. Funker fordi Fredrik
+er fetteren. Lever de tre «så …»-linjene helt oppriktig – ikke flir.*
+
+**Regi**: Stå stille. Mikrofon tett. Ikke le av egen vits. Etter latteren
+faller → gli inn i «Takk for en strålende dag … wow for et lokale» (§A).
+**Anbefalt rekkefølge**: Alt. 7 eller 1 som åpner → Alt. 3 som neste beat.
 
 ---
 
-### A — Varm velkomst + wow-moment
+## STIKK 1 — Åpning (17:30, ca 3–4 min)
 
-*[blikk: rom, sveipe sakte. Hender åpne. Smil før første ord.]*
+*Nedkortet A–F (ref. `referanse-oda-siver.md` §2). Fredrik ved eget bord,
+mygg på. Brudeparet venter utenfor.*
 
-*—tempo ned—* *—volum middels—*
+---
+
+### A — Varm velkomst + wow
+
+*[Velg åpner fra «Åpningsalternativer»-seksjonen over – lever den FØR
+linjene under. Anbudskonkurransen (Alt. 1) brukes da som åpner, ikke i §B.]*
+
+*[blikk: sveip rom. Smil før første ord.]*
 
 Velkommen alle sammen.
 
-*(2 sek)*
+*(beat)* Takk for en strålende dag så langt. Dette har jeg gledet meg lenge
+til.
 
-Takk for en strålende dag så langt. Dette har jeg gleda meg lenge til.
-
-*(beat)*
-
-Wow for et lokale. Wow for en dag.
-
-*(beat)*
-
-Maarud Gård. Hjemmet til norske chips.
-
-*(beat – la setningen sette seg)*
-
-*(tørr)* Jeg skal være ærlig: jeg forventet Crispo til forrett.
-
-*(2 sek – la latteren komme)*
-
-Men kjøkkenet har fått andre instrukser.
-
-*(beat – la latter dempes)* *[REGEL: første latter skal lande før 25 sek.]*
+*(beat)* Wow, for et lokale.
 
 ---
 
-### B — Egen troverdighet (hvem er jeg + hvordan kjenner jeg brudeparet)
-
-*—tempo middels—*
+### B — Egen troverdighet
 
 Mitt navn er Fredrik. Jeg er kveldens toastmaster.
 
-*(beat)*
+*(beat)* Jeg er også Anders' fetter – så jeg har full tilgang til materialet.
 
-Jeg er også Anders' fetter.
+*(varm, dempet)* For ordens skyld: jeg var faktisk imot at de ble sammen.
 
-*(2 sek)* *(tørr)* Så jeg har full tilgang til materialet.
+*(LAND – 4 sek. Ikke fyll pausen.)*
 
-*(2 sek)*
-
-Det skal vi komme tilbake til.
-
-*(LAND – 4 sek. La det henge.)*
-
-*(varm, dempet)* For ordens skyld:
-
-*(beat)*
-
-Jeg var faktisk imot at de ble sammen.
-
-*(LAND – 4 sek. Pause er hele jobben her. Ikke fyll den.)*
-
-*[CHEKHOV PLANT 1: «jeg var imot». Pay off i Stikk 2 mellom B og A2.]*
+*[CHEKHOV PLANT 1: «jeg var imot». Pay off i Stikk 2.]*
 
 *(rolig)* Jeg kommer tilbake til det.
 
-*(2 sek)*
-
 ---
 
-*—tempo opp—*
+*[blikk: Werner.]* Men før jeg gjør det – la meg innrømme noe annet.
 
-*[blikk: Werner. Smil.]*
+Jeg ble valgt som toastmaster. Men ikke som førstevalg. *(beat)* Eller andre.
 
-Men før jeg gjør det – la meg innrømme noe annet.
+*(beat)* Jeg ble valgt gjennom det som best kan beskrives som en offentlig
+anbudskonkurranse: billigst og tilgjengelig vant.
 
-Jeg ble valgt som toastmaster.
+Werner ville egentlig ha en profesjonell konferansier. Men så sjekket han
+prisen.
 
-Men ikke som førstevalg.
+*(varm)* Gratulerer – dere har fått en taler på budsjett.
 
-*(beat)*
-
-Eller andre.
-
-*(beat)*
-
-Jeg ble valgt gjennom det som best kan beskrives som en offentlig
-anbudskonkurranse.
-
-*(2 sek)*
-
-*(tørr)* Billigst og tilgjengelig vant.
-
-*(beat – la latter komme)*
-
-Werner ville egentlig ha en profesjonell konferansier.
-
-*(beat)* Men så sjekket han prisen.
-
-*(2 sek)*
-
-*(varm)* Gratulerer. Dere får altså taler på budsjett.
-
-*(beat – la latter dempes)*
-
----
-
-*—tempo ned—* *—register ned—*
-
-Jeg jobber i det offentlige, så ting tar jævlig lang tid.
-
-*(beat)*
-
-Men dere skal få talene.
-
-*(2 sek)*
-
-*(tørr)* De ligger på Altinn til godkjenning.
-
-*(beat – la latter komme)*
-
-*[CHEKHOV PLANT 2: «Altinn». Pay off i Stikk 3 «svarene kom inn på Altinn».]*
-
----
-
-*(varm, mer dempet)*
-
-Sannheten er at jeg aldri har vært toastmaster før.
-
-*(beat)*
-
-Så jeg brukte flere timer på internett.
-
-*(beat)*
-
-Etter hvert var jeg tom for toalettpapir, og hadde fremdeles ingen
-aning om hvordan jeg skulle være toastmaster.
-
-*(2 sek)*
-
-*(myk)* Men nå står jeg her.
-
-*(LAND – 3 sek)*
+*(tørr)* Jeg jobber i det offentlige, så ting tar jævlig lang tid. Men dere
+skal få talene.
 
 ---
 
 ### C — Setter tonen
 
-*—tempo opp—* *—volum opp—*
+Dette blir en innmari kul fest. Vi skal kose oss til de sene nattetimer.
 
-Dette blir en innmari kul fest.
+*(beat)* Det er vårt ansvar her i kveld: å hoie opp brudeparet, talerne og
+de som trenger det mest.
 
-*(beat)*
-
-Vi skal kose oss til de sene nattestimer. Det er vårt ansvar her i
-kveld å hoie opp brudeparet, talerne og de som trenger det mest.
-
-*(2 sek)*
-
-*—tempo ned—* *(varm)*
-
-Alle gode prosjekter trenger en plan.
+*(varm)* Alle gode prosjekter trenger en plan.
 
 *[RØD TRÅD 1/4 – ikke annonser den. La den ligge.]*
-
-*(2 sek)*
-
-*—tempo middels—*
-
-Her er kveldens: 11 talesekvenser, 1 innslag, 3 retter, 2 pauser, 3
-runder Fireball.
-
-*(beat)*
-
-*(tørr)* Vi skal være effektive, men ikke korte.
 
 ---
 
 ### D — Brudeparet inn (servietter som startflagg)
 
-*—volum opp—* *—tempo opp—*
+*[CHEKHOV PLANT 3: servietten – pay off i Stikk 4.]*
 
-*[CHEKHOV PLANT 3: servietten – pay off rett etter, og igjen i Stikk 4.]*
+Og nå – det viktigste i hele kvelden. *(2 sek)* Jeg ber dere reise dere.
 
-Og nå – det viktigste i hele kvelden.
+*(vent til alle har reist seg)* Ta serviettene foran dere – hvit, foldet,
+på bordet.
 
-*(2 sek – bytt rytme markant)*
+*(varm, høyere energi)* Dette er startflagget. Når musikken begynner, svinger
+vi dem høyt – og jubler. *(løft øyenbryn)* Klare?
 
-Jeg ber dere reise dere.
+*[Simen: Let's Get Ready to Rumble! – full volum]*
 
-*(vent til folk reiser seg)*
-
-Og ta serviettene deres – hvit, foldet, på bordet foran dere.
-
-*(vent til alle har servietten)*
-
-*(varm, høyere energi)*
-
-Dette er startflagget.
-
-Når musikken begynner, svinger vi dem. Høyt.
-
-*(beat)*
-
-Og jubler.
-
-*(beat)* *(løft øyenbryn)* Klare?
-
-*[DJ: Let's Get Ready to Rumble! – full volum]*
-
-*—volum: full—*
-
-Og med det ber jeg alle juble inn kveldens enestående brudepar – ta dem
-imot:
+Ta imot kveldens enestående brudepar:
 
 **Michelle og Anders!**
 
@@ -309,123 +242,39 @@ imot:
 
 ### E — Regi-info etter at brudeparet sitter
 
-*[vent til de sitter. 3 sek stillhet. Smil mot dem.]*
+*[vent til de sitter. 3 sek. Smil mot dem.]*
 
-*—volum ned—* *—tempo middels—*
+*(varm)* Og med det – jada, det blir et sånt bryllup.
 
-Og med det – jada, det blir et sånt bryllup.
+Det er bare å spenne fast setebeltet: tre timer med mat, taler og praktiske
+ting.
 
-*(2 sek – la rommet le)*
+*(beat)* Det blir tradisjoner i kveld – tramping i gulvet og klirring i
+glasset. Er sidemannen din ny i bryllupsgamet, forklar i forkant.
 
-*(varm)* Det er bare å spenne fast setebeltet. Tre timer mat, taler og
-stemning.
-
-*(2 sek)*
-
----
-
-*—tempo ned—* *(rolig)*
-
-Et par praktiske ting.
-
-*(beat)*
-
-Det blir tradisjoner i kveld – tramping i gulvet og klirring i glasset.
-
-Hvis sidemannen din er ny i bryllupsgamet: forklar i forkant. Ikke
-midtveis.
-
-*(beat – la den lande, det er en regel)*
-
-Felles pissepause kommer etter første talerunde. Da slipper folk å gå
-under talene.
-
-Nødutgang er *[peker mot retning]*. Hvis det brenner, går vi ut der – og
+*(beat)* Nødutgangene er *[peker]*. Hvis det brenner, går vi ut der – og
 hjelper hverandre.
 
-*(beat)*
-
-*[NB: Kongsvinger-spesifikk humor fra notatbank §3 er kuttet pga
-mormor + 3 besteforeldre i rommet.]*
-
----
-
-*—tempo opp—* *(ironisk)*
-
-To bonusregler i kveld.
-
-*(beat)*
-
-Hver gang en taler sier **«Equinor»** – ta en slurk.
-
-*(beat)*
-
-Hver gang en taler sier **«pitch deck»** – ta en slurk.
-
-*(2 sek – la rommet le)*
-
-*(tørr)* Talerne er advart.
-
-*(beat)*
-
-Anders er advart mest.
-
-*(beat – la latter dempes)*
+*[NB: Equinor/pitch-deck-drikkeleken er kuttet; ordspillet beholdes i
+introene + Stikk 4. Kongsvinger-humor kuttet pga mormor + besteforeldre.]*
 
 ---
 
 ### F — Hovmesteren, vinen, skål
 
-*—tempo ned—* *—register opp—* *(varm, presentere)*
+*(presentere)* Til å presentere kveldens mat har vi en kveldens vert utenom
+det vanlige – hovmester **Oda Rogstad**.
 
-Til å presentere kveldens mat har vi en kveldens vert utenom det vanlige.
+*[Oda frem, 1–2 min menypresentasjon. Feminin og fornem levering.]*
 
-*(beat)*
-
-Hun har en ro i blikket, en sikker hånd på serviettbretten – og en
-kunnskap om denne kveldens meny som overgår min egen kunnskap om
-toastmaster-rollen.
-
-*(beat)*
-
-Det er én ting å lage maten.
-
-*(beat)*
-
-Det er en helt annen ting å bære den frem med stil.
-
-*(2 sek)*
-
-*[hender: åpne mot Oda. Smil.]*
-
-Ta vel imot kveldens hovmester – **Oda Rogstad**.
-
-*[Oda Rogstad kommer frem, 1–2 min menypresentasjon. Feminin og fornem
-levering. Grep fra Oda/Sivert §3.1, men hovmester i stedet for kokk.]*
-
-*[vent til hun er ferdig. Smil. Nikk.]*
-
-Tusen takk, Oda.
-
-*(2 sek)*
+*(2 sek)* Tusen takk, Oda.
 
 ---
 
-*—tempo middels—*
-
 Vinen: hvit fra *[distrikt]*, rød fra *[distrikt]*.
 
-*(beat)*
-
-*(tørr)* For dere som er fineschmeckere – plukk den dere liker.
-
-*(beat)*
-
-For oss andre – ta den som står nærmest.
-
-*(Vin-presentasjon med distrikt – grep fra Oda/Sivert §3.2.)*
-
-Da håper jeg at alle har fått påfyll i glassene.
+*(tørr)* For dere som er fineschmeckere – plukk den dere liker. For oss andre
+– ta den som står nærmest.
 
 **Vel bekomme. Og skål for brudeparet!**
 
@@ -446,15 +295,13 @@ etter forloverne.*
 
 Og før vi går til buffet – det er én mann som skal ha ordet først.
 
-Neste mann har gjort livets viktigste investering.
+Rallysjåfør. Gründer. Entreprenør. Det er få som har like kule titler på
+visittkortet som Werner Seigerud.
 
-Ingen fondsforvalter kan matche avkastningen han får se gå ned
-kirkegulvet.
+Men etter å ha snakket med ham, er det én ting han er mest stolt av – og det
+er Michelle.
 
-Han er også mannen som sørget for at alt dette – Maarud, maten, vinen,
-dere – ble til virkelighet.
-
-Ordet er ditt, Werner.
+Ordet er ditt, Werner Seigerud.
 
 *[Tale 1, 5 min]*
 
@@ -542,8 +389,13 @@ Viljen til å optimalisere. Kjærligheten til naturen. Og det rotet vi ikke
 skal snakke om.
 
 Faren – Erik Nilsen – har bygget en karriere på å holde ting på rett
-spor. Bokstavelig talt. Hvis noen kan forklare hvordan Anders endelig
-kom frem i rute, er det ham.
+spor. Bokstavelig talt.
+
+Når Bane NOR står fast og noe må fikses – er det én person de ringer.
+
+*(Folkens – er vi klare?)*
+
+Hvis noen kan forklare hvordan Anders endelig kom frem i rute, er det ham.
 
 Og kjærligheten til naturen – den er kanskje fra moren?
 
@@ -1099,9 +951,7 @@ Svaret på tredje plass: og hvis dere skal pusse opp, ikke gjør det selv.
 
 ---
 
-*(Callback til Altinn fra Stikk 1:)*
-
-Jeg ringte rundt. Svarene kom inn. På Altinn.
+Jeg ringte rundt. Svarene kom inn.
 
 Noen har fortsatt ikke svart. Dere vet hvem dere er.
 
@@ -1184,8 +1034,11 @@ gjengen på forhånd: hva, varighet, tekniske behov.]*
 Når man har holdt det gående til denne timen i et bryllup, er det fordi
 det er noe man ikke vil gå glipp av.
 
-Kveldens siste taler er en god venn av Anders – og det å ha venner som
-blir værende lenge, både i livet og i bryllupet, sier sitt.
+Kveldens siste taler er en svært tilstedeværende – og til tider fraværende
+– type. Tidligere europamester i taekwondo.
+
+Han er en god venn av Anders – og det å ha venner som blir værende lenge,
+både i livet og i bryllupet, sier sitt.
 
 Tom Christian – ordet er ditt.
 
@@ -1345,7 +1198,7 @@ Kongsvinger        ██        Forza Vinger, lokal forankring
 Feminin og fornem  ██        Voulez-Vous, Ås-gjeng Michelle
 — pause + Fireball 2 —
 — dessert —
-Stikk 3            ██        Jeg ringte rundt + Altinn-callback
+Stikk 3            ██        Jeg ringte rundt
 Helene             ███       Fanga av stormvind
 Even               ████      Thunderstruck-flaske + Rumble
 Broderskapet Unity ████      Enter Sandman, INNSLAG
