@@ -69,6 +69,26 @@ første høytlesning. Notasjonen er der for å hjelpe deg styre rytmen –
 
 ---
 
+## 🔔 Huskeliste — etter gjennomgang 1 (22. juni)
+
+*Disse falt ut da jeg snakket fritt første gang. Les denne FØR du øver, og
+sjekk den etterpå. Full logg i `gjennomganger.md`.*
+
+1. **Lever en åpner-vits** (§B / Åpningsalternativer). Velg ÉN og lås den –
+   ikke hopp rett til «vi skal kose oss». Første latter innen 20 sek.
+2. **🔴 Si «jeg var faktisk imot at de ble sammen»** (§B). Dette er CHEKHOV
+   PLANT 1 – uten den faller pay off-en i Stikk 2. Ikke dropp den.
+3. **Plant rød tråd 1/4**: «alle gode prosjekter trenger en plan» (§C). La den
+   ligge, ikke annonser den.
+4. **Avslutt Werner-introen på ordet «Michelle.»** – ikke trail av. Det er hele
+   poenget med introen.
+5. **Werner = tre titler**, ikke fire (rule of three).
+6. **Hold §E kort** – ingen lang logistikk-digresjon om bolker/antall taler
+   etter inngangen. Det tapper energien.
+7. Detaljer: **tre timer** (ikke fire), **tre intro-taler før buffet** (ikke to).
+
+---
+
 ## FØR STIKK 1 — Hvite servietter på bordene
 
 **Regi**: Alle bord er dekket med **hvite stoffservietter**, foldet som
@@ -174,6 +194,9 @@ til.
 
 ### B — Egen troverdighet
 
+*🔔 HUSK (gj.gang 1): hele denne bolken falt ut. Ikke hopp fra «kveldens
+toastmaster» rett til §C. Lever en åpner-vits + planten under.*
+
 Mitt navn er Fredrik. Jeg er kveldens toastmaster.
 
 *(beat)* Jeg er også Anders' fetter – så jeg har full tilgang til materialet.
@@ -183,6 +206,7 @@ Mitt navn er Fredrik. Jeg er kveldens toastmaster.
 *(LAND – 4 sek. Ikke fyll pausen.)*
 
 *[CHEKHOV PLANT 1: «jeg var imot». Pay off i Stikk 2.]*
+*🔴 HUSK: denne ble droppet i gj.gang 1 – uten den henger ikke Stikk 2.*
 
 *(rolig)* Jeg kommer tilbake til det.
 
@@ -215,6 +239,7 @@ de som trenger det mest.
 *(varm)* Alle gode prosjekter trenger en plan.
 
 *[RØD TRÅD 1/4 – ikke annonser den. La den ligge.]*
+*🔔 HUSK: ikke plantet i gj.gang 1. Si linjen «alle gode prosjekter trenger en plan».*
 
 ---
 
@@ -243,6 +268,10 @@ Ta imot kveldens enestående brudepar:
 ### E — Regi-info etter at brudeparet sitter
 
 *[vent til de sitter. 3 sek. Smil mot dem.]*
+
+*🔔 HUSK (gj.gang 1): hold dette kort. Ikke gå inn i en lang forklaring om
+antall bolker/taler/«sett dere ned» – det tappet energien etter inngangen.
+Det er tre timer (ikke fire) og tre intro-taler før buffet (ikke to).*
 
 *(varm)* Og med det – jada, det blir et sånt bryllup.
 
@@ -298,8 +327,14 @@ Og før vi går til buffet – det er én mann som skal ha ordet først.
 Rallysjåfør. Gründer. Entreprenør. Det er få som har like kule titler på
 visittkortet som Werner Seigerud.
 
+*🔔 HUSK (gj.gang 1): TRE titler, ikke fire (ble «rallysjåfør/gründer/
+fabrikksjef/banebygger» – det brøt rytmen).*
+
 Men etter å ha snakket med ham, er det én ting han er mest stolt av – og det
 er Michelle.
+
+*🔴 HUSK: avslutt på ordet «Michelle» – ikke trail av. I gj.gang 1 forsvant
+selve punchlinen.*
 
 Ordet er ditt, Werner Seigerud.
 
