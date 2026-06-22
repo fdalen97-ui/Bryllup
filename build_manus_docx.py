@@ -71,6 +71,29 @@ def add_bottom_border(p):
     pPr.append(pbdr)
 
 
+def _add_field(paragraph, instr):
+    """Legg til et Word-felt (f.eks. PAGE / NUMPAGES) i et avsnitt."""
+    run = paragraph.add_run()
+    r = run._r
+    begin = OxmlElement('w:fldChar'); begin.set(qn('w:fldCharType'), 'begin')
+    instr_el = OxmlElement('w:instrText')
+    instr_el.set(qn('xml:space'), 'preserve'); instr_el.text = instr
+    end = OxmlElement('w:fldChar'); end.set(qn('w:fldCharType'), 'end')
+    r.append(begin); r.append(instr_el); r.append(end)
+    return run
+
+
+def add_page_numbers(section):
+    """Bunntekst med «Side X / Y» – sidetall er viktig for kort i uorden."""
+    p = section.footer.paragraphs[0]
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    parts = [p.add_run('Side '), _add_field(p, 'PAGE'),
+             p.add_run(' / '), _add_field(p, 'NUMPAGES')]
+    for run in parts:
+        run.font.size = Pt(9)
+        run.font.color.rgb = GREY
+
+
 def main():
     with open(SRC, encoding='utf-8') as f:
         lines = f.read().split('\n')
@@ -83,6 +106,7 @@ def main():
     sec.page_height = Mm(210)
     for m in ('top_margin', 'bottom_margin', 'left_margin', 'right_margin'):
         setattr(sec, m, Mm(12))
+    add_page_numbers(sec)
 
     normal = doc.styles['Normal']
     normal.font.name = 'Calibri'
