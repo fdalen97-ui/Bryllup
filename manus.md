@@ -240,24 +240,43 @@ prisen.
 *(tørr)* Jeg jobber i det offentlige, så ting tar jævlig lang tid. Men dere
 skal få talene.
 
-*[BYRÅKRAT-PÅBYGG (valgfritt) – plukk ÉN, maks to. Bygger på linja over.
-Selvironi = trygt; du gjør narr av deg selv, ikke gjestene. Råmateriale
-adaptert fra byråkrat-/bureaucracy-humor (se kilder i committen).]*
+*[BYRÅKRAT × MARIUS – kveldens hovedselvironi. Teknikk (standup-teknikk.md):
+selvironi §7, rule of three §2, misdirection/antiklimaks, + Altinn-callback
+som betales ut i Stikk 3 (§3 callback A). Dette er SAMME tråd som
+Marius-åpneren (Alt. 8) – én historie som eskalerer, ikke to vitser. Lever
+montasjen, og plukk så ÉN bytte-tag. Ikke ta alt.]*
 
-> **a) Lyspæra/utvalget:** «Vet dere hvor mange byråkrater som skal til for å
-> skifte en lyspære? *(beat)* Det vet vi ikke ennå – utvalget jobber med saken.»
+*(tørr)* Jeg skal innrømme én ting til: jeg får stadig høre at jeg ligner på
+Marius Borg Høiby. *(beat)* Og vi har faktisk mer til felles enn ansiktet.
 
-> **b) Skjemaet:** «Egentlig burde dere fylt ut et skjema før dere fikk lov å
-> le. *(beat)* I tre eksemplarer. Ett til arkivet.»
+*(varm, bygg sakte)* Vi er begge vant til store selskaper. Begge har mange
+mennesker som vil ha noe av oss. *(beat)* Begge har en viss berømmelse – i
+visse kretser.
 
-> **c) Parkinsons lov:** «Jeg lover at denne talen tar nøyaktig så lang tid som
-> vi har satt av. *(beat)* Sannsynligvis litt lenger.»
+*(LAND 2 sek. Hold blikket. Ikke smil ennå.)*
 
-> **d) Stemplet:** «Talen er grundig forberedt – utredet, sendt på høring og
-> stemplet. *(beat)* Den er bare ikke helt ferdigbehandlet.»
+*(tørr, antiklimaks)* Så våkner jeg. Det er en tirsdag. Og jeg er
+saksbehandler i det offentlige.
 
-> **e) Kaffepausen:** «I det offentlige er det én ting som beveger seg raskt:
-> *(beat)* kaffepausen.»
+*(beat – la latter komme)*
+
+*(tørr)* Der stopper likheten. Marius er på forsida av VG. *(beat)* Jeg er i
+kopirommet og venter på at skriveren skal kjenne meg igjen.
+
+*(2 sek – la latter dempes)*
+
+**Bytte-tag – plukk ÉN:**
+
+> **Altinn (callback-plant → betales ut i Stikk 3):** «Talene ligger
+> forresten på Altinn, til godkjenning. Drøyer det – klag til staten. Ikke
+> til meg.»
+
+> **Rulleblad:** «Vi har til og med begge et rulleblad. *(beat)* Mitt er et
+> purregebyr på en bok jeg leverte for sent. *(beat)* Jeg bestrider det
+> fortsatt.»
+
+> **Allmøtet:** «Den villeste festen jeg hadde styrt før i kveld, var et
+> allmøte. *(beat)* Vi sprakk budsjettet på wienerbrød.»
 
 ---
 
@@ -1061,6 +1080,9 @@ Svaret på tredje plass: og hvis dere skal pusse opp, ikke gjør det selv.
 ---
 
 Jeg ringte rundt. Svarene kom inn.
+
+*[CALLBACK-tag (kun hvis du brukte «Altinn»-tagen i Stikk 1 §B): «– og noen
+kom inn på Altinn.»]*
 
 Noen har fortsatt ikke svart. Dere vet hvem dere er.
 
