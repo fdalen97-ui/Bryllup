@@ -327,11 +327,28 @@ de som trenger det mest.
 
 ---
 
-### D — Brudeparet inn (servietter som startflagg)
+### D — Én oppfordring + brudeparet inn (servietter som startflagg)
 
 *[CHEKHOV PLANT 3: servietten – pay off i Stikk 4.]*
 
-Og nå – det viktigste i hele kvelden. *(2 sek)* Jeg ber dere reise dere.
+*(varm, ro – senk tempoet helt ned)* Men aller først ber jeg dere om én ting i
+løpet av kvelden.
+
+*(myk)* Lukk øynene et lite øyeblikk.
+
+*(2 sek)*
+
+*(dempet)* Og tenk, helt for dere selv: hvordan kan JEG bidra til at dette blir
+det beste bryllupet jeg noen gang har vært i?
+
+*(LAND 3 sek. La spørsmålet henge. Ikke fyll stillheten.)*
+
+*(varm)* Så kan dere åpne øynene igjen.
+
+*[bygg energi – herfra og ut er det full gass]*
+
+*(høyere energi)* For nå starter det for fullt. *(2 sek)* Jeg ber dere reise
+dere.
 
 *(vent til alle har reist seg)* Ta serviettene foran dere – hvit, foldet,
 på bordet.
