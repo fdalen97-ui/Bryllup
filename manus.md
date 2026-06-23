@@ -153,11 +153,22 @@ Stikk 2) – fungerer dobbelt som åpner.*
 > i 1936 – etter at Thomas Stang hadde vært i USA og smakt chips. *(beat)* Så
 > ja: dere feirer bryllup i selve chipsens fødeby.»
 
-*Verifisert (potetgull fra 1936, Stang/USA-tur – kilde: Wikipedia/maarudgaard.no).
-For mer lokalfarge: mild bygdehumor (gjedde i Glomma, tjuvjakt) funker.*
-*🔴 IKKE bruk krigsforbryter-/nazisympatisør-vinkelen: jeg fant INGEN kilde som
-støtter at gården ble brukt slik, og uansett er det helt feil tone for et
-bryllup. Hold deg til chips + Glomma.*
+*Verifisert (potetgull fra 1936, Stang/USA-tur – kilde: Wikipedia/maarudgaard.no).*
+
+**Maarud-historie – din råversjon (UTKAST, ikke verifisert – les advarsel):**
+> «Gården ble stiftet i 1936. Så gikk det tre-fire år, og så kom krigen.
+> *(beat)* Etter den ble gården brukt i et oppgjør med krigsforbrytelser.
+> *(beat)* Og regionen her har jo en fortid – fra nazisympatisører til
+> tjuvjakt, stjeling og gjedde i Glomma.»
+
+*🔴 STERK ADVARSEL – les før du vurderer denne: (1) Jeg fant INGEN kilde som
+bekrefter at Maarud ble brukt i et krigsforbryter-oppgjør, eller nazi-påstanden
+om regionen – å si dette som fakta fra scenen er risikabelt og kan rett og slett
+være feil. (2) Krig/nazisme/krigsforbrytelser er uansett en tung tone midt i en
+bryllupsåpning og kan såre gjester. Min anbefaling: dropp krig/nazi-leddet helt,
+behold bare den lette bygdehumoren (tjuvjakt + gjedde i Glomma) – samme glimt i
+øyet uten risikoen. Sjekk fakta og tøm den med brudeparet før du bruker noe av
+dette.*
 
 **Alt. 5 – Fetteren med full tilgang**
 > «Mitt navn er Fredrik. Jeg er Anders' fetter – som betyr at jeg har
@@ -403,7 +414,7 @@ er Michelle.
 *🔴 HUSK: avslutt på ordet «Michelle» – ikke trail av. I gj.gang 1 forsvant
 selve punchlinen.*
 
-Ordet er ditt, Werner Seigerud.
+Brudens far – **Werner Seigerud**. Ordet er ditt.
 
 *[Tale 1, 5 min]*
 
@@ -472,7 +483,7 @@ Bordplasseringen er optimalisert som et regneark.
 forretningsplan. *(beat)* Det er rett og slett ikke måte på hva Anders har
 bidratt med – på sitt eget bryllup.
 
-Anders – scenen er din.
+Brudgommen selv – **Anders**. Scenen er din.
 
 *[Tale 2, 5 min]*
 
@@ -580,7 +591,7 @@ Og kjærligheten til naturen – den er kanskje fra moren?
 
 Er det arv eller miljø? Det skal vi få høre mer om nå.
 
-Ta imot Anders' mor og far – Kjersti og Erik Nilsen.
+Ta imot brudgommens foreldre – **Kjersti og Erik Nilsen**.
 
 *[Tale 4, 5 min]*
 
@@ -1016,7 +1027,7 @@ Hun jobber til daglig med å skape ro i landskap.
 
 I kveld gir hun oss et landskap av ord.
 
-Applaus til Michelles forlover – Helene.
+Applaus til brudens forlover – **Helene**.
 
 *[Tale 5, 3 min]*
 
@@ -1047,7 +1058,7 @@ Og på benkpress.
 Han vet hva Anders klarer i toppform. Spørsmålet er hva han klarer å
 avsløre på tre minutter.
 
-Vær så god – Anders' forlover, Even.
+Vær så god – brudgommens forlover, **Even**.
 
 *[Tale 6, 3 min]*
 
@@ -1071,7 +1082,7 @@ rollemodeller, og de tryggeste støttespillerne en lillesøster kan ha.
 
 To storesøstre = dobbel kjærlighet og dobbel oppdragelse.
 
-I felles regi – Cathrine og Anette.
+Brudens storesøstre, i felles regi – **Cathrine og Anette**.
 
 *[Tale 7 felles, 5 min]*
 
@@ -1100,7 +1111,9 @@ Ola har reist helt fra Bergen for å være her – og det er en mann med en viss
 fartstid.
 
 *(tørr, bygg)* Tidligere en av Norges beste fotballspillere. *(beat)* Deretter
-damemagnet uten sidestykke. *(beat)* Så bar det til Ås – sentral i Samfunnet,
+damemagnet uten sidestykke. *(beat)* Og – etter sigende – en av landets
+hardeste *[rallysjåfører? «rullestol/rullesjef» var utydelig i opptaket – avklar
+ordet]*. *(beat)* Så bar det til Ås: med i gjengen «Juicy», sentral i Samfunnet,
 og økonomisjef med et av de største vervene på huset.
 
 *(beat)* Så valgte han down under – Australia. *(beat)* Så NHH i Bergen. *(beat)*
@@ -1111,8 +1124,8 @@ Og nå går ryktene om utveksling til en av Europas aller beste tekniske skoler.
 *(beat)* To brødre. Én familiebil. Én sportsbil. Spørsmålet er hvem som er hvem.
 *(beat)* Svaret er ikke det du tror.
 
-I kveld kommer det i samlet pakke – ta imot Anders' søsken, Ingrid og
-Ola.
+I kveld kommer det i samlet pakke – ta imot brudgommens søsken, **Ingrid og
+Ola**.
 
 *[Tale 8 felles, 5 min]*
 
@@ -1200,7 +1213,7 @@ fotballbane hun løp rundt.
 
 Vennegjengen som har sett Michelle vokse fra Kongsvinger til Maarud.
 
-Ta vel imot – Kongsvinger-vennene.
+Ta vel imot brudens barndomsvenner – **Kongsvinger-vennene**.
 
 *[Tale 9, 5 min – gruppe eller talsperson]*
 
@@ -1220,7 +1233,7 @@ siterer – **feminine og fornemme**. Og holdt på det siden NMBU.
 
 Michelle har én slik gjeng.
 
-Ta vel imot – «Feminin og fornem».
+Ta vel imot brudens Ås-gjeng – **«Feminin og fornem»**.
 
 *[Tale 10, 5 min – Ås-gjengen, gruppe eller talsperson]*
 
@@ -1236,7 +1249,7 @@ Hver gang en mann gifter seg, mister han noen rettigheter.
 Heldigvis er det noen som har samlet seg i et broderskap for å passe på
 at han ikke mister minnene.
 
-Broderskapet Unity – scenen er deres.
+Brudgommens Ås-gjeng – **Broderskapet Unity**. Scenen er deres.
 
 *[Innslag, 5 min – sang / sketsj / tale, fleksibelt format. Avklart med
 gjengen på forhånd: hva, varighet, tekniske behov.]*
@@ -1256,7 +1269,7 @@ Kveldens siste taler er en svært tilstedeværende – og til tider fraværende
 Han er en god venn av Anders – og det å ha venner som blir værende lenge,
 både i livet og i bryllupet, sier sitt.
 
-Tom Christian – ordet er ditt.
+Brudgommens gode venn – **Tom Christian**. Ordet er ditt.
 
 *[Tale 11, 3 min – kveldens siste tale.]*
 
