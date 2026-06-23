@@ -484,23 +484,24 @@ Anders – scenen er din.
 
 *(Pause. Bytt rytme. Senke skuldrene.)*
 
-*[Utkast – ny åpning (uferdig, fyll inn slutten):]* Jeg ringte rundt til flere
-og fikk særlig høre en hyggelig kommentar fra tanta mi Kjersti – Michelles
-svigermor: «hu var da ei veldig søt jinta, hu jinta hu dærre Michelle.»
-*(varm)* Michelle, du er …
+Jeg ringte rundt i forkant, og særlig én kommentar ble hengende igjen – fra
+tanta mi Kjersti, Michelles svigermor:
 
-Anders har akkurat fortalt oss hvem Michelle er for ham.
+*(varm)* «Hu var da ei veldig søt jinta, hu jinta hu dærre Michelle.»
 
-Det er sjelden vi får høre brudens egne ord så tidlig i et bryllup.
+*(beat)* Og der har hun helt rett. Men Michelle er mye mer enn som så.
 
-I kveld får vi.
+*(varm, lett ironisk)* Detaljfokusert, glad i baking, med et øye for det som
+skal være akkurat riktig. *(beat)* På sett og vis har hun og Anders funnet
+hverandre i detaljene.
 
-*(varm, lett ironisk)* Michelle er detaljfokusert og glad i baking, med et øye
-for det som skal være akkurat riktig. *(beat)* På sett og vis har Anders og
-Michelle funnet hverandre i detaljene.
+*[HUSK: flett gjerne inn 1–2 konkrete poenger/sitater om Michelle fra
+telefonrunden (`telefonnotater-*.md`).]*
 
-*[HUSK: flett inn 1–2 konkrete poenger/sitater om Michelle fra telefonrunden –
-sjekk det de andre har sagt (`telefonnotater-*.md`).]*
+*(myk)* Anders har nettopp fortalt oss hvem Michelle er for ham – og det er
+sjelden vi får høre brudens egne ord så tidlig i et bryllup.
+
+*(beat)* I kveld får vi.
 
 Bruden – **Michelle**.
 

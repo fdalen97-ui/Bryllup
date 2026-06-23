@@ -13,6 +13,11 @@ brudeparet, kjøkken og lokalet.
 > - **Foto på Festningen** lagt inn mellom vielse og Maarud (buss-stopp).
 > - **Bare Werner taler FØR maten** – Anders' og Michelles taler er
 >   flyttet til etter første servering.
+> - **FF-jentene presenterer maten RETT ETTER Werner**, og **første servering
+>   (forrett) åpnes umiddelbart etter** (Oda-rollen avklares nærmere). Helan
+>   går + Fireball 1 er flyttet til etter forretten (etter de tre talene).
+> - **Fireball-kadens**: én runde etter hver servering – etter forrett
+>   (runde 1), etter hovedrett (runde 2), etter dessert (runde 3).
 > - **Talerekka ender 22:20** (Broderskapet Unity), fest/dans starter ca
 >   22:42 – senere enn før.
 > - **Helene (forlover brud) er tilbake inne** som Tale 5 (hun ombestemte
@@ -35,19 +40,19 @@ brudeparet, kjøkken og lokalet.
 | 15:50 | Mingling utenfor + pizzasnurrer + velkomstdrink | Gjester | | Lett mat utendørs hvis vær |
 | 16:30 | Bilder ute på Maarud m/ familie + venner | Alle | 60 min | Det vi rekker |
 | 17:25 | Dørene til middagssal åpnes – plassering | Toastmaster | 5 min | Gjester finner plassen |
-| **17:30** | **STIKK 1 – åpning + brudeparet inn** | Fredrik | 5 min | A-F-struktur (Oda/Sivert). Programmet starter |
-| 17:35 | Hovmester Oda Rogstad presenterer maten | FF / Oda Rogstad | 2 min | Feminin og fornem levering |
-| 17:37 | Vin-presentasjon + skål for brudeparet | Fredrik + alle | 1 min | |
+| **17:30** | **STIKK 1 – åpning + brudeparet inn (+ skål til Simen/lyd)** | Fredrik | 7 min | A-F-struktur (Oda/Sivert). Programmet starter |
+| 17:37 | Vin-presentasjon + skål for brudeparet | Fredrik + alle | 1 min | Avslutter Stikk 1 (§F) |
 | 17:40 | Intro tale 1 | Fredrik | 2 min | *Optimist – Jahn Teigen* |
 | 17:42 | **Tale 1 – Werner Seigerud (brudens far) – velkomsttale FØR mat** | Werner | ~9 min | Klassisk åpningstale |
-| 17:52 | **Helan går** – obligatorisk skål | Fredrik + alle | 1 min | Tekst på PowerPoint |
-| 17:53 | 🔥 **Fireball-runde 1 – velkomstshot** | Forlovere | 2 min | Sparkstart, før mat |
-| **17:55** | **Første servering (forrett) + pause** | – | ~35 min | Lengste serveringen. 88 gjester, bord-rotasjon |
+| 17:51 | **FF-jentene presenterer maten** | FF-jentene | 3 min | Rett etter Werner. Oda-rollen avklares nærmere |
+| **17:54** | **Første servering (forrett) + pause** | – | ~36 min | Åpnes rett etter FF. Lengste serveringen, 88 gjester, bord-rotasjon |
 | 18:30 | Alle ferdig med å hente mat (alle sitter) | – | – | 🔥 Fireball-lyden = innkalling |
 | 18:33 | Intro tale 2 | Fredrik | 2 min | *Burning Love* |
 | 18:35 | **Tale 2 – Anders til Michelle** | Anders | ~13 min | Setter tonen |
 | 18:48 | Intro tale 3 | Fredrik | 2 min | *Mamma Mia* |
-| 18:50 | **Tale 3 – Michelle til Anders (brudens tale)** | Michelle | ~22 min m/intro | Feminin og fornem, paret-utveksling |
+| 18:50 | **Tale 3 – Michelle til Anders (brudens tale)** | Michelle | ~20 min | Feminin og fornem, paret-utveksling |
+| 19:10 | **Helan går** – obligatorisk skål (etter de tre talene) | Fredrik + alle | 1 min | Tekst på PowerPoint |
+| 19:11 | 🔥 **Fireball-runde 1 – etter forretten** | Forlovere | 2 min | Kadens: én runde etter hver servering |
 | 19:13 | Intro tale 4 | Fredrik | 2 min | *Power of Love* |
 | 19:15 | **Tale 4 – Kjersti + Erik Nilsen (Anders' foreldre)** | Erik | ~13 min | «Arv eller miljø» + tog-metafor |
 | **19:30** | **Andre servering (hovedrett) + pause** | – | ~45 min | Kjøtt + tilbehør |
@@ -96,10 +101,10 @@ brudeparet, kjøkken og lokalet.
 | Kirke + gratulasjoner | 14:00 → 15:00 |
 | Foto Festningen + kjøring til Maarud | 15:00 → 15:50 |
 | Mingling utendørs + foto på Maarud | 15:50 → 17:25 |
-| Stikk 1 + Oda + skål | 17:30 → 17:40 |
-| Tale 1 (Werner) FØR mat + Helan går + Fireball 1 | 17:40 → 17:55 |
-| Første servering (forrett) | 17:55 → 18:30 |
-| Tale 2 (Anders) + Tale 3 (Michelle) + Tale 4 (Erik) | 18:33 → 19:30 |
+| Stikk 1 + vin + skål | 17:30 → 17:40 |
+| Tale 1 (Werner) FØR mat + FF presenterer maten | 17:40 → 17:54 |
+| Første servering (forrett) | 17:54 → 18:30 |
+| Tale 2 (Anders) + Tale 3 (Michelle) + Helan + Fireball 1 + Tale 4 (Erik) | 18:33 → 19:30 |
 | Andre servering (hovedrett) | 19:30 → 20:13 |
 | Fireball 2 + Stikk 2 + Tale 5 (Even) + Tale 7 (Anders' søsken) + Tale 8 (søstre) | 20:13 → 21:00 |
 | Dessert og kaffe | 21:00 → 21:37 |
@@ -118,7 +123,7 @@ henter mat og setter seg igjen.
 
 | Forskyvning | Når | Hva |
 |-------------|-----|-----|
-| Buffet 1 | Etter Tale 1 (Werner) FØR mat | Forrett – fisk/lett rett |
+| Buffet 1 | Etter FF-jentenes matpresentasjon (rett etter Werner) | Forrett – fisk/lett rett |
 | Buffet 2 | Etter Tale 4 (Erik). Andre servering | Hovedrett – kjøtt/kraftig rett |
 | Buffet 3 (alt: ved bordet) | Etter Tale 8 (søstre). Dessert og kaffe | Dessert |
 
