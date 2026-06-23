@@ -92,6 +92,12 @@ sjekk den etterpå. Full logg i `gjennomganger.md`.*
    + hovedrett) **og etter dessert**. NB: runde 1 er i dag en velkomstshot FØR
    buffet 1 – flytt/legg til så det blir én etter hver servering (se
    `tidsplan.md` / `simen-lyd.md` / `powerpoint-plan.md`).
+9. **Si rollen/tittelen ved HVER intro** – brudens far, brudgommens far,
+   forlover, søster osv. Gjesten skal vite hvem taleren er for brudeparet.
+10. **🎵 Cue musikken til refrenget** – intro-låtene skal treffe selve
+    refrenget når de spilles, ikke introen av låta. Avklar med Simen
+    (`simen-lyd.md` §3) og merk start-tid per spor.
+11. **Werner-introen handler om datteren Michelle** – land der (jf. punkt 4).
 
 ---
 
@@ -141,6 +147,17 @@ Stikk 2) – fungerer dobbelt som åpner.*
 > være ærlig: jeg forventet Crispo til forrett.»
 
 *Latter ~15 sek. NB: ble kuttet fra hovedflyten – her som åpner-kandidat.*
+
+**Maarud-historie (2 linjer – valgfri lokalfarge, verifisert)**
+> «Litt om stedet vi sitter på: her på Maarud begynte hele potetgull-eventyret
+> i 1936 – etter at Thomas Stang hadde vært i USA og smakt chips. *(beat)* Så
+> ja: dere feirer bryllup i selve chipsens fødeby.»
+
+*Verifisert (potetgull fra 1936, Stang/USA-tur – kilde: Wikipedia/maarudgaard.no).
+For mer lokalfarge: mild bygdehumor (gjedde i Glomma, tjuvjakt) funker.*
+*🔴 IKKE bruk krigsforbryter-/nazisympatisør-vinkelen: jeg fant INGEN kilde som
+støtter at gården ble brukt slik, og uansett er det helt feil tone for et
+bryllup. Hold deg til chips + Glomma.*
 
 **Alt. 5 – Fetteren med full tilgang**
 > «Mitt navn er Fredrik. Jeg er Anders' fetter – som betyr at jeg har
@@ -309,6 +326,10 @@ velkomne til å holde den. *(beat)* På bussen hjem. *(beat)* Klokka 02:30.
 *(beat)* Det blir tradisjoner i kveld – tramping i gulvet og klirring i
 glasset. Er sidemannen din ny i bryllupsgamet, forklar i forkant.
 
+*(varm)* Og en liten ting om drikke: *[fyll inn føringer – hva er inkludert
+(vin/øl til maten?), når åpner baren, og om det er bong/betaling. Si dette
+tidlig så folk slipper å lure.]*
+
 *(beat)* Nødutgangene er *[peker]*. Hvis det brenner, går vi ut der – og
 hjelper hverandre.
 
@@ -436,11 +457,20 @@ I kveld holder han tale.
 Forskjellen er at han ikke kan avslutte med «any questions?» –
 svigerfaren sitter på første rad.
 
-*[Anders-beskrivelse (din):]*
+*[Anders-beskrivelse (din) + planlegger-humor – flere konkrete eksempler gjør
+det morsomt.]*
 
 Anders har en lang merittliste – en ambisiøs «posterboy» fra Vinger. Varm,
 smart, god og nysgjerrig. *(beat)* Men de fleste vil nok først og fremst
 beskrive deg som smart.
+
+*(tørr)* Og grundig. *(beat)* Anders har planlagt dette bryllupet ned til
+minste detalj. Han har brukt timer på å velge servietter. *(beat)*
+Bordplasseringen er optimalisert som et regneark.
+
+*(beat)* Og mannen baker pizzaboller som om det var en del av en
+forretningsplan. *(beat)* Det er rett og slett ikke måte på hva Anders har
+bidratt med – på sitt eget bryllup.
 
 Anders – scenen er din.
 
@@ -464,6 +494,13 @@ Anders har akkurat fortalt oss hvem Michelle er for ham.
 Det er sjelden vi får høre brudens egne ord så tidlig i et bryllup.
 
 I kveld får vi.
+
+*(varm, lett ironisk)* Michelle er detaljfokusert og glad i baking, med et øye
+for det som skal være akkurat riktig. *(beat)* På sett og vis har Anders og
+Michelle funnet hverandre i detaljene.
+
+*[HUSK: flett inn 1–2 konkrete poenger/sitater om Michelle fra telefonrunden –
+sjekk det de andre har sagt (`telefonnotater-*.md`).]*
 
 Bruden – **Michelle**.
 
@@ -519,7 +556,20 @@ skal snakke om.
 Faren – Erik Nilsen – har bygget en karriere på å holde ting på rett
 spor. Bokstavelig talt.
 
-Når Bane NOR står fast og noe må fikses – er det én person de ringer.
+*[Bygg «de ringer Erik»-strukturen – eskaler de tre, og la salen svare på
+den siste. Spiller på Hold the Line / «hold linjen».]*
+
+Når Bane NOR står fast og toget må fram – er det én person de ringer.
+
+*(beat)* Når Forsvaret skal trappe opp satsingen på digitalisering og data –
+er det én person de ringer.
+
+*(beat)* Og når vi i kveld skal ha den aller beste til å snakke for
+brudgommens foreldre … *(varm, til salen)* hvem ringer vi da?
+
+*(2 sek – la salen svare)*
+
+**Erik Nilsen!**
 
 *(Folkens – er vi klare?)*
 
@@ -1028,9 +1078,28 @@ Anders har én bror og én søster.
 
 Balansen er tilbake.
 
-To brødre. Én familiebil. Én sportsbil. Spørsmålet er hvem som er hvem.
+*[Ingrid først – varm og ekte.]*
 
-Svaret er ikke det du tror.
+Ingrid har akkurat lagt russetiden bak seg – og har faktisk prioritert å bruke
+helga på dette bryllupet, framfor det de fleste attenåringer ville valgt.
+*(varm)* Det settes det stor pris på.
+
+*[Ola – eskalerende, ironisk CV. Helt seriøst ansikt, bygg større og større.]*
+
+Ola har reist helt fra Bergen for å være her – og det er en mann med en viss
+fartstid.
+
+*(tørr, bygg)* Tidligere en av Norges beste fotballspillere. *(beat)* Deretter
+damemagnet uten sidestykke. *(beat)* Så bar det til Ås – sentral i Samfunnet,
+og økonomisjef med et av de største vervene på huset.
+
+*(beat)* Så valgte han down under – Australia. *(beat)* Så NHH i Bergen. *(beat)*
+Og nå går ryktene om utveksling til en av Europas aller beste tekniske skoler.
+
+*(varm, smil)* Dette er en «upcoming» stor mann. Følg med på Ola.
+
+*(beat)* To brødre. Én familiebil. Én sportsbil. Spørsmålet er hvem som er hvem.
+*(beat)* Svaret er ikke det du tror.
 
 I kveld kommer det i samlet pakke – ta imot Anders' søsken, Ingrid og
 Ola.

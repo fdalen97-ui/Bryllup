@@ -52,4 +52,34 @@ første runde.
 
 ---
 
+## Gjennomgang 2 — med broren (juni)
+
+**Omfang**: gjennomgang sammen med Fredriks bror. Tilbakemeldinger samlet
+under, og bygget inn i `manus.md`.
+
+### Tilbakemeldinger → tiltak
+- **Werner-introen skal lande på datteren Michelle** → beholdt + huskepunkt 11.
+- **Si rollen/tittelen ved hver intro** (brudens far, brudgommens far, forlover
+  …) → huskepunkt 9.
+- **Cue musikken til refrenget**, ikke introen av låta → huskepunkt 10 +
+  `simen-lyd.md` §3.
+- **Anders-introen trenger humor**: superplanlagt bryllup – timer på servietter,
+  bordplassering «som regneark», pizzaboller «som forretningsplan» → lagt inn.
+- **Michelle**: detaljfokusert + glad i baking, fint og ironisk; sjekk
+  telefonrunde-sitater → lagt inn + HUSK-note.
+- **Drikke-føringer tidlig** (hva er inkludert, bar, bong) → plassholder i §E.
+- **Erik Nilsen**: «de ringer Erik»-struktur (Bane NOR → Forsvaret/digitalisering
+  → salen svarer «Erik Nilsen!») → lagt inn.
+- **Ola + Ingrid – ironi**: Ingrid (russ ferdig, prioriterte bryllupet, 18) +
+  Olas eskalerende CV (Bergen, fotball, damemagnet, Ås/Samfunnet økonomisjef,
+  Australia, NHH, rykte om topp europeisk teknisk skole, «upcoming stor mann»)
+  → lagt inn.
+- **«Jeg var prinsipielt imot at de ble sammen»** → beholdes (åpner Alt. 3 /
+  plant til Stikk 2).
+- **2 linjer om Maarud i starten**: lagt inn VERIFISERT variant (potetgull fra
+  1936, Stang/USA-tur). 🔴 Krigsforbryter-/nazi-vinkelen er IKKE tatt inn –
+  ingen kilde støtter den, og feil tone for bryllup.
+
+---
+
 <!-- Neste gjennomgang limes inn over denne linjen, nyeste øverst er også ok -->

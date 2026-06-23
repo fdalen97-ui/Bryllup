@@ -46,6 +46,11 @@ Detaljer om låtvalg og dramaturgi ligger i `musikkplan.md`, tidspunkter i
 Prinsipp: **kort snutt (10–40 sek), fade ut når taleren står ved
 mikrofonen.** Full låt kun i pauser og på dansegulvet.
 
+**Cue til refrenget**: hvert intro-spor skal starte (eller fade raskt inn) på
+**selve refrenget/hooken** – ikke på introen av låta. Marker start-sekund per
+spor i kolonnen under, og test på generalprøven. En intro mister energi hvis
+de første 20 sekundene er stille oppbygging.
+
 | Kl. | Cue | Låt | Lengde |
 |-----|-----|-----|--------|
 | 17:30 | Brudeparet inn (Stikk 1) | Avklar inngangslåt med brudeparet | – |
