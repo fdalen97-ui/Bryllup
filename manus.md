@@ -326,9 +326,9 @@ velkomne til å holde den. *(beat)* På bussen hjem. *(beat)* Klokka 02:30.
 *(beat)* Det blir tradisjoner i kveld – tramping i gulvet og klirring i
 glasset. Er sidemannen din ny i bryllupsgamet, forklar i forkant.
 
-*(varm)* Og en liten ting om drikke: *[fyll inn føringer – hva er inkludert
-(vin/øl til maten?), når åpner baren, og om det er bong/betaling. Si dette
-tidlig så folk slipper å lure.]*
+*(varm)* Og en liten ting om drikke: baren er åpen hele kvelden. Det står vin
+på bordene og øl rundt omkring – og vil dere ha noe annet, er det bare å si fra
+til servitørene. *(beat)* Kort sagt: ingen skal gå tørste i kveld.
 
 *(beat)* Nødutgangene er *[peker]*. Hvis det brenner, går vi ut der – og
 hjelper hverandre.
@@ -792,11 +792,21 @@ Helt til sommeren 2015.
 
 *(myk, fortrolig)*
 
-Sommeren 2015 «gadd ikke Anders mer». Det var hans formulering.
+Anders hadde vært interessert lenge. *(beat)* Mer enn Michelle.
 
 *(beat)*
 
-Tre, fire uker uten dialog.
+Og til slutt sa han det rett ut: hvis dette ikke skulle bli noe, kunne de
+ikke henge så mye – *(beat)* «jeg har følelser for deg, og da må jeg få litt
+avstand, så jeg kommer meg over deg.»
+
+*(beat)*
+
+Så de tok avstand.
+
+*(beat)*
+
+Fem, seks uker uten et ord. *(beat)* En hel sommerferie.
 
 *(beat)*
 
@@ -804,7 +814,7 @@ Stille.
 
 *(beat)*
 
-*(dempet)* Slutt.
+*(dempet)* Slutt – trodde vi.
 
 *(2 sek)*
 
@@ -832,19 +842,19 @@ Det var her jeg ble imot.
 
 *(beat)*
 
-*(fortrolig)* Jeg er fetteren hans. Jeg så det fra utsiden. Jeg så at
-han trakk seg unna. Og jeg trodde at det betydde at det var slutt.
+*(fortrolig)* Jeg er fetteren hans. Jeg så det fra utsiden. Jeg så at Anders
+var helt borte i henne – og at Michelle ikke var helt der ennå.
 
 *(beat)*
 
-I familien begynte vi å snakke om det. Hvis Anders ikke gadd – så
-fortjente kanskje ikke Anders henne.
+I familien begynte vi å snakke om det. Hvis hun ikke var sikker, burde kanskje
+Anders spare seg selv.
 
 *(2 sek)*
 
 *(varm, men tydelig)*
 
-Jeg sa det høyt.
+Jeg sa det høyt: gi deg, gutt – hun er ikke interessert.
 
 *(LAND – 3 sek)*
 
@@ -858,38 +868,37 @@ For så skjedde noe.
 
 *(beat)*
 
-Anders så et bilde på Instagram.
+Even – Anders' forlover – la ut et bilde på storyen sin.
 
 *(beat)*
 
-Even – forloveren hans – sto med noen jenter.
-
-Anders så på bildet.
-
-*(beat)*
-
-Og spurte seg selv:
+Anders. På en fest. I en sofa. *(beat)* Med en annen jente.
 
 *(2 sek)*
 
-> «Hvem faen er denne jenta?»
-
-*(beat – la latter komme)*
-
-*(varm)* Det var ikke Even som var problemet.
-
-Det var én jente på bildet som ikke var Michelle.
-
-*(2 sek)*
-
-*(myk)*
-
-I det øyeblikket forstod Anders at det var én han ville se på
-Even-bilder i fremtiden.
+*(myk)* Og det var ikke Anders som så det bildet.
 
 *(beat)*
 
-Og det var Michelle.
+Det var Michelle.
+
+*(LAND – 3 sek)*
+
+*(varm)* I det øyeblikket – da hun så ham sitte der med en annen – skjønte
+Michelle noe hun ikke helt hadde innrømmet for seg selv:
+
+*(beat)*
+
+At hun var mye mer glad i ham enn hun trodde. *(beat)* At hun ikke ante hvor
+avhengig hun egentlig var.
+
+*(2 sek)*
+
+Dagen etter sendte hun en melding.
+
+*(beat)*
+
+Og etter det snakket de sammen *(beat)* hver eneste dag.
 
 *(LAND – 4 sek)*
 
@@ -950,11 +959,11 @@ hvem som er den rette.
 
 *(2 sek)*
 
-Anders forstod det i 2015.
+Anders hadde forstått det for lengst.
 
 *(beat)*
 
-Michelle forstod det rundt julaften.
+Michelle forstod det sommeren 2015 – da hun så det bildet.
 
 *(beat)*
 
@@ -1365,7 +1374,11 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 - [x] Siste buss: **02:30**, kun én avgang
 - [ ] Vin-distrikt (hvit + rød)
 - [ ] Talsperson for Kongsvinger-vennene + hvilke gjester
-- [ ] **Anekdote til Stikk 2** (A1 + B + A2 + landing, 4 deler)
+- [x] **Anekdote til Stikk 2** – ekte historie inn (Anders var mest interessert
+  → ba om avstand → sommer uten kontakt → Even la ut bilde av Anders med annen
+  jente → Michelle ble sjalu/skjønte følelsene → sendte melding dagen etter →
+  snakket hver dag). NB: A1 «født samme sykehus / døpt / konfirmert samme dag»
+  er IKKE bekreftet av deg – sjekk om det stemmer eller skal kuttes.
 - [ ] Sitat fra telefonrunden til Stikk 3 (3 «svar som gikk igjen»)
 - [ ] Siste bussavgang – forslag 01:00
 - [ ] Påstander til fellessangen
