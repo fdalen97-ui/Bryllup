@@ -76,9 +76,9 @@ sjekk den etterpå. Full logg i `gjennomganger.md`.*
 
 1. **Lever en åpner-vits** (Åpningsalternativer). Velg ÉN og lås den – ikke
    hopp rett til «vi skal kose oss». Første latter innen 20 sek.
-2. **🔴 «Jeg var imot at de ble sammen»-planten må sies** (CHEKHOV PLANT 1,
-   betales ut i Stikk 2). §B er fjernet, så denne MÅ komme fra åpneren – bruk
-   **Alt. 3**. Uten den henger Stikk 2.
+2. **🔴 «Jeg var imot»-planten må sies** (CHEKHOV PLANT 1, betales ut i Stikk
+   2). Ligger nå i §A-teksten («forsøkte å forhindre at dere to ble sammen …
+   den tar vi senere»). Ikke dropp den – uten den henger Stikk 2.
 3. **⚠️ Rød tråd 1/4 er kuttet fra §C** («alle gode prosjekter trenger en
    plan»). Pay-off-ene 2/4, 3/4 og 4/4 ligger fortsatt i Stikk 2–4 – avgjør om
    du vil re-plante tråden ett sted, ellers stryk callbacks-ene også.
@@ -227,9 +227,9 @@ mygg på. Brudeparet venter utenfor.*
 *[Velg åpner fra «Åpningsalternativer»-seksjonen over – lever den FØR
 linjene under.]*
 
-*[NB: §B (egen troverdighet) er nå slått sammen inn i §A. «Jeg var imot»-
-planten (Chekhov 1, betales ut i Stikk 2) må derfor komme fra åpneren –
-bruk Alt. 3, ellers henger Stikk 2 i løse lufta.]*
+*[NB: §B (egen troverdighet) er slått sammen inn i §A. «Jeg var imot»-planten
+(Chekhov 1, betales ut i Stikk 2) ligger nå i §A-teksten under – du trenger den
+ikke fra åpneren.]*
 
 *[blikk: sveip rom. Smil før første ord.]*
 
@@ -240,17 +240,22 @@ til.
 
 *(beat)* Wow, for et lokale.
 
-*(tørr)* Egentlig sliter jeg litt med å skjønne hva jeg skal gjøre her i kveld.
+*(tørr)* Jeg sliter egentlig med å forstå min egen stillingsbeskrivelse her i
+kveld som toastmaster.
 
-*(bygg)* Vi har skaffet lydtekniker. Vi har DJ. Vi har fotograf. *(beat)* Vi
-har til og med presten.
+*(bygg)* Lydtekniker, DJ, fotograf, prest … alle fagfolk er på plass.
 
-*(beat)* Med så mange flinke folk – hva trenger dere egentlig meg til?
+*(beat)* Med så mye kompetanse i rommet – hva er vitsen med meg?
 
 *(LAND 2 sek)*
 
-*(tørr)* Men én ting har jeg ikke fortalt dere: jeg er byråkrat i staten.
-*(beat)* Så jeg klarer å gjøre meg viktig på de minste ting.
+*(tørr)* Heldigvis er jeg byråkrat i staten. *(beat)* Så jeg er ekspert på å
+gjøre meg viktig på de minste ting.
+
+*[CHEKHOV PLANT 1: «jeg var imot» – betales ut i Stikk 2 («den tar vi senere»).]*
+
+*(beat)* Akkurat som den gangen jeg aktivt forsøkte å forhindre at dere to ble
+sammen. *(beat)* … Men akkurat den saken, den tar vi senere i kveld.
 
 ---
 
