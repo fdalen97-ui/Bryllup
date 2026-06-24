@@ -93,7 +93,7 @@ Utrolig rolig, snill «superpappa», sier ikke mye, **tørr humor**, veldig
 glad i Michelle, stilte opp for alt (kjørte dem rundt med hester).
 Stemmer med `bryllupsbrief.md` (ordknapp, staut, varm).
 
-### Cathrine & Anette (Michelles søstre, Tale 8)
+### Cathrine & Anette (Michelles søstre, Tale 7)
 - Begge ligner Michelle: åpne, nysgjerrige, uredde – «enda mer frampå».
 - **Cathrine** (eldst): supermamma, 3 barn, mann som jobber mye, stort
   hus, en del sykdomsproblematikk i det siste, mange baller i lufta,

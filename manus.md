@@ -88,10 +88,9 @@ sjekk den etterpå. Full logg i `gjennomganger.md`.*
 6. **Hold §E kort** – ingen lang logistikk-digresjon om bolker/antall taler
    etter inngangen. Det tapper energien.
 7. Detaljer: **tre timer** (ikke fire), **tre intro-taler før buffet** (ikke to).
-8. **🔥 Fireball-kadens**: Fireball-shot skal på **etter hver buffet** (forrett
-   + hovedrett) **og etter dessert**. NB: runde 1 er i dag en velkomstshot FØR
-   buffet 1 – flytt/legg til så det blir én etter hver servering (se
-   `tidsplan.md` / `simen-lyd.md` / `powerpoint-plan.md`).
+8. **🔥 Fireball-kadens (gjennomført)**: én runde etter hver servering – etter
+   forrett (runde 1, ~19:11), hovedrett (runde 2, ~20:13) og dessert (runde 3,
+   ~21:37). Samkjørt i `tidsplan.md` / `simen-lyd.md` / `powerpoint-plan.md`.
 9. **Si rollen/tittelen ved HVER intro** – brudens far, brudgommens far,
    forlover, søster osv. Gjesten skal vite hvem taleren er for brudeparet.
 10. **🎵 Cue musikken til refrenget** – intro-låtene skal treffe selve
@@ -1340,13 +1339,17 @@ Kjærligheten som holder alt sammen.
 
 ---
 
-### Fireball-runde 3 + dansen åpner
+### Siste Fireball + dansen åpner
+
+*[NB: kadens-rundene 1–3 er etter forrett/hovedrett/dessert (siste ~21:37).
+Denne shoten ved dansestart blir altså en 4. runde. Avklar om du vil ha den i
+tillegg, eller om dansen åpnes uten shot.]*
 
 Takk for maten! En applaus til kjøkkenet.
 
 *[PowerPoint: 🔥 FIREBALL slide]*
 
-Og før vi slipper dem løs – siste runde Fireball. Glassene opp!
+Og før vi slipper dem løs – en aller siste Fireball til dans. Glassene opp!
 
 *[Felles skål, ned i ett.]*
 
@@ -1419,28 +1422,29 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 
 ```
 Stikk 1            ████      Varm + selvironi + brudeparet inn (+ skål til Simen/lyd)
-Werner Seigerud    ██        Tyngde
+Werner Seigerud    ██        Brudens far – tyngde (FØR mat)
 FF-jentene (mat)   ██        Matpresentasjon + hyllest for dugnad
-Anders til brud    ███       Burning Love
-Michelle til Anders███       Mamma Mia, feminin og fornem (paret-utveksling)
-Cathrine + Anette  ██        Walking On Sunshine, søster-duo
+— forrett (buffet 1) —
+Anders til brud    ███       Burning Love (etter forretten)
+Michelle til Anders███       Mamma Mia, paret-utveksling
 Helan går          ██        Skål
-Fireball 1         ███       Velkomstshot
-— buffet 1 —
+Fireball 1         ███       Etter forrett (kadens)
 Kjersti + Erik N.  ██        Arv eller miljø + tog-metafor
-— pissepause + buffet 2 —
+— hovedrett (buffet 2) —
+Fireball 2         ██        Etter hovedrett (kadens)
 Stikk 2            ███       Personlig fetter-historie (HJERTET)
-Ingrid + Ola       ████      Crazy Train, søsken-duo
+Helene             ███       Fanga av stormvind, forlover brud
+Even               ████      Thunderstruck + Rumble, forlover brudgom
+Cathrine + Anette  ██        Walking On Sunshine, søstre (Tale 7)
+Ingrid + Ola       ████      Crazy Train, søsken (Tale 8)
+— dessert (buffet 3) —
+Fireball 3         ██        Etter dessert (kadens)
+Stikk 3            ██        Jeg ringte rundt
 Kongsvinger        ██        Forza Vinger, lokal forankring
 Feminin og fornem  ██        Voulez-Vous, Ås-gjeng Michelle
-— pause + Fireball 2 —
-— dessert —
-Stikk 3            ██        Jeg ringte rundt
-Helene             ███       Fanga av stormvind
-Even               ████      Thunderstruck-flaske + Rumble
 Broderskapet Unity ████      Enter Sandman, INNSLAG
 Tom Christian      ███       Vennegjeng-tale (KVELDENS SISTE)
-Stikk 4            ███       Take on Me + Fireball 3 + landing
+Stikk 4            ███       Take on Me + landing + dans
 — DANS — (siste buss 02:30, kun én avgang)
 ```
 

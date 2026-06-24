@@ -66,8 +66,8 @@ de første 20 sekundene er stille oppbygging.
 | 20:13 | 🔥 Fireball-runde 2 | Fireball-jingle | 5–10 sek |
 | 20:15 | Intro tale 5 – Helene | Fanga av ein stormvind (#7) | 20–25 sek |
 | 20:23 | ⚡ Thunderstruck-ritual + intro tale 6 – Even | Thunderstruck (lav volum, fade opp) → Let's Get Ready To Rumble! (#6) | se `innslag.md` |
-| 20:33 | Intro tale 7 – Ingrid & Ola | Crazy Train (#32) | 15 sek |
-| 20:48 | Intro tale 8 – Cathrine & Anette | Walking On Sunshine (#12) | 20 sek |
+| 20:33 | Intro tale 7 – Cathrine & Anette | Walking On Sunshine (#12) | 20 sek |
+| 20:48 | Intro tale 8 – Ingrid & Ola | Crazy Train (#32) | 15 sek |
 | 21:00–21:30 | Dessert + pause | Rolig bakgrunn | lav |
 | 21:30 | 🔥 Innkalling | Fireball-jingle | 5–10 sek |
 | 21:37 | 🔥 Fireball-runde 3 | Fireball-jingle | 5–10 sek |
@@ -79,8 +79,9 @@ de første 20 sekundene er stille oppbygging.
 | 22:42 | **Første dans** | Førstedans-låt (avklar!) → festtoppere | full |
 
 Reservelåter per taler: se tabellen i `musikkplan.md` §2.
-**OBS**: `musikkplan.md` §2 har Cathrine+Anette og Ingrid+Ola i motsatt
-rekkefølge av gjeldende `tidsplan.md` – cue-lista over følger tidsplanen.
+**Rekkefølge (avklart)**: Tale 7 = Cathrine & Anette (brudens søstre, Walking On
+Sunshine), Tale 8 = Ingrid & Ola (brudgommens søsken, Crazy Train). Alle
+dokumenter er nå samkjørt på dette.
 
 ---
 

@@ -56,7 +56,7 @@ Rå transkripsjon i §6 nederst. Strukturert uttrekk først, etter metoden i
    Ola (til Ingrid & Olas tale-intro?).
 4. **Ingrid og døra**: Da Michelle var på besøk første gang, snek Anders
    henne opp på rommet – og Ingrid sto og **banket på døra** for å bli
-   kjent med henne. (Fin detalj til intro av Ingrid & Ola, Tale 7.)
+   kjent med henne. (Fin detalj til intro av Ingrid & Ola, Tale 8.)
 
 ---
 
