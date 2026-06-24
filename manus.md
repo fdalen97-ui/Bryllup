@@ -343,7 +343,8 @@ glasset. Er sidemannen din ny i bryllupsgamet, forklar i forkant.
 
 *(varm)* Og en liten ting om drikke: baren er åpen hele kvelden. Det står vin
 på bordene og øl rundt omkring – og vil dere ha noe annet, er det bare å si fra
-til servitørene. *(beat)* Kort sagt: ingen skal gå tørste i kveld.
+til servitørene. *(beat)* Kort sagt: ingen går tørste hjem fra en skikkelig
+hedmarksfest på Skarnes.
 
 *(beat)* Nødutgangene er *[peker]*. Hvis det brenner, går vi ut der – og
 hjelper hverandre.
