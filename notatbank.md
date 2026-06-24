@@ -281,9 +281,9 @@ Komplett A-B-A-historie til Stikk 2:
 **Sommeren 2015 – krisen**:
 - Anders «gadd ikke mer»
 - 3–4 uker uten dialog mellom dem
-- Anders så et bilde av Even på Insta med jenter
-  - Kjent reaksjon: «hvem faen er denne jenta?»
-- (Sjalusi-momentet vekket interessen igjen)
+- Even la ut et bilde av ANDERS med en annen jente på Insta/story
+  - MICHELLE så det og ble sjalu: «hvem faen er denne jenta?»
+- (Sjalusi-momentet vekket Michelles interesse igjen)
 
 **Forelskelsen tilbake**:
 - Lagde taco sammen
@@ -293,7 +293,7 @@ Komplett A-B-A-historie til Stikk 2:
 → Strukturen for Stikk 2:
 - A1 (skjebne-åpning): tre detaljer som stables
 - B (skoleballet 6.klasse + lillefingern-sitat)
-- A2 (krisen sommeren 2015 + Insta-sjalusien)
+- A2 (krisen sommeren 2015 + Michelles Insta-sjalusi)
 - Landing (taco + julaften)
 
 ### 7.3 Verdier brudeparet vil ha frem

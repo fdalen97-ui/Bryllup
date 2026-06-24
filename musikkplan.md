@@ -97,9 +97,9 @@ middagsbakgrunn** – hold disse til dansen.
 | Taler | Primær | Reserve | Lengde på intro |
 |-------|--------|---------|-----------------|
 | **Tale 1 – Werner Seigerud** (brudens far, FØR mat) | Optimist – Jahn Teigen (#14) | The Power Of Love (#29) | 20–25 sek |
-| **Tale 2 – Anders til Michelle** (FØR mat) | Burning Love (#26) | The Power Of Love (#29) | 20 sek |
-| **Tale 3 – Michelle til Anders** (brudens tale, FØR mat) | Mamma Mia (#19) | Burning Love (#26) | 20 sek |
-| **Tale 4 – Kjersti & Erik Nilsen** (Anders' foreldre, forrett) | Power of Love (#29) | Signed, Sealed, Delivered (#11) | 20 sek |
+| **Tale 2 – Anders til Michelle** (etter forrett) | Burning Love (#26) | The Power Of Love (#29) | 20 sek |
+| **Tale 3 – Michelle til Anders** (brudens tale, etter forrett) | Mamma Mia (#19) | Burning Love (#26) | 20 sek |
+| **Tale 4 – Kjersti & Erik Nilsen** (Anders' foreldre, etter Fireball 1 / før hovedrett) | Power of Love (#29) | Signed, Sealed, Delivered (#11) | 20 sek |
 | **Tale 5 – Helene** (forlover brud) | Fanga av ein stormvind (#7) | Take on Me (#28) | 20–25 sek |
 | **Tale 6 – Even** (forlover brudgom) | Let's Get Ready To Rumble! (#6) | Thunderstruck (#20/35) | 10–15 sek |
 | **Tale 7 – Cathrine + Anette** (felles, Michelles søstre) | Walking On Sunshine (#12) | Mamma Mia (#19) | 20 sek |
@@ -119,11 +119,12 @@ Unngå å følge rask låt med rask låt. Behold Duartes prinsipp om
 ```
 Åpning           ██        Optimist / Forza Vinger – varm start
 Werner Seigerud  ██        Power Of Love – senke skuldre
+FF presenterer maten ░     Rolig bakgrunn – rett etter Werner
+— buffet 1 (forrett) —
 Anders til brud  ███       Burning Love – løft
 Michelle         ███       Mamma Mia – feminin og fornem (paret-utveksling)
 Helan går        ██        Skål
-Fireball 1       ███       Velkomstshot
-— buffet 1 (forrett) —
+Fireball 1       ███       Etter forrett (kadens)
 Kjersti+Erik N.  ██        Power Of Love – arv eller miljø
 — buffet 2 (hovedrett) —
 Helene (f. brud) ██        Fanga av ein stormvind – ro

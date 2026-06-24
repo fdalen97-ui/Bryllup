@@ -224,7 +224,7 @@ ingen blir overrasket.
 - [x] Siste bussavgang: **02:30**.
 - [ ] Når starter kakekutt / midnattsmat? (forslag: 23:00).
 - [ ] Talernes rekkefølge godkjent av brudeparet?
-- [x] **Hovmester Oda Rogstad** presenterer maten (FF/Oda, feminin og fornem stil).
+- [ ] **FF-jentene** presenterer maten rett etter Werner (feminin og fornem stil); **Oda Rogstad-rollen avklares nærmere**.
 - [ ] Vin-distrikt for kort presentasjon – navn og uttale.
 - [x] Musikkansvarlig: **Simen** (#57, brudesvenn) er lydtekniker og trykker play (også Fireball-lyden). Se `simen-lyd.md`.
 - [ ] Førstedans-låt – avklar med brudeparet (Simen trenger den til lista).

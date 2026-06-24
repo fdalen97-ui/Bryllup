@@ -57,12 +57,12 @@ Trigges med klikker. Dedikert musikkansvarlig kan overstyre hvis nødvendig.
 - **Taler X**: Navn + relasjon til brudeparet
 - Bilde av taleren hvis tilgjengelig (ellers ikonografi)
 - Vises 10 sek før taleren reiser seg
-- Én slide per talesekvens, totalt 9 stk
+- Én slide per talesekvens, totalt 12 stk (11 taler + 1 innslag)
 
 Slides (11 talesekvenser + 1 innslag):
 - **Werner Seigerud** – brudens far (Tale 1, FØR mat)
-- **Anders** – brudgom, til Michelle (Tale 2, FØR mat)
-- **Michelle** – brudens tale (Tale 3, paret-utveksling, FØR mat)
+- **Anders** – brudgom, til Michelle (Tale 2, under/etter forrett)
+- **Michelle** – brudens tale (Tale 3, paret-utveksling, under/etter forrett)
 - **Kjersti & Erik Nilsen** – Anders' foreldre (Tale 4, tog-metafor, forrett)
 - **Helene** – Michelles forlover (Tale 5, hovedrett)
 - **Even** – Anders' forlover (Tale 6, hovedrett)

@@ -12,7 +12,7 @@ dette» – alt skal være avklart med brudeparet på forhånd.
 
 ## 1. Thunderstruck-flaske
 
-**Når**: Mellom Helene (forlover brud) og Even (forlover brudgom) under hovedretten, ca 19:56.
+**Når**: Mellom Helene (forlover brud) og Even (forlover brudgom) under hovedretten, ca 20:23.
 
 **Slik gjør du**:
 1. Forlovere får utdelt én flaske øl/cider per bord før talerunden starter.
@@ -38,9 +38,9 @@ dette» – alt skal være avklart med brudeparet på forhånd.
 
 | Runde | Tidspunkt | Funksjon |
 |-------|-----------|----------|
-| 1 | Rett etter Helan går, FØR buffet 1 (~17:57) | Velkomstshot, sparkstart |
-| 2 | Midt i pause 2 (~20:25) | Energi-injeksjon før dessertrunden |
-| 3 | Rett før dansegulvet åpnes (~21:45) | Sparkstart til festen |
+| 1 | Rett etter forretten (etter de tre talene + Helan), ~19:11 | Kadens, sparkstart |
+| 2 | Etter hovedrett-pausen, ~20:13 | Energi-injeksjon før dessertrunden |
+| 3 | Etter dessert-pausen, ~21:37 | Sparkstart til festen |
 
 **Slik gjør du**:
 1. PowerPoint-slide tennes: «🔥 FIREBALL 🔥» med kort jingle (5–10 sek
@@ -69,7 +69,7 @@ Tre nivåer – velg ut fra rommet og brudeparets preferanse.
 
 ### 3.1 «Helan går» – obligatorisk skål med Werner
 
-**Når**: Etter de tre talene FØR mat (Werner, Anders→Michelle, Michelle→Anders), ~17:56.
+**Når**: Etter de tre talene (Werner før mat; Anders→Michelle og Michelle→Anders etter forretten), ~19:10.
 
 **Slik**:
 - Toastmaster reiser seg: *«Werner – det fortjener en ekte skål. Helan går!»*
@@ -195,34 +195,37 @@ PowerPoint-slide for hver påstand. Klikker bytter slide hvert 15. sekund.
 
 ---
 
-## 7. Dramaturgisk plassering – sjekk mot tidsplan (oppdatert til buffet 17:30)
+## 7. Dramaturgisk plassering – sjekk mot tidsplan
+
+(`tidsplan.md` er autoritativ for tider – denne lista er en oversikt.)
 
 ```
 17:30       Stikk 1 – servietter + Rumble + brudeparet inn
-17:39       Werner Seigerud (brudens far) – FØR mat
-17:45       Anders til Michelle – FØR mat
-17:51       Michelle til Anders (brudens tale) – FØR mat
-17:56       🍺 Helan går
-17:57       → 🔥 FIREBALL RUNDE 1 (velkomstshot, FØR mat)
-17:58       Buffet 1 åpner – forrett (60 min)
-18:31       Kjersti + Erik Nilsen (foreldre + tog-metafor)
-18:58       Pause 10–15 min
-19:10       Buffet 2 åpner – hovedrett (30 min)
-19:47       Stikk 2 (Fredrik som fetter)
-19:53       Helene (forlover brud)
-19:56       → ⚡ THUNDERSTRUCK-flaske + Even (forlover brudgom)
-20:02       Cathrine + Anette (felles, søstre)
-20:08       Ingrid + Ola (felles, Anders' søsken)
-20:13       Pause 22 min → 🔥 FIREBALL RUNDE 2 (midt i pausen)
-20:35       Buffet 3 / dessert (20 min)
-21:00       Stikk 3 (Jeg ringte rundt)
-21:04       Kongsvinger-vennene (gruppe-tale)
-21:10       «Feminin og fornem» (Ås-gjeng Michelle)
-21:16       INNSLAG: Broderskapet Unity (Anders' Ås-gjeng)
-21:22       Tom Christian (KVELDENS SISTE TALE)
-21:35       Stikk 4: Take on Me
-21:45       → 🔥 FIREBALL RUNDE 3 (sparkstart dans)
-21:47       DANS
+17:42       Tale 1 – Werner Seigerud (brudens far) – FØR mat
+17:51       FF-jentene presenterer maten (Oda-rollen avklares)
+17:54       FORRETT (~36 min)
+18:35       Tale 2 – Anders til Michelle (etter forretten)
+18:50       Tale 3 – Michelle (brudens tale, etter forretten)
+19:10       🍺 Helan går
+19:11       → 🔥 FIREBALL RUNDE 1 (etter forretten, kadens)
+19:15       Tale 4 – Kjersti + Erik Nilsen
+19:30       HOVEDRETT (~45 min)
+20:13       → 🔥 FIREBALL RUNDE 2 (etter hovedrett)
+20:14       Stikk 2
+20:17       Tale 5 – Helene (forlover brud)
+20:23       → ⚡ THUNDERSTRUCK-flaske
+20:24       Tale 6 – Even (forlover brudgom)
+20:35       Tale 7 – Ingrid & Ola
+20:50       Tale 8 – Cathrine & Anette
+21:00       DESSERT (~30 min)
+21:37       → 🔥 FIREBALL RUNDE 3 (etter dessert)
+21:38       Stikk 3
+21:39       Tale 9 – Kongsvinger-vennene
+21:55       Tale 10 – «Feminin og fornem»
+22:10       Tale 11 – Tom Christian (KVELDENS SISTE TALE)
+22:20       INNSLAG: Broderskapet Unity
+22:30       Stikk 4: Take on Me
+22:42       DANS
 02:30       Siste buss (kun én avgang)
 ```
 

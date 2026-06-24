@@ -55,14 +55,14 @@ de er max 10 sek og testet flere ganger.
 | 3 | Kveldens program | Liste: 11 taler, 3 retter, 2 pauser | Under «Her er kveldens plan...» | Klikk |
 | 4 | Spilleregler | Tramping, klirring, nødutgang | Når Fredrik nevner det | Klikk |
 | 5 | Trigger-shot | «Equinor» / «pitch deck» = drikk | Når regelen annonseres | Klikk |
-| 6 | Hovmester Oda Rogstad | Bilde + «Kveldens hovmester» | Når Oda kommer frem | Klikk |
+| 6 | FF-jentene presenterer maten | «Feminin og fornem presenterer forretten» (Oda-rollen avklares) | Rett etter Werners tale, før forrett serveres | Klikk |
 | 6b | F1 / Rumble-slide | Startflagg-bilde | Rett før brudeparet entrer | Klikk |
 | 7 | Brudeparet entrer | Bilde av Michelle & Anders | Mens de går inn | Klikk |
 | 8 | Tale 1 – Werner | Bilde + «Werner Seigerud, brudens far» | 5 sek før Werner reiser seg (FØR mat) | Klikk |
-| 9 | Tale 2 – Anders til Michelle | Bilde + «Anders – brudgommen» | Før Anders reiser seg (FØR mat) | Klikk |
-| 10 | Tale 3 – Michelle (brudens tale) | Bilde + «Michelle, bruden» | Etter Anders' tale (FØR mat) | Klikk |
+| 9 | Tale 2 – Anders til Michelle | Bilde + «Anders – brudgommen» | Før Anders reiser seg | Klikk |
+| 10 | Tale 3 – Michelle (brudens tale) | Bilde + «Michelle, bruden» | Etter Anders' tale | Klikk |
 | 11 | Helan går – tekst | Hele første vers, stor font | Etter de tre talene | Klikk |
-| 12 | 🔥 FIREBALL RUNDE 1 | Stor brann-grafikk | Etter Helan går, før buffet 1 | Klikk |
+| 12 | 🔥 FIREBALL RUNDE 1 | Stor brann-grafikk | Etter forretten (første servering) | Klikk |
 | 13 | Tale 4 – Kjersti + Erik Nilsen | Bilde + «Anders' foreldre» | Under forrett, før de reiser seg | Klikk |
 | 14 | Pause 1 | «10–15 min – strekk beina» + nedteller | Pausen før hovedrett | Klikk |
 | 15 | Stikk 2 åpner | Sort slide | Etter buffet 2, når Fredrik begynner | Klikk |
@@ -72,7 +72,7 @@ de er max 10 sek og testet flere ganger.
 | 19 | Tale 7 – Cathrine + Anette | Bilde av begge + «Michelles storesøstre» | Før de reiser seg | Klikk |
 | 20 | Tale 8 – Ingrid + Ola | Bilde av begge + «Anders' søsken» | Før de reiser seg | Klikk |
 | 21 | Pause 2 | «20 min – kaffe + Fireball» | Pausen | Klikk |
-| 22 | 🔥 FIREBALL RUNDE 2 | Brann-grafikk | Midt i pausen | Klikk |
+| 22 | 🔥 FIREBALL RUNDE 2 | Brann-grafikk | Etter hovedrett | Klikk |
 | 23 | Stikk 3 åpner | Sort slide | Når Fredrik begynner | Klikk |
 | 24 | Tale 9 – Kongsvinger-vennene | Bilde av gruppe + «Michelles barndomsvenner» | Før de reiser seg | Klikk |
 | 25 | Tale 10 – «Feminin og fornem» | Bilde av gruppe + «Michelles Ås-gjeng (NMBU)» | Før de reiser seg | Klikk |
@@ -82,7 +82,7 @@ de er max 10 sek og testet flere ganger.
 | 29–38 | Take on Me-påstander | Én påstand per slide, stor font | Sangen rulles, klikk hvert 15 sek | Klikk |
 | 39 | We Didn't Start the Fire | Refrengtekst + skjelett | Hvis innslaget kjøres | Klikk |
 | 40 | Takk for maten | «Tusen takk til kjøkkenet» | Avslutning | Klikk |
-| 41 | 🔥 FIREBALL RUNDE 3 | Brann-grafikk | Før dansegulvet åpnes | Klikk |
+| 41 | 🔥 FIREBALL RUNDE 3 | Brann-grafikk | Etter dessert (før dans) | Klikk |
 | 42 | Dansegulvet åpnes | «Michelle & Anders – første dans» | Inn til dans | Klikk |
 | 43 | Reserve | Sort slide | Hvis noe trekker ut | Klikk |
 
@@ -191,5 +191,5 @@ men klar som backup.
 - [ ] HDMI-kabel lengde – rekker fra laptop-plass til projektor?
 - [ ] Strømuttak ved klikker-bordet
 - [ ] Hvem er klikker-person? (helst en venn, ikke en taler)
-- [ ] Bilder samlet inn fra alle 9 talere senest 2 uker før
+- [ ] Bilder samlet inn fra alle 11 taler + 1 innslag senest 2 uker før
 - [ ] Generalprøve booket

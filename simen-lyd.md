@@ -55,11 +55,11 @@ de første 20 sekundene er stille oppbygging.
 |-----|-----|-----|--------|
 | 17:30 | Brudeparet inn (Stikk 1) | Avklar inngangslåt med brudeparet | – |
 | 17:40 | Intro tale 1 – Werner | Optimist – Jahn Teigen (#14) | 20–25 sek |
-| 17:53 | 🔥 Fireball-runde 1 | Fireball-jingle | 5–10 sek |
-| 17:55–18:30 | Forrett + pause | Rolig bakgrunn (IKKE 203 BPM-låtene) | lav |
-| 18:30 | 🔥 Innkalling | Fireball-jingle | 5–10 sek |
+| 17:51 | FF-jentene presenterer maten | Rolig bakgrunn (lav, under presentasjon) | lav |
+| 17:54–18:30 | Forrett + pause | Rolig bakgrunn (IKKE 203 BPM-låtene) | lav |
 | 18:33 | Intro tale 2 – Anders | Burning Love (#26) | 20 sek |
 | 18:48 | Intro tale 3 – Michelle | Mamma Mia (#19) | 20 sek |
+| 19:11 | 🔥 Fireball-runde 1 (etter forrett, kadens) | Fireball-jingle | 5–10 sek |
 | 19:13 | Intro tale 4 – Kjersti + Erik | The Power Of Love (#29) | 20 sek |
 | 19:30–20:00 | Hovedrett + pause | Rolig bakgrunn | lav |
 | 20:00 | 🔥 Innkalling | Fireball-jingle | 5–10 sek |
