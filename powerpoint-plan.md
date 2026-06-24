@@ -82,7 +82,7 @@ de er max 10 sek og testet flere ganger.
 | 29–38 | Take on Me-påstander | Én påstand per slide, stor font | Sangen rulles, klikk hvert 15 sek | Klikk |
 | 39 | We Didn't Start the Fire | Refrengtekst + skjelett | Hvis innslaget kjøres | Klikk |
 | 40 | Takk for maten | «Tusen takk til kjøkkenet» | Avslutning | Klikk |
-| 41 | 🔥 FIREBALL RUNDE 3 | Brann-grafikk | Etter dessert (før dans) | Klikk |
+| 41 | 🔥 FIREBALL RUNDE 3 | Brann-grafikk | Etter dessert (før venne-talene) | Klikk |
 | 42 | Dansegulvet åpnes | «Michelle & Anders – første dans» | Inn til dans | Klikk |
 | 43 | Reserve | Sort slide | Hvis noe trekker ut | Klikk |
 

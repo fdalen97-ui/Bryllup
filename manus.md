@@ -1339,19 +1339,12 @@ Kjærligheten som holder alt sammen.
 
 ---
 
-### Siste Fireball + dansen åpner
+### Dansen åpner
 
-*[NB: kadens-rundene 1–3 er etter forrett/hovedrett/dessert (siste ~21:37).
-Denne shoten ved dansestart blir altså en 4. runde. Avklar om du vil ha den i
-tillegg, eller om dansen åpnes uten shot.]*
+*[Fireball-kadens: én runde etter hvert måltid (forrett/hovedrett/dessert) –
+INGEN shot ved dansestart. Dansen åpnes uten Fireball.]*
 
 Takk for maten! En applaus til kjøkkenet.
-
-*[PowerPoint: 🔥 FIREBALL slide]*
-
-Og før vi slipper dem løs – en aller siste Fireball til dans. Glassene opp!
-
-*[Felles skål, ned i ett.]*
 
 Baren er åpen. Dansegulvet er åpent. Siste bussavgang er **02:30** – og
 det er kveldens eneste buss. Ta godt vare på hverandre, og på
