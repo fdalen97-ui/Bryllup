@@ -1069,40 +1069,12 @@ Vær så god – brudgommens forlover, **Even**.
 
 ---
 
-### Intro tale 7 — Cathrine + Anette (Michelles storesøstre, felles tale)
-
-*[Intro-sang: Walking On Sunshine, 20 sek]*
-
-Michelle har ikke én storesøster.
-
-Hun har to.
-
-Det betyr at hun aldri har kommet unna med noenting.
-
-*(varm)* Men Michelle har sagt det selv, og finere kan det ikke sies: hun har
-vært heldig som ikke bare har hatt én mamma – ikke to – men hele tre.
-
-*(beat)* Cathrine og Anette har stått ved siden av henne hele veien. Gode
-rollemodeller, og de tryggeste støttespillerne en lillesøster kan ha.
-
-To storesøstre = dobbel kjærlighet og dobbel oppdragelse.
-
-Brudens storesøstre, i felles regi – **Cathrine og Anette**.
-
-*[Tale 7 felles, 5 min]*
-
----
-
-### Intro tale 8 — Ingrid + Ola (Anders' søsken, felles tale)
+### Intro tale 7 — Ingrid + Ola (Anders' søsken, felles tale)
 
 *[Intro-sang: Crazy Train, 15 sek. «Gå sakte mot personen»-grep fra
 Lars/Julie §3.2 – Fredrik beveger seg sakte mot Olas bord.]*
 
-Michelle har to storesøstre.
-
-Anders har én bror og én søster.
-
-Balansen er tilbake.
+Anders har én bror og én søster – og i kveld får vi høre fra begge.
 
 *[Ingrid først – varm og ekte.]*
 
@@ -1131,6 +1103,31 @@ Og nå går ryktene om utveksling til en av Europas aller beste tekniske skoler.
 
 I kveld kommer det i samlet pakke – ta imot brudgommens søsken, **Ingrid og
 Ola**.
+
+*[Tale 7 felles, 5 min]*
+
+---
+
+### Intro tale 8 — Cathrine + Anette (Michelles storesøstre, felles tale)
+
+*[Intro-sang: Walking On Sunshine, 20 sek]*
+
+Vi har nettopp hørt fra Anders' søsken. *(beat)* Da balanserer vi – med
+Michelles side.
+
+Michelle har ikke én storesøster. *(beat)* Hun har to.
+
+Det betyr at hun aldri har kommet unna med noenting.
+
+*(varm)* Men Michelle har sagt det selv, og finere kan det ikke sies: hun har
+vært heldig som ikke bare har hatt én mamma – ikke to – men hele tre.
+
+*(beat)* Cathrine og Anette har stått ved siden av henne hele veien. Gode
+rollemodeller, og de tryggeste støttespillerne en lillesøster kan ha.
+
+To storesøstre = dobbel kjærlighet og dobbel oppdragelse.
+
+Brudens storesøstre, i felles regi – **Cathrine og Anette**.
 
 *[Tale 8 felles, 5 min]*
 
@@ -1375,8 +1372,8 @@ Ta imot – Anders og Michelle, inn på dansegulvet!
 - [x] **Kjersti + Erik (Anders' foreldre) som Tale 4** – forrett
 - [x] **Helene (forlover brud) som Tale 5** – hovedrett
 - [x] **Even (forlover brudgom) som Tale 6** – hovedrett
-- [x] **Cathrine + Anette (søstre) som Tale 7** – hovedrett, etter forloverne
-- [x] **Ingrid + Ola (Anders' søsken) som Tale 8** – hovedrett, etter søstrene
+- [x] **Ingrid + Ola (Anders' søsken) som Tale 7** – hovedrett, etter forloverne
+- [x] **Cathrine + Anette (søstre) som Tale 8** – hovedrett, etter søsknene
 - [x] **Kongsvinger-vennene** som Tale 9 (gruppe-tale, dessert)
 - [x] **«Feminin og fornem»** (Ås-gjeng Michelle) som Tale 10 (gruppe-tale, dessert)
 - [x] **Broderskapet Unity** (Anders' Ås-vennegjeng) som INNSLAG i dessert-bolken
@@ -1434,8 +1431,8 @@ Fireball 2         ██        Etter hovedrett (kadens)
 Stikk 2            ███       Personlig fetter-historie (HJERTET)
 Helene             ███       Fanga av stormvind, forlover brud
 Even               ████      Thunderstruck + Rumble, forlover brudgom
-Cathrine + Anette  ██        Walking On Sunshine, søstre (Tale 7)
-Ingrid + Ola       ████      Crazy Train, søsken (Tale 8)
+Ingrid + Ola       ████      Crazy Train, søsken (Tale 7)
+Cathrine + Anette  ██        Walking On Sunshine, søstre (Tale 8)
 — dessert (buffet 3) —
 Fireball 3         ██        Etter dessert (kadens)
 Stikk 3            ██        Jeg ringte rundt

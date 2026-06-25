@@ -69,8 +69,8 @@ de er max 10 sek og testet flere ganger.
 | 16 | Tale 5 – Helene | Bilde + «Helene, Michelles forlover» | Før hun reiser seg | Klikk |
 | 17 | ⚡ THUNDERSTRUCK | AC/DC-stilig grafikk + «Hver "thunder" = drikk» | Før Even-intro | Klikk |
 | 18 | Tale 6 – Even | Bilde + «Even, Anders' forlover» | Etter Thunderstruck-flaska | Klikk |
-| 19 | Tale 7 – Cathrine + Anette | Bilde av begge + «Michelles storesøstre» | Før de reiser seg | Klikk |
-| 20 | Tale 8 – Ingrid + Ola | Bilde av begge + «Anders' søsken» | Før de reiser seg | Klikk |
+| 19 | Tale 7 – Ingrid + Ola | Bilde av begge + «Anders' søsken» | Før de reiser seg | Klikk |
+| 20 | Tale 8 – Cathrine + Anette | Bilde av begge + «Michelles storesøstre» | Før de reiser seg | Klikk |
 | 21 | Pause 2 | «20 min – kaffe + Fireball» | Pausen | Klikk |
 | 22 | 🔥 FIREBALL RUNDE 2 | Brann-grafikk | Etter hovedrett | Klikk |
 | 23 | Stikk 3 åpner | Sort slide | Når Fredrik begynner | Klikk |

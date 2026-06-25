@@ -63,10 +63,10 @@ brudeparet, kjøkken og lokalet.
 | 20:17 | **Tale 5 – Helene (forlover brud)** | Helene | ~6 min | Søskenforhold til Michelle, poetisk/ærlig |
 | 20:23 | ⚡ Thunderstruck-flaske + intro tale 6 | Fredrik | 1 min | *Let's Get Ready to Rumble!* |
 | 20:24 | **Tale 6 – Even (forlover brudgom)** | Even | ~9 min | Anders' forlover |
-| 20:33 | Intro tale 7 | Fredrik | 2 min | *Walking On Sunshine* |
-| 20:35 | **Tale 7 – Cathrine & Anette (felles, Michelles søstre)** | Cathrine & Anette | ~15 min | Søster-duo |
-| 20:48 | Intro tale 8 | Fredrik | 2 min | *Crazy Train* |
-| 20:50 | **Tale 8 – Ingrid & Ola (felles, Anders' søsken)** | Ingrid & Ola | ~10 min | Søsken-duo |
+| 20:33 | Intro tale 7 | Fredrik | 2 min | *Crazy Train* |
+| 20:35 | **Tale 7 – Ingrid & Ola (felles, Anders' søsken)** | Ingrid & Ola | ~10 min | Søsken-duo |
+| 20:48 | Intro tale 8 | Fredrik | 2 min | *Walking On Sunshine* |
+| 20:50 | **Tale 8 – Cathrine & Anette (felles, Michelles søstre)** | Cathrine & Anette | ~15 min | Søster-duo |
 | **21:00** | **Dessert og kaffe + pause** | – | ~30 min | Dessert ved bordet eller buffet |
 | 21:30 | Alle ferdig med å hente dessert (alle sitter) | – | – | 🔥 Fireball-lyden = innkalling |
 | 21:37 | 🔥 **Fireball-runde 3** (innkalling etter pause) | Forlovere | 2 min | Lyden henter folk inn før venne-talene |
@@ -106,7 +106,7 @@ brudeparet, kjøkken og lokalet.
 | Første servering (forrett) | 17:54 → 18:30 |
 | Tale 2 (Anders) + Tale 3 (Michelle) + Helan + Fireball 1 + Tale 4 (Erik) | 18:33 → 19:30 |
 | Andre servering (hovedrett) | 19:30 → 20:13 |
-| Fireball 2 + Stikk 2 + Tale 5–8 (Helene, Even, søstre, søsken) | 20:13 → 21:00 |
+| Fireball 2 + Stikk 2 + Tale 5–8 (Helene, Even, søsken, søstre) | 20:13 → 21:00 |
 | Dessert og kaffe | 21:00 → 21:37 |
 | Fireball 3 + Stikk 3 + venne-taler (Kongsvinger, Feminin & fornem, Tom) + Broderskapet | 21:37 → 22:30 |
 | Stikk 4 + fellessang + takk | 22:30 → 22:42 |
@@ -125,7 +125,7 @@ henter mat og setter seg igjen.
 |-------------|-----|-----|
 | Buffet 1 | Etter FF-jentenes matpresentasjon (rett etter Werner) | Forrett – fisk/lett rett |
 | Buffet 2 | Etter Tale 4 (Erik). Andre servering | Hovedrett – kjøtt/kraftig rett |
-| Buffet 3 (alt: ved bordet) | Etter Tale 8 (Ingrid & Ola / søsken). Dessert og kaffe | Dessert |
+| Buffet 3 (alt: ved bordet) | Etter Tale 8 (Cathrine & Anette / søstre). Dessert og kaffe | Dessert |
 
 ### 3.2 Bord-rotasjon
 
@@ -212,8 +212,8 @@ ingen blir overrasket.
       (Tale 3) og Erik (Tale 4) flyttet til etter første servering.
 - [x] **Helene (forlover brud) tilbake inne** – Tale 5 (ombestemte seg 15. juni).
 - [x] **Even** holder forlover-tale (Tale 6).
-- [x] **Cathrine & Anette** (Michelles søstre) – felles tale (Tale 7).
-- [x] **Ingrid & Ola** (Anders' søsken) – felles tale (Tale 8).
+- [x] **Ingrid & Ola** (Anders' søsken) – felles tale (Tale 7).
+- [x] **Cathrine & Anette** (Michelles søstre) – felles tale (Tale 8).
 - [x] **Kongsvinger-jentene** holder gruppe-tale (Tale 9).
 - [x] **«Feminin og fornem»** – Ås-gjengen / Michelles studievenninner – Tale 10.
 - [x] **Tom Christian** lukker talerekken (Tale 11).

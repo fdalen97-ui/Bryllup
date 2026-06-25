@@ -215,8 +215,8 @@ PowerPoint-slide for hver påstand. Klikker bytter slide hvert 15. sekund.
 20:17       Tale 5 – Helene (forlover brud)
 20:23       → ⚡ THUNDERSTRUCK-flaske
 20:24       Tale 6 – Even (forlover brudgom)
-20:35       Tale 7 – Cathrine & Anette (brudens søstre)
-20:50       Tale 8 – Ingrid & Ola (brudgommens søsken)
+20:35       Tale 7 – Ingrid & Ola (brudgommens søsken)
+20:50       Tale 8 – Cathrine & Anette (brudens søstre)
 21:00       DESSERT (~30 min)
 21:37       → 🔥 FIREBALL RUNDE 3 (etter dessert)
 21:38       Stikk 3

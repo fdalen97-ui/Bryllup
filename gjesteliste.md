@@ -32,8 +32,8 @@ plassering avklares med brudeparet.
 | 4 | Kjersti + Erik Nilsen | Brudgommens foreldre | Tale 4 (forrett) |
 | 5 | **Helene** | **Forlover brud (Michelles forlover)** | Tale 5 (hovedrett) |
 | 6 | **Even** | **Forlover brudgom (Anders' forlover)** | Tale 6 (hovedrett) |
-| 7 | **Cathrine + Anette** | **Michelles storesøstre – felles tale** | Tale 7 (hovedrett) |
-| 8 | **Ingrid + Ola** | **Anders' søsken – felles tale** | Tale 8 (hovedrett) |
+| 7 | **Ingrid + Ola** | **Anders' søsken – felles tale** | Tale 7 (hovedrett) |
+| 8 | **Cathrine + Anette** | **Michelles storesøstre – felles tale** | Tale 8 (hovedrett) |
 | 9 | **Kongsvinger-vennene** | **Michelles barndomsvenner – gruppe-tale** | Tale 9 (dessert) |
 | 10 | **«Feminin og fornem»** | **Michelles Ås-gjeng (NMBU studievenninner) – gruppe-tale** | Tale 10 (dessert) |
 | – | **Broderskapet Unity** | **Anders' Ås-vennegjeng – INNSLAG (sang/sketsj/tale)** | Innslag (dessert) |
@@ -67,13 +67,13 @@ lukker talerekken. Broderskapet Unity er et innslag (ikke nummerert tale).
 | 6 | Lina | Stebror + 1 | – |
 | 7 | **Werner Seigerud** | **Far** | ✅ Tale 1 |
 | 8 | Ingalill | Stemor | – |
-| 9 | **Cathrine** | **Søster** | ✅ Tale 7 (felles med Anette) |
+| 9 | **Cathrine** | **Søster** | ✅ Tale 8 (felles med Anette) |
 | 10 | Mads | Svoger (Cathrines ektefelle) | – |
 | 11 | Celina | Niese | – |
 | ~~12~~ | ~~Noah + 1~~ | ~~Nevø + 1~~ | **Kommer ikke** |
 | 13 | Mathias | Nevø | – |
 | 14 | Nicoline | Niese | – |
-| 15 | **Anette** | **Søster** | ✅ Tale 7 (felles med Cathrine) |
+| 15 | **Anette** | **Søster** | ✅ Tale 8 (felles med Cathrine) |
 | 16 | Christian | Svoger (Anettes ektefelle) | – |
 | 17 | Eldgeir | Nevø | – |
 | 18 | Anna | Niese | – |
@@ -86,9 +86,9 @@ lukker talerekken. Broderskapet Unity er et innslag (ikke nummerert tale).
 |---|------|----------|--------|
 | 21 | **Kjersti** | **Mor** | ✅ Tale 4 (sammen med Erik) |
 | 22 | **Erik Nilsen** | **Far** | ✅ Tale 4 (sammen med Kjersti) |
-| 23 | **Ola** | **Bror** | ✅ Tale 8 (felles med Ingrid) |
+| 23 | **Ola** | **Bror** | ✅ Tale 7 (felles med Ingrid) |
 | 24 | Anna | Bror + 1 (Olas partner) | – |
-| 25 | **Ingrid** | **Søster** | ✅ Tale 8 (felles med Ola) |
+| 25 | **Ingrid** | **Søster** | ✅ Tale 7 (felles med Ola) |
 | 26 | Markus | Søster + 1 (Ingrids partner) | – |
 | 27 | Anne Eva | Bestemor | – |
 | 28 | Torill | Bestemor | – |
@@ -247,8 +247,8 @@ Niese/nevø på brud-side: Celina, Mathias, Nicoline, Eldgeir, Anna, Jacob
 **Hovedrett** (4 taler – forlovere først, så familie):
 5. **Helene** – forlover brud (Michelles forlover)
 6. **Even** – forlover brudgom (Anders' forlover)
-7. **Cathrine + Anette** – Michelles storesøstre, felles tale
-8. **Ingrid + Ola** – Anders' søsken, felles tale
+7. **Ingrid + Ola** – Anders' søsken, felles tale
+8. **Cathrine + Anette** – Michelles storesøstre, felles tale
 
 **Dessert** (2 taler + 1 innslag + siste tale):
 9. **Kongsvinger-vennene** – Michelles barndomsvenner, gruppe-tale

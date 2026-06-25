@@ -102,8 +102,8 @@ middagsbakgrunn** – hold disse til dansen.
 | **Tale 4 – Kjersti & Erik Nilsen** (Anders' foreldre, etter Fireball 1 / før hovedrett) | Power of Love (#29) | Signed, Sealed, Delivered (#11) | 20 sek |
 | **Tale 5 – Helene** (forlover brud) | Fanga av ein stormvind (#7) | Take on Me (#28) | 20–25 sek |
 | **Tale 6 – Even** (forlover brudgom) | Let's Get Ready To Rumble! (#6) | Thunderstruck (#20/35) | 10–15 sek |
-| **Tale 7 – Cathrine + Anette** (felles, Michelles søstre) | Walking On Sunshine (#12) | Mamma Mia (#19) | 20 sek |
-| **Tale 8 – Ingrid + Ola** (felles, Anders' søsken) | Crazy Train (#32) | T.N.T. (#23) | 15 sek |
+| **Tale 7 – Ingrid + Ola** (felles, Anders' søsken) | Crazy Train (#32) | T.N.T. (#23) | 15 sek |
+| **Tale 8 – Cathrine + Anette** (felles, Michelles søstre) | Walking On Sunshine (#12) | Mamma Mia (#19) | 20 sek |
 | **Tale 9 – Kongsvinger-vennene** (gruppe-tale) | Forza Vinger – Blodrødt (#1) | Shock 2017 (#2) | 20 sek |
 | **Tale 10 – «Feminin og fornem»** (Ås-gjeng Michelle) | Voulez-Vous (#22) | Sarà perché ti amo (#9) | 20 sek |
 | **Innslag – Broderskapet Unity** (Anders' Ås-vennegjeng) | Enter Sandman (#13) | T.N.T. (#23) | 15 sek |

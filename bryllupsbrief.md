@@ -147,18 +147,19 @@ En setning som utvikler seg gjennom kvelden. Nevnes fire ganger, løst.
 *(Speil hans rytme. Korte setninger. Lite energi i intro-en, mye varme.
 Ikke jag ham frem.)*
 
-**Cathrine + Anette (felles tale – Michelles storesøstre)**
-> «Michelle har ikke én storesøster. Hun har to. Det er som å vokse opp
-> med tre mammaer – det er ingenting man kommer unna med. Mens andre lærte
-> å sykle, lærte Michelle å holde takten med to arbeidsjern som kjente
-> henne bedre enn hun kjente seg selv. Og som har kalt Anders nerd siden
-> første dag. Først ut – Cathrine og Anette.»
+**Ingrid + Ola (felles tale – Anders' søsken) – Tale 7**
+> «Anders har én bror og én søster. Ola er tøffingen som lever i
+> hardtarbeidende festmodus. Ingrid er den gamle sjelen som har holdt øye
+> med oss alle. Sammen får de fem minutter til å avsløre hvem broren deres
+> egentlig er. Først ut – Ingrid og Ola.»
 
-**Ingrid + Ola (felles tale – Anders' søsken)**
-> «Michelle har to storesøstre. Anders har én bror og én søster. Balansen
-> er tilbake. Ola er tøffingen som lever i hardtarbeidende festmodus.
-> Ingrid er den gamle sjelen som har holdt øye med oss alle. Sammen får
-> de fem minutter til å avsløre hvem broren deres egentlig er. Ta imot.»
+**Cathrine + Anette (felles tale – Michelles storesøstre) – Tale 8**
+> «Anders har søsknene sine. Michelle har ikke én storesøster – hun har to.
+> Balansen er tilbake. Det er som å vokse opp med tre mammaer – det er
+> ingenting man kommer unna med. Mens andre lærte å sykle, lærte Michelle å
+> holde takten med to arbeidsjern som kjente henne bedre enn hun kjente seg
+> selv. Og som har kalt Anders nerd siden første dag. Ta imot Cathrine og
+> Anette.»
 
 **Forlover (brudgom)**
 > «Neste mann kjenner Anders på godt og vondt – og på benkpress. Han vet hva

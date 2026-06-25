@@ -243,7 +243,7 @@ bør være lavmælt og elegant – matcher hennes ro.
 - Står på, arbeidsjern
 - **Tagline fra dem om Anders: «nerd»**
 
-→ Konsekvens for Tale 7-intro: «3 mammaer» er gull. Krutt + arbeidsjern
+→ Konsekvens for Tale 8-intro: «3 mammaer» er gull. Krutt + arbeidsjern
 + «hun har kalt Anders nerd siden han kom inn i bildet» = sterk intro.
 
 **Ola – Anders' bror**
@@ -252,7 +252,7 @@ bør være lavmælt og elegant – matcher hennes ro.
 - Morsom å være med
 - Hardtarbeidende og festlig
 
-→ Konsekvens for Tale 8-intro (sammen med Ingrid): «sportsbil»-metaforen
+→ Konsekvens for Tale 7-intro (sammen med Ingrid): «sportsbil»-metaforen
 står seg.
 
 **Ingrid – Anders' søster**
@@ -261,7 +261,7 @@ står seg.
 - Omsorgsjel
 - Gammel sjel
 
-→ Konsekvens for Tale 8-intro: kontrasten Ola = «krutt» / Ingrid =
+→ Konsekvens for Tale 7-intro: kontrasten Ola = «krutt» / Ingrid =
 «gammel sjel» er en perfekt rule-of-three-twist når begge presenteres
 sammen.
 
