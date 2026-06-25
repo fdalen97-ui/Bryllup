@@ -138,6 +138,7 @@ def main():
     normal.paragraph_format.line_spacing = 1.1
 
     i = 0
+    card_no = 0
     while i < len(lines):
         line = lines[i]
         stripped = line.strip()
@@ -165,6 +166,12 @@ def main():
             text = stripped[level:].strip()
             p = doc.add_paragraph()
             p.paragraph_format.space_before = Pt(2)
+            if level == 2:                       # kort-nummer pr. seksjon
+                card_no += 1
+                badge = p.add_run(f'[{card_no}]  ')
+                badge.bold = True
+                badge.font.color.rgb = GREY
+                badge.font.size = Pt(13)
             r = p.add_run(text.replace('`', ''))
             r.bold = True
             r.font.color.rgb = RED

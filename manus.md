@@ -806,13 +806,39 @@ forhånd: hva, varighet, tekniske behov.]*
 
 ---
 
-## Avslutning — Händerna mot himmelen + omrigg til dans
+## Avsluttende hilsen — til Anders
 
-*[Etter Broderskapets show. Händerna mot himmelen spilles. Deretter 15–20 min
-omrigg der dansegulvet gjøres klart – de to bordene *[spesifiser hvilke]*
-flyttes.]*
+*[Toastmasterens siste, varme ord. Rolig og oppriktig. Hold blikket på Anders.]*
 
 *(varm)* En stor applaus til Broderskapet Unity!
+
+*(beat)*
+
+*(varm, personlig)* Og helt til slutt vil jeg si én ting.
+
+*(beat)* Jeg har snakket med mange i forkant av denne kvelden – familien, gutta
+fra Vinger, jaktlaget.
+
+*(beat)* Og jeg tror ikke du helt skjønner det selv, Anders – hvilket forbilde du
+er for folk.
+
+*(varm)* Du er positiv. Du lytter. *(beat)* Og nå snakker jeg på vegne av
+jaktlaget, familien og kompisene fra Vinger: du er et forbilde, Anders.
+
+*(tørr, lite smil)* Du kan til og med smi en spiker.
+
+*(LAND – 3 sek)*
+
+*(varm)* Og det finnes vel ikke en større rettesnor på at man er på akkurat rett
+sted i livet.
+
+---
+
+## Avslutning — Händerna mot himmelen + omrigg til dans
+
+*[Etter den avsluttende hilsenen. Händerna mot himmelen spilles. Deretter 15–20
+min omrigg der dansegulvet gjøres klart – de to bordene *[spesifiser hvilke]*
+flyttes.]*
 
 *(energi)* Og da løfter vi taket sammen – **Händerna mot himmelen**!
 
