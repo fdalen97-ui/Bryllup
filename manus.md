@@ -150,6 +150,13 @@ servitørene. *(beat)* Dersom dere trenger noe sterkere for å holde ut stemmen
 min hele kvelden, er baren også åpen for sprit. Kort sagt: ingen går tørste hjem
 fra en skikkelig hedmarksfest på Skarnes.
 
+*(varm)* Og maten: den serveres i to runder, så ingen grunn til å laste opp
+tallerkenen første gang. Det kommer mer av det samme – og det er nok til alle.
+
+*(varm)* En liten beskjed fra bruden selv: ved inngangen står det ei gjestebok.
+Legg gjerne igjen en hilsen … *(tørr, smil)* og dere får rate bryllupet, om dere
+tør.
+
 *(beat)* Nødutgangene er *[peker]*. Hvis det brenner, går vi ut der – og hjelper
 hverandre.
 
@@ -192,8 +199,17 @@ visittkortet som Werner Seigerud.
 Men etter å ha snakket med ham, er det én ting han er mest stolt av – og det er
 Michelle.
 
-*🔴 HUSK: avslutt på ordet «Michelle» – ikke trail av. I gj.gang 1 forsvant selve
-punchlinen.*
+*🔴 HUSK: «Michelle» er den emosjonelle landingen – la den lande *(beat)* før du
+går videre.*
+
+*(varm)* For dere som ikke kjenner Werner: en rolig, raus «superpappa» med
+knusktørr humor, som sjelden sier mye – men som alltid har stilt opp. Han har
+kjørt dem land og strand rundt med hest i alle år.
+
+*(lun, beat)* Og kjenner jeg Werner rett, gleder han seg allerede til neste
+kapittel: å bli bestefar en vakker dag. *(beat)* Han er nok ikke den eneste i
+rommet som småhåper på noen smårollinger etter hvert … *(beat)* helt uten press,
+selvsagt.
 
 Brudens far – **Werner Seigerud**. Ordet er ditt.
 
@@ -286,8 +302,10 @@ mi Kjersti, Michelles svigermor:
 være akkurat riktig. *(beat)* På sett og vis har hun og Anders funnet hverandre i
 detaljene.
 
-*[HUSK: flett gjerne inn 1–2 konkrete poenger/sitater om Michelle fra
-telefonrunden.]*
+*(varm)* Og det går igjen hos alle jeg har snakket med: Michelle har alltid vært
+en ledertype – nysgjerrig, uredd, en som kan snakke med hvem som helst. *(beat)*
+Hun vokste opp i stallen og konkurrerte med hest – og hun er faktisk den som har
+planlagt det meste av kvelden dere sitter i akkurat nå.
 
 *(myk)* Anders har nettopp fortalt oss hvem Michelle er for ham – og det er
 sjelden vi får høre brudens egne ord så tidlig i et bryllup.
@@ -581,6 +599,10 @@ Hun jobber til daglig med å skape ro i landskap.
 
 I kveld gir hun oss et landskap av ord.
 
+*(energi, til salen)* Og folkens – Helene har en av de aller viktigste rollene
+her i kveld. *(beat)* Hun er **brudens forlover**. *(beat)* Og det er et jævlig
+viktig verv, folkens. *(beat)* Det er sjukt svært.
+
 Applaus til brudens forlover – **Helene**.
 
 *[Tale 5, 3 min]*
@@ -611,6 +633,14 @@ Og på benkpress.
 
 Han vet hva Anders klarer i toppform. Spørsmålet er hva han klarer å avsløre på
 tre minutter.
+
+*(varm)* Jeg har kjent Even en stund selv – en sindig og snill type. *(beat)* Og
+jeg husker noe Anders sa om ham da vi var små:
+
+*(lun, sitat)* «Du Fredrik – vet du hva jeg liker med Even? *(beat)* Han lar meg
+spille. Jeg trenger ikke bytte på – han lar meg bare spille.»
+
+*(varm, beat)* Finere kan vel en liten gutt knapt beskrive en bestevenn.
 
 Vær så god – brudgommens forlover, **Even**.
 
@@ -674,6 +704,17 @@ vært heldig som ikke bare har hatt én mamma – ikke to – men hele tre.
 rollemodeller, og de tryggeste støttespillerne en lillesøster kan ha.
 
 To storesøstre = dobbel kjærlighet og dobbel oppdragelse.
+
+*[Din egen vinkel – to tanker.]*
+
+*(personlig, varm)* Jeg har ikke møtt Cathrine og Anette så mange ganger. Men ut
+ifra samtalene jeg har hatt, sitter jeg igjen med to tanker.
+
+*(beat)* Den første: dette er gode mødre, gode forbilder – sterke, ressurssterke
+damer.
+
+*(beat)* Den andre: jeg ser utrolig mye Michelle i dem. *(beat)* Og det mener jeg
+som et stort kompliment – for bruden er tross alt den viktigste her i kveld.
 
 Brudens storesøstre, i felles regi – **Cathrine og Anette**.
 
@@ -740,22 +781,6 @@ Ta vel imot brudens Ås-gjeng – **«Feminin og fornem»**.
 
 ---
 
-## Innslag — Broderskapet Unity (Anders' Ås-vennegjeng)
-
-*[Intro-sang: Enter Sandman, 15 sek. Tung, dramatisk – matcher broderskap-energien.]*
-
-Hver gang en mann gifter seg, mister han noen rettigheter.
-
-Heldigvis er det noen som har samlet seg i et broderskap for å passe på at han
-ikke mister minnene.
-
-Brudgommens Ås-gjeng – **Broderskapet Unity**. Scenen er deres.
-
-*[Innslag, 5 min – sang / sketsj / tale, fleksibelt format. Avklart med gjengen på
-forhånd: hva, varighet, tekniske behov.]*
-
----
-
 ## Intro tale 11 — Tom Christian (venn av Anders, kveldens siste tale)
 
 *[Intro-sang: Hold the Line (#24), 15 sek]*
@@ -772,6 +797,41 @@ livet og i bryllupet, sier sitt.
 Brudgommens gode venn – **Tom Christian**. Ordet er ditt.
 
 *[Tale 11, 3 min – kveldens siste tale.]*
+
+---
+
+## Innslag — Broderskapet Unity (kveldens siste show)
+
+*[Intro-sang: Enter Sandman, 15 sek. Tung, dramatisk – matcher broderskap-energien.
+Kveldens siste show, etter Tom Christian.]*
+
+Hver gang en mann gifter seg, mister han noen rettigheter.
+
+Heldigvis er det noen som har samlet seg i et broderskap for å passe på at han
+ikke mister minnene.
+
+Brudgommens Ås-gjeng – **Broderskapet Unity**. Scenen er deres.
+
+*[Innslag, 5 min – sang / sketsj / tale, fleksibelt format. Avklart med gjengen på
+forhånd: hva, varighet, tekniske behov.]*
+
+---
+
+## Avslutning — Händerna mot himmelen + omrigg til dans
+
+*[Etter Broderskapets show. Händerna mot himmelen spilles. Deretter 15–20 min
+omrigg der dansegulvet gjøres klart – de to bordene *[spesifiser hvilke]*
+flyttes.]*
+
+*(varm)* En stor applaus til Broderskapet Unity!
+
+*(energi)* Og da løfter vi taket sammen – **Händerna mot himmelen**!
+
+*[Händerna mot himmelen spilles – syng og dans med.]*
+
+*(praktisk, vennlig)* Mens vi rigger om til dansegulv – det tar en 15–20 minutter
+– er det fritt fram å strekke på beina, ta litt frisk luft eller fylle glasset.
+*(beat)* De to bordene *[pek]* flyttes for å gi plass, så hold dem gjerne klare.
 
 ---
 
