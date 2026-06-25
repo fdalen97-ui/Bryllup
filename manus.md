@@ -148,27 +148,39 @@ Stikk 2) – fungerer dobbelt som åpner.*
 
 *Latter ~15 sek. NB: ble kuttet fra hovedflyten – her som åpner-kandidat.*
 
-**Maarud-historie (2 linjer – valgfri lokalfarge, verifisert)**
-> «Litt om stedet vi sitter på: her på Maarud begynte hele potetgull-eventyret
-> i 1936 – etter at Thomas Stang hadde vært i USA og smakt chips. *(beat)* Så
-> ja: dere feirer bryllup i selve chipsens fødeby.»
+**Maarud-historie – alternativer (velg ÉN, valgfri lokalfarge)**
 
-*Verifisert (potetgull fra 1936, Stang/USA-tur – kilde: Wikipedia/maarudgaard.no).*
+> **a) Chipsens fødeby (varm, verifisert):** «Litt om stedet vi sitter på:
+> her på Maarud begynte hele potetgull-eventyret i 1936 – etter at Thomas
+> Stang hadde vært i USA og smakt chips. *(beat)* Så ja: dere feirer bryllup i
+> selve chipsens fødeby.»
 
-**Maarud-historie – din råversjon (UTKAST, ikke verifisert – les advarsel):**
-> «Gården ble stiftet i 1936. Så gikk det tre-fire år, og så kom krigen.
-> *(beat)* Etter den ble gården brukt i et oppgjør med krigsforbrytelser.
-> *(beat)* Og regionen her har jo en fortid – fra nazisympatisører til
-> tjuvjakt, stjeling og gjedde i Glomma.»
+> **b) Snart 900 år – og fortsatt sammen (varm, kobler til ekteskapet):**
+> «Maarud har vært i samme slekt helt siden 1100-tallet. *(beat)* Så hvis noen
+> lurer på om to mennesker kan holde ut med hverandre i noen tiår – husk hvor
+> dere sitter. Her står et sted som har klart å holde sammen i snart 900 år.»
 
-*🔴 STERK ADVARSEL – les før du vurderer denne: (1) Jeg fant INGEN kilde som
-bekrefter at Maarud ble brukt i et krigsforbryter-oppgjør, eller nazi-påstanden
-om regionen – å si dette som fakta fra scenen er risikabelt og kan rett og slett
-være feil. (2) Krig/nazisme/krigsforbrytelser er uansett en tung tone midt i en
-bryllupsåpning og kan såre gjester. Min anbefaling: dropp krig/nazi-leddet helt,
-behold bare den lette bygdehumoren (tjuvjakt + gjedde i Glomma) – samme glimt i
-øyet uten risikoen. Sjekk fakta og tøm den med brudeparet før du bruker noe av
-dette.*
+> **c) Crispo-gagen (tørr humor):** «Velkommen til Maarud Gård – hjemmet til
+> norske chips. *(beat)* Jeg skal være ærlig: jeg forventet Crispo til forrett.»
+
+> **d) Glomma (lokal, lett poetisk):** «Vi sitter her ved Glomma – Norges
+> lengste elv. *(beat)* Passende ramme. For dette er også en av de lengste
+> kjærlighetshistoriene jeg kjenner: Anders og Michelle har kjent hverandre
+> nesten hele livet.»
+
+*Verifisert grunnlag: potetgull fra 1936 (Stang/USA-tur), gården i Stang-
+slekta siden 1911 med historie tilbake til 1100-tallet, ~70 000 daa (mest
+skog), ligger ved Glomma i Sør-Odal. Kilder: Wikipedia / maarudgaard.no.
+Anbefaling: **a** eller **b** som åpner-krydder; **b** lander ekstra fint rett
+før en kjærlighetstale.*
+
+> **e) Krig/region (RÅVERSJON – FRARÅDES, uverifisert):** «Gården ble stiftet i
+> 1936. Så kom krigen, og regionen her har en fortid – fra nazisympatisører til
+> tjuvjakt og gjedde i Glomma.»
+
+*🔴 Frarådes: ingen kilde bekrefter krigs-/nazi-påstandene, og det er uansett
+tung/feil tone for en bryllupsåpning. Bruk heller a–d. Den lette bygdehumoren
+(tjuvjakt + gjedde i Glomma) kan ev. stå alene uten krig/nazi-leddet.*
 
 **Alt. 5 – Fetteren med full tilgang**
 > «Mitt navn er Fredrik. Jeg er Anders' fetter – som betyr at jeg har
@@ -361,7 +373,8 @@ glasset. Er sidemannen din ny i bryllupsgamet, forklar i forkant.
 
 *(varm)* Og en liten ting om drikke: baren er åpen hele kvelden. Det står vin
 på bordene og øl rundt omkring – og vil dere ha noe annet, er det bare å si fra
-til servitørene. *(beat)* Kort sagt: ingen går tørste hjem fra en skikkelig
+til servitørene. *(tørr)* Og trenger dere noe sterkere for å holde ut stemmen
+min en hel kveld – baren har sprit også. *(beat)* Kort sagt: ingen går tørste hjem fra en skikkelig
 hedmarksfest på Skarnes.
 
 *(beat)* Nødutgangene er *[peker]*. Hvis det brenner, går vi ut der – og
@@ -434,8 +447,14 @@ visittkortet som Werner Seigerud.
 Men etter å ha snakket med ham, er det én ting han er mest stolt av – og det
 er Michelle.
 
-*🔴 HUSK: avslutt på ordet «Michelle» – ikke trail av. I gj.gang 1 forsvant
-selve punchlinen.*
+*🔴 HUSK: «Michelle» er den emosjonelle landingen – la den lande *(beat)* før
+bestefar-grasen under. Ikke trail av på selve navnet.*
+
+*(varm)* Og kjenner jeg Werner rett, gleder han seg allerede til neste
+kapittel: å bli bestefar en vakker dag.
+
+*(lun, beat)* Han er nok ikke den eneste i dette rommet som småhåper på noen
+smårollinger etter hvert … *(beat)* helt uten press, selvsagt.
 
 Brudens far – **Werner Seigerud**. Ordet er ditt.
 
