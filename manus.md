@@ -257,23 +257,17 @@ igjen og fått en gaffel – før hovedretten.]*
 
 *[Intro-sang: Burning Love, 20 sek]*
 
-Neste taler har gjort karriere på å holde pitch deck.
-
-I kveld holder han tale.
-
-Forskjellen er at han ikke kan avslutte med «any questions?» – svigerfaren
-sitter på første rad.
-
-*[Anders-beskrivelse (din) + planlegger-humor – flere konkrete eksempler gjør
-det morsomt.]*
+Neste taler er brudgommen selv – **Anders** …
 
 Anders har en lang merittliste – en ambisiøs «posterboy» fra Vinger. Varm,
 smart, god og nysgjerrig. *(beat)* Men de fleste vil nok først og fremst beskrive
 deg som smart.
 
-*(tørr)* Og grundig. *(beat)* Anders har planlagt dette bryllupet ned til minste
-detalj. Han har brukt timer på å velge servietter. *(beat)* Bordplasseringen er
-optimalisert som et regneark.
+*(tørr)* Men når det kommer til bryllupsplanlegging, der har han steppet ut av
+gamet helt … *(beat)* Anders har planlagt dette bryllupet ned til minste detalj.
+Han er ekstremt opptatt av servietter og har brukt timer på å velge dem. *(beat)*
+Bordplasseringen har han tenkt på i flere måneder – blomster, og det er ikke måte
+på hva han har planlagt for dette bryllupet.
 
 *(beat)* Og mannen baker pizzaboller som om det var en del av en forretningsplan.
 *(beat)* Det er rett og slett ikke måte på hva Anders har bidratt med – på sitt
@@ -508,7 +502,8 @@ Jeg sa det høyt: gi deg, gutt – hun er ikke interessert.
 
 *(LAND – 3 sek)*
 
-*(dempet)* Det var første gang jeg har tatt feil i et familieselskap.
+*(dempet)* Det var første gang av mange ganger jeg har tatt feil i et
+familieselskap.
 
 *(2 sek – la latter komme. Det er en mild, varm latter, ikke en stor.)*
 
@@ -695,18 +690,6 @@ side.
 
 Michelle har ikke én storesøster. *(beat)* Hun har to.
 
-Det betyr at hun aldri har kommet unna med noenting.
-
-*(varm)* Men Michelle har sagt det selv, og finere kan det ikke sies: hun har
-vært heldig som ikke bare har hatt én mamma – ikke to – men hele tre.
-
-*(beat)* Cathrine og Anette har stått ved siden av henne hele veien. Gode
-rollemodeller, og de tryggeste støttespillerne en lillesøster kan ha.
-
-To storesøstre = dobbel kjærlighet og dobbel oppdragelse.
-
-*[Din egen vinkel – to tanker.]*
-
 *(personlig, varm)* Jeg har ikke møtt Cathrine og Anette så mange ganger. Men ut
 ifra samtalene jeg har hatt, sitter jeg igjen med to tanker.
 
@@ -715,6 +698,12 @@ damer.
 
 *(beat)* Den andre: jeg ser utrolig mye Michelle i dem. *(beat)* Og det mener jeg
 som et stort kompliment – for bruden er tross alt den viktigste her i kveld.
+
+*(varm)* Men Michelle har sagt det selv, og finere kan det ikke sies: hun har
+vært heldig som ikke bare har hatt én mamma – ikke to – men hele tre mødre.
+
+*(beat)* Cathrine og Anette har stått ved siden av henne hele veien. Gode
+rollemodeller, og de tryggeste støttespillerne en lillesøster kan ha.
 
 Brudens storesøstre, i felles regi – **Cathrine og Anette**.
 

@@ -1,12 +1,17 @@
 #!/usr/bin/env python3
-"""Bygger manus.docx (A5 presentasjonskort) fra manus.md.
+"""Bygger manus.docx (presentasjonsark) fra manus.md.
 
 Fargekoding:
   - SORT  = det du faktisk skal SI (vanlig tekst, «sitater», **uthevet**).
   - RØD   = det du skal HUSKE (regi i *kursiv*, [hakeparentes], HUSK-lapper,
-            overskrifter, kodeblokker, skillelinjer).
+            overskrifter, kodeblokker).
 
-A5-format, sideskift før hver ## / ### slik at hvert innslag blir et eget kort.
+Layout:
+  - LIGGENDE (landskap) A4.
+  - Seksjoner pakkes sammen på arkene (mindre blaing) – IKKE ett ark per seksjon.
+  - Mellom hver seksjon: en stiplet ✂ KLIPPELINJE, så du kan klippe arket i
+    biter. keepNext/keepLines holder hver seksjon samlet, så brudd skjer ved
+    klippelinjene – ikke midt i en seksjon.
 Kjør: python3 build_manus_docx.py
 """
 
@@ -14,6 +19,7 @@ import re
 from docx import Document
 from docx.shared import Pt, Mm, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.enum.section import WD_ORIENT
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
@@ -24,8 +30,8 @@ RED = RGBColor(0xCC, 0x00, 0x00)
 BLACK = RGBColor(0x00, 0x00, 0x00)
 GREY = RGBColor(0x55, 0x55, 0x55)
 
-SAY_SIZE = 14      # det du sier
-REGI_SIZE = 11     # det du husker
+SAY_SIZE = 12.5    # det du sier
+REGI_SIZE = 10     # det du husker
 MONO_SIZE = 9
 
 INLINE = re.compile(r'\*\*(.+?)\*\*|\*([^*]+?)\*')
@@ -59,20 +65,37 @@ def add_inline(p, text):
         style_say(p.add_run(text[pos:]))
 
 
-def add_bottom_border(p):
+def keep(p, with_next=True):
+    """Hold avsnittet samlet (keepLines) og evt. sammen med neste (keepNext)."""
+    pPr = p._p.get_or_add_pPr()
+    if with_next:
+        pPr.append(OxmlElement('w:keepNext'))
+    pPr.append(OxmlElement('w:keepLines'))
+    return p
+
+
+def add_cut_line(doc):
+    """Stiplet ✂ klippelinje mellom seksjoner. Brudd kan skje her (ikke keepNext)."""
+    p = doc.add_paragraph()
+    p.paragraph_format.space_before = Pt(7)
+    p.paragraph_format.space_after = Pt(7)
+    r = p.add_run('✂ ' + ' ' * 4)
+    r.font.size = Pt(9)
+    r.font.color.rgb = GREY
     pPr = p._p.get_or_add_pPr()
     pbdr = OxmlElement('w:pBdr')
     bottom = OxmlElement('w:bottom')
-    bottom.set(qn('w:val'), 'single')
+    bottom.set(qn('w:val'), 'dashed')
     bottom.set(qn('w:sz'), '6')
-    bottom.set(qn('w:space'), '1')
-    bottom.set(qn('w:color'), 'CC0000')
+    bottom.set(qn('w:space'), '4')
+    bottom.set(qn('w:color'), '999999')
     pbdr.append(bottom)
     pPr.append(pbdr)
+    keep(p, with_next=False)
+    return p
 
 
 def _add_field(paragraph, instr):
-    """Legg til et Word-felt (f.eks. PAGE / NUMPAGES) i et avsnitt."""
     run = paragraph.add_run()
     r = run._r
     begin = OxmlElement('w:fldChar'); begin.set(qn('w:fldCharType'), 'begin')
@@ -84,7 +107,6 @@ def _add_field(paragraph, instr):
 
 
 def add_page_numbers(section):
-    """Bunntekst med «Side X / Y» – sidetall er viktig for kort i uorden."""
     p = section.footer.paragraphs[0]
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     parts = [p.add_run('Side '), _add_field(p, 'PAGE'),
@@ -100,21 +122,21 @@ def main():
 
     doc = Document()
 
-    # A5-side + margfeatures
+    # LIGGENDE A4 + margfeatures
     sec = doc.sections[0]
-    sec.page_width = Mm(148)
+    sec.orientation = WD_ORIENT.LANDSCAPE
+    sec.page_width = Mm(297)
     sec.page_height = Mm(210)
     for m in ('top_margin', 'bottom_margin', 'left_margin', 'right_margin'):
-        setattr(sec, m, Mm(12))
+        setattr(sec, m, Mm(14))
     add_page_numbers(sec)
 
     normal = doc.styles['Normal']
     normal.font.name = 'Calibri'
     normal.font.size = Pt(SAY_SIZE)
-    normal.paragraph_format.space_after = Pt(6)
-    normal.paragraph_format.line_spacing = 1.12
+    normal.paragraph_format.space_after = Pt(4)
+    normal.paragraph_format.line_spacing = 1.1
 
-    first_heading_seen = False
     i = 0
     while i < len(lines):
         line = lines[i]
@@ -127,13 +149,14 @@ def main():
             while i < len(lines) and not lines[i].strip().startswith('```'):
                 buf.append(lines[i])
                 i += 1
-            i += 1  # hopp over avsluttende ```
+            i += 1
             for cl in buf:
                 p = doc.add_paragraph()
                 r = p.add_run(cl if cl else ' ')
                 r.font.name = 'Consolas'
                 r.font.size = Pt(MONO_SIZE)
                 r.font.color.rgb = RED
+                keep(p)
             continue
 
         # Overskrift
@@ -141,26 +164,21 @@ def main():
             level = len(stripped) - len(stripped.lstrip('#'))
             text = stripped[level:].strip()
             p = doc.add_paragraph()
-            if level >= 2 and first_heading_seen:
-                p.paragraph_format.page_break_before = True  # nytt kort
-            first_heading_seen = True
             p.paragraph_format.space_before = Pt(2)
             r = p.add_run(text.replace('`', ''))
             r.bold = True
-            r.italic = False
             r.font.color.rgb = RED
-            r.font.size = Pt({1: 18, 2: 16}.get(level, 14))
+            r.font.size = Pt({1: 16, 2: 13}.get(level, 12))
+            keep(p)             # overskrift følger med innholdet under
             i += 1
             continue
 
-        # Skillelinje ---
+        # Skillelinje --- -> klippelinje
         if stripped == '---':
-            p = doc.add_paragraph()
-            add_bottom_border(p)
+            add_cut_line(doc)
             i += 1
             continue
 
-        # Blank linje
         if stripped == '':
             i += 1
             continue
@@ -174,6 +192,7 @@ def main():
             p = doc.add_paragraph()
             p.paragraph_format.left_indent = Mm(5)
             add_inline(p, ' '.join(buf))
+            keep(p)
             continue
 
         # Listepunkt
@@ -183,10 +202,11 @@ def main():
             p.paragraph_format.left_indent = Mm(4)
             style_say(p.add_run('• '))
             add_inline(p, content)
+            keep(p)
             i += 1
             continue
 
-        # Vanlig avsnitt: slå sammen fortsettelseslinjer til blank/spesiell linje
+        # Vanlig avsnitt: slå sammen fortsettelseslinjer
         buf = [line]
         i += 1
         while i < len(lines):
@@ -200,6 +220,7 @@ def main():
             i += 1
         p = doc.add_paragraph()
         add_inline(p, ' '.join(s.strip() for s in buf))
+        keep(p)
 
     doc.save(OUT)
     print(f"Skrev {OUT}")
