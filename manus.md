@@ -103,7 +103,8 @@ sjekk den etterpå. Full logg i `gjennomganger.md`.*
 ## FØR STIKK 1 — Hvite servietter på bordene
 
 **Regi**: Alle bord er dekket med **hvite stoffservietter**, foldet som
-trekanter. Instruksjonskort ligger ved hver kuvert:
+trekanter og lagt **under tallerkenen** ved hver kuvert. Instruksjonskort
+ligger ved hver kuvert:
 
 > «Ta servietten i hånden når toastmaster sier det. Dette er dagens
 > startflagg.»
@@ -296,13 +297,30 @@ det beste bryllupet jeg noen gang har vært i?
 
 *(varm)* Så kan dere åpne øynene igjen.
 
-*[bygg energi – herfra og ut er det full gass]*
+*[CROWD WORK – løft rommet før inngangen. La hvert svar få sin reaksjon;
+spill på trøkket. Forhåndsprogrammert = trygt (standup-teknikk §4).]*
 
-*(høyere energi)* For nå starter det for fullt. *(2 sek)* Jeg ber dere reise
-dere.
+*(høyere energi)* Og før vi slipper dem inn – la oss teste litt hvem som er her
+i kveld!
 
-*(vent til alle har reist seg)* Ta serviettene foran dere – hvit, foldet,
-på bordet.
+*(til salen)* Gi lyd fra dere dersom dere er … i familie med Anders!
+
+*(beat – la dem svare)* Eyyy, det var trøkk!
+
+*(løft)* Hva med … i familie med Michelle?
+
+*(beat)* Oi – den var det enda mer trøkk i!
+
+*(raskt)* Vennene av Anders? *(beat)* … Og vennene av Michelle?
+
+*(varm)* Supert.
+
+*(stigende)* Folkens – er vi klare for å ønske kveldens brudepar velkommen?
+
+*[herfra og ut er det full gass]*
+
+*(høyere energi)* Da ber jeg dere reise dere – og ta serviettene som ligger
+under tallerkenen.
 
 *(varm, høyere energi)* Dette er startflagget. Når musikken begynner, svinger
 vi dem høyt – og jubler. *(løft øyenbryn)* Klare?
