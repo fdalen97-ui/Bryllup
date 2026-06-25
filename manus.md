@@ -398,85 +398,31 @@ La meg fortelle hvorfor.
 
 ---
 
-## B — Skoleballet og en sommer som nesten avgjorde det (90 sek)
-
-*—tempo opp—*
-
-Det første ekte tegnet kom i 6. klasse.
-
-*(beat)*
-
-Skoleballet.
-
-*(beat)*
-
-Anders – tolv år gammel, allerede god på fest.
-
-Michelle – tolv år gammel, og hun visste nøyaktig hva hun gjorde.
-
-*(2 sek)*
-
-Det er en av Cathrine og Anettes favoritthistorier.
-
-*(beat)*
-
-Sitatet fra storesøstrene har gått igjen i alle familieselskaper siden:
-
-«Hu player deg rundt lillefingern, Anders.»
-
-*(beat – la latter komme)*
-
-*(varm)*
-
-Og det gjorde hun.
-
-I årevis.
-
-*(2 sek)*
-
-*—tempo ned—* *—register ned—* *(dempet, alvorlig)*
-
-Helt til sommeren 2015.
-
-*(LAND – 4 sek. La rytmen bryte.)*
+## Historien – sommeren 2015 (90 sek)
 
 *(myk, fortrolig)*
 
-Anders hadde vært interessert lenge. *(beat)* Mer enn Michelle.
+Vi starter sommeren 2015.
 
-*(beat)*
+*(beat)* Anders hadde vært interessert i Michelle lenge. *(beat)* Mer enn hun var
+i ham.
 
-Og til slutt sa han det rett ut: hvis dette ikke skulle bli noe, kunne de ikke
-henge så mye – *(beat)* «jeg har følelser for deg, og da må jeg få litt avstand,
-så jeg kommer meg over deg.»
+*(beat)* Og til slutt sa han det rett ut: skulle dette ikke bli noe, kunne de
+ikke henge så mye. *(beat)* «Jeg har følelser for deg – jeg må få litt avstand, så
+jeg kommer meg over deg.»
 
-*(beat)*
+*(beat)* Så de tok avstand.
 
-Så de tok avstand.
+*(beat)* Fem, seks uker uten et ord. *(beat)* En hel sommerferie.
 
-*(beat)*
-
-Fem, seks uker uten et ord. *(beat)* En hel sommerferie.
-
-*(beat)*
-
-Stille.
-
-*(beat)*
-
-*(dempet)* Slutt – trodde vi.
+*(beat)* Stille. *(dempet)* Slutt – trodde vi.
 
 *(2 sek)*
 
-Familien lurte.
+Familien lurte. Vennegjengen lurte. *(beat)* Werner lurte sannsynligvis også –
+men sa ingenting.
 
-Vennegjengen lurte.
-
-Werner lurte sannsynligvis også – men sa ingenting.
-
-*(beat)*
-
-*(tørr)* Werner sier sjelden noe.
+*(tørr)* Werner sier jo sjelden noe.
 
 *(beat – la latter komme. Det er din tørreste linje. Vent på den.)*
 
@@ -643,7 +589,13 @@ spille. Jeg trenger ikke bytte på – han lar meg bare spille.»
 
 *(varm, beat)* Finere kan vel en liten gutt knapt beskrive en bestevenn.
 
-Vær så god – brudgommens forlover, **Even**.
+*[FYR OPP til slutt – match «Let's Get Ready to Rumble»-energien. Reis trøkket,
+høyt volum, boksekamp-annonsør-stil. La Simen dra på.]*
+
+*(crescendo, til salen)* Så da, folkens – gjør dere klare! *(beat)* På vegne av
+brudgommen, fra ringside …
+
+*(maks)* Ta imot brudgommens forlover – **EEEVEN!**
 
 *[Tale 6, 3 min]*
 
@@ -658,9 +610,16 @@ Anders har én bror og én søster – og i kveld får vi høre fra begge.
 
 *[Ingrid først – varm og ekte.]*
 
-Ingrid har akkurat lagt russetiden bak seg – og har faktisk prioritert å bruke
-helga på dette bryllupet, framfor det de fleste attenåringer ville valgt. *(varm)*
-Det settes det stor pris på.
+Ingrid har akkurat lagt russetiden bak seg – men ikke la alderen lure dere:
+*(beat)* hun har allerede hatt toppverv i elevorganisasjonen i ung alder.
+*(beat)* Håndballspiller, snill som dagen er lang, og hun har bidratt masse i
+dette bryllupet.
+
+*(varm)* Til daglig jobber hun på Bæreia – for krigsinvalide. *(beat)* Og til
+høsten bærer reisen til Oslo, som kommende statsviter.
+
+*(varm)* At hun har prioritert å bruke helga på dette bryllupet, framfor det de
+fleste attenåringer ville valgt – det settes det stor pris på.
 
 *[Ola – eskalerende, ironisk CV. Helt seriøst ansikt, bygg større og større.]*
 
@@ -759,18 +718,26 @@ Ta vel imot brudens barndomsvenner – **Kongsvinger-vennene**.
 ## Intro tale 10 — «Feminin og fornem» (Michelles Ås-gjeng)
 
 *[Intro-sang: Voulez-Vous, 20 sek. Tonen skal matche gjengnavnet – elegant,
-sjarmerende, lett ironisk.]*
+sjarmerende, lett ironisk. Bygg dette som en skikkelig pitch – la det stige.]*
 
-Det finnes vennegjenger med beskjedne navn.
+*(tørr)* De fleste vennegjenger har beskjedne navn. «Gutta». «Tirsdagsklubben».
+«Vinkjellergjengen».
 
-«Gutta». «Tirsdagsklubben». «Vinkjellergjengen».
+*(beat)* Og så finnes det én gjeng som satte lista litt høyere.
 
-Og så finnes det vennegjenger som har bestemt seg for å være – og jeg siterer –
-feminine og fornemme. Og holdt på det siden NMBU.
+*(elegant, smak på ordene)* En gjeng som rett og slett bestemte seg for å være –
+og jeg siterer – **feminine og fornemme**. *(beat)* Og som har holdt stilen helt
+siden NMBU.
 
-Michelle har én slik gjeng.
+*(varm)* Dette er faktisk damene dere allerede har møtt i kveld: de som
+presenterte maten, som stiller på dugnad, og som bruker helga si på å løfte denne
+festen. *(beat)* Klasse hele veien.
 
-Ta vel imot brudens Ås-gjeng – **«Feminin og fornem»**.
+*(beat)* Michelle har mange venner. *(beat)* Men hun har bare én gjeng som er både
+feminin OG fornem.
+
+*(stigende, til salen)* Ta vel imot brudens Ås-gjeng – med eleganse, glitter og
+litt selvironi: **«Feminin og fornem»**!
 
 *[Tale 10, 5 min – Ås-gjengen, gruppe eller talsperson]*
 
