@@ -82,4 +82,35 @@ under, og bygget inn i `manus.md`.
 
 ---
 
+## Gjennomgang 3 — full Stikk 1 + Werner + FF (transkripsjon)
+
+**Omfang**: Åpning (§A) → §C → crowd work → inngang → §E → §E2 (Simen) →
+Werner-intro → FF-matpresentasjon → forrett åpnes. Levert fritt, flytende.
+
+### Satt veldig bra ✅
+- Hele §A satt nesten ordrett, inkl. «jeg var imot»-planten og «den tar vi
+  senere».
+- Crowd work landet med trøkk; «Er vi enige om det?» er et fint tillegg.
+- §E gikk rent: 12 taler, buss-vitsen, drikke + sprit, to serveringer,
+  gjestebok.
+- Werner: sa **«Brudens far»** tidlig OG landet på **«datteren Michelle»** –
+  begge tilbakemeldingene fra gj.gang 1/2 er inne. Bestefar-linja satt.
+- FF-presentasjon + forrett åpnes: rent.
+
+### Gode ad-libs å fange ✨ (lagt inn i manus)
+- **Nødutgang**: «Det er vindu, og det er dør. Jeg er egentlig litt fan av at
+  dere kommer dere ut – det er viktig for meg.» (tørr, morsom – erstatter
+  den bleke «[peker]»-linja).
+
+### Avvik / vurder
+- **«Lukk øynene»-momentet ble droppet** – du gikk rett fra §C til crowd work.
+  Fungerte fint. Vurder å fjerne det fra manus (eller la stå som backup).
+- Simen-skålen: du sa **«Martin»** (manus: «Matoma») og «Borgenmessig» (=
+  Borgen Messelt). Småplukk – sjekk uttale av etternavnet.
+- Gjeng-navnet: «Femin og Fornebu» → det er **Feminin og fornem**.
+- En liten snubling på bestefar-tagget («vi er nesten lov å tøyse alt
+  nå/det er for tidlig») – kort og uferdig, kutt eller la ligge.
+
+---
+
 <!-- Neste gjennomgang limes inn over denne linjen, nyeste øverst er også ok -->

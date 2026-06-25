@@ -157,8 +157,8 @@ tallerkenen første gang. Det kommer mer av det samme – og det er nok til alle
 Legg gjerne igjen en hilsen … *(tørr, smil)* og dere får rate bryllupet, om dere
 tør.
 
-*(beat)* Nødutgangene er *[peker]*. Hvis det brenner, går vi ut der – og hjelper
-hverandre.
+*(tørr)* Nødutgangene: det er vindu, og det er dør. *(beat)* Og jeg er egentlig
+litt fan av at dere kommer dere ut – *(beat)* det er viktig for meg.
 
 ---
 
