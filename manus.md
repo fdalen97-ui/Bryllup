@@ -832,6 +832,12 @@ jaktlaget, familien og kompisene fra Vinger: du er et forbilde, Anders.
 *(varm)* Og det finnes vel ikke en større rettesnor på at man er på akkurat rett
 sted i livet.
 
+*(varm, til begge nå – blikk på brudeparet)* Og Anders – sammen med Michelle er
+dere noe enda større: et forbilde for mange på hvordan et godt og vellykket
+forhold ser ut.
+
+*(LAND – 3 sek. Hold blikket på dem.)*
+
 ---
 
 ## Avslutning — Händerna mot himmelen + omrigg til dans
