@@ -273,6 +273,12 @@ på hva han har planlagt for dette bryllupet.
 *(beat)* Det er rett og slett ikke måte på hva Anders har bidratt med – på sitt
 eget bryllup.
 
+*(varm, oppriktig – skift tone)* Men spøk til side et øyeblikk: jeg har snakket
+med jaktlaget og gutta fra Vinger i forkant – og jeg tror ikke du helt skjønner
+selv hvilket forbilde du er for folk, Anders. *(beat)* Mer om det senere i kveld.
+
+*[FORBILDE-PLANT: betales ut i «Avsluttende hilsen — til Anders».]*
+
 Brudgommen selv – **Anders**. Scenen er din.
 
 *[Tale 2, 5 min]*
@@ -808,7 +814,8 @@ forhånd: hva, varighet, tekniske behov.]*
 
 ## Avsluttende hilsen — til Anders
 
-*[Toastmasterens siste, varme ord. Rolig og oppriktig. Hold blikket på Anders.]*
+*[Toastmasterens siste, varme ord. Rolig og oppriktig. Hold blikket på Anders.
+FORBILDE-PAY OFF: frøet ble plantet i Anders' intro (Tale 2, «mer om det senere»).]*
 
 *(varm)* En stor applaus til Broderskapet Unity!
 
