@@ -298,6 +298,9 @@ mi Kjersti, Michelles svigermor:
 
 *(beat)* Og der har hun helt rett. Men Michelle er mye mer enn som så.
 
+*(oppriktig, tyngde)* Er det én person jeg ville gått til krigen med – som både
+soldat og offiser – så er det Michelle Walberg.
+
 *(varm, lett ironisk)* Detaljfokusert, glad i baking, med et øye for det som skal
 være akkurat riktig. *(beat)* På sett og vis har hun og Anders funnet hverandre i
 detaljene.
