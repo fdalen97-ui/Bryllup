@@ -29,6 +29,11 @@ Velkommen alle sammen.
 
 *(beat)* Wow, for et lokale.
 
+*(varm)* Og for en seremoni det var i kirka i dag. *(glimt i øyet)* Var det bare
+meg som gråt fire ganger?
+
+*(beat – la gjenkjennelsen og latteren komme)*
+
 *(tørr)* Jeg sliter egentlig med å forstå min egen stillingsbeskrivelse her i
 kveld som toastmaster.
 
@@ -534,7 +539,13 @@ Michelle forstod det sommeren 2015 – da hun så det bildet.
 *(varm)* Og resten av oss – inkludert fetteren som var imot – forstod det da vi
 så dem komme inn her i kveld.
 
-*(LAND – 5 sek. Hold blikket på brudeparet.)*
+*(LAND – 4 sek)*
+
+*(varm, framoverlent)* Og som presten minnet oss på i kirka i dag: man slutter
+ikke å vokse sammen den dagen man gifter seg. *(beat)* Kanskje er det akkurat da
+det virkelig begynner.
+
+*(LAND – 4 sek. Hold blikket på brudeparet.)*
 
 ---
 
@@ -548,6 +559,9 @@ taler.
 Hun jobber til daglig med å skape ro i landskap.
 
 I kveld gir hun oss et landskap av ord.
+
+*(varm)* Og dere som var i kirka i dag, fikk høre at hun har mer enn ord – en
+helt nydelig sangstemme, der hun sang i koret.
 
 *(energi, til salen)* Og folkens – Helene har en av de aller viktigste rollene
 her i kveld. *(beat)* Hun er **brudens forlover**. *(beat)* Og det er et jævlig
@@ -591,6 +605,9 @@ jeg husker noe Anders sa om ham da vi var små:
 spille. Jeg trenger ikke bytte på – han lar meg bare spille.»
 
 *(varm, beat)* Finere kan vel en liten gutt knapt beskrive en bestevenn.
+
+*(varm)* Og i dag fikk vi forresten høre Even spille på ordentlig – et nydelig
+keyboard i kirka.
 
 *[FYR OPP til slutt – match «Let's Get Ready to Rumble»-energien. Reis trøkket,
 høyt volum, boksekamp-annonsør-stil. La Simen dra på.]*
