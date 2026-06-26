@@ -79,14 +79,16 @@ brudeparet, kjøkken og lokalet.
 | 22:10 | **Tale 11 – Tom Christian (venn av Anders)** | Tom-Christian | ~8 min | KVELDENS SISTE TALE |
 | 22:18 | Intro innslag – **Broderskapet Unity** | Fredrik | 2 min | *Enter Sandman* |
 | 22:20 | **Tale 12 / INNSLAG – Broderskapet Unity** (Anders' Ås-venner) | Broderskapet Unity | ~8 min | Kveldens siste innslag – sang/sketsj/tale |
-| **22:30** | **STIKK 4 – avrunding + fellessang Take on Me** | Fredrik | 10 min | Med påstander |
-| 22:40 | Takk for maten + skål | Fredrik + alle | 2 min | Sparkstart til dans |
-| **22:42** | **Fest åpner – første dans** | Simen (lyd) | | Brudeparet entrer dansegulvet – førstedans-låt må avklares |
-| 23:00 | Kake / midnattsmat (avklar) | – | | |
-| **02:30** | **Siste bussavgang** | – | | Kongsvinger / Oslo – bekreftet |
+| **22:30** | **Avsluttende hilsen – til Anders** (toastmasterens siste ord) | Fredrik | 3 min | Forbilde-pay off (plantet i Tale 2) + paret |
+| 22:33 | **Händerna mot himmelen** – allsang / lift | Simen + alle | 3 min | Løfter taket før omrigg |
+| 22:36 | **Omrigg til dansegulv** | Crew | 15–20 min | De to bordene *[spesifiser]* flyttes; gjester kan trekke ut |
+| 22:40 | Takk for maten + applaus til kjøkkenet | Fredrik + alle | 1 min | |
+| **22:55** | **Dansen åpner – første dans** | Simen (lyd) | | Ta imot Anders & Michelle; førstedans-låt avklares |
+| 23:15 | Kake / midnattsmat (avklar) | – | | |
+| **02:30** | **Siste bussavgang** | – | | Kongsvinger / Oslo – bekreftet, kveldens eneste |
 
-**Totalt middagstid**: 17:30 → 22:42 = ca 5 timer 12 min.
-**Totalt fest**: 22:42 → 02:30 = ca 3 timer 48 min dansegulv.
+**Totalt middagstid**: 17:30 → 22:55 = ca 5 timer 25 min.
+**Totalt fest**: 22:55 → 02:30 = ca 3 timer 35 min dansegulv.
 
 > ⚠️ **Konsekvens av ny plan**: middagen er ~50 min lengre enn forrige
 > versjon, så dansegulvet krymper fra ~4t 37min til ~3t 48min. Vurdér å
@@ -109,8 +111,8 @@ brudeparet, kjøkken og lokalet.
 | Fireball 2 + Stikk 2 + Tale 5–8 (Helene, Even, søsken, søstre) | 20:13 → 21:00 |
 | Dessert og kaffe | 21:00 → 21:37 |
 | Fireball 3 + Stikk 3 + venne-taler (Kongsvinger, Feminin & fornem, Tom) + Broderskapet | 21:37 → 22:30 |
-| Stikk 4 + fellessang + takk | 22:30 → 22:42 |
-| **Totalt middag** | **~5t 12 min** |
+| Avsluttende hilsen + Händerna + omrigg → dans | 22:30 → 22:55 |
+| **Totalt middag** | **~5t 25 min** |
 
 ---
 
