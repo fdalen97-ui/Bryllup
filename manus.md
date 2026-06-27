@@ -162,6 +162,10 @@ tallerkenen første gang. Det kommer mer av det samme – og det er nok til alle
 Legg gjerne igjen en hilsen … *(tørr, smil)* og dere får rate bryllupet, om dere
 tør.
 
+*(varm)* Og en beskjed fra fotografen: *[FYLL INN fotografens egne føringer –
+f.eks. legg vekk mobilen i de store øyeblikkene, ikke stå i veien under inngang/
+dans, eller hold gangen fri. Avklar nøyaktig hva hen ønsker.]*
+
 *(tørr)* Nødutgangene: det er vindu, og det er dør. *(beat)* Og jeg er egentlig
 litt fan av at dere kommer dere ut – *(beat)* det er viktig for meg.
 
@@ -760,6 +764,24 @@ feminin OG fornem.
 litt selvironi: **«Feminin og fornem»**!
 
 *[Tale 10, 5 min – Ås-gjengen, gruppe eller talsperson]*
+
+---
+
+## Hils på brudeparet (i stedet for pause)
+
+*[Erstatter den vanlige 10-min-pausen før siste taler. En varm gratulasjons-
+runde. Avklar med fotograf (gull-bilder her!) og kjøkken/kaffe. Hent inn med
+Fireball-lyden når dere er klare.]*
+
+*(varm)* Før kveldens aller siste taler tar vi en liten pust.
+
+*(beat)* Men ikke en helt vanlig pause. *(varm)* Dette er sjansen for dere som
+vil: kom bort, gratuler – og gi brudeparet en velfortjent klem eller et kyss.
+
+*(praktisk, vennlig)* Ta den tida dere trenger. *(beat)* Så samler vi oss igjen
+til kveldens siste tale.
+
+*[5–10 min gratulasjon/mingling. Fotograf fanger øyeblikkene.]*
 
 ---
 
